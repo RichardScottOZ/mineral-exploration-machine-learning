@@ -65,8 +65,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model)
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
-* [gloVE](https://pypi.org/project/glove-python-binary/) -> Standford library for producing word embeddings
-	 * glove, glove-python highly problematic on windoes here -> Binary version for Windows installs
+* [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
+	* [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windoes here Binary version for Windows installs
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 
 
@@ -77,8 +77,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Spectral Python](https://github.com/spectralpython/spectral)
 
 ## Platforms
-* [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)
-## Respirce
+* [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
+## Guides
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 
