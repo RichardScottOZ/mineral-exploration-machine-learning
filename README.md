@@ -184,9 +184,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
-* [Gemgis])https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
+* [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
-  * [Loop3D](https://github.com/Loop3D/Loop3D -> GUI for Map2Loop
+  * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
 * [Striplog](https://github.com/agile-geoscience/striplog)
 ## Geophysics
@@ -194,7 +194,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
 ### Seismic
   * [Segyio](https://github.com/equinor/segyio)
-  * [Segysak](https://github.com/trhallam/segysak)
+	* [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
 ### Magnetotellurics
     * [MtPy](https://github.com/RichardScottOZ/mtpy)
 ### Inversion
