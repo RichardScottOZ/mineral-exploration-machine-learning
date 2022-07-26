@@ -166,20 +166,20 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 ## Raster Data
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
-* [Xarray](https://github.com/pydata/xarray)
+* [Xarray](https://github.com/pydata/xarray) -> Multidimensional labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> fabulous high level api for xarray handling of raster data
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [Geocube](https://github.com/corteva/geocube) -> rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
-* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html)
+* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## 3D Visualisation and Data Analysis 
-* [PyVista](https://github.com/pyvista/pyvista)
+* [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
-* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools )
-  * [GUI](https://github.com/giswqs/whiteboxgui
+* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
+  * [GUI](https://github.com/giswqs/whiteboxgui) -> Desktop version
 * [Subsurface](https://github.com/softwareunderground/subsurface)
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Geology
@@ -232,8 +232,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Remote Sensing
 * [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
 * [Open Data Cube](https://www.opendatacube.org/)
-  * [ODC-Stac](https://github.com/opendatacube/odc-stac)
-  * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks)
+  * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) -> Code for use in ODC style workflows
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
 * [Stac catalogues]
   * [ODC-Stac] (https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
@@ -244,20 +243,20 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
 * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
 * [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
-* [Titiler](https://github.com/developmentseed/titiler-pds
+* [Titiler](https://github.com/developmentseed/titiler-pds)
 * [Sits](https://github.com/RichardScottOZ/sits)
 * [Hsdar](https://rdrr.io/cran/hsdar/man/hsdar-package.html)
 * [Stars](https://r-spatial.github.io/stars/)
   
 ## Mining Economics
-* [Bluecap](https://github.com/RichardScottOZ/bluecap)
-* [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero)
+* [Bluecap](https://github.com/RichardScottOZ/bluecap) -> Framework from Monash University for assessing mine viability
+* [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero) -> Curve fitting the distribution of Mineral Depositions
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
 ## Visualisation 
-  * [Textbook](https://github.com/rougier/scientific-visualization-book)
-  * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
-  * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
-  * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
+* [Textbook](https://github.com/rougier/scientific-visualization-book)
+* [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
+* [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
+* [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 
 ## Guides  
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
