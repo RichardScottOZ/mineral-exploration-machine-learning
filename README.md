@@ -185,7 +185,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis] - Geospatial Data Analysis assistance 
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
-  * [Loop3D * [GUI for Map2Loop](https://github.com/Loop3D/Loop3D
+  * [Loop3D](https://github.com/Loop3D/Loop3D -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
 * [Striplog](https://github.com/agile-geoscience/striplog)
 ## Geophysics
