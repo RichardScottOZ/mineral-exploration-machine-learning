@@ -210,13 +210,13 @@ Resources are also given for data analysis, transformation and visualisation as 
 ### Gridding
 * [PyGMT](https://www.pygmt.org/latest/)
 * [Verde](https://github.com/fatiando/verde)
-* [Grid_aeromag](https://github.com/rmorel/grid-aeromag -> Brazilian gridding example
+* [Grid_aeromag](https://github.com/rmorel/grid-aeromag) -> Brazilian gridding example
 * [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
     
 ### Gravity and Magnetics 
-    * [Harmonica](https://github.com/fatiando/harmonica)
-    * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
-    * [Worms](https://bitbucket.org/fghorow/bsdwormer)
+* [Harmonica](https://github.com/fatiando/harmonica)
+* [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
+* [Worms](https://bitbucket.org/fghorow/bsdwormer)
     
 ## Geochemistry
 * [Pyrolite](https://github.com/morganjwilliams/pyrolite)
