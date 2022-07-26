@@ -252,9 +252,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero)
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
 ## Visualisation 
-  * [Textbook](https://github.com/rougier/scientific-visualization-book
-  * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
-  * [Holoviews](https://github.com/holoviz/holoviews -> Large scale data visualisation
+  * [Textbook](https://github.com/rougier/scientific-visualization-book)
+  * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer)
+  * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
   * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 
 ## Guides  
