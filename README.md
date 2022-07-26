@@ -179,11 +179,11 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [SF](https://r-spatial.github.io/sf/)
 
 ## Raster Data
-* [Rasterio]()
+* [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
 * [Xarray](https://github.com/pydata/xarray)
-	* [Rasterio style Labelled Arrays * [Rioxarray](https://corteva.github.io/rioxarray/stable/)
-	* [Geocube](https://github.com/corteva/geocube)
-	* [COG Validator](https://github.com/rouault/cog_validator)
+	* [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> fabulous high level api for xarray handling of raster data
+	* [Geocube](https://github.com/corteva/geocube) -> rasterisation of vector data api
+	* [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html)
 		
 ## 3D Visualisation and Data Analysis 
