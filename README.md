@@ -91,7 +91,6 @@ Resources are also given for data analysis, transformation and visualisation as 
 	* [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 	* [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
 		* [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO)
-## Natural Language Processing
 
 ## Clustering	
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
@@ -99,9 +98,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Picasso](https://github.com/pachterlab/picasso)
 * [Self Organising Maps * [SimpSOM](https://github.com/fcomitani/SimpSOM)
 ## Semi-supervised learning
-	* [Semi-supervised learning](https://github.com/google-research/simclr)
+* [Semi-supervised learning](https://github.com/google-research/simclr)
 ## Hyperparameters](https://github.com/hyperopt/hyperopt)
-	[TPOT Automated ML](https://github.com/trhallam/tpot)
+* [TPOT Automated ML](https://github.com/trhallam/tpot)
 	
 ## Coding Environments
 * [DEA Sandbox](https://docs.dea.ga.gov.au/setup/Sandbox/sandbox.html)
