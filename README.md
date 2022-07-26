@@ -3,14 +3,28 @@ This page lists resources for mineral exploration and machine learning, generall
 
 # Table of Contents
 
-## Geology
-- [Geology](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#geology)
+* [Prospectivity](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#prospectivity)
 
-## Prospectivity
-- [Prospectivity](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#prospectivity)
+* [Geology](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#geology)
 
-## Community
-- [Community](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
+* [Natural Language Processing](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#natural-language-processing)
+
+* [Remote Sensing](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#natural-language-processing)
+
+* [Community](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#communit)
  
-## Tools
-- [Cloud providers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
+* [Cloud providers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
+
+# Prospectivity
+
+# Geology
+# Natural Language Processing
+* [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
+
+# Remote Sensing
+
+# Community
+
+# Cloud Providers
+
+
