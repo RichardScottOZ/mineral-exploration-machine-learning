@@ -58,15 +58,14 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
-* [Geoscience
-	* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor)
-	* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training)
-	* [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
-	* [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling)
-	* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model)
-	* [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
+* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor)
+* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training)
+* [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
+* [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling)
+* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model)
+* [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
-* [gloVE](https://pypi.org/project/glove-python-binary/ [glove, glove-python highly problematic here] -> [Binary version for Windows installs]
+* [gloVE](https://pypi.org/project/glove-python-binary/ -> glove, glove-python highly problematic on windoes here -> [Binary version for Windows installs]
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 
 
