@@ -44,7 +44,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 # Mineral Prospectivity
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia)
 * [ExploreSA](https://github.com/RichardScottOZ/CalderaPublic)
-* [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo [Brazil student project])
+* [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
 
