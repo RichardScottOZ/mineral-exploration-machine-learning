@@ -285,22 +285,22 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
 
 ## Data Science
-* [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science
+* [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated ontologies
 
 ## Science
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing)
 
 ## Docker
-* [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers
-* [Spatial Docker](https://github.com/stevenpawley/spatial-docker
-* [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial
+* [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers)
+* [Spatial Docker](https://github.com/stevenpawley/spatial-docker)
+* [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial)
 		
 
 # Ontologies
-	* [GSQ](https://github.com/geological-survey-of-queensland/vocabularies
-		* [https://github.com/geological-survey-of-queensland/geological-properties-database
-		* [https://github.com/geological-survey-of-queensland/geofeatures-ont
-	* [Geoscience Australia](https://github.com/GeoscienceAustralia/strat-ontology-graph-API
+* [GSQ](https://github.com/geological-survey-of-queensland/vocabularies)
+	* [https://github.com/geological-survey-of-queensland/geological-properties-database)
+	* [https://github.com/geological-survey-of-queensland/geofeatures-ont)
+* [Geoscience Australia](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
 
 # Books
 
