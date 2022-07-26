@@ -234,16 +234,18 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Open Data Cube](https://www.opendatacube.org/)
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) -> Code for use in ODC style workflows
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
-* [Stac catalogues]
-  * [ODC-Stac] (https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
+### Stac catalogues
+  * [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
   * [Intake-stac](https://github.com/intake/intake-stac)
   * [Sat-search](https://github.com/sat-utils/sat-search)
   * [Pystac](https://github.com/stac-utils/pystac)
   * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  -> Metadata speeded up dask and xarray timeseries
-* [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
-* [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
-* [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
-* [Titiler](https://github.com/developmentseed/titiler-pds)
+### Statistics
+  * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
+  * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
+### Visualisation
+  * [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
+  * [Titiler](https://github.com/developmentseed/titiler-pds)
 * [Sits](https://github.com/RichardScottOZ/sits)
 * [Hsdar](https://rdrr.io/cran/hsdar/man/hsdar-package.html)
 * [Stars](https://r-spatial.github.io/stars/)
@@ -258,8 +260,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 
-## Guides  
-* [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
+## Geospatial
+* [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
 
 ## PyData Stack
 * [Numpy Multidimensional arrays](https://numpy.org/)
@@ -273,7 +275,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
 
 ## Data Science
-* [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated ontologies
+* [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated guide
 
 ## Science
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing)
