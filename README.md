@@ -119,7 +119,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 	* [Slack Channel]
 * [Open Source Geospatial Foundation](https://github.com/OSGeo/osgeo)
 * [Geophysics]
-	* [ASEG](https://www.youtube.com/c/ASEGVideos/videos
+	* [ASEG](https://www.youtube.com/c/ASEGVideos/videos)
 
 # Cloud Providers
 	* [AWS] 
