@@ -227,7 +227,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
-* [PyGSLib](https://github.com/opengeostat/pygslib -> Downhole surveying and interval normalising
+* [PyGSLib](https://github.com/opengeostat/pygslib) -> Downhole surveying and interval normalising
 
 ## Remote Sensing
 * [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
@@ -254,7 +254,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
 ## Visualisation 
   * [Textbook](https://github.com/rougier/scientific-visualization-book)
-  * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer)
+  * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
   * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
   * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 
