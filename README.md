@@ -225,11 +225,11 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geoquimica][https://github.com/gferrsilva/geoquimica)
   
 ## Drilling
-* [dh2loop](https://github.com/Loop3D/dh2loop) -> [Drilling Interval assistance]
-* [PyGSLib](https://github.com/opengeostat/pygslib -> [Downhole surveying and interval normalising]
+* [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
+* [PyGSLib](https://github.com/opengeostat/pygslib -> Downhole surveying and interval normalising
 
 ## Remote Sensing
-* [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices)
+* [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
 * [Open Data Cube](https://www.opendatacube.org/)
   * [ODC-Stac](https://github.com/opendatacube/odc-stac)
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks)
@@ -238,7 +238,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Intake-stac](https://github.com/intake/intake-stac)
   * [Sat-search](https://github.com/sat-utils/sat-search)
   * [Pystac](https://github.com/stac-utils/pystac)
-  * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  * [Metadata speeded up dask and xarray timeseries]
+  * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  -> Metadata speeded up dask and xarray timeseries
 * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
 * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
 * [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
