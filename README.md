@@ -65,7 +65,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model)
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
-* [gloVE](https://pypi.org/project/glove-python-binary/ -> glove, glove-python highly problematic on windoes here -> [Binary version for Windows installs]
+* [gloVE](https://pypi.org/project/glove-python-binary/) -> Standford library for producing word embeddings
+	 * glove, glove-python highly problematic on windoes here -> Binary version for Windows installs
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 
 
