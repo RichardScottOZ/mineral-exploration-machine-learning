@@ -72,7 +72,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Remote Sensing
 ## Spectral Unmixing
-* [Pysptools](https://github.com/RichardScottOZ/pysptools [also has useful heuristic algorithms)
+* [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Spectral Python](https://github.com/spectralpython/spectral)
 
