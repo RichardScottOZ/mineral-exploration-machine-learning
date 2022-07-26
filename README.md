@@ -109,7 +109,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
-	* [Slack Channel]
+	* [Slack Channel](https://softwareunderground.org/slack)
 	* [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
 	* [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
 * [Pangeo](https://pangeo.io/)
