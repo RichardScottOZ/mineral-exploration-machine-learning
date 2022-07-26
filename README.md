@@ -54,7 +54,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 
 ## Structure
-* [Lineament Learning](https://github.com/aminrd/LineamentLearning
+* [Lineament Learning](https://github.com/aminrd/LineamentLearning)
 
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
