@@ -108,17 +108,17 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [ASEG](https://www.youtube.com/c/ASEGVideos/videos)
 
 # Cloud Providers
-  * [AWS] 
-    * [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
-    * [Sagemaker](https://github.com/aws/amazon-sagemaker-examples) -> ML Managed Service
-      * [SDK](https://github.com/aws/sagemaker-python-sdk)
-      * [Entrypoint Utilities](https://github.com/aws-samples/amazon-sagemaker-entrypoint-utilities)
-      * [Workshop 101](https://github.com/RichardScottOZ/sagemaker-workshop-101)
-      * [Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
-    * [Smallmatter](https://github.com/aws-samples/smallmatter-package)
-    * [Pyutil](https://github.com/verdimrc/pyutil)
-    * [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
-    * [Loguru](https://github.com/Delgan/loguru)
+## AWS
+* [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
+* [Sagemaker](https://github.com/aws/amazon-sagemaker-examples) -> ML Managed Service
+  * [SDK](https://github.com/aws/sagemaker-python-sdk)
+  * [Entrypoint Utilities](https://github.com/aws-samples/amazon-sagemaker-entrypoint-utilities)
+  * [Workshop 101](https://github.com/RichardScottOZ/sagemaker-workshop-101)
+  * [Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
+* [Smallmatter](https://github.com/aws-samples/smallmatter-package)
+* [Pyutil](https://github.com/verdimrc/pyutil)
+* [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
+* [Loguru](https://github.com/Delgan/loguru)
 
 # Overviews
 * [Mineral Exploration](https://www.ga.gov.au/scientific-topics/minerals/mineral-exploration)
@@ -127,8 +127,8 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Geologic Ages](https://en.wikipedia.org/wiki/Geologic_time_scale)
   * [Lithology](https://en.wikipedia.org/wiki/Lithology)
   * [Stratigraphy]() 
-* [Geochemistry](https://en.wikipedia.org/wiki/Geochemistry
-* [Geophysics](https://en.wikipedia.org/wiki/Geophysics
+* [Geochemistry](https://en.wikipedia.org/wiki/Geochemistry)
+* [Geophysics](https://en.wikipedia.org/wiki/Geophysics)
 * [Remote Sensing]
 
 # Web Services
