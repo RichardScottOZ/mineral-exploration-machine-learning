@@ -184,7 +184,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
-* [Gemgis] - Geospatial Data Analysis assistance 
+* [Gemgis])https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
