@@ -236,6 +236,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks)
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
 * [Stac catalogues]
+  * [ODC-Stac] (https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
   * [Intake-stac](https://github.com/intake/intake-stac)
   * [Sat-search](https://github.com/sat-utils/sat-search)
   * [Pystac](https://github.com/stac-utils/pystac)
