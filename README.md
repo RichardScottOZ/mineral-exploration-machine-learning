@@ -53,7 +53,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
 * [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
-  * [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windoes here Binary version for Windows installs
+  * [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 
 
@@ -86,7 +86,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 ## Semi-supervised learning
 * [Semi-supervised learning](https://github.com/google-research/simclr)
-## Hyperparameters](https://github.com/hyperopt/hyperopt)
+## Hyperparameters
+* [Hyperopt[(https://github.com/hyperopt/hyperopt)
 * [TPOT Automated ML](https://github.com/trhallam/tpot)
   
 ## Coding Environments
