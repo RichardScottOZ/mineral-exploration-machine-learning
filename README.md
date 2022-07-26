@@ -105,8 +105,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Digital Earth Australia](https://www.dea.ga.gov.au/)
   * [Slack Channel]
 * [Open Source Geospatial Foundation](https://github.com/OSGeo/osgeo)
-* [Geophysics]
-  * [ASEG](https://www.youtube.com/c/ASEGVideos/videos)
+* [ASEG](https://www.youtube.com/c/ASEGVideos/videos) -> videos from Australia Society of Exploration Geoscientists
 
 # Cloud Providers
 ## AWS
@@ -119,7 +118,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Smallmatter](https://github.com/aws-samples/smallmatter-package)
 * [Pyutil](https://github.com/verdimrc/pyutil)
 * [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
-* [Loguru](https://github.com/Delgan/loguru)
+* [Loguru](https://github.com/Delgan/loguru) -> Logging library
 
 # Overviews
 * [Mineral Exploration](https://www.ga.gov.au/scientific-topics/minerals/mineral-exploration)
@@ -130,7 +129,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Stratigraphy]() 
 * [Geochemistry](https://en.wikipedia.org/wiki/Geochemistry)
 * [Geophysics](https://en.wikipedia.org/wiki/Geophysics)
-* [Remote Sensing]
+* [Remote Sensing]()
 
 # Web Services
 
