@@ -164,7 +164,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Tools
 ## GIS
-	* [QGIS](https://qgis.org/en/site/)
+	* [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application
 ## 3D
 * [Geoscience Analyst](https://mirageoscience.com/mining-industry-software/geoscience-analyst/)
 * [geoh5py](https://geoh5py.readthedocs.io/)
@@ -253,7 +253,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 	* [Sat-search](https://github.com/sat-utils/sat-search)
 	* [Pystac](https://github.com/stac-utils/pystac)
 	* [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  * [Metadata speeded up dask and xarray timeseries]
-* [Hdstats](https://github.com/RichardScottOZ/hdstats) -> algorithmic basis of geometric medians]
+* [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
 * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
 * [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
 * [Titiler](https://github.com/developmentseed/titiler-pds
@@ -262,16 +262,16 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Stars](https://r-spatial.github.io/stars/)
 	
 ## [Mining Economics]
-	* [Bluecap](https://github.com/RichardScottOZ/bluecap)
-	* [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero)
-	* [PyASX * [ASX Data Feed scraping](https://github.com/jericmac/pyasx)
+* [Bluecap](https://github.com/RichardScottOZ/bluecap)
+* [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero)
+* [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
 * [Visualisation 
 	* [Textbook](https://github.com/rougier/scientific-visualization-book
-	* [Napari * [Multidimensional image viewer](https://github.com/napari/napari
-	* [Holoviews * [Large scale datavision](https://github.com/holoviz/holoviews
-	* [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install
+	* [Napari](https://github.com/napari/napari) -> [Multidimensional image viewer]
+	* [Holoviews](https://github.com/holoviz/holoviews -> [Large scale data visualisation]
+	* [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> windows installation info
 	
-* [Geospatial python https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/
+* [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated guide
 
 ## PyData Stack
 * [Numpy Multidimensional arrays](https://numpy.org/)
