@@ -261,17 +261,18 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Hsdar](https://rdrr.io/cran/hsdar/man/hsdar-package.html)
 * [Stars](https://r-spatial.github.io/stars/)
 	
-## [Mining Economics]
+## Mining Economics
 * [Bluecap](https://github.com/RichardScottOZ/bluecap)
 * [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero)
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
-* [Visualisation 
+## Visualisation 
 	* [Textbook](https://github.com/rougier/scientific-visualization-book
-	* [Napari](https://github.com/napari/napari) -> [Multidimensional image viewer]
-	* [Holoviews](https://github.com/holoviz/holoviews -> [Large scale data visualisation]
-	* [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> windows installation info
-	
-* [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated guide
+	* [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
+	* [Holoviews](https://github.com/holoviz/holoviews -> Large scale data visualisation
+	* [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
+
+## Guides	
+* [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
 
 ## PyData Stack
 * [Numpy Multidimensional arrays](https://numpy.org/)
