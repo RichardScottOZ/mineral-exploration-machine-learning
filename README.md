@@ -168,6 +168,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
 * [Xarray](https://github.com/pydata/xarray)
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> fabulous high level api for xarray handling of raster data
+  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [Geocube](https://github.com/corteva/geocube) -> rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html)
