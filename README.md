@@ -41,7 +41,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 
 ## Structure
-* [Lineament Learning](https://github.com/aminrd/LineamentLearning)
+* [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
@@ -166,17 +166,17 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 ## Raster Data
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
-* [Xarray](https://github.com/pydata/xarray) -> Multidimensional labelled array handling and analysis
-  * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> fabulous high level api for xarray handling of raster data
-  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
-  * [Geocube](https://github.com/corteva/geocube) -> rasterisation of vector data api
+* [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
+  * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
+  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
+  * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## 3D Visualisation and Data Analysis 
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
-* [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> mesh transformation
+* [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
   * [GUI](https://github.com/giswqs/whiteboxgui) -> Desktop version
