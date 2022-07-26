@@ -202,10 +202,10 @@ Resources are also given for data analysis, transformation and visualisation as 
       * [Transform 2021 SimPEG](https://github.com/RichardScottOZ/transform-2021-simpeg)
       * [SimPEG scripts](https://github.com/fourndo/SimPEG_Scripts)
       * [Astic Joint Inversion example](https://github.com/simpeg-research/Astic-2019-PGI)
-    * [Gimli](https://github.com/gimli-org/gimli
-    * [Tomofast-x](https://github.com/TOMOFAST/Tomofast-x
-  * [USGS anonymous ftp](https://pubs.er.usgs.gov/publication/tm7C17 [blocked on VPN]
-    * [USGS Software](https://pubs.usgs.gov/of/1995/ofr-95-0077/of-95-77.html) -> [longer list of old stuff * [dosbox, anyone?]
+    * [Gimli](https://github.com/gimli-org/gimli)
+    * [Tomofast-x](https://github.com/TOMOFAST/Tomofast-x)
+  * [USGS anonymous ftp](https://pubs.er.usgs.gov/publication/tm7C17) 
+    * [USGS Software](https://pubs.usgs.gov/of/1995/ofr-95-0077/of-95-77.html) -> longer list of older useful stuff: dosbox, anyone?
     
 ### Gridding
 * [PyGMT](https://www.pygmt.org/latest/)
