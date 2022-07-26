@@ -286,10 +286,10 @@ Resources are also given for data analysis, transformation and visualisation as 
     
 
 # Ontologies
-* [GSQ](https://github.com/geological-survey-of-queensland/vocabularies)
-  * (https://github.com/geological-survey-of-queensland/geological-properties-database)
-  * (https://github.com/geological-survey-of-queensland/geofeatures-ont)
-* [Geoscience Australia](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
+* [Geological Society of Queensland](https://github.com/geological-survey-of-queensland/vocabularies)
+  * [Geological Properties Database[(https://github.com/geological-survey-of-queensland/geological-properties-database)
+  * [Geofeatures](https://github.com/geological-survey-of-queensland/geofeatures-ont)
+* [Stratigraphic](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
 
 # Books
 
