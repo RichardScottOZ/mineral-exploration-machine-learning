@@ -276,10 +276,10 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## PyData Stack
 * [Numpy Multidimensional arrays](https://numpy.org/)
 * [Pandas Tabular data analysis](https://pandas.pydata.org/)
-* [Matplotlib isualisation](https://matplotlib.org/)
-* [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem)
-* [Zarr * [Compressed, chunked distributed arrays](https://github.com/zarr-developers/zarr-python)
-* [Dask * [Parallel, distributed computing](https://github.com/dask/dask)
+* [Matplotlib visualisation](https://matplotlib.org/)
+* [Zarr](https://github.com/zarr-developers/zarr-python) -> Compressed, chunked distributed arrays
+* [Dask](https://github.com/dask/dask) -> Parallel, distributed computing
+* [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
 
 ## C
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
