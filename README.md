@@ -87,7 +87,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Semi-supervised learning
 * [Semi-supervised learning](https://github.com/google-research/simclr)
 ## Hyperparameters
-* [Hyperopt[(https://github.com/hyperopt/hyperopt)
+* [Hyperopt](https://github.com/hyperopt/hyperopt)
 * [TPOT Automated ML](https://github.com/trhallam/tpot)
   
 ## Coding Environments
