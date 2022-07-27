@@ -48,10 +48,13 @@ Suggestions welcome: open an issue.
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
+* [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE)
+  * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 * [Pb-Zn-Ag-Au](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
+
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
@@ -62,6 +65,7 @@ Suggestions welcome: open an issue.
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
+* [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
@@ -101,6 +105,7 @@ Suggestions welcome: open an issue.
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 ## Spectral Unmixing
+* [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
 * [3DCAE-hyperspectral-classification](https://github.com/MeiShaohui/3DCAE-hyperspectral-classification)
@@ -178,6 +183,9 @@ Suggestions welcome: open an issue.
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
   * [Transform 2021 Hacking Examples](https://github.com/RichardScottOZ/Transform-2021)
   * [Segysak 2021 Tutorial](https://github.com/trhallam/segysak-t21-tutorial)
+  * [T21 Seismic Notebook](https://github.com/stevejpurves/t21-seismic-notebook)
+  * [Practical Seismic with Python](https://github.com/gmac161/practical-seismic-t21-tutorial)
+  * [Transform 2021 Simpeg](https://github.com/simpeg/transform-2021-simpeg)
 * [Pangeo](https://pangeo.io/)
   * [Forum]
   * [COG Best Practices](https://github.com/pangeo-data/cog-best-practices)
@@ -288,6 +296,8 @@ Suggestions welcome: open an issue.
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## Data Conversion
+* [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
+* [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
@@ -300,7 +310,9 @@ Suggestions welcome: open an issue.
 * [Geochemical levenning](https://github.com/GeoscienceAustralia/geochemical-levelling)
 * [Scott Halley's geochemistry tutorial](https://github.com/DinaKlim/Scott-Halley-s-geochemistry-tutorial)
 * [Periodic Table](https://github.com/pkienzle/periodictable)
-8 [Geostatspy](https://github.com/GeostatsGuy/GeostatsPy)
+## Geostatistics
+* [Geostatspy](https://github.com/GeostatsGuy/GeostatsPy)
+* [PyInterpolate](https://github.com/DataverseLabs/pyinterpolate)
 ## Geochronology
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
@@ -327,6 +339,7 @@ Suggestions welcome: open an issue.
 ### Electromagnetic
 * [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
 * [UH Electromagnetics](https://github.com/jiajiasun/UHElectromagnetics) -> Coursework notebooks on understanding this domain
+* [AEM Interpretation](https://github.com/Neil-Symington/aem_interp_dash)
 ### Gravity and Magnetics 
 * [Harmonica](https://github.com/fatiando/harmonica)
 * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
@@ -335,6 +348,7 @@ Suggestions welcome: open an issue.
 ### Seismic
 * [Segyio](https://github.com/equinor/segyio)
 * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
+* [Geophysical notes](https://github.com/aadm/geophysical_notes) -> Seismic data processing
 ### Magnetotellurics
 * [MtPy](https://github.com/RichardScottOZ/mtpy)
 * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
@@ -343,7 +357,8 @@ Suggestions welcome: open an issue.
 * [resistics](https://github.com/resistics/resistics)
    
 ### Gridding
-* [PyGMT](https://www.pygmt.org/latest/)
+* [GMT](https://github.com/GenericMappingTools/gmt)
+  * [PyGMT](https://www.pygmt.org/latest/)
 * [Verde](https://github.com/fatiando/verde)
 * [Grid_aeromag](https://github.com/rmorel/grid-aeromag) -> Brazilian gridding example
 * [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
@@ -416,6 +431,7 @@ Suggestions welcome: open an issue.
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 * [PU Colormaps](https://github.com/thomasostersen/pu_cmaps) -> Formatted for user in Geoscience Analyst
 * [Colormap distortions](https://github.com/mycarta/Colormap-distorsions-Panel-app) -> A Panel app to demonstrate distorsions created by non-perceptual colormaps on geophysical data
+* [Open Geoscience Code Projects](https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/)
 
 ## Geospatial
 * [Geospatial](https://github.com/giswqs/geospatial) >- installs multiple common python packages
@@ -438,6 +454,7 @@ Suggestions welcome: open an issue.
 * [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated guide
 
 ## Science
+* [Python resources for earth sciences](https://github.com/javedali99/python-resources-for-earth-sciences)
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing)
 
 ## Docker
