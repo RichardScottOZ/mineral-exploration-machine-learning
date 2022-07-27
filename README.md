@@ -141,6 +141,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Web Services
 
+# APIs
+[Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
+
 # Data Portals
 * [SARIG](https://map.sarig.sa.gov.au/)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
