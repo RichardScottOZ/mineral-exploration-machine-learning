@@ -206,6 +206,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Data Conversion
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
+	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [SA Geochemical Maps](https://github.com/RichardScottOZ/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data
