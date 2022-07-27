@@ -251,6 +251,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Open Data Cube](https://www.opendatacube.org/)
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) -> Code for use in ODC style workflows
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
+ ## Serverless
+ * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
 ### Stac catalogues
   * [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
   * [Intake-stac](https://github.com/intake/intake-stac)
