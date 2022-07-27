@@ -251,7 +251,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pyrolite](https://github.com/morganjwilliams/pyrolite)
 * [Levelling](https://github.com/GeoscienceAustralia/geochemical-levelling)
 * [Pygeochem tools](https://github.com/RADutchie/pygeochemtools)
-* [Geoquimica][https://github.com/gferrsilva/geoquimica)
+* [Geoquimica](https://github.com/gferrsilva/geoquimica)
   
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
