@@ -32,6 +32,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Mineral Prospectivity
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
+  * [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
@@ -111,6 +112,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
+## Explainability
+* [InterpretML](https://github.com/interpretml/interpret-community) -> Interpreting models of tabular data
 
 ## Deep Learning
 * [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
@@ -377,6 +380,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 # Books
 
 # Papers
+* [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
 
 
 # Other
