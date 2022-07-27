@@ -37,7 +37,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
 * [Caldera](https://github.com/RichardScottOZ/CalderaPublic) -> Caldera Analytics analysis
+* [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
 * [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
+
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
@@ -45,7 +47,6 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
-  
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
@@ -62,12 +63,6 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 # Natural Language Processing
-* [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
-* [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
-  * [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
-    * [Paper](https://soil.copernicus.org/articles/5/177/2019/)
-	* [GeoVecto Litho](https://github.com/IFuentesSR/GeoVectoLitho) -> 3D Models interpolation from word embeddings
-  * [GeoVEC Playground](https://github.com/RichardScottOZ/geoVec-playground) -> Working with the Padarian GeoVec glove word embeddings model
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
   * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
@@ -76,21 +71,29 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
+* [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
+* [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
+  * [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
+    * [Paper](https://soil.copernicus.org/articles/5/177/2019/)
+    * [GeoVecto Litho](https://github.com/IFuentesSR/GeoVectoLitho) -> 3D Models interpolation from word embeddings
+  * [GeoVEC Playground](https://github.com/RichardScottOZ/geoVec-playground) -> Working with the Padarian GeoVec glove word embeddings model
 * [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
   * [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
+* [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 ## Spectral Unmixing
+* [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
 * [3DCAE-hyperspectral-classification](https://github.com/MeiShaohui/3DCAE-hyperspectral-classification)
 * [DeHIC](https://github.com/jingge326/DeHIC)
 * [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
-* [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Spectral Python](https://github.com/spectralpython/spectral)
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
+* [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
@@ -287,6 +290,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Tomofast-x](https://github.com/TOMOFAST/Tomofast-x)
 * [USGS anonymous ftp](https://pubs.er.usgs.gov/publication/tm7C17) 
 * [USGS Software](https://pubs.usgs.gov/of/1995/ofr-95-0077/of-95-77.html) -> longer list of older useful stuff: dosbox, anyone?
+* [Geophysics Subroutines[(https://github.com/VictorCarreira/Geophysics) -> Fortran code
 * [2020 Aachen Inversion problems](https://github.com/RichardScottOZ/2020-aachen-inverse-problems) -> Overview of gravity inversion theory
     
 ### Gridding
