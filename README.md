@@ -182,6 +182,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
+  * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## 3D Visualisation and Data Analysis 
@@ -209,9 +210,10 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
 ### Seismic
   * [Segyio](https://github.com/equinor/segyio)
-	* [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
+  * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
 ### Magnetotellurics
-    * [MtPy](https://github.com/RichardScottOZ/mtpy)
+  * [MtPy](https://github.com/RichardScottOZ/mtpy)
+    * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
   * [Transform 2020 SimPEG](https://github.com/simpeg/transform-2020-simpeg)
