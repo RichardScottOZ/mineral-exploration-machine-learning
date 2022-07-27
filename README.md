@@ -20,6 +20,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Tools](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#tools)
 * [Ontologies](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#ontologies)
 * [Books](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#books)
+* [Papers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#papers)
+* [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#other)
 
 # Frameworks
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
@@ -70,7 +72,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
   * [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
-
+* [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
@@ -362,3 +364,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Books
 
+# Papers
+
+
+# Other
+* [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
