@@ -243,12 +243,13 @@ Suggestions welcome: open an issue.
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
-* [Exploring for the Future Portal](https://portal.ga.gov.au//eftf)
-* [GSQ](https://geoscience.data.qld.gov.au/)
-* [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView)
-* [STRIKE](https://strike.nt.gov.au/wss.html)
-* [MINVIEW](https://minview.geoscience.nsw.gov.au/)
+* [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
+* [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
+* [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
+* [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
+* [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
+* [CPRM[(https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
 ## Reports
 * [NT](https://geoscience.nt.gov.au/gemis)
 * [SARIG](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch)
