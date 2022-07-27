@@ -31,6 +31,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 
 # Mineral Prospectivity
+* [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
