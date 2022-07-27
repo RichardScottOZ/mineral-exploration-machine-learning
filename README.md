@@ -154,6 +154,14 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Remote Sensing]()
 
 # Web Services
+* [AusGIN](https://www.geoscience.gov.au/web-services)
+* [Geoscience Australia](http://services.ga.gov.au/)
+* [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
+* [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
+* [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
+* [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
+* [Victoria Geonetwork](http://geology.data.vic.gov.au/)
+
 [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 # APIs
