@@ -226,11 +226,13 @@ Suggestions welcome: open an issue.
 # Web Services
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
+  * [Geoscience Australia Catalogue Service](https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml)
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
+
 
 [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
@@ -239,7 +241,7 @@ Suggestions welcome: open an issue.
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 
 # Data Portals
-* [SARIG](https://map.sarig.sa.gov.au/)
+* [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
@@ -251,9 +253,34 @@ Suggestions welcome: open an issue.
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [CPRM[(https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
 ## Reports
-* [NT](https://geoscience.nt.gov.au/gemis)
-* [SARIG](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch)
-* [WAMEX](https://www.dmp.wa.gov.au/Geological-Survey/GSWA-publications-and-maps-1399.aspx)
+* [Northern Territory GEMIS](https://geoscience.nt.gov.au/gemis)
+  * [search](https://www.geoscience.nt.gov.au/gemis/ntgsjspui/simple-search?location=1%2F3&query=&rpp=8000&sort_by=score&order=DESC&submit_search=Update)
+  * [example](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/74318)
+* [South Australia SARIG](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch)
+* [Western Australia WAMEX](https://www.dmp.wa.gov.au/Geological-Survey/GSWA-publications-and-maps-1399.aspx)
+  * [search](https://wamexsearch.net.au/gswa_es_doco#query-language)
+  * [api](https://geodocs.dmirs.wa.gov.au/api//documentlist/10/Report_Ref/A68128)
+    * [example](https://geodocs.dmirs.wa.gov.au/Web/documentlist/10/Report_Ref/A68128?TOTALpAGES=)
+* [Queensland](https://github.com/RichardScottOZ/open-data-api/blob/master/API-Large_Query_Retrieval_Example-Geochem.ipynb)
+* [NSW](https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
+  
+	
+### NSW
+- API but not so public - https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119
+- post requests to write?
+- https://search.geoscience.nsw.gov.au/advanced?q=e&t=digs&sort=score%20desc&p=false&a=true&s=true&f=%5B%7B%22field%22:%22mr_rectype%22,%22query%22:%22(%5C%22MINERAL%5C%22)%22%7D%5D&page=1&count=1000
+- Felix may dump the lot for me
+
+### VIC
+- Has multiple multi-gigabyte packages of reports
+	- See VIC report notebook - wgettable zip packages
+	
+### TAS
+- Wget mirrorable - https://www.mrt.tas.gov.au/mrtdoc/tasxplor/download/
+
+### GA
+- https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml
+
 
 # Tools
 ## GIS
