@@ -290,7 +290,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Sits](https://github.com/RichardScottOZ/sits)
 * [Hsdar](https://rdrr.io/cran/hsdar/man/hsdar-package.html)
 * [Stars](https://r-spatial.github.io/stars/)
-  
+## Mineral Potential
+* [Nickel Mineral Potential Mapping](https://github.com/RichardScottOZ/Nickel-Mineral-Potential-Modelling) -> ESRI Based analysis  
 ## Mining Economics
 * [Bluecap](https://github.com/RichardScottOZ/bluecap) -> Framework from Monash University for assessing mine viability
 * [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero) -> Curve fitting the distribution of Mineral Depositions
