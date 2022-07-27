@@ -201,6 +201,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Data Conversion
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
+## Geochemistry
+* [SA Geochemical Maps](https://github.com/RichardScottOZ/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
@@ -293,6 +295,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Matplotlib visualisation](https://matplotlib.org/)
 * [Zarr](https://github.com/zarr-developers/zarr-python) -> Compressed, chunked distributed arrays
 * [Dask](https://github.com/dask/dask) -> Parallel, distributed computing
+  *[Dask Cloud Provider](https://github.com/RichardScottOZ/dask-cloudprovider) -> Atuomatica
 * [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
 
 ## C
