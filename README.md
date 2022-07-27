@@ -253,6 +253,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
  ## Serverless
  * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
+  * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
 ### Stac catalogues
   * [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
   * [Intake-stac](https://github.com/intake/intake-stac)
