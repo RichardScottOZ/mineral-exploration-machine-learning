@@ -40,17 +40,16 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
-
 # Geology
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
-* [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis
+* [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
-
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
-
+## Geochemistry
+* [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
@@ -75,6 +74,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
 ## Guides
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
+* [Earth Observation](https://github.com/RichardScottOZ/awesome-earthobservation-code)
 
 
 # Data Quality
