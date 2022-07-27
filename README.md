@@ -244,6 +244,7 @@ Suggestions welcome: open an issue.
 ## Other
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [Portugal Geology(https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+* [Spain](https://mapas.igme.es/gis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 # APIs
