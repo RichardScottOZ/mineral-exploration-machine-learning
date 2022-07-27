@@ -84,6 +84,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 # Data Quality
 * [Data Quality](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning)
   * [Shap values](https://github.com/slundberg/shap)
+* [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
 ## Probabilistic
@@ -313,6 +314,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
 
 ## Data Science
+* [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
 * [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated guide
 
 ## Science
