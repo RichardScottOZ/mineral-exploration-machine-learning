@@ -222,6 +222,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
+* [Potential Field Toolbox](https://github.com/RichardScottOZ/PFToolbox) -> Some xarray based Fast Fourier Transform filters - derivatives, pseudogravity, rpg etc.
 ### Seismic
   * [Segyio](https://github.com/equinor/segyio)
   * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
