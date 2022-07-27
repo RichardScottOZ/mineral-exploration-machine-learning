@@ -90,13 +90,15 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
   * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
     * [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO)
-
 ## Clustering  
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
-## Semi-supervised learning
+## Deep Learning
+### Data
+* [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
+### Semi-supervised learning
 * [Semi-supervised learning](https://github.com/google-research/simclr)
 ## Hyperparameters
 * [Hyperopt](https://github.com/hyperopt/hyperopt)
@@ -145,6 +147,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Remote Sensing]()
 
 # Web Services
+[PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 # APIs
 [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
