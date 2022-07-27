@@ -100,7 +100,7 @@ Suggestions welcome: open an issue.
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
-* [Portuguese Word Embeddings(https://github.com/nathanshartmann/portuguese_word_embeddings) 
+* [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 
 # Remote Sensing
