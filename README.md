@@ -25,7 +25,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
   * [Geo-Wavelets](https://github.com/RichardScottOZ/geo-wavelets)
   * [ML-Preprocessing](https://github.com/GeoscienceAustralia/ML-preprocessing)
-* [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml)
+* [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) - Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
 
 
 # Mineral Prospectivity
