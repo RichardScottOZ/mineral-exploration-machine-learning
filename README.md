@@ -56,6 +56,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geochemistry
 * [Dash Geochemical Prospection] - https://github.com/pvabreu7/DashGeochemicalProspection -> Web-app lassifying stream sediments with K-means
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
+* [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
