@@ -73,7 +73,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 
 # Remote Sensing
+* [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 ## Spectral Unmixing
+* [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
 * [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Spectral Python](https://github.com/spectralpython/spectral)
@@ -124,6 +126,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
   * [Transform 2021 Hacking Examples](https://github.com/RichardScottOZ/Transform-2021)
+  * [Segysak 2021 Tutorial](https://github.com/trhallam/segysak-t21-tutorial)
 * [Pangeo](https://pangeo.io/)
   * [Forum]
   * [COG Best Practices](https://github.com/pangeo-data/cog-best-practices)
