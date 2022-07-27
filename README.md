@@ -243,6 +243,7 @@ Suggestions welcome: open an issue.
 
 # Data Portals
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
+  * [s3 Reports](Reports and textracted versions in s3 bucket with web interface)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
