@@ -27,6 +27,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
   * [Geo-Wavelets](https://github.com/RichardScottOZ/geo-wavelets)
   * [ML-Preprocessing](https://github.com/GeoscienceAustralia/ML-preprocessing)
+  * [GIS ML Workflow](https://github.com/sheecegardezi/GIS-ML-Workflow)
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 
@@ -129,6 +130,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 ## Deep Learning
 * [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
+* [Extract and Classify Images from Geoscience Documents](https://github.com/bolgebrygg/extract-and-classify-images-from-geoscience-documents)
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
 ### Explainability
@@ -222,8 +224,9 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application
 ## 3D
 * [Geoscience Analyst](https://mirageoscience.com/mining-industry-software/geoscience-analyst/)
-* [geoh5py](https://geoh5py.readthedocs.io/)
-* [geoapps](https://geoapps.readthedocs.io/en/stable/)
+  * [geoh5py](https://geoh5py.readthedocs.io/) -> getting data to and from geoh5 projects
+  * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
+  * [gams](https://github.com/eroots/gams) -> magnetic data analysis
 * [Rayshader](https://github.com/tylermorganwall/rayshader)
     
 ## Geospatial General
@@ -231,6 +234,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Vector Data
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
+    * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
 * [SF](https://r-spatial.github.io/sf/)
 
 ## Raster Data
@@ -281,14 +285,26 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Potential Field Toolbox](https://github.com/RichardScottOZ/PFToolbox) -> Some xarray based Fast Fourier Transform filters - derivatives, pseudogravity, rpg etc.
   * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples
  * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
+### Electromagnetic
+* [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
+### Gravity and Magnetics 
+* [Harmonica](https://github.com/fatiando/harmonica)
+* [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
+* [Worms](https://bitbucket.org/fghorow/bsdwormer)
 ### Seismic
-  * [Segyio](https://github.com/equinor/segyio)
-  * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
+* [Segyio](https://github.com/equinor/segyio)
+* [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
 ### Magnetotellurics
-  * [MtPy](https://github.com/RichardScottOZ/mtpy)
-    * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
-  * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
-  * [pyMT] (https://github.com/eroots/pyMT)
+* [MtPy](https://github.com/RichardScottOZ/mtpy)
+* [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
+* [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
+* [pyMT] (https://github.com/eroots/pyMT)
+   
+### Gridding
+* [PyGMT](https://www.pygmt.org/latest/)
+* [Verde](https://github.com/fatiando/verde)
+* [Grid_aeromag](https://github.com/rmorel/grid-aeromag) -> Brazilian gridding example
+* [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
   * [SimPEG fork](https://github.com/RichardScottOZ/simpeg)
@@ -303,16 +319,6 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geophysics Subroutines[(https://github.com/VictorCarreira/Geophysics) -> Fortran code
 * [2020 Aachen Inversion problems](https://github.com/RichardScottOZ/2020-aachen-inverse-problems) -> Overview of gravity inversion theory
     
-### Gridding
-* [PyGMT](https://www.pygmt.org/latest/)
-* [Verde](https://github.com/fatiando/verde)
-* [Grid_aeromag](https://github.com/rmorel/grid-aeromag) -> Brazilian gridding example
-* [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
-    
-### Gravity and Magnetics 
-* [Harmonica](https://github.com/fatiando/harmonica)
-* [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
-* [Worms](https://bitbucket.org/fghorow/bsdwormer)
     
 ## Geochemistry
 * [Pyrolite](https://github.com/morganjwilliams/pyrolite)
@@ -400,6 +406,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Stratigraphic](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
 
 # Books
+* [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
 
 # Papers
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
