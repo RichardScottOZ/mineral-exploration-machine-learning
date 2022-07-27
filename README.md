@@ -480,9 +480,360 @@ Suggestions welcome: open an issue.
 * [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
 * [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook)
 
-# Papers
-* [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
-
-
 # Other
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
+* [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
+
+# Papers - Generally Not ML, or no Code/Data
+## Public Mineral Prospectivity Mapping
+Last edited: 29/09/2020
+General
+- https://www.researchgate.net/publication/330077321_An_Improved_Data-Driven_Multiple_Criteria_Decision-Making_Procedure_for_Spatial_Modeling_of_Mineral_Prospectivity_Adaption_of_Prediction-Area_Plot_and_Logistic_Functions
+- https://www.researchgate.net/publication/272494576_Geological_knowledge_discovery_and_minerals_targeting_from_regolith_using_a_machine_learning_approach
+- https://www.researchgate.net/publication/337650865_A_combinative_knowledge-driven_integration_method_for_integrating_geophysical_layers_with_geological_and_geochemical_datasets
+- https://www.researchgate.net/publication/235443297_Addressing_challenges_with_exploration_datasets_to_generate_usable_mineral_potential_maps
+- https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
+- https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
+- https://www.researchgate.net/publication/273284693_Spatial-Contextual_Supervised_Classifiers_Explored_A_Challenging_Example_of_Lithostratigraphy_Classification
+- https://www.researchgate.net/publication/267927728_Data-Driven_Evidential_Belief_Modeling_of_Mineral_Potential_Using_Few_Prospects_and_Evidence_with_Missing_Values
+- https://www.researchgate.net/publication/273500012_Prediction-area_P-A_plot_and_C-A_fractal_analysis_to_classify_and_evaluate_evidential_maps_for_mineral_prospectivity_modeling
+- https://www.researchgate.net/publication/280013864_Geometric_average_of_spatial_evidence_data_layers_A_GIS-based_multi-criteria_decision-making_approach_to_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
+- https://www.researchgate.net/publication/229792860_From_Predictive_Mapping_of_Mineral_Prospectivity_to_Quantitative_Estimation_of_Number_of_Undiscovered_Prospects
+- https://www.researchgate.net/publication/297777471_Spatial_mathematical_models_for_mineral_potential_mapping
+- https://www.researchgate.net/publication/220164155_Support_vector_machine_A_tool_for_mapping_mineral_prospectivity
+- https://www.researchgate.net/publication/220164234_Mapping_complexity_of_spatial_distribution_of_faults_using_fractal_and_multifractal_models_Vectoring_towards_exploration_targets
+- https://www.researchgate.net/publication/220164488_Geocomputation_of_mineral_exploration_targets
+- https://www.researchgate.net/publication/229714681_Classifiers_for_Modeling_of_Mineral_Potential
+- https://api.research-repository.uwa.edu.au/portalfiles/portal/5263287/Lysytsyn_Volodymyr_2015.pdf (PhD thesis) GIS-based epithermal copper prospectivity mapping of the Mt Isa Inlier, Australia: Implications for exploration targeting
+
+## Overview
+- https://www.researchgate.net/publication/317319129_Natural_Resources_Research_Publications_on_Geochemical_Anomaly_and_Mineral_Potential_Mapping_and_Introduction_to_the_Special_Issue_of_Papers_in_These_Fields
+- https://www.researchgate.net/publication/275338029_Introduction_to_the_Special_Issue_GIS-based_mineral_potential_modelling_and_geological_data_analyses_for_mineral_exploration
+- https://www.researchgate.net/publication/341472154_Geodata_Science-Based_Mineral_Prospectivity_Mapping_A_Review
+- https://www.researchgate.net/publication/339074334_Introduction_to_the_special_issue_on_spatial_modelling_and_analysis_of_ore-forming_processes_in_mineral_exploration_targeting
+- https://www.researchgate.net/publication/284890591_Geochemical_Anomaly_and_Mineral_Prospectivity_Mapping_in_GIS
+- https://www.researchgate.net/publication/46696293_Selection_of_coherent_deposit-type_locations_and_their_application_in_data-driven_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/331852267_Applying_Spatial_Prospectivity_Mapping_to_Exploration_Targeting_Fundamental_Practical_issues_and_Suggested_Solutions_for_the_Future
+
+## Geochemistry
+- https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
+- https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
+- https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
+- https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
+- https://www.researchgate.net/publication/259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
+- https://www.researchgate.net/publication/238505045_Analysis_and_mapping_of_geochemical_anomalies_using_logratio-transformed_stream_sediment_data_with_censored_values
+- https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
+- https://www.researchgate.net/publication/220164381_Application_of_geochemical_zonality_coefficients_in_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
+- https://www.researchgate.net/publication/257189047_Geochemical_mineralization_probability_index_GMPI_A_new_approach_to_generate_enhanced_stream_sediment_geochemical_evidential_map_for_increasing_probability_of_success_in_mineral_potential_mapping
+- https://www.researchgate.net/publication/272091723_Geochemical_characteristics_of_mineral_deposits_Implications_for_ore_genesis
+- https://www.researchgate.net/publication/249544991_Usefulness_of_stream_order_to_detect_stream_sediment_geochemical_anomalies
+- 
+## Fuzzy
+- https://www.researchgate.net/publication/267816279_Fuzzification_of_continuous-value_spatial_evidence_for_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/272170968_A_Comparative_Analysis_of_Weights_of_Evidence_Evidential_Belief_Functions_and_Fuzzy_Logic_for_Mineral_Potential_Mapping_Using_Incomplete_Data_at_the_Scale_of_Investigation
+- https://www.researchgate.net/publication/301635716_Union_score_and_fuzzy_logic_mineral_prospectivity_mapping_using_discretized_and_continuous_spatial_evidence_values
+- 
+## Uncertainty
+- https://www.researchgate.net/publication/255909185_The_upside_of_uncertainty_Identification_of_lithology_contact_zones_from_airborne_geophysics_and_satellite_data_using_random_forests_and_support_vector_machines
+- https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
+- https://www.researchgate.net/publication/235443307_Managing_uncertainty_in_exploration_targeting
+- 
+## Geospatial Maps
+### Australia
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884 - Nickel PGE
+- https://www.researchgate.net/publication/334440382_Mapping_iron_oxide_Cu-Au_IOCG_mineral_potential_in_Australia_using_a_knowledge-driven_mineral_systems-based_approach
+#### South Australia
+- https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
+- An assessment of the uranium and geothermal prospectivity of east-central South Australia - https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf
+#### QLD
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 - Tennant Creek - Mt Isa
+- Navigate to: qdexdata.dnrme.qld.gov.au Enter the report number: 113697 - NWMP Data Driven Mineral Exploration and Geological Mapping
+#### NT
+- https://www.researchgate.net/publication/285235798_An_assessment_of_the_uranium_and_geothermal_prospectivity_of_the_southern_Northern_Territory
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423 Iron oxide-copper-gold potential of the southern Arunta Region
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digitil data package
+#### WA
+- https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn
+- https://researchdata.edu.au/predictive-mineral-discovery-gold-mineral/1209568?source=suggested_datasets - Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system - https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip
+- http://dmpbookshop.eruditetechnologies.com.au/product/prospectivity-analysis-of-the-halls-creek-orogen-western-australia-using-a-mineral-systems-approach-geographical-product-n15af3zp.do
+- http://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do
+- http://dmpbookshop.eruditetechnologies.com.au/product/mineral-systems-analysis-of-the-west-musgrave-province-regional-structure-and-prospectivity-modelling-geographical-product-n12dzp.do
+- http://dmpbookshop.eruditetechnologies.com.au/product/mineral-systems-analysis-of-the-west-musgrave-province-regional-structure-and-prospectivity-modelling.do  $22 purchase - now on K drive in West Musgrave JV Data Projects
+- http://dmpbookshop.eruditetechnologies.com.au/product/regional-scale-targeting-for-gold-in-the-yilgarn-craton-part-1-of-the-yilgarn-gold-exploration-targeting-atlas.do $55 purchase
+- http://dmpbookshop.eruditetechnologies.com.au/product/district-scale-targeting-for-gold-in-the-yilgarn-craton-part-2-of-the-yilgarn-gold-exploration-targeting-atlas.do$55 purchase
+- https://researchdata.edu.au/prospectivity-analysis-using-063-m436/1424743 - Prospectivity analysis using a mineral systems approach - Capricorn case study project CSIRO Prospectivity analysis using a mineral systems approach - Capricorn case study project (13.5 GB Download)
+- https://www.researchgate.net/publication/263928515_Towards_Australian_metallogenic_maps_through_space_and_time
+- https://www.researchgate.net/publication/273073675_Building_a_machine_learning_classifier_for_iron_ore_prospectivity_in_the_Yilgarn_Craton
+#### NSW
+- https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
+- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen - Arianne Ford
+- https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
+- 
+### Brazil
+- https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
+- https://www.researchgate.net/publication/341936771_Modeling_of_Cu-Au_Prospectivity_in_the_Carajas_mineral_province_Brazil_through_Machine_Learning_Dealing_with_Imbalanced_Training_Data
+- https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2317-48892016000200261 - Sao Francisco Craton Nickel
+- https://www.researchgate.net/publication/287270273_Nickel_prospective_modelling_using_fuzzy_logic_on_nova_Brasilandia_metasedimentary_belt_Rondonia_Brazil
+### Australia
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884 - Nickel PGE
+- https://www.researchgate.net/publication/334440382_Mapping_iron_oxide_Cu-Au_IOCG_mineral_potential_in_Australia_using_a_knowledge-driven_mineral_systems-based_approach
+- https://researchdata.edu.au/predictive-model-opal-mining-approach/673159/?refer_q=rows=15/sort=score%20desc/class=collection/p=2/q=mineral%20prospectivity%20map/ - Opal
+- https://www.researchgate.net/publication/248211737_A_continent-wide_study_of_Australia's_uranium_potential
+### SA
+- https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
+- http://www.energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/previous_feature_articles/new_prospectivity_map
+- https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e59cd4ba-1a0a-4911-9e6a-58d80576678d - Olympic Domain IOCG Prospectivity model
+- An assessment of the uranium and geothermal prospectivity of east-central South Australia - https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf
+- https://data.gov.au/dataset/ds-ga-a8619169-1c2a-6697-e044-00144fdd4fa6/details?q= 
+- https://www.pir.sa.gov.au/__data/assets/pdf_file/0011/239636/204581-001_wise_high.pdf - Eastern Gawler - WPA
+### QLD
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 - Tennant Creek - Mt Isa
+- Navigate to: qdexdata.dnrme.qld.gov.au Enter the report number: 113697 - NWMP Data Driven Mineral Exploration and Geological Mapping
+### WA
+- https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn Karol Czarnota
+- https://researchdata.edu.au/predictive-mineral-discovery-gold-mineral/1209568?source=suggested_datasets - Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system - https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip
+- https://www.researchgate.net/publication/229333177_Prospectivity_analysis_of_the_Plutonic_Marymia_Greenstone_Belt_Western_Australia
+- https://www.researchgate.net/publication/280039091_Mineral_systems_approach_applied_to_GIS-based_2D-prospectivity_modelling_of_geological_regions_Insights_from_Western_Australia
+### NT
+- https://www.researchgate.net/publication/285235798_An_assessment_of_the_uranium_and_geothermal_prospectivity_of_the_southern_Northern_Territory
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423 Iron oxide-copper-gold potential of the southern Arunta Region
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digitial data package
+- https://www.researchgate.net/publication/342352173_Modelling_gold_potential_in_the_Granites-Tanami_Orogen_NT_Australia_A_comparative_study_using_continuous_and_data-driven_techniques
+### NSW
+- https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
+- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen
+- https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
+- https://www.researchgate.net/publication/265915602_Comparing_prospectivity_modelling_results_and_past_exploration_data_A_case_study_of_porphyry_Cu-Au_mineral_systems_in_the_Macquarie_Arc_Lachlan_Fold_Belt_New_South_Wales
+### England
+- https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN  [Tungsten Model Notebook]
+ 
+### Brazil
+- https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
+- https://www.researchgate.net/publication/340633739_MINERAL_POTENTIAL_AND_OPORTUNITIES_FOR_THE_EXPLORATION_OF_NEW_GEOLOGICAL_GROUNDS_IN_BRAZIL
+- https://www.semanticscholar.org/paper/Mineral-Potential-Mapping-for-Orogenic-Gold-in-the-Silva-Silva/a23a9ce4da48863da876758afa9e1d2723088853
+- https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2317-48892016000200261 - Supergene nickel deposits in outhwestern Sao Francisco Carton, Brazil
+#### Carajas
+- https://www.researchgate.net/publication/258466504_Self-Organizing_Maps_A_Data_Mining_Tool_for_the_Analysis_of_Airborne_Geophysical_Data_Collected_over_the_Brazilian_Amazon
+- https://www.researchgate.net/publication/258647519_Semiautomated_geologic_mapping_using_self-organizing_maps_and_airborne_geophysics_in_the_Brazilian_Amazon
+- https://www.researchgate.net/publication/235443304_GIS-Based_prospectivity_mapping_for_orogenic_gold_A_case_study_from_the_Andorinhas_region_Brasil
+- https://www.researchgate.net/publication/341936771_Modeling_of_Cu-Au_Prospectivity_in_the_Carajas_mineral_province_Brazil_through_Machine_Learning_Dealing_with_Imbalanced_Training_Data
+- https://www.researchgate.net/publication/332031621_Predictive_lithological_mapping_through_machine_learning_methods_a_case_study_in_the_Cinzento_Lineament_Carajas_Province_Brazil
+- https://www.researchgate.net/publication/340633659_Copper-gold_favorability_in_the_Cinzento_Shear_Zone_Carajas_Mineral_Province
+- https://www.researchgate.net/publication/329477409_Favorability_potential_for_IOCG_type_deposits_in_the_Riacho_do_Pontal_Belt_New_insights_for_identifying_prospects_of_IOCG-type_deposits_in_NE_Brazil
+- https://www.researchgate.net/publication/339453836_Uranium_anomalies_detection_through_Random_Forest_regression
+- https://d1wqtxts1xzle7.cloudfront.net/48145419/Artificial_neural_networks_applied_to_mi20160818-5365-odv4na.pdf?1471522188=&response-content-disposition=inline%3B+filename%3DArtificial_neural_networks_applied_to_mi.pdf&Expires=1593477539&Signature=DNmSxKogrD54dE4LX~8DT4K7vV0ZGcf8Q2RRfXEPsCc8PGiBrbeBpy4NVQdCiENLz-YfSzVGk6LI8k5MEGxR~qwnUn9ISLHDuIau6VqBFSEA29jMixCbvQM6hbkUJKQlli-AuSPUV23TsSk76kB6amDYtwNHmBnUPzTQGZLj2XkzJza9PA-7W2-VrPQKHNPxJp3z8J0mPq4rhmHZLaFMMSL6QMpK5qpvSqi6Znx-kIhCprlyYfODisq0unOIwnEQstiMf2RnB6gPmGOodhNlLsSr01e7TvtvFDBOQvhhooeDeQrvkINN4DJjAIIrbrcQ8B2b-ATQS0a3QQe93h-VFA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA - Leite, E.P.L.; de Souza Filho, C.R. Artificial neural networks applied to mineral potential mapping for copper-gold mineralizations in the Carajás Mineral Province, Brazil. Geoph. Prosp. 2009, 57, 1049–1065.
+- https://link-springer-com.access.library.unisa.edu.au/content/pdf/10.1007/s11053-015-9263-2.pdf - A Comparative Analysis of Weights of Evidence, Evidential Belief Functions, and Fuzzy Logic for Mineral Potential Mapping Using Incomplete Data at the Scale of Investigation
+- https://library.seg.org/doi/abs/10.1190/sbgf2011-245 - Gold Prospectivity Mapping of Andorinhas Greenstone Belt, Para
+#### Gurupi
+- https://www.researchgate.net/publication/312220651_Predictive_Mapping_of_Prospectivity_in_the_Gurupi_Orogenic_Gold_Belt_North-Northeast_Brazil_An_Example_of_District-Scale_Mineral_System_Approach_to_Exploration_Targeting
+  
+### Australia
+- https://www.researchgate.net/publication/260107484_Unsupervised_clustering_of_continental-scale_geophysical_and_geochemical_data_using_Self-Organising_Maps
+- https://www.researchgate.net/publication/306109298_Machine_Learning_for_Geological_Mapping_Algorithms_and_Application
+- https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
+- https://www.researchgate.net/publication/317312520_Catchment-based_gold_prospectivity_analysis_combining_geochemical_geophysical_and_geological_data_across_northern_Australia
+- https://www.researchgate.net/publication/326571155_Continental-scale_mineral_prospectivity_assessment_using_the_National_Geochemical_Survey_of_Australia_NGSA_dataset
+- https://www.researchgate.net/publication/334440382_Mapping_iron_oxide_Cu-Au_IOCG_mineral_potential_in_Australia_using_a_knowledge-driven_mineral_systems-based_approach
+- https://www.researchgate.net/publication/282189370_Uranium_Prospectivity_Mapping_Across_the_Australian_Continent_via_Unsupervised_Cluster_Analysis_of_Integrated_Remote_Sensing_Data
+#### South Australia
+- https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
+#### Queensland
+- https://www.researchgate.net/publication/317312520_Catchment-based_gold_prospectivity_analysis_combining_geochemical_geophysical_and_geological_data_across_northern_Australia
+- https://www.researchgate.net/publication/222211452_Predictive_modelling_of_prospectivity_for_Pb-Zn_deposits_in_the_Lawn_Hill_Region_Queensland_Australia
+- https://www.researchgate.net/publication/252707107_GIS-based_epithermal_copper_prospectivity_mapping_of_the_Mt_Isa_Inlier_Australia_Implications_for_exploration_targeting
+#### New South Wales
+- https://www.researchgate.net/publication/337569823_Practical_Implementation_of_Random_Forest-Based_Mineral_Potential_Mapping_for_Porphyry_Cu-Au_Mineralization_in_the_Eastern_Lachlan_Orogen_NSW_Australia
+ https://www.researchgate.net/publication/333551776_Translating_expressions_of_intrusion-related_mineral_systems_into_mappable_spatial_proxies_for_mineral_potential_mapping_Case_studies_from_the_Southern_New_England_Orogen_Australia
+- https://www.researchgate.net/publication/336349643_MINERAL_POTENTIAL_MAPPING_AS_A_STRATEGIC_PLANNING_TOOL_IN_THE_EASTERN_LACHLAN_OROGEN_NSW
+- https://www.researchgate.net/publication/329761040_NSW_Zone_54_Mineral_Systems_Mineral_Potential_Report
+- https://www.publish.csiro.au/ex/pdf/ASEG2013ab236 - Mineral prospectivity analysis of the Wagga–Omeo belt in NSW
+#### Tasmania
+- https://www.researchgate.net/publication/262380025_Mapping_geology_and_volcanic-hosted_massive_sulfide_alteration_in_the_Hellyer-Mt_Charter_region_Tasmania_using_Random_Forests_TM_and_Self-Organising_Maps
+- https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN  [Tungsten Model Notebook]
+#### Victoria
+- https://www.researchgate.net/publication/323856713_Lithological_mapping_using_Random_Forests_applied_to_geophysical_and_remote_sensing_data_a_demonstration_study_from_the_Eastern_Goldfields_of_Australia
+- https://publications.csiro.au/publications/#publication/PIcsiro:EP123339/SQmineral%20prospectivity/RP1/RS50/RORECENT/STsearch-by-keyword/LISEA/RI16/RT26 [nickel]
+- https://www.researchgate.net/publication/257026553_Regional_prospectivity_analysis_for_hydrothermal-remobilised_nickel_mineral_systems_in_western_Victoria_Australia
+####Western Australia
+- https://www.researchgate.net/publication/274714146_Reducing_subjectivity_in_multi-commodity_mineral_prospectivity_analyses_Modelling_the_west_Kimberley_Australia
+- https://www.researchgate.net/publication/319013132_Identifying_mineral_prospectivity_using_3D_magnetotelluric_potential_field_and_geological_data_in_the_east_Kimberley_Australia
+- https://www.researchgate.net/publication/280930127_Regional-scale_targeting_for_gold_in_the_Yilgarn_Craton_Part_1_of_the_Yilgarn_Gold_Exploration_Targeting_Atlas
+- https://www.researchgate.net/publication/279533541_District-scale_targeting_for_gold_in_the_Yilgarn_Craton_Part_2_of_the_Yilgarn_Gold_Exploration_Targeting_Atlas
+- https://www.researchgate.net/publication/257026568_Exploration_targeting_for_orogenic_gold_deposits_in_the_Granites-Tanami_Orogen_Mineral_system_analysis_targeting_model_and_prospectivity_analysis
+- https://www.researchgate.net/publication/280039091_Mineral_systems_approach_applied_to_GIS-based_2D-prospectivity_modelling_of_geological_regions_Insights_from_Western_Australia (the West Arunta Orogen, West Musgrave Orogen and Gascoyne Province - http://dmpbookshop.eruditetechnologies.com.au/product/mineral-systems-analysis-of-the-west-musgrave-province-regional-structure-and-prospectivity-modelling.do
+- https://reader.elsevier.com/reader/sd/pii/S0169136810000417? - token=9FD1C06A25E7ECC0C384C0ECF976E4BC9C36047C53CEED08066811979A640E89DD94C49510D1B500C6FF5E69982E018E Prospectivity analysis of the Plutonic Marymia Greenstone Belt, Western Australia
+- https://research-repository.uwa.edu.au/en/publications/exploration-targeting-for-orogenic-gold-deposits-in-the-granites- - Tanami orogen
+- https://www.researchgate.net/publication/332631130_Fuzzy_inference_systems_for_prospectivity_modeling_of_mineral_systems_and_a_case-study_for_prospectivity_mapping_of_surficial_Uranium_in_Yeelirrie_Area_Western_Australia_Ore_Geology_Reviews_71_839-852Tasmania
+- https://publications.csiro.au/rpr/download?pid=csiro:EP102133&dsid=DS3 [nickel]
+- 
+### Sweden
+- https://www.researchgate.net/publication/259128115_Biogeochemical_expression_of_rare_earth_element_and_zirconium_mineralization_at_Norra_Karr_Southern_Sweden
+- https://www.researchgate.net/publication/336086368_GIS-based_mineral_system_approach_for_prospectivity_mapping_of_iron-oxide_apatite-bearing_mineralisation_in_Bergslagen_Sweden
+- https://www.researchgate.net/publication/260086862_COMPARISION_OF_VMS_PROSPECTIVITY_MAPPING_BY_EBF_AND_WOFE_MODELING_THE_SKELLEFTE_DISTRICT_SWEDEN
+- https://www.researchgate.net/publication/229347041_Predictive_mapping_of_prospectivity_and_quantitative_estimation_of_undiscovered_VMS_deposits_in_Skellefte_district_Sweden
+- https://www.researchgate.net/publication/260086947_PRELIMINARY_GIS-BASED_ANALYSIS_OF_REGIONAL-SCALE_VMS_PROSPECTIVITY_IN_THE_SKELLEFTE_REGION_SWEDEN
+### Finland
+- https://www.researchgate.net/publication/332298116_Scalability_of_the_Mineral_Prospectivity_Modelling_-_An_orogenic_gold_case_study_from_northern_Finland
+- https://www.researchgate.net/publication/331006924_Unsupervised_clustering_and_empirical_fuzzy_memberships_for_mineral_prospectivity_modelling
+- https://www.researchgate.net/publication/324517415_Can_boosting_boost_minimal_invasive_exploration_targeting
+- https://www.researchgate.net/publication/320703774_Prospectivity_Models_for_Volcanogenic_Massive_Sulfide_Deposits_VMS_in_Northern_Finland
+- https://www.researchgate.net/publication/320709733_Knowledge-driven_prospectivity_model_for_Iron_oxide-Cu-Au_IOCG_deposits_in_northern_Finland
+- https://www.researchgate.net/publication/315381587_Introduction_to_the_special_issue_GIS-based_mineral_potential_targeting
+- https://www.researchgate.net/publication/312180531_Optimizing_a_Knowledge-driven_Prospectivity_Model_for_Gold_Deposits_Within_Perapohja_Belt_Northern_Finland
+- https://www.researchgate.net/publication/280875727_Receiver_operating_characteristics_ROC_as_validation_tool_for_prospectivity_models_-_A_magmatic_Ni-Cu_case_study_from_the_Central_Lapland_Greenstone_Belt_Northern_Finland
+- https://www.researchgate.net/publication/283451958_Data-driven_logistic-based_weighting_of_geochemical_and_geological_evidence_layers_in_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/320280611_Evaluation_of_boosting_algorithms_for_prospectivity_mapping
+- https://www.researchgate.net/publication/298297988_Fuzzy_logic_data_integration_technique_used_as_a_nickel_exploration_tool
+- https://www.researchgate.net/publication/259372191_Gravity_data_in_regional_scale_3D_and_gold_prospectivity_modelling_-_example_from_the_Central_Lapland_greenstone_belt_northern_Finland
+- https://www.researchgate.net/publication/251786465_Spatial_data_analysis_as_a_tool_for_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/248955109_Combined_conceptualempirical_prospectivity_mapping_for_orogenic_gold_in_the_northern_Fennoscandian_Shield_Finland
+- https://www.researchgate.net/publication/332352805_Boosting_for_Mineral_Prospectivity_Modeling_A_New_GIS_Toolbox
+- https://publications.csiro.au/publications/#publication/PIcsiro:EP146125/SQmineral%20prospectivity/RP1/RS50/RORECENT/STsearch-by-keyword/LISEA/RI12/RT26
+  
+### Norway
+- https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
+ 
+### Spain
+- https://www.researchgate.net/publication/222198648_Knowledge-guided_data-driven_evidential_belief_modeling_of_mineral_prospectivity_in_Cabo_de_Gata_SE_Spain
+- https://www.researchgate.net/publication/263542579_Optimal_Exploration_Target_Zones
+- https://www.researchgate.net/publication/225656353_Deriving_Optimal_Exploration_Target_Zones_on_Mineral_Prospectivity_Maps
+- https://www.researchgate.net/publication/43165602_Methodology_for_deriving_optimal_exploration_target_zones
+- https://www.researchgate.net/publication/222892103_Optimal_field_sampling_for_targeting_minerals_using_hyperspectral_data
+ Peru
+### England
+- https://www.researchgate.net/publication/342339753_A_machine_learning_approach_to_tungsten_prospectivity_modelling_using_knowledge-driven_feature_extraction_and_model_confidence
+- https://www.researchgate.net/project/Enhancing-the-Geological-Understanding-of-SW-England-Using-Machine-Learning-Algorithms
+### Africa
+- https://www.researchgate.net/publication/340084035_Reliability_of_using_ASTER_data_in_lithologic_mapping_and_alteration_mineral_detection_of_the_basement_complex_of_West_Berenice_Southeastern_Desert_Egypt
+- https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
+### Uganda
+- https://www.researchgate.net/publication/262566098_Predictive_Mapping_of_Prospectivity_for_Orogenic_Gold_in_Uganda
+- https://www.researchgate.net/publication/242339962_Predictive_mapping_for_orogenic_gold_prospectivity_in_Uganda
+### Ghana
+- https://www.researchgate.net/publication/227256267_Application_of_Data-Driven_Evidential_Belief_Functions_to_Prospectivity_Mapping_for_Aquamarine-Bearing_Pegmatites_Lundazi_District_Zambia
+- https://www.researchgate.net/publication/226842511_Mapping_of_prospectivity_and_estimation_of_number_of_undiscovered_prospects_for_lode_gold_southwestern_Ashanti_Belt_Ghana
+- https://www.researchgate.net/publication/233791624_Spatial_association_of_gold_deposits_with_remotely_-_sensed_faults_South_Ashanti_belt_Ghana
+### Zambia
+- https://www.researchgate.net/publication/263542565_APPLICATION_OF_REMOTE_SENSING_AND_SPATIAL_DATA_INTEGRATION_TO_PREDICT_POTENTIAL_ZONES_FOR_AQUAMARINE-BEARING_PEGMATITES_LUNDAZI_AREA_NORTHEAST_ZAMBIA
+- https://www.researchgate.net/publication/264041472_Geological_and_Mineral_Potential_Mapping_by_Geoscience_Data_Integration
+### Central Africa
+- https://www.researchgate.net/publication/323452014_The_Utility_of_Machine_Learning_in_Identification_of_Key_Geophysical_and_Geochemical_Datasets_A_Case_Study_in_Lithological_Mapping_in_the_Central_African_Copper_Belt
+- https://www.researchgate.net/publication/334436808_Lithological_Mapping_in_the_Central_African_Copper_Belt_using_Random_Forests_and_Clustering_Strategies_for_Optimised_Results
+### South Africa
+- https://www.researchgate.net/publication/264296137_PREDICTIVE_BEDROCK_AND_MINERAL_PROSPECTIVITY_MAPPING_IN_THE_GIYANI_GREENSTONE_BELT_SOUTH_AFRICA
+- https://www.researchgate.net/publication/268196204_Predictive_mapping_of_prospectivity_for_orogenic_gold_Giyani_greenstone_belt_South_Africa
+### China
+- https://www.researchgate.net/publication/329037175_Mineral_prospectivity_analysis_for_BIF_iron_deposits_A_case_study_in_the_Anshan-Benxi_area_Liaoning_province_North-East_China
+- https://www.researchgate.net/publication/229399579_Mapping_geochemical_singularity_using_multifractal_analysis_Application_to_anomaly_definition_on_stream_sediments_data_from_Funin_Sheet_Yunnan_China
+- https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
+- https://www.researchgate.net/publication/235443301_Mineral_potential_mapping_in_a_frontier_region
+- https://www.researchgate.net/publication/235443302_Mineral_potential_mapping_in_frontier_regions_A_Mongolian_case_study
+- https://www.researchgate.net/publication/332751556_Application_of_hierarchical_clustering_singularity_mapping_and_Kohonen_neural_network_to_identify_Ag-Au-Pb-Zn_polymetallic_mineralization_associated_geochemical_anomaly_in_Pangxidong_district
+- https://www.researchgate.net/publication/332547136_Prospectivity_Mapping_for_Porphyry_Cu-Mo_Mineralization_in_the_Eastern_Tianshan_Xinjiang_Northwestern_China
+- https://www.researchgate.net/publication/338789096_From_2D_to_3D_Modeling_of_Mineral_Prospectivity_Using_Multi-source_Geoscience_Datasets_Wulong_Gold_District_China
+- https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
+- https://www.researchgate.net/publication/334106787_Mapping_Mineral_Prospectivity_via_Semi-supervised_Random_Forest
+- https://www.researchgate.net/publication/331575655_Mapping_Geochemical_Anomalies_Through_Integrating_Random_Forest_and_Metric_Learning_Methods
+- https://www.researchgate.net/publication/340401748_Effects_of_Random_Negative_Training_Samples_on_Mineral_Prospectivity_Mapping
+- https://www.researchgate.net/publication/329600793_A_combined_approach_using_spatially-weighted_principal_components_analysis_and_wavelet_transformation_for_geochemical_anomaly_mapping_in_the_Dashui_ore-concentration_district_Central_China
+- https://www.researchgate.net/publication/329299202_Integrating_sequential_indicator_simulation_and_singularity_analysis_to_analyze_uncertainty_of_geochemical_anomaly_for_exploration_targeting_of_tungsten_polymetallic_mineralization_Nanling_belt_South_
+- https://www.researchgate.net/publication/328623280_Maximum_Entropy_and_Random_Forest_Modeling_of_Mineral_Potential_Analysis_of_Gold_Prospectivity_in_the_Hezuo-Meiwu_District_West_Qinling_Orogen_China
+- https://www.researchgate.net/publication/328255422_Mapping_mineral_prospectivity_through_big_data_analytics_and_a_deep_learning_algorithm
+- https://www.researchgate.net/publication/325702993_Assessment_of_Geochemical_Anomaly_Uncertainty_Through_Geostatistical_Simulation_and_Singularity_Analysis
+- https://www.researchgate.net/publication/267927676_Evaluation_of_uncertainty_in_mineral_prospectivity_mapping_due_to_missing_evidence_A_case_study_with_skarn-type_Fe_deposits_in_Southwestern_Fujian_Province_China
+- https://www.researchgate.net/publication/267927506_GIS-based_mineral_potential_modeling_by_advanced_spatial_analytical_methods_in_the_southeastern_Yunnan_mineral_district_China
+- https://www.researchgate.net/publication/307011381_Identification_and_mapping_of_geochemical_patterns_and_their_significance_for_regional_metallogeny_in_the_southern_Sanjiang_China
+- https://www.researchgate.net/publication/236270466_Mapping_of_district-scale_potential_targets_using_fractal_models
+- https://www.researchgate.net/publication/339096362_Application_of_nonconventional_mineral_exploration_techniques_case_studies
+### USA
+- https://www.researchgate.net/publication/338663292_A_Predictive_Geospatial_Exploration_Model_for_Mississippi_Valley_Type_Pb-Zn_Mineralization_in_the_Southeast_Missouri_Lead_District
+-  
+-  
+### Canada
+- https://www.researchgate.net/publication/220164155_Support_vector_machine_A_tool_for_mapping_mineral_prospectivity
+- https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
+### Iran
+- https://www.researchgate.net/publication/336471932_A_knowledge-guided_fuzzy_inference_approach_for_integrating_geophysics_geochemistry_and_geology_data_in_deposit-scale_porphyry_copper_targeting_Saveh-Iran
+- https://www.researchgate.net/publication/330129457_Performance_evaluation_of_RBF-_and_SVM-based_machine_learning_algorithms_for_predictive_mineral_prospectivity_modeling_integration_of_S-A_multifractal_model_and_mineralization_controls
+- https://www.researchgate.net/publication/320886789_Prospectivity_analysis_of_orogenic_gold_deposits_in_Saqez-Sardasht_Goldfield_Zagros_Orogen_Iran
+- https://www.researchgate.net/publication/258505300_Application_of_staged_factor_analysis_and_logistic_function_to_create_a_fuzzy_stream_sediment_geochemical_evidence_layer_for_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/270586282_Data-Driven_Index_Overlay_and_Boolean_Logic_Mineral_Prospectivity_Modeling_in_Greenfields_Exploration
+- https://www.researchgate.net/publication/296638839_An_AHP-TOPSIS_Predictive_Model_for_District-Scale_Mapping_of_Porphyry_Cu-Au_Potential_A_Case_Study_from_Salafchegan_Area_Central_Iran
+- https://www.researchgate.net/publication/310658663_Multifractal_interpolation_and_spectrum-area_fractal_modeling_of_stream_sediment_geochemical_data_Implications_for_mapping_exploration_targets
+- https://www.researchgate.net/publication/220164381_Application_of_geochemical_zonality_coefficients_in_mineral_prospectivity_mapping
+- https://research-repository.uwa.edu.au/en/publications/exploration-feature-selection-applied-to-hybrid-data-integration-Exploration feature selection applied to hybrid data integrationmodeling: Targeting copper-gold potential in central 
+### Iran
+#### NW
+- https://www.researchgate.net/publication/278029106_Application_of_Discriminant_Analysis_and_Support_Vector_Machine_in_Mapping_Gold_Potential_Areas_for_Further_Drilling_in_the_Sari-Gunay_Gold_Deposit_NW_Iran
+- https://www.researchgate.net/publication/317240761_Enhancement_and_Mapping_of_Weak_Multivariate_Stream_Sediment_Geochemical_Anomalies_in_Ahar_Area_NW_Iran
+- https://www.researchgate.net/publication/267635150_Multivariate_regression_analysis_of_lithogeochemical_data_to_model_subsurface_mineralization_A_case_study_from_the_Sari_Gunay_epithermal_gold_deposit_NW_Iran
+- https://www.researchgate.net/publication/339153591_Sensitivity_analysis_of_prospectivity_modeling_to_evidence_maps_enhancing_success_of_targeting_for_epithermal_gold_Takab_district_NW_Iran
+- https://www.researchgate.net/publication/304904242_Stepwise_regression_for_recognition_of_geochemical_anomalies_Case_study_in_Takab_area_NW_Iran
+- 
+- 
+### Argentina
+- https://www.researchgate.net/publication/277940917_Porphyry_epithermal_and_orogenic_gold_prospectivity_of_Argentina
+- https://www.researchgate.net/publication/235443303_Prospectivity_mapping_for_multi-stage_epithermal_gold_mineralization_in_Argentina
+- https://www.researchgate.net/publication/269518805_Prospectivity_for_epithermal_gold-silver_deposits_in_the_Deseado_Massif_Argentina
+- https://www.researchgate.net/publication/263542560_EVIDENTIAL_BELIEF_MAPPING_OF_EPITHERMAL_GOLD_POTENTIAL_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE_ARGENTINA
+- https://www.researchgate.net/publication/263542691_ANALYSIS_OF_SPATIAL_DISTRIBUTION_OF_EPITHERMAL_GOLD_DEPOSITS_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE
+### Chile
+- https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
+### Phillipines
+- https://www.researchgate.net/publication/267927677_Data-driven_predictive_mapping_of_gold_prospectivity_Baguio_district_Philippines_Application_of_Random_Forests_algorithm
+- https://www.researchgate.net/publication/267640864_Random_forest_predictive_modeling_of_mineral_prospectivity_with_small_number_of_prospects_and_data_with_missing_values_in_Abra_Philippines
+- https://www.researchgate.net/publication/276271833_Data-Driven_Predictive_Modeling_of_Mineral_Prospectivity_Using_Random_Forests_A_Case_Study_in_Catanduanes_Island_Philippines
+- https://www.researchgate.net/publication/229641286_Improved_Wildcat_Modelling_of_Mineral_Prospectivity
+- https://www.researchgate.net/publication/263174923_Application_of_Mineral_Exploration_Models_and_GIS_to_Generate_Mineral_Potential_Maps_as_Input_for_Optimum_Land-Use_Planning_in_the_Philippines
+- https://www.researchgate.net/publication/241001432_Geologically_Constrained_Probabilistic_Mapping_of_Gold_Potential_Baguio_District_Philippines
+- https://www.researchgate.net/publication/263724277_Geologically_Constrained_Fuzzy_Mapping_of_Gold_Mineralization_Potential_Baguio_District_Philippines
+- https://www.researchgate.net/publication/3931975_Remote_detection_of_vegetation_stress_for_mineral_exploration
+- https://www.researchgate.net/publication/238447208_Logistic_Regression_for_Geologically_Constrained_Mapping_of_Gold_Potential_Baguio_District_Philippines
+- https://www.researchgate.net/publication/263422015_Where_Are_Porphyry_Copper_Deposits_Spatially_Localized_A_Case_Study_in_Benguet_Province_Philippines
+- https://www.researchgate.net/publication/233488614_Wildcat_mapping_of_gold_potential_Baguio_District_Philippines
+- https://www.researchgate.net/publication/248977334_Mineral_imaging_with_Landsat_TM_data_for_hydrothermal_alteration_mapping_in_heavily-vegetated_terrane​​​​​​
+- https://www.researchgate.net/publication/272092198_Logistic_Regression_for_Geologically_Constrained_Mapping_of_Gold_Potential_Baguio_District
+- https://www.researchgate.net/publication/209803275_Evidential_belief_functions_for_data-driven_geologically_constrained_mapping_of_gold_potential_Baguio_district_Philippines
+- https://www.researchgate.net/publication/209803275_Evidential_belief_functions_for_data-driven_geologically_constrained_mapping_of_gold_potential_Baguio_district_Philippines
+- https://www.researchgate.net/publication/226982180_Weights_of_Evidence_Modeling_of_Mineral_Potential_A_Case_Study_Using_Small_Number_of_Prospects_Abra_Philippines
+India
+- https://www.researchgate.net/publication/272092276_Extended_Weights-of-Evidence_Modelling_for_Predictive_Mapping_of_Base_Metal_Deposit_Potential_in_Aravalli_Province_Western_India
+- https://www.researchgate.net/publication/226193283_Knowledge-Driven_and_Data-Driven_Fuzzy_Models_for_Predictive_Mineral_Potential_Mapping
+- https://www.researchgate.net/publication/227221497_Artificial_Neural_Networks_for_Mineral-Potential_Mapping_A_Case_Study_from_Aravalli_Province_Western_India
+- https://www.researchgate.net/publication/226092981_A_Hybrid_Neuro-Fuzzy_Model_for_Mineral_Potential_Mapping
+- https://www.researchgate.net/publication/222050039_Bayesian_network_classifiers_for_mineral_potential_mapping
+- https://www.researchgate.net/publication/225328359_A_Hybrid_Fuzzy_Weights-of-Evidence_Model_for_Mineral_Potential_Mapping
+- https://www.researchgate.net/publication/238027981_SVM-based_base-metal_prospectivity_modeling_of_the_Aravalli_Orogen_Northwestern_India
+### Indonesia
+- https://www.researchgate.net/publication/263542819_Regional-Scale_Geothermal_Prospectivity_Mapping_in_West_Java_Indonesia_by_Data-driven_Evidential_Belief_Functions
+ 
+## Endowment Modelling
+ https://www.researchgate.net/publication/342405763_Predicting_grade-tonnage_characteristics_of_undiscovered_mineralisation_application_of_the_USGS_Three-part_Undiscovered_Mineral_Resource_Assessment_to_the_Sandstone_Greenstone_Belt_of_the_Yilgarn_Bloc
+- https://github.com/iagoslc/ZipfsLaw_Quadrilatero_Ferrifero
+- https://www.researchgate.net/publication/341087909_Assessing_the_variability_of_expert_estimates_in_the_USGS_Three-part_Mineral_Resource_Assessment_Methodology_A_call_for_increased_skill_diversity_and_scenario-based_training
+- https://www.researchgate.net/publication/308778798_Spatial_analysis_of_mineral_deposit_distribution_A_review_of_methods_and_implications_for_structural_controls_on_iron_oxide-copper-gold_mineralization_in_Carajas_Brazil
+- https://www.researchgate.net/publication/222834436_Controls_on_mineral_deposit_occurrence_inferred_from_analysis_of_their_spatial_pattern_and_spatial_association_with_geological_features
+- https://www.researchgate.net/publication/229347041_Predictive_mapping_of_prospectivity_and_quantitative_estimation_of_undiscovered_VMS_deposits_in_Skellefte_district_Sweden
+- https://www.researchgate.net/publication/229792860_From_Predictive_Mapping_of_Mineral_Prospectivity_to_Quantitative_Estimation_of_Number_of_Undiscovered_Prospects
+- https://www.researchgate.net/publication/238365283_Metal_endowment_of_cratons_terranes_and_districts_Insights_from_a_quantitative_analysis_of_regions_with_giant_and_super-giant_deposits
+- https://www.sciencedirect.com/science/article/pii/S0169136810000685
+- https://www.researchgate.net/publication/330994502_Global_Grade-and-Tonnage_Modeling_of_Uranium_deposits
+- https://www.researchgate.net/publication/240301743_Spatial_statistical_analysis_of_the_distribution_of_komatiite-hosted_nickel_sulfide_deposits_in_the_Kalgoorlie_terrane_Western_Australia_Clustered_or_Not
+- https://www.researchgate.net/publication/248211962_A_new_method_for_spatial_centrographic_analysis_of_mineral_deposit_clusters
+- https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/103/4/829/127993/Linking-Mineral-Deposit-Models-to-Quantitative?redirectedFrom=fulltext
+- https://www.researchgate.net/publication/275620329_A_Time-Series_Audit_of_Zipf's_Law_as_a_Measure_of_Terrane_Endowment_and_Maturity_in_Mineral_Exploration
+## World Models
+- https://www.researchgate.net/publication/325344128_The_role_of_basement_control_in_Iron_Oxide-Copper-Gold_mineral_systems_revealed_by_satellite_gravity_models
+- https://www.researchgate.net/publication/331283650_Archean_crust_and_metallogenic_zones_in_the_Amazonian_Craton_sensed_by_satellite_gravity_data
+- https://www.researchgate.net/publication/331428028_Supplementary_Material_for_the_paper_Archean_crust_and_metallogenic_zones_in_the_Amazonian_Craton_sensed_by_satellite_gravity_data
+- https://www.researchgate.net/post/Is_it_possible_to_derive_free_air_anomaly_or_bouguer_anomaly_from_gravity_disturbance_data
+- https://www.leouieda.com/pdf/use-the-disturbance.pdf
+- https://www.leouieda.com/papers/use-the-disturbance.html
+- https://eartharxiv.org/2kjvc/ - Global distribution of sediment-hosted metals controlled by craton edge stability
+ 
+## Financial Forecasting
+- https://www.researchgate.net/publication/317137060_Forecasting_copper_prices_by_decision_tree_learning
+- https://www.researchgate.net/publication/4874824_Mine_Size_and_the_Structure_of_Costs
+ 
