@@ -121,6 +121,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Slack Channel](https://softwareunderground.org/slack)
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
+  * [Transform 2021 Hacking Examples](https://github.com/RichardScottOZ/Transform-2021)
 * [Pangeo](https://pangeo.io/)
   * [Forum]
   * [COG Best Practices](https://github.com/pangeo-data/cog-best-practices)
@@ -207,6 +208,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data
+  * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## 3D Visualisation and Data Analysis 
@@ -226,7 +228,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
-* [SA Geochemical Maps](https://github.com/RichardScottOZ/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data
+* [SA Geochemical Maps](https://github.com/GeologicalSurveySouthAustralia/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data from the Geological Survey of SA
 ## Geochronology
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
