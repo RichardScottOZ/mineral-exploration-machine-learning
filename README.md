@@ -95,10 +95,13 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
     * [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO)
 ## Clustering  
+### Self Organising Maps
+  * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
+  * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
-* [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
+
 ## Deep Learning
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
