@@ -54,6 +54,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 ## Geochemistry
+* [Dash Geochemical Prospection] - https://github.com/pvabreu7/DashGeochemicalProspection -> Web-app lassifying stream sediments with K-means
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
@@ -226,6 +227,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
+* [Leaprfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
@@ -287,7 +289,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
 * [Open Data Cube](https://www.opendatacube.org/)
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) -> Code for use in ODC style workflows
-  * [Datacube-stats](https://github.com/daleroberts/datacube-stats)
+  * [Datacube-stats](https://github.com/daleroberts/datacube-stats) -> Statistical analysis library for ODC
+  * [Geo Notebooks](https://github.com/Element84/geo-notebooks) -> Code examples from Element 84
  ## Serverless
  * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
   * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
@@ -296,7 +299,8 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Intake-stac](https://github.com/intake/intake-stac)
   * [Sat-search](https://github.com/sat-utils/sat-search)
   * [Pystac](https://github.com/stac-utils/pystac)
-  * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  -> Metadata speeded up dask and xarray timeseries
+  * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
+    * [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
 ### Statistics
   * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
   * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
