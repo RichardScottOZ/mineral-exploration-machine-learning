@@ -42,6 +42,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 # Geology
+* [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
