@@ -78,6 +78,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 ## Spectral Unmixing
 * [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
+* [3DCAE-hyperspectral-classification](https://github.com/MeiShaohui/3DCAE-hyperspectral-classification)
+* [DeHIC](https://github.com/jingge326/DeHIC)
 * [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Spectral Python](https://github.com/spectralpython/spectral)
@@ -92,7 +94,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Data Quality
 * [Data Quality](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning)
-  * [Shap values](https://github.com/slundberg/shap)
+* [Australian Gravity Data](https://github.com/RichardScottOZ/australia-gravity-data) -> Overview and analysis of gravity station data
+* [Geodiff[(https://github.com/MerginMaps/geodiff) -> Comparison of vector datasets
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
@@ -112,6 +115,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
+### Explainability
+* [Shap Values](https://github.com/slundberg/shap)
+
 ### Semi-supervised learning
 * [Semi-supervised learning](https://github.com/google-research/simclr)
 ## Hyperparameters
@@ -124,6 +130,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
+  * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
   * [Slack Channel](https://softwareunderground.org/slack)
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
