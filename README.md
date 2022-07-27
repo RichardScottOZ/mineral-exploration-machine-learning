@@ -539,7 +539,7 @@ Last edited: 29/09/2020
 - https://www.researchgate.net/publication/255909185_The_upside_of_uncertainty_Identification_of_lithology_contact_zones_from_airborne_geophysics_and_satellite_data_using_random_forests_and_support_vector_machines
 - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
 - https://www.researchgate.net/publication/235443307_Managing_uncertainty_in_exploration_targeting
-- 
+ 
 ## Geospatial Maps
 ### Australia
 - https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884 - Nickel PGE
@@ -568,7 +568,7 @@ Last edited: 29/09/2020
 - https://www.researchgate.net/publication/273073675_Building_a_machine_learning_classifier_for_iron_ore_prospectivity_in_the_Yilgarn_Craton
 #### NSW
 - https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
-- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen - Arianne Ford
+- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen
 - https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
 - 
 ### Brazil
