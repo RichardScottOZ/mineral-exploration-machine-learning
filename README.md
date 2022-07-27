@@ -4,6 +4,8 @@ ML and Data Science is a huge field, these are resources I have found useful and
 Links currently to a fork of a repository are because I have changed something to use and put in a list for reference.
 Resources are also given for data analysis, transformation and visualisation as that is most of the work.
 
+Suggestions welcome: open an issue.
+
 # Table of Contents
 
 * [Prospectivity](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#prospectivity)
@@ -142,6 +144,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
+  * [kmedoids](https://github.com/kno10/python-kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
 ## Explainability
 * [InterpretML](https://github.com/interpretml/interpret-community) -> Interpreting models of tabular data
@@ -263,6 +266,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
   * [gams](https://github.com/eroots/gams) -> magnetic data analysis
 * [Rayshader](https://github.com/tylermorganwall/rayshader)
+* [Vdeo](https://github.com/marcomusy/vedo)
     
 ## Geospatial General
 * [Python resources for earth science](https://github.com/javedali99/python-resources-for-earth-sciences)
@@ -311,6 +315,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Striplog](https://github.com/agile-geoscience/striplog)
 * [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on
+* [Litholog](https://github.com/rgmyr/litholog)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
@@ -410,6 +415,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Spatial-kde](https://github.com/mblackgeo/spatial-kde)
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 * [PU Colormaps](https://github.com/thomasostersen/pu_cmaps) -> Formatted for user in Geoscience Analyst
+* [Colormap distortions](https://github.com/mycarta/Colormap-distorsions-Panel-app) -> A Panel app to demonstrate distorsions created by non-perceptual colormaps on geophysical data
 
 ## Geospatial
 * [Geospatial](https://github.com/giswqs/geospatial) >- installs multiple common python packages
