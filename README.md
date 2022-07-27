@@ -31,7 +31,7 @@ Suggestions welcome: open an issue.
   * [ML-Preprocessing](https://github.com/GeoscienceAustralia/ML-preprocessing)
   * [GIS ML Workflow](https://github.com/sheecegardezi/GIS-ML-Workflow)
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
-*[TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
+* [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 
 
