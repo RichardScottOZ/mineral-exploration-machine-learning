@@ -58,10 +58,13 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
-## Geochemistry
-* [Dash Geochemical Prospection] - https://github.com/pvabreu7/DashGeochemicalProspection -> Web-app lassifying stream sediments with K-means
+
+# Geochemistry
+* [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
+
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
   * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
@@ -113,7 +116,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
-[Geospatial-ml](https://github.com/giswqs/geospatial-ml) - install multiple common packages at once
+[Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
+[Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
 ## Probabilistic
   * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
   * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
@@ -214,6 +218,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView)
 * [STRIKE](https://strike.nt.gov.au/wss.html)
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/)
+* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 ## Reports
 * [NT](https://geoscience.nt.gov.au/gemis)
 * [SARIG](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch)
@@ -244,7 +249,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
-  * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data
+  * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
@@ -274,6 +279,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
+^ [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
