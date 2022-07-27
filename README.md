@@ -204,6 +204,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [SA Geochemical Maps](https://github.com/RichardScottOZ/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data
+## Geochronology
+* [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
