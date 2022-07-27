@@ -112,6 +112,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
+[Geospatial-ml](https://github.com/giswqs/geospatial-ml) - install multiple common packages at once
 ## Probabilistic
   * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
   * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
@@ -134,7 +135,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Shap Values](https://github.com/slundberg/shap)
 
 ### Semi-supervised learning
-* [Semi-supervised learning](https://github.com/google-research/simclr)
+* [Self Supervised](https://github.com/untitled-ai/self_supervised) -> Pytorch lightning implementations of multiple algorithms
+* [Simclr](https://github.com/google-research/simclr)
 ## Hyperparameters
 * [Hyperopt](https://github.com/hyperopt/hyperopt)
 * [TPOT Automated ML](https://github.com/trhallam/tpot)
@@ -197,7 +199,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 # APIs
-[Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
+* [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
+  * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 
 # Data Portals
 * [SARIG](https://map.sarig.sa.gov.au/)
@@ -261,6 +264,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
 * [SA Geochemical Maps](https://github.com/GeologicalSurveySouthAustralia/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data from the Geological Survey of SA
+* [Periodic Table](https://github.com/pkienzle/periodictable)
 ## Geochronology
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
@@ -276,6 +280,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
 * [Potential Field Toolbox](https://github.com/RichardScottOZ/PFToolbox) -> Some xarray based Fast Fourier Transform filters - derivatives, pseudogravity, rpg etc.
   * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples
+ * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
 ### Seismic
   * [Segyio](https://github.com/equinor/segyio)
   * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
@@ -359,6 +364,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 
 ## Geospatial
+* [Geospatial](https://github.com/giswqs/geospatial) >- installs multiple common python packages
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
 
 ## PyData Stack
@@ -384,6 +390,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [AWS Deep Learning Containers](https://github.com/aws/deep-learning-containers)
 * [Spatial Docker](https://github.com/stevenpawley/spatial-docker)
 * [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial)
+* [Rocker](https://github.com/rocker-org/geospatial)
     
 
 # Ontologies
