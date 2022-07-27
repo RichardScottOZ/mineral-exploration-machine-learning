@@ -228,6 +228,16 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## GIS
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application
 ## 3D
+* [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
+  * [PVGeo](https://pvgeo.org/index.html)
+  * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly
+  * [OMFVista[(https://github.com/OpenGeoVis/omfvista0 ->Pyvista for Open Mining Format
+* [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
+* [Open Mining Format](https://github.com/gmggroup/omf)
+* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
+  * [GUI](https://github.com/giswqs/whiteboxgui) -> Desktop version
+* [Subsurface](https://github.com/softwareunderground/subsurface)
+* [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 * [Geoscience Analyst](https://mirageoscience.com/mining-industry-software/geoscience-analyst/)
   * [geoh5py](https://geoh5py.readthedocs.io/) -> getting data to and from geoh5 projects
   * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
@@ -253,16 +263,6 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
-## 3D Visualisation and Data Analysis 
-* [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
-  * [PVGeo](https://pvgeo.org/index.html)
-  * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly
-* [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
-* [Open Mining Format](https://github.com/gmggroup/omf)
-* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
-  * [GUI](https://github.com/giswqs/whiteboxgui) -> Desktop version
-* [Subsurface](https://github.com/softwareunderground/subsurface)
-* [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Data Conversion
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
@@ -279,7 +279,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
-^ [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
+* [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
