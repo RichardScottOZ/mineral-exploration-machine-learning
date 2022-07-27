@@ -345,7 +345,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Tomofast-x](https://github.com/TOMOFAST/Tomofast-x)
 * [USGS anonymous ftp](https://pubs.er.usgs.gov/publication/tm7C17) 
 * [USGS Software](https://pubs.usgs.gov/of/1995/ofr-95-0077/of-95-77.html) -> longer list of older useful stuff: dosbox, anyone?
-* [Geophysics Subroutines[(https://github.com/VictorCarreira/Geophysics) -> Fortran code
+* [Geophysics Subroutines](https://github.com/VictorCarreira/Geophysics) -> Fortran code
 * [2020 Aachen Inversion problems](https://github.com/RichardScottOZ/2020-aachen-inverse-problems) -> Overview of gravity inversion theory
     
     
