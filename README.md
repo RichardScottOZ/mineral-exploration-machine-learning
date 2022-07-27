@@ -427,7 +427,7 @@ Suggestions welcome: open an issue.
 * [Matplotlib visualisation](https://matplotlib.org/)
 * [Zarr](https://github.com/zarr-developers/zarr-python) -> Compressed, chunked distributed arrays
 * [Dask](https://github.com/dask/dask) -> Parallel, distributed computing
-  *[Dask Cloud Provider](https://github.com/RichardScottOZ/dask-cloudprovider) -> Atuomatica
+  * [Dask Cloud Provider](https://github.com/RichardScottOZ/dask-cloudprovider) -> Automatically start dask clusters on the cloud
 * [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
 
 ## C
