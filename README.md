@@ -47,6 +47,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
+* [Pb-Zn-Ag-Au](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
@@ -170,6 +171,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Cloud Providers
 ## AWS
+* [ec2 Spot Labs](https://github.com/awslabs/ec2-spot-labs) -> Making automatically working sith Spot instances easier
 * [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
 * [Sagemaker](https://github.com/aws/amazon-sagemaker-examples) -> ML Managed Service
   * [SDK](https://github.com/aws/sagemaker-python-sdk)
@@ -232,6 +234,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [PVGeo](https://pvgeo.org/index.html)
   * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly
   * [OMFVista[(https://github.com/OpenGeoVis/omfvista0 ->Pyvista for Open Mining Format
+  * [Scipy 2022 Tutorial](https://github.com/pyvista/pyvista-tutorial)
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
