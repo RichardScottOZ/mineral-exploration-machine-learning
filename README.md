@@ -222,6 +222,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Subsurface](https://github.com/softwareunderground/subsurface)
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Data Conversion
+* [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
