@@ -125,6 +125,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Entrypoint Utilities](https://github.com/aws-samples/amazon-sagemaker-entrypoint-utilities)
   * [Workshop 101](https://github.com/RichardScottOZ/sagemaker-workshop-101)
   * [Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
+* [Shepard](https://github.com/RichardScottOZ/shepard) -> Automated cloud formation setup of AWS Batch Pipelines: this is great
 * [Smallmatter](https://github.com/aws-samples/smallmatter-package)
 * [Pyutil](https://github.com/verdimrc/pyutil)
 * [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
