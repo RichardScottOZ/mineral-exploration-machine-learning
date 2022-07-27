@@ -103,6 +103,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Picasso](https://github.com/pachterlab/picasso)
 
 ## Deep Learning
+* [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
 ### Semi-supervised learning
