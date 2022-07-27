@@ -218,7 +218,7 @@ Suggestions welcome: open an issue.
 * [Geology](https://en.wikipedia.org/wiki/Geology)
   * [Geologic Ages](https://en.wikipedia.org/wiki/Geologic_time_scale)
   * [Lithology](https://en.wikipedia.org/wiki/Lithology)
-  * [Stratigraphy]() 
+  * [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) 
 * [Geochemistry](https://en.wikipedia.org/wiki/Geochemistry)
 * [Geophysics](https://en.wikipedia.org/wiki/Geophysics)
 * [Remote Sensing]()
@@ -232,6 +232,7 @@ Suggestions welcome: open an issue.
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
+* [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 
 
 [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
@@ -239,6 +240,7 @@ Suggestions welcome: open an issue.
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
+* [CORE](https://core.ac.uk/data) -> Open Research Texts
 
 # Data Portals
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
