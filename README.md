@@ -65,7 +65,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
-* [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
+* [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
@@ -133,6 +133,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
   * [Slack Channel](https://softwareunderground.org/slack)
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
+    * [Transform 2022](https://www.youtube.com/playlist?list=PLgLft9vxdduDFkG9gtuNicNmb2YUzWqSQ)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
   * [Transform 2021 Hacking Examples](https://github.com/RichardScottOZ/Transform-2021)
   * [Segysak 2021 Tutorial](https://github.com/trhallam/segysak-t21-tutorial)
@@ -253,6 +254,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
+* [SA Stratigraphy](https://github.com/RADutchie/SA-Strarigraphy-db) -> Stratigraphy database editor webapp
 * [Striplog](https://github.com/agile-geoscience/striplog)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
@@ -276,6 +278,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Tomofast-x](https://github.com/TOMOFAST/Tomofast-x)
 * [USGS anonymous ftp](https://pubs.er.usgs.gov/publication/tm7C17) 
 * [USGS Software](https://pubs.usgs.gov/of/1995/ofr-95-0077/of-95-77.html) -> longer list of older useful stuff: dosbox, anyone?
+* [2020 Aachen Inversion problems](https://github.com/RichardScottOZ/2020-aachen-inverse-problems) -> Overview of gravity inversion theory
     
 ### Gridding
 * [PyGMT](https://www.pygmt.org/latest/)
@@ -329,6 +332,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Bluecap](https://github.com/RichardScottOZ/bluecap) -> Framework from Monash University for assessing mine viability
 * [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero) -> Curve fitting the distribution of Mineral Depositions
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
+* [Metal Price API](https://github.com/chutommy/metal-price) -> Containerised Microservice
 ## Visualisation 
 * [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
