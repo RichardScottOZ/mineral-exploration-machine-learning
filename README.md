@@ -33,6 +33,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
 * [Caldera](https://github.com/RichardScottOZ/CalderaPublic) -> Caldera Analytics analysis
+* [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
@@ -217,6 +218,7 @@ Resources are also given for data analysis, transformation and visualisation as 
     * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
+  * [SimPEG fork](https://github.com/RichardScottOZ/simpeg)
   * [Transform 2020 SimPEG](https://github.com/simpeg/transform-2020-simpeg)
   * [Transform 2021 SimPEG](https://github.com/RichardScottOZ/transform-2021-simpeg)
   * [SimPEG scripts](https://github.com/fourndo/SimPEG_Scripts)
