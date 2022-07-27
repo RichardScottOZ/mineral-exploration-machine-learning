@@ -527,6 +527,8 @@ Suggestions welcome: open an issue.
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
 
 # Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
+- Eventually will separate out into things that have data packages or not like NSW Zone studies.
+- However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
 
 ## New to File
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
