@@ -73,7 +73,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
-* [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
+* [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
 ## Word Embedings
@@ -102,6 +102,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Spectral Python](https://github.com/spectralpython/spectral)
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
+
+## Course
+[ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
@@ -183,6 +186,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pyutil](https://github.com/verdimrc/pyutil)
 * [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
 * [Loguru](https://github.com/Delgan/loguru) -> Logging library
+* [AWS GDAL Robot](https://github.com/mblackgeo/aws-gdal-robot) -> Lambda and batch processing of geotiffs
+* [Serverless Seismic Processing](https://github.com/vavourak/serverless_seismic_processing)
 
 # Overviews
 * [Mineral Exploration](https://www.ga.gov.au/scientific-topics/minerals/mineral-exploration)
@@ -229,6 +234,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 # Tools
 ## GIS
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application
+  * [GRASS](https://github.com/OSGeo/grass)
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
@@ -276,12 +282,14 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
 * [SA Geochemical Maps](https://github.com/GeologicalSurveySouthAustralia/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data from the Geological Survey of SA
+* [Geochemical levenning](https://github.com/GeoscienceAustralia/geochemical-levelling)
 * [Periodic Table](https://github.com/pkienzle/periodictable)
 ## Geochronology
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
+* [LoopStructural](https://github.com/Loop3D/LoopStructural) -> Implicity Modelling
 * [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
@@ -296,10 +304,12 @@ Resources are also given for data analysis, transformation and visualisation as 
  * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
 ### Electromagnetic
 * [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
+* [UH Electromagnetics](https://github.com/jiajiasun/UHElectromagnetics) -> Coursework notebooks on understanding this domain
 ### Gravity and Magnetics 
 * [Harmonica](https://github.com/fatiando/harmonica)
 * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
 * [Worms](https://bitbucket.org/fghorow/bsdwormer)
+* [Osborne Magnetic](https://github.com/fatiando-data/osborne-magnetic) -> Survey data processing example
 ### Seismic
 * [Segyio](https://github.com/equinor/segyio)
 * [Segysak](https://github.com/trhallam/segysak) -> Xarray based seg-y data handling and analysis
@@ -366,6 +376,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Stars](https://r-spatial.github.io/stars/)
 ## Mineral Potential
 * [Nickel Mineral Potential Mapping](https://github.com/RichardScottOZ/Nickel-Mineral-Potential-Modelling) -> ESRI Based analysis  
+* [Prospectivity Online Tool](https://github.com/mvalenta100/prospectivity-online-tool)
 ## Mining Economics
 * [Bluecap](https://github.com/RichardScottOZ/bluecap) -> Framework from Monash University for assessing mine viability
 * [Zipfs Law](https://github.com/RichardScottOZ/ZipfsLaw_Quadrilatero_Ferrifero) -> Curve fitting the distribution of Mineral Depositions
@@ -376,6 +387,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
 * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
+* [Spatial-kde](https://github.com/mblackgeo/spatial-kde)
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 
 ## Geospatial
@@ -406,6 +418,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Spatial Docker](https://github.com/stevenpawley/spatial-docker)
 * [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial)
 * [Rocker](https://github.com/rocker-org/geospatial)
+* [Docker Lambda](https://github.com/lambgeo/docker-lambda)
     
 
 # Ontologies
