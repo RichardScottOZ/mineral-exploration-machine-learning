@@ -234,6 +234,7 @@ Suggestions welcome: open an issue.
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
+* [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 # APIs
