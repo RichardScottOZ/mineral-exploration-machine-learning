@@ -134,7 +134,7 @@ Suggestions welcome: open an issue.
 # Data Quality
 * [Data Quality](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning)
 * [Australian Gravity Data](https://github.com/RichardScottOZ/australia-gravity-data) -> Overview and analysis of gravity station data
-* [Geodiff[(https://github.com/MerginMaps/geodiff) -> Comparison of vector datasets
+* [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector datasets
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
