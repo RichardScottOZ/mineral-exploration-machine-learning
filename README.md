@@ -55,6 +55,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
+  * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
 * [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
@@ -201,6 +202,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
 ## Data Conversion
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
+* [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [SA Geochemical Maps](https://github.com/RichardScottOZ/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data
