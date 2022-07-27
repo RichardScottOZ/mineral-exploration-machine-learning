@@ -29,11 +29,17 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 
 # Mineral Prospectivity
-* [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia)
-* [ExploreSA](https://github.com/RichardScottOZ/CalderaPublic)
+## Explorer Challenge
+* [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
+## Explore SA - South Australian Department of Energy and Mining Competition
+* [Caldera](https://github.com/RichardScottOZ/CalderaPublic) -> Caldera
+## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
+## Commodities
+- [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
+	- [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 
 # Geology
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
@@ -45,11 +51,11 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Natural Language Processing
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
-* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor)
-* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training)
+* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
+* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
-* [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling)
-* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model)
+* [SA Exploration Topic Modelling](https://github.com/RichardScottOZ/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
+* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
 ## Word Embedings
 * [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
