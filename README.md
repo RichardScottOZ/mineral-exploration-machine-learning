@@ -225,6 +225,7 @@ Suggestions welcome: open an issue.
 * [Remote Sensing]()
 
 # Web Services
+## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
   * [Geoscience Australia Catalogue Service](https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml)
@@ -234,10 +235,13 @@ Suggestions welcome: open an issue.
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
+## Brazil
+* [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
+* [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services
+## Other
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
-
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
