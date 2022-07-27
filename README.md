@@ -36,10 +36,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
-* [Caldera](https://github.com/RichardScottOZ/CalderaPublic) -> Caldera Analytics analysis
+* [Caldera](https://github.com/mrodda117/CalderaPublic) -> Caldera Analytics analysis
 * [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
 * [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
-
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
@@ -70,6 +69,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [Stratigraphy](https://github.com/BritishGeologicalSurvey/stratigraph)
+* [Geocorpus](https://github.com/jneto04/geocorpus)
+* [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
 ## Word Embedings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 * [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
@@ -82,6 +83,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
+* [Portuguese Word Embeddings(https://github.com/nathanshartmann/portuguese_word_embeddings) 
+* [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
@@ -279,6 +282,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 ### Magnetotellurics
   * [MtPy](https://github.com/RichardScottOZ/mtpy)
     * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
+  * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
+  * [pyMT] (https://github.com/eroots/pyMT)
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
   * [SimPEG fork](https://github.com/RichardScottOZ/simpeg)
@@ -351,6 +356,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
 * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
+* [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 
 ## Geospatial
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
