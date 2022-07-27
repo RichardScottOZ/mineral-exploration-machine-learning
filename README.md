@@ -187,12 +187,16 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## 3D Visualisation and Data Analysis 
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
+  * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
   * [GUI](https://github.com/giswqs/whiteboxgui) -> Desktop version
 * [Subsurface](https://github.com/softwareunderground/subsurface)
 * [Geolambda](https://github.com/bluetyson/geolambda) -> AWS Lambda setup
+## Data Conversion
+* [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
+* [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
