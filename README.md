@@ -238,6 +238,9 @@ Suggestions welcome: open an issue.
 ## Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
 * [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services
+## Peru
+* [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
+* [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
 ## Other
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
