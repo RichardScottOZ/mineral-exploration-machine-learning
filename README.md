@@ -69,6 +69,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Spectral Python](https://github.com/spectralpython/spectral)
+* [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
