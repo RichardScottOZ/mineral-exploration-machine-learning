@@ -233,6 +233,7 @@ Suggestions welcome: open an issue.
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
+* [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
