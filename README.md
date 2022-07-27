@@ -275,25 +275,9 @@ Suggestions welcome: open an issue.
   * [api](https://geodocs.dmirs.wa.gov.au/api//documentlist/10/Report_Ref/A68128)
     * [example](https://geodocs.dmirs.wa.gov.au/Web/documentlist/10/Report_Ref/A68128?TOTALpAGES=)
 * [Queensland](https://github.com/RichardScottOZ/open-data-api/blob/master/API-Large_Query_Retrieval_Example-Geochem.ipynb)
-* [NSW](https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
+* [NSW Digs](https://digs.geoscience.nsw.gov.au)
+  * [API not public]((https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
   
-	
-### NSW
-- API but not so public - https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119
-- post requests to write?
-- https://search.geoscience.nsw.gov.au/advanced?q=e&t=digs&sort=score%20desc&p=false&a=true&s=true&f=%5B%7B%22field%22:%22mr_rectype%22,%22query%22:%22(%5C%22MINERAL%5C%22)%22%7D%5D&page=1&count=1000
-- Felix may dump the lot for me
-
-### VIC
-- Has multiple multi-gigabyte packages of reports
-	- See VIC report notebook - wgettable zip packages
-	
-### TAS
-- Wget mirrorable - https://www.mrt.tas.gov.au/mrtdoc/tasxplor/download/
-
-### GA
-- https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml
-
 
 # Tools
 ## GIS
