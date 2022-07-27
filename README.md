@@ -64,11 +64,12 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
 # Geochemistry
-* [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 * [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
+* [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
+* [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
@@ -109,7 +110,10 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 ## Course
 [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
+
+## Other
 [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
+[Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
 
 
 ## Platforms
@@ -150,9 +154,10 @@ Resources are also given for data analysis, transformation and visualisation as 
 ### Explainability
 * [Shap Values](https://github.com/slundberg/shap)
 
-### Semi-supervised learning
+### Self-supervised learning
 * [Self Supervised](https://github.com/untitled-ai/self_supervised) -> Pytorch lightning implementations of multiple algorithms
 * [Simclr](https://github.com/google-research/simclr)
+* [Awesome self-supervised learning](https://github.com/jason718/awesome-self-supervised-learning) -> Curated list
 ## Hyperparameters
 * [Hyperopt](https://github.com/hyperopt/hyperopt)
 * [TPOT Automated ML](https://github.com/trhallam/tpot)
@@ -289,7 +294,9 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
 * [SA Geochemical Maps](https://github.com/GeologicalSurveySouthAustralia/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data from the Geological Survey of SA
 * [Geochemical levenning](https://github.com/GeoscienceAustralia/geochemical-levelling)
+* [Scott Halley's geochemistry tutorial](https://github.com/DinaKlim/Scott-Halley-s-geochemistry-tutorial)
 * [Periodic Table](https://github.com/pkienzle/periodictable)
+8 [Geostatspy](https://github.com/GeostatsGuy/GeostatsPy)
 ## Geochronology
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
@@ -311,6 +318,7 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples
  * [Computation geophysics sandbox](https://github.com/yohanesnuwara/computational-geophysics)
  * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
+ * [Signal Image Processing](https://github.com/PyBrown/Signal-Image-Processing)
 ### Electromagnetic
 * [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
 * [UH Electromagnetics](https://github.com/jiajiasun/UHElectromagnetics) -> Coursework notebooks on understanding this domain
@@ -336,6 +344,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
+  * [Mira Geoscience Fork](https://github.com/MiraGeoscience/simpeg) -> Used for geoapps
   * [SimPEG fork](https://github.com/RichardScottOZ/simpeg)
   * [Transform 2020 SimPEG](https://github.com/simpeg/transform-2020-simpeg)
   * [Transform 2021 SimPEG](https://github.com/RichardScottOZ/transform-2021-simpeg)
@@ -351,6 +360,7 @@ Resources are also given for data analysis, transformation and visualisation as 
     
 ## Geochemistry
 * [Pyrolite](https://github.com/morganjwilliams/pyrolite)
+  * [gs2021 Pyrolite](https://github.com/morganjwilliams/gs2021-pyrolite)
 * [Levelling](https://github.com/GeoscienceAustralia/geochemical-levelling)
 * [Pygeochem tools](https://github.com/RADutchie/pygeochemtools)
 * [Geoquimica](https://github.com/gferrsilva/geoquimica)
@@ -445,6 +455,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
 * [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
 * [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
+* [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook)
 
 # Papers
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
