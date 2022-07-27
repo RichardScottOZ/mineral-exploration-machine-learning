@@ -29,7 +29,9 @@ Resources are also given for data analysis, transformation and visualisation as 
   * [ML-Preprocessing](https://github.com/GeoscienceAustralia/ML-preprocessing)
   * [GIS ML Workflow](https://github.com/sheecegardezi/GIS-ML-Workflow)
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
+*[TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
+
 
 # Mineral Prospectivity
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
@@ -50,6 +52,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pb-Zn-Ag-Au](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
+* [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
@@ -64,6 +67,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
+* [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 
 # Natural Language Processing
@@ -105,6 +109,8 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 ## Course
 [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
+[Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
+
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
@@ -233,7 +239,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 
 # Tools
 ## GIS
-  * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application
+  * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools
   * [GRASS](https://github.com/OSGeo/grass)
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
@@ -296,11 +302,14 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
 * [SA Stratigraphy](https://github.com/RADutchie/SA-Strarigraphy-db) -> Stratigraphy database editor webapp
 * [Striplog](https://github.com/agile-geoscience/striplog)
+* [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
+* [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
 * [Potential Field Toolbox](https://github.com/RichardScottOZ/PFToolbox) -> Some xarray based Fast Fourier Transform filters - derivatives, pseudogravity, rpg etc.
   * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples
+ * [Computation geophysics sandbox](https://github.com/yohanesnuwara/computational-geophysics)
  * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
 ### Electromagnetic
 * [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
@@ -318,6 +327,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
 * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
 * [pyMT] (https://github.com/eroots/pyMT)
+* [resistics](https://github.com/resistics/resistics)
    
 ### Gridding
 * [PyGMT](https://www.pygmt.org/latest/)
@@ -389,6 +399,7 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 * [Spatial-kde](https://github.com/mblackgeo/spatial-kde)
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
+* [PU Colormaps](https://github.com/thomasostersen/pu_cmaps) -> Formatted for user in Geoscience Analyst
 
 ## Geospatial
 * [Geospatial](https://github.com/giswqs/geospatial) >- installs multiple common python packages
@@ -419,16 +430,21 @@ Resources are also given for data analysis, transformation and visualisation as 
 * [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial)
 * [Rocker](https://github.com/rocker-org/geospatial)
 * [Docker Lambda](https://github.com/lambgeo/docker-lambda)
+* [Geobase](https://github.com/opendatacube/geobase)
+* [DL Docker Geospatial](https://github.com/sshuair/dl-docker-geospatial)
     
 
 # Ontologies
-* [Geological Society of Queensland](https://github.com/geological-survey-of-queensland/vocabularies)
+* [Geological Society of Queensland vocabularies](https://github.com/geological-survey-of-queensland/vocabularies)
   * [Geological Properties Database](https://github.com/geological-survey-of-queensland/geological-properties-database)
   * [Geofeatures](https://github.com/geological-survey-of-queensland/geofeatures-ont)
 * [Stratigraphic](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
+* [Geoscience Knowledge Manager](https://github.com/Loop3D/GKM)
 
 # Books
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
+* [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
+* [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
 
 # Papers
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
