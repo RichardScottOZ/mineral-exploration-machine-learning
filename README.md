@@ -41,13 +41,16 @@ Resources are also given for data analysis, transformation and visualisation as 
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
+  
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
-* [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
-* [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
+## Lithology
+* [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
+* [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
+* [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 ## Geochemistry
