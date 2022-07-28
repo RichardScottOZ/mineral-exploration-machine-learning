@@ -514,6 +514,10 @@ Suggestions welcome: open an issue.
 # Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
 - Eventually will separate out into things that have data packages or not like NSW Zone studies.
 - However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
+- Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
+
+# Geospatial Output - No Code
+- [NWMP NWMP Data-Driven Mineral Exploration And Geological Mapping](https://geoscience.data.qld.gov.au/report/cr113697)
 
 ## New to File
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
