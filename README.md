@@ -251,6 +251,7 @@ Suggestions welcome: open an issue.
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 * [CORE](https://core.ac.uk/data) -> Open Research Texts
+  * [API Notebook](https://colab.research.google.com/drive/1_bjqDQhqj7AnSfoCAXDCMOnGZLPQWKfu?usp=sharing) -> Example and fucntions
 
 # Data Portals
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
