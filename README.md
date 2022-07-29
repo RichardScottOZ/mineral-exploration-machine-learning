@@ -264,6 +264,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [s3 Reports](Reports and textracted versions in s3 bucket with web interface)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
+    * [Seismic downloads](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/segy2d/web/segy/ResultSet?siblingtreeid=e6d6d3af10d149d39ba2141b9d1ce660&sid=6fac787ca578408bad6cfb514eb15498&order=NATIVE%28%27LINE%2Fascend%27%29&rpp=-1&set=1&reorder=1&bclabel=Result+Set) -> One page of links
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
@@ -276,6 +277,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
+
 ## Reports
 ### Australia
 * [Northern Territory GEMIS](https://geoscience.nt.gov.au/gemis)
@@ -290,13 +292,12 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [NSW Digs](https://digs.geoscience.nsw.gov.au)
   * [NSW Digs open](https://digsopen.minerals.nsw.gov.au/digsopen/)
   * [API not public]((https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
+* [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
+* [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
 ### Other
-#### Australia
-* [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
-* [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
