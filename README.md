@@ -350,7 +350,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
-* [Leaprfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
+* [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
