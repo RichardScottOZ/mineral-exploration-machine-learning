@@ -259,6 +259,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [USGS Publications](https://pubs.er.usgs.gov/documentation/web_service_documentation)
 
 # Data Portals
+## Australia
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
   * [s3 Reports](Reports and textracted versions in s3 bucket with web interface)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
@@ -269,10 +270,12 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
-* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
+## Other
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
-8 [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
+* [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
+* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
+* [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 ## Reports
 ### Australia
 * [Northern Territory GEMIS](https://geoscience.nt.gov.au/gemis)
@@ -499,6 +502,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 
 ## C
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
+  * [Tools]() -> Note has many command line tools that are very useful as well
 
 ## Data Science
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
