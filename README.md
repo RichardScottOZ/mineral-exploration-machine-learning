@@ -487,6 +487,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
 
 ## PyData Stack
+* [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
+  *[GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
 * [Numpy Multidimensional arrays](https://numpy.org/)
 * [Pandas Tabular data analysis](https://pandas.pydata.org/)
 * [Matplotlib visualisation](https://matplotlib.org/)
