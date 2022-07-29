@@ -294,6 +294,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
 * [NASA](https://www.sti.nasa.gov/research-access/)  
+* [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
 
 # Tools
 ## GIS
