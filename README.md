@@ -267,7 +267,8 @@ Suggestions welcome: open an issue.
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
-* [CPRM[(https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+* [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 ## Reports
 ### Australia
 * [Northern Territory GEMIS](https://geoscience.nt.gov.au/gemis)
