@@ -297,6 +297,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
 * [NASA](https://www.sti.nasa.gov/research-access/)  
+* [ResearchGate](https://www.researchgate.net/) -> Researcher and professional network
 
 # Tools
 ## GIS
@@ -523,7 +524,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
 * [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
 * [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
-* [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook)
+* [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook) -> How to access NASA resources
+* [Data Cleaner's Cookbook](https://www.datafix.com.au/cookbook/about.html) -> Putting unix tools to good use for data wrangling and cleaning
 
 # Other
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
