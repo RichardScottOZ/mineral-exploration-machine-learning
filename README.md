@@ -226,6 +226,7 @@ Suggestions welcome: open an issue.
 * [Remote Sensing]()
 
 # Web Services
+If listed it is assumed they are data generally, if just pictures like WMS it will say so.
 ## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
@@ -242,6 +243,8 @@ Suggestions welcome: open an issue.
 ## Peru
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
+## Sweden
+* [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
 ## Other
 * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
