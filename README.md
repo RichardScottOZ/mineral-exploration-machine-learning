@@ -246,11 +246,11 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ## Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
 ## Other
-* [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
+* [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
+  * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
 * [Spain](https://mapas.igme.es/gis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
-* [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
@@ -271,6 +271,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+8 [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 ## Reports
 ### Australia
@@ -301,12 +302,12 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 
 # Tools
 ## GIS
-  * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools
+  * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools : Indispensible for some quick and easy viewing
   * [GRASS](https://github.com/OSGeo/grass)
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
-  * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly
+  * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly: a great library!
   * [OMFVista](https://github.com/OpenGeoVis/omfvista0 ->Pyvista for Open Mining Format
   * [Scipy 2022 Tutorial](https://github.com/pyvista/pyvista-tutorial)
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
@@ -329,6 +330,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
 * [SF](https://r-spatial.github.io/sf/)
+* [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 ## Raster Data
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
