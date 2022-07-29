@@ -280,8 +280,10 @@ Suggestions welcome: open an issue.
 * [Queensland](https://github.com/RichardScottOZ/open-data-api/blob/master/API-Large_Query_Retrieval_Example-Geochem.ipynb)
 * [NSW Digs](https://digs.geoscience.nsw.gov.au)
   * [API not public]((https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
- ### Canada
- * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
+### Canada
+* [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
+* [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
+### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
