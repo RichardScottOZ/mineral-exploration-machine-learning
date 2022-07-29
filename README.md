@@ -447,15 +447,16 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
   * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
 ### Stac catalogues
-  * [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
-  * [Intake-stac](https://github.com/intake/intake-stac)
-  * [Sat-search](https://github.com/sat-utils/sat-search)
-  * [Pystac](https://github.com/stac-utils/pystac)
-  * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
-    * [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
+* [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
+* [Intake-stac](https://github.com/intake/intake-stac)
+* [Sat-search](https://github.com/sat-utils/sat-search)
+* [Pystac](https://github.com/stac-utils/pystac)
+* [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
+* [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
 ### Statistics
-  * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
-  * [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
+* [Orange](https://orangedatamining.com/) -> Data Mining Gui
+* [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
+* [Hdmedians](https://github.com/RichardScottOZ/hdmedians)
 ### Visualisation
   * [TV](https://github.com/daleroberts/tv) -> view satellite imagery in a terminal
   * [Titiler](https://github.com/developmentseed/titiler-pds)
