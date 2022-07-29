@@ -154,7 +154,8 @@ Suggestions welcome: open an issue.
   * [kmedoids](https://github.com/kno10/python-kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
 ## Explainability
-* [InterpretML](https://github.com/interpretml/interpret-community) -> Interpreting models of tabular data
+* [InterpretML](https://github.com/interpretml/interpret) -> Interpreting models of tabular data
+  * [InterpretML](https://github.com/interpretml/interpret-community) -> Community addition
 
 ## Deep Learning
 * [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
