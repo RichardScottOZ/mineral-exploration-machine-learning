@@ -350,6 +350,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## Data Conversion
+* [PDF Miner](https://github.com/euske/pdfminer)
 * [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
@@ -358,6 +359,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
+
 ## Geochemistry
 * [Pygeochemtools](https://github.com/RADutchie/pygeochemtools) -> library and command line to enable rapid QC and plotting of geochemical data
 * [SA Geochemical Maps](https://github.com/GeologicalSurveySouthAustralia/SA-geochemical-maps) -> Data Analysis and plotting of South Australia geochemistry data from the Geological Survey of SA
