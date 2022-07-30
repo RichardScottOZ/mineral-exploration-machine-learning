@@ -549,8 +549,15 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 - Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
 - Occasional paper here may be listed above
 
+# Papers with Code
+- https://www.sciencedirect.com/science/article/pii/S2590197422000064?via%3Dihub#bib20- Geoscience language models and their intrinsic evaluation -> NRCan code above [includes model]
+- https://www.researchgate.net/publication/334507958_Word_embeddings_for_application_in_geosciences_development_evaluation_and_examples_of_soil-related_concepts -> GeoVec [includes model]
+
+
 # Geospatial Output - No Code
 - [NWMP Data-Driven Mineral Exploration And Geological Mapping](https://geoscience.data.qld.gov.au/report/cr113697)
+
+
 
 ## New to File
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
