@@ -479,6 +479,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Sits](https://github.com/RichardScottOZ/sits)
 * [Hsdar](https://rdrr.io/cran/hsdar/man/hsdar-package.html)
 * [Stars](https://r-spatial.github.io/stars/)
+* [Peru Gold Mining SAR](https://gist.github.com/RichardScottOZ/92f4681d9b1931593417eec1001d14bd)
 ## Mineral Potential
 * [Nickel Mineral Potential Mapping](https://github.com/RichardScottOZ/Nickel-Mineral-Potential-Modelling) -> ESRI Based analysis  
 * [Prospectivity Online Tool](https://github.com/mvalenta100/prospectivity-online-tool)
@@ -552,6 +553,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 # Other
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
+* [Essoar](https://www.essoar.org/) -> Preprint paper archive
 
 
 # Papers with Code 
@@ -1015,7 +1017,7 @@ India
 - https://www.researchgate.net/post/Is_it_possible_to_derive_free_air_anomaly_or_bouguer_anomaly_from_gravity_disturbance_data
 - https://www.leouieda.com/pdf/use-the-disturbance.pdf
 - https://www.leouieda.com/papers/use-the-disturbance.html
-- https://eartharxiv.org/2kjvc/ - Global distribution of sediment-hosted metals controlled by craton edge stability
+- https://eartharxiv.org/2kjvc/ -> Global distribution of sediment-hosted metals controlled by craton edge stability
  
 ## Financial Forecasting
 - https://www.researchgate.net/publication/317137060_Forecasting_copper_prices_by_decision_tree_learning
