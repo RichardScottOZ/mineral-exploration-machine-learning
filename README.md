@@ -64,6 +64,7 @@ Suggestions welcome: open an issue.
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
+* [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
