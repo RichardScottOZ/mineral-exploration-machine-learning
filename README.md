@@ -583,6 +583,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
 - https://www.researchgate.net/publication/352251078_Data_Analysis_Methods_for_Prospectivity_Modelling_as_applied_to_Mineral_Exploration_Targeting_State-of-the-Art_and_Outlook
+- https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 
 ### Australia
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
