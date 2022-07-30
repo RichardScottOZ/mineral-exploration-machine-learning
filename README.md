@@ -118,14 +118,13 @@ Suggestions welcome: open an issue.
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
-## Course
-[ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 
 ## Other
-[Network Analysis of Mineralogical Systems(https://github.com/lic10/DTDI-DataAnalysis)
-[Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
-[Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
-
+* [Network Analysis of Mineralogical Systems(https://github.com/lic10/DTDI-DataAnalysis)
+  * [Data](http://www.minsocam.org/MSA/AmMin/TOC/2017/Aug2017_data/AM-17-86104.zip) -> Data from paper here
+* [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
+* [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
+* [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 
 
 ## Platforms
