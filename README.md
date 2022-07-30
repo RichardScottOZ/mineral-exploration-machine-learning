@@ -357,6 +357,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
     
 ## Data Conversion
+* [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
 * [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
