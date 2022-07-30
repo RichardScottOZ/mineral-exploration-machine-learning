@@ -494,9 +494,11 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
 * [Spatial-kde](https://github.com/mblackgeo/spatial-kde)
+### Colormaps
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 * [PU Colormaps](https://github.com/thomasostersen/pu_cmaps) -> Formatted for user in Geoscience Analyst
 * [Colormap distortions](https://github.com/mycarta/Colormap-distorsions-Panel-app) -> A Panel app to demonstrate distorsions created by non-perceptual colormaps on geophysical data
+* [Ripping Data from Colormpas](https://gist.github.com/kwinkunks/485190adcf3239341d8bebac94de3a2b)
 * [Open Geoscience Code Projects](https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/)
 
 ## Geospatial
