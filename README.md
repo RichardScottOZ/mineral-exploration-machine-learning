@@ -72,6 +72,8 @@ Suggestions welcome: open an issue.
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+## Petrophysics
+* [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
 # Geochemistry
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
