@@ -52,6 +52,7 @@ Suggestions welcome: open an issue.
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
 * [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE)
   * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
+* [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
@@ -990,4 +991,5 @@ India
 ## Financial Forecasting
 - https://www.researchgate.net/publication/317137060_Forecasting_copper_prices_by_decision_tree_learning
 - https://www.researchgate.net/publication/4874824_Mine_Size_and_the_Structure_of_Costs
+ 
  
