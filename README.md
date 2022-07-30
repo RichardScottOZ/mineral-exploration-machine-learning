@@ -125,7 +125,7 @@ Suggestions welcome: open an issue.
 * [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
 * [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
 * [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
-
+* [Be a Geoscience Detective](https://github.com/bluetyson/Be-a-geoscience-detective)
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
