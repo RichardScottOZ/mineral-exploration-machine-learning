@@ -313,7 +313,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 # Tools
 ## GIS
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools : Indispensible for some quick and easy viewing
-  * [GRASS](https://github.com/OSGeo/grass)
+    * [2D Geology in QGIS](https://github.com/frizatch/2DGeology_in_QGIS) -> Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
+  * [GRASS](https://github.com/OSGeo/grass) 
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
