@@ -122,8 +122,10 @@ Suggestions welcome: open an issue.
 [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 
 ## Other
+[Network Analysis of Mineralogical Systems(https://github.com/lic10/DTDI-DataAnalysis)
 [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
 [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
+
 
 
 ## Platforms
@@ -545,11 +547,6 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
 
-# Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
-- Eventually will separate out into things that have data packages or not like NSW Zone studies.
-- However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
-- Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
-- Occasional paper here may be listed above
 
 # Papers with Code 
 ### NLP
@@ -557,6 +554,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 - https://www.researchgate.net/publication/334507958_Word_embeddings_for_application_in_geosciences_development_evaluation_and_examples_of_soil-related_concepts -> GeoVec [includes model]
 - https://www.researchgate.net/publication/347902344_Portuguese_word_embeddings_for_the_oil_and_gas_industry_Development_and_evaluation -> PetroVec [includes model]
 ### Other
+- https://www.researchgate.net/publication/318839364_Network_analysis_of_mineralogical_systems
 
 # Papers with Features Data
 These you can reproduce the output geospatially from the data given.
@@ -566,6 +564,13 @@ These you can reproduce the output geospatially from the data given.
 
 # Geospatial Output - No Code
 - https://geoscience.data.qld.gov.au/report/cr113697) -> NWMP Data-Driven Mineral Exploration And Geological Mapping
+
+# Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
+- Eventually will separate out into things that have data packages or not like NSW Zone studies.
+- However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
+- Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
+- Occasional paper here may be listed above
+
 
 ## New to File
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
