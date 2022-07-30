@@ -489,7 +489,6 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [PyASX](https://github.com/jericmac/pyasx) -> ASX Data Feed scraping
 * [Metal Price API](https://github.com/chutommy/metal-price) -> Containerised Microservice
 ## Visualisation 
-* [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Napari](https://github.com/napari/napari) -> Multidimensional image viewer
 * [Holoviews](https://github.com/holoviz/holoviews) -> Large scale data visualisation
 * [Graphviz](https://pygraphviz.github.io/documentation/stable/install.html#windows-install) -> Graph plotting/viewing assistance windows installation info
@@ -514,6 +513,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Zarr](https://github.com/zarr-developers/zarr-python) -> Compressed, chunked distributed arrays
 * [Dask](https://github.com/dask/dask) -> Parallel, distributed computing
   * [Dask Cloud Provider](https://github.com/RichardScottOZ/dask-cloudprovider) -> Automatically start dask clusters on the cloud
+  * [Dask Median](https://gist.github.com/andrewdhicks/d89849997453cdfad6fa568816ca7160) -> Notebook giving a Dask median function prototype
 * [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
 
 ## C
@@ -546,6 +546,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Geoscience Knowledge Manager](https://github.com/Loop3D/GKM)
 
 # Books
+* [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
 * [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
 * [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
