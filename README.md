@@ -313,6 +313,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [iMaQs](https://web33.gov.mb.ca/imaqs) -> Integrated Mining and Quarrying System
 * [Newfoundland and Labrador[(https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
 * [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
+* [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx)
+* [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
