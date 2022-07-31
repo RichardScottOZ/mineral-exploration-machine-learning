@@ -305,6 +305,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
 * [British Colubmia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
+  * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
 * [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx?UseCase=ExternalSearch)
@@ -315,6 +316,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
 * [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx)
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
+* [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
