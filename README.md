@@ -1039,5 +1039,8 @@ India
 ## Financial Forecasting
 - https://www.researchgate.net/publication/317137060_Forecasting_copper_prices_by_decision_tree_learning
 - https://www.researchgate.net/publication/4874824_Mine_Size_and_the_Structure_of_Costs
+
+## Agent based Modelling
+- https://mpra.ub.uni-muenchen.de/62159/1/MPRA_paper_62159.pdf Mineral exploration as a game of chance https://econpapers.repec.org/paper/pramprapa/62159.htm
  
  
