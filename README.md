@@ -265,6 +265,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 * [CORE](https://core.ac.uk/data) -> Open Research Texts
   * [API Notebook](https://colab.research.google.com/drive/1_bjqDQhqj7AnSfoCAXDCMOnGZLPQWKfu?usp=sharing) -> Example and fucntions
+* [SHARE](https://share.osf.io/discover?q=mineral%20AND%20exploration) -> Open Science API
 * [USGS Publications](https://pubs.er.usgs.gov/documentation/web_service_documentation)
 
 # Data Portals
