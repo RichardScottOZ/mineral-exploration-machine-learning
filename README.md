@@ -247,6 +247,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ## Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
 * [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services
+## Canada
+* [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
 ## Peru
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
@@ -305,10 +307,14 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [British Colubmia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
+* [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx?UseCase=ExternalSearch)
+* [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
+* [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
+*[GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
 * [NASA](https://www.sti.nasa.gov/research-access/)  
 * [ResearchGate](https://www.researchgate.net/) -> Researcher and professional network
