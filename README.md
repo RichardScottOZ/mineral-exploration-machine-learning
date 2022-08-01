@@ -139,6 +139,7 @@ Suggestions welcome: open an issue.
 ## Guides
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * [Earth Observation](https://github.com/RichardScottOZ/awesome-earthobservation-code)
+* [Earth Artificial Intelligence](Awesome-Earth-Artificial-Intelligence)
 
 
 # Data Quality
