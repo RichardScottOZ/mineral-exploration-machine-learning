@@ -133,6 +133,7 @@ Suggestions welcome: open an issue.
 * [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
 * [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 * [Be a Geoscience Detective](https://github.com/bluetyson/Be-a-geoscience-detective)
+* [Earth ML](http://earthml.holoviz.org/tutorial/Machine_Learning.html) -> Some basic tutorials in PyData approaches
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
