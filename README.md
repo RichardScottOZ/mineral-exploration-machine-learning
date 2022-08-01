@@ -46,6 +46,7 @@ Suggestions welcome: open an issue.
 * [Caldera](https://github.com/mrodda117/CalderaPublic) -> Caldera Analytics analysis
 * [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
 * [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
+* [Data Driven Mineralisation Mapping](https://github.com/Abdallah-M-Ali/mman4020_Data_Driven_Mineralisation_Mapping/blob/main/docs/tensor.ipynb)
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
@@ -54,6 +55,8 @@ Suggestions welcome: open an issue.
   * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 * [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
 * [China](https://github.com/yangna815/Mineral-Prospectivity-Prediction-Convolutional-Neural-Networks) -> CNN Example with a few architectures [a paper by this author uses GoogleNet]
+## Sudan
+* [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 ## Commodities
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
