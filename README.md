@@ -289,10 +289,12 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
+## Canada
+* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
+* [QUEBEC](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
 ## Other
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
-* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
@@ -333,6 +335,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 	* [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
 *[GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
+* [Mineral Databse](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
 * [NASA](https://www.sti.nasa.gov/research-access/)  
 * [ResearchGate](https://www.researchgate.net/) -> Researcher and professional network
 
