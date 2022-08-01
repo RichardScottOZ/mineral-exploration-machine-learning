@@ -101,7 +101,7 @@ Suggestions welcome: open an issue.
 * [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
-## Word Embedings
+## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 * [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
   * [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
@@ -168,6 +168,8 @@ Suggestions welcome: open an issue.
 * [kmedoids](https://github.com/letiantian/kmedoids)
   * [kmedoids](https://github.com/kno10/python-kmedoids)
 * [Picasso](https://github.com/pachterlab/picasso)
+### Bayesian
+* [Bayseg](https://github.com/cgre-aachen/bayseg) -> Spatial segmentation
 ## Explainability
 * [InterpretML](https://github.com/interpretml/interpret) -> Interpreting models of tabular data
   * [InterpretML](https://github.com/interpretml/interpret-community) -> Community addition
