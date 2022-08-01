@@ -70,6 +70,8 @@ Suggestions welcome: open an issue.
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
+## Inversion
+* [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
 ## Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 ## Petrophysics
@@ -311,14 +313,14 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
+* [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
+* [Newfoundland and Labrador[(https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
+* [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
+* [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
 * [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx)
   * [Search](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx?UseCase=ExternalSearch)
-* [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
-* [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
   * [iMaQs](https://web33.gov.mb.ca/imaqs) -> Integrated Mining and Quarrying System
-* [Newfoundland and Labrador[(https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
-* [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
