@@ -309,6 +309,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
+* [OSF](https://osf.io/) -> Open Science Foundation
 
 ## Reports
 ### Australia
