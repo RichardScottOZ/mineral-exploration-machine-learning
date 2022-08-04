@@ -36,9 +36,12 @@ Suggestions welcome: open an issue.
 
 
 # Mineral Prospectivity
+## Australia
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
   * [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
+* [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
+  * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
@@ -55,15 +58,12 @@ Suggestions welcome: open an issue.
   * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 * [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
 ## China
+* [MPM by ensemble learning](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
 * [Mineral Prospectivity Prediction Convolutional Neural Networks](https://github.com/yangna815/Mineral-Prospectivity-Prediction-Convolutional-Neural-Networks) -> CNN Example with a few architectures [a paper by this author uses GoogleNet]
 * [Mineral Prospectivity Prediction by CSAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CSAE)
 * [Mineral Prospectivity Prediction by CAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CAE)
 ## Sudan
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
-## Commodities
-* [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
-  * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
-* [Pb-Zn-Ag-Au](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
@@ -71,16 +71,23 @@ Suggestions welcome: open an issue.
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
-* [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
+
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
+
+## Stratigraphy
+* [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
+
 ## Inversion
+
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
 ## Structure
+
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+
 ## Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
@@ -92,7 +99,6 @@ Suggestions welcome: open an issue.
 * [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
-
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
@@ -134,7 +140,7 @@ Suggestions welcome: open an issue.
 
 
 ## Other
-* [Network Analysis of Mineralogical Systems(https://github.com/lic10/DTDI-DataAnalysis)
+* [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
   * [Data](http://www.minsocam.org/MSA/AmMin/TOC/2017/Aug2017_data/AM-17-86104.zip) -> Data from paper here
 * [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
 * [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
