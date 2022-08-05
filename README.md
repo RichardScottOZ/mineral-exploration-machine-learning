@@ -278,6 +278,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
 * [Spain](https://mapas.igme.es/gis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
+* [Minnesota](https://mngs-umn.opendata.arcgis.com/)
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
