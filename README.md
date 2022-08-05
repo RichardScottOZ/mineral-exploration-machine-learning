@@ -309,8 +309,10 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
-* [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 * [OSF](https://osf.io/) -> Open Science Foundation
+## USA
+* [Michigan](https://geo.btaa.org/)
+* [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 
 ## Reports
 ### Australia
@@ -346,6 +348,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [Arizona](http://repository.azgs.az.gov/)
  * [Montana](https://www.mbmg.mtech.edu/mbmgcat/public/ListPublications.asp)
  * [Nevada](https://pubs.nbmg.unr.edu/Open-File-Reports-s/1861.htm)
+ * [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
  * [Minnesota](https://conservancy.umn.edu/handle/11299/708)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
