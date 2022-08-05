@@ -81,11 +81,10 @@ Suggestions welcome: open an issue.
 ## Stratigraphy
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
-## Inversion
-
+## Geophysics
+### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
-## Structure
-
+### Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
 ## Petrophysics
@@ -284,6 +283,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 * [CORE](https://core.ac.uk/data) -> Open Research Texts
   * [API Notebook](https://colab.research.google.com/drive/1_bjqDQhqj7AnSfoCAXDCMOnGZLPQWKfu?usp=sharing) -> Example and fucntions
+* [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
 * [SHARE](https://share.osf.io/discover?q=mineral%20AND%20exploration) -> Open Science API
 * [USGS Publications](https://pubs.er.usgs.gov/documentation/web_service_documentation)
 
@@ -669,6 +669,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/355749736_Mineral_prospectivity_mapping_using_a_joint_singularity-based_weighting_method_and_long_short-term_memory_network
 - https://www.researchgate.net/publication/357584076_Mapping_prospectivity_for_regolith-hosted_REE_deposits_via_convolutional_neural_network_with_generative_adversarial_network_augmented_data
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
+- https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
+
 ### Eritrea
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
 ### Finland
