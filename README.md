@@ -341,6 +341,10 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx)
   * [Search](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx?UseCase=ExternalSearch)
   * [iMaQs](https://web33.gov.mb.ca/imaqs) -> Integrated Mining and Quarrying System
+ ### USA
+ * [Arizona](http://repository.azgs.az.gov/)
+ * [Montana](https://www.mbmg.mtech.edu/mbmgcat/public/ListPublications.asp)
+ * [Nevada](https://pubs.nbmg.unr.edu/Open-File-Reports-s/1861.htm)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
