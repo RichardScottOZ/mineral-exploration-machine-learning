@@ -615,6 +615,9 @@ These you can reproduce the output geospatially from the data given.
 # Geospatial Output - No Code
 - https://geoscience.data.qld.gov.au/report/cr113697) -> NWMP Data-Driven Mineral Exploration And Geological Mapping
 
+# Journals
+- https://www.sciencedirect.com/journal/artificial-intelligence-in-geosciences -> Artificial Intelligence in Geosciences
+
 # Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
 - Eventually will separate out into things that have data packages or not like NSW Zone studies.
 - However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
