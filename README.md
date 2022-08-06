@@ -335,7 +335,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ### Canada
 * [British Colubmia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
   * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y)
-* [Ontario](https://data.ontario.ca/en/dataset/assessment-files)
+* [Ontario](https://data.ontario.ca/en/dataset/assessment-files) -> Mineral Asssessment Reports
+  * [Ontario Publications](https://www.geologyontario.mndm.gov.on.ca/Publications_Description.html)
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
