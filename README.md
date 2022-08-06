@@ -303,7 +303,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 ## Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
-* [QUEBEC](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
+* [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
+* [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
