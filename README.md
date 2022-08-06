@@ -304,16 +304,17 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ## Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [QUEBEC](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
+## USA
+* [Michigan](https://geo.btaa.org/)
+* [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
+* [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
+* [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 ## Other
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 * [OSF](https://osf.io/) -> Open Science Foundation
-## USA
-* [Michigan](https://geo.btaa.org/)
-* [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
-* [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 
 ## Reports
 ### Australia
@@ -338,7 +339,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
-* [Newfoundland and Labrador[(https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
+* [Newfoundland and Labrador]https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
 * [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
@@ -354,6 +355,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
    *[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
  * [Alaska](https://dggs.alaska.gov/pubs)
+ * [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
   * [Mineral Potential](https://www2.bgs.ac.uk/mineralsuk/exploration/potential/mrp.html)
