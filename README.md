@@ -313,6 +313,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
+* [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 
 ## Reports
 ### Australia
