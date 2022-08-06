@@ -351,6 +351,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
  * [Minnesota](https://conservancy.umn.edu/handle/11299/708)
  * [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
+   *[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
+ * [Alaska](https://dggs.alaska.gov/pubs)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
 	* [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
