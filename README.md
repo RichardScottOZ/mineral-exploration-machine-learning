@@ -284,9 +284,10 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
 * [CORE](https://core.ac.uk/data) -> Open Research Texts
   * [API Notebook](https://colab.research.google.com/drive/1_bjqDQhqj7AnSfoCAXDCMOnGZLPQWKfu?usp=sharing) -> Example and fucntions
-* [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
 * [SHARE](https://share.osf.io/discover?q=mineral%20AND%20exploration) -> Open Science API
 * [USGS Publications](https://pubs.er.usgs.gov/documentation/web_service_documentation)
+* [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
+* [ADEPT](https://xdd.wisc.edu/adept/) -> GUI to xDD to search 15M harvested papers
 
 # Data Portals
 ## Australia
@@ -305,6 +306,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
+* [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
+* [Yukon](https://data.geology.gov.yk.ca/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
@@ -335,10 +338,12 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
-  * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y)
+  * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y) -> Mineral Assessment Reports
+  * [Publications](http://webmap.em.gov.bc.ca/mapplace/minpot/Publications_Report.asp) -> Publications
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files) -> Mineral Asssessment Reports
   * [Ontario Publications](https://www.geologyontario.mndm.gov.on.ca/Publications_Description.html)
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
+  * [Publications](https://ags.aer.ca/products/all-publications?title=&report-id=&publication_type=All&sort_by=created&sort_order=DESC&page=0)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
 * [Newfoundland and Labrador](https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
@@ -348,16 +353,16 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Saskatchewan](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx)
   * [Search](http://mineral-assessment.saskatchewan.ca/Pages/BasePages/Main.aspx?UseCase=ExternalSearch)
   * [iMaQs](https://web33.gov.mb.ca/imaqs) -> Integrated Mining and Quarrying System
- ### USA
- * [Arizona](http://repository.azgs.az.gov/)
- * [Montana](https://www.mbmg.mtech.edu/mbmgcat/public/ListPublications.asp)
- * [Nevada](https://pubs.nbmg.unr.edu/Open-File-Reports-s/1861.htm)
- * [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
- * [Minnesota](https://conservancy.umn.edu/handle/11299/708)
- * [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
-   *[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
- * [Alaska](https://dggs.alaska.gov/pubs)
- * [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
+### USA
+* [Arizona](http://repository.azgs.az.gov/)
+* [Montana](https://www.mbmg.mtech.edu/mbmgcat/public/ListPublications.asp)
+* [Nevada](https://pubs.nbmg.unr.edu/Open-File-Reports-s/1861.htm)
+* [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
+* [Minnesota](https://conservancy.umn.edu/handle/11299/708)
+* [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
+*[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
+* [Alaska](https://dggs.alaska.gov/pubs)
+* [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
 ### Other
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
   * [Mineral Potential](https://www2.bgs.ac.uk/mineralsuk/exploration/potential/mrp.html)
