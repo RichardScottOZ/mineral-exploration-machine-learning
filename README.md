@@ -330,7 +330,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Queensland](https://github.com/RichardScottOZ/open-data-api/blob/master/API-Large_Query_Retrieval_Example-Geochem.ipynb)
 * [NSW Digs](https://digs.geoscience.nsw.gov.au)
   * [NSW Digs open](https://digsopen.minerals.nsw.gov.au/digsopen/)
-  * [API not public]((https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
+  * [API not public](https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
 * [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
 * [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
@@ -341,7 +341,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
-* [Newfoundland and Labrador]https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
+* [Newfoundland and Labrador](https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
 * [Quebec](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_index?entt=LG&l=A)
