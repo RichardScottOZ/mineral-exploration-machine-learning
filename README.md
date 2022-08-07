@@ -334,7 +334,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
 * [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
-* [British Colubmia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
+* [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
   * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y)
 * [Ontario](https://data.ontario.ca/en/dataset/assessment-files) -> Mineral Asssessment Reports
   * [Ontario Publications](https://www.geologyontario.mndm.gov.on.ca/Publications_Description.html)
