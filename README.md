@@ -287,7 +287,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [SHARE](https://share.osf.io/discover?q=mineral%20AND%20exploration) -> Open Science API
 * [USGS Publications](https://pubs.er.usgs.gov/documentation/web_service_documentation)
 * [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
-* [ADEPT](https://xdd.wisc.edu/adept/) -> GUI to xDD to search 15M harvested papers
+* [xDD](https://xdd.wisc.edu/api/v1) -> former GeoDeepDive
+ * [ADEPT](https://xdd.wisc.edu/adept/) -> GUI to xDD to search 15M harvested papers
 
 # Data Portals
 ## Australia
@@ -308,6 +309,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
 * [Yukon](https://data.geology.gov.yk.ca/)
+  *[ftp](https://ygsftp.gov.yk.ca/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
