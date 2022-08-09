@@ -82,6 +82,9 @@ Suggestions welcome: open an issue.
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
 ## Geophysics
+### Australia
+#### Regolith Depth
+* [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6)
 ### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
