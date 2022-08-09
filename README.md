@@ -82,6 +82,9 @@ Suggestions welcome: open an issue.
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
 ## Geophysics
+### AEM Interpolation
+* [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
+  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
 ### Structure
@@ -310,6 +313,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
 * [Yukon](https://data.geology.gov.yk.ca/)
   *[ftp](https://ygsftp.gov.yk.ca/)
+ * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
