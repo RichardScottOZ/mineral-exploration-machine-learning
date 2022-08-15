@@ -163,6 +163,7 @@ Suggestions welcome: open an issue.
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * [Earth Observation](https://github.com/RichardScottOZ/awesome-earthobservation-code)
 * [Earth Artificial Intelligence](Awesome-Earth-Artificial-Intelligence)
+* [Open Source GIS](https://link.springer.com/chapter/10.1007/978-3-030-53125-6_30) -> Comprehensive overview of the ecosystem
 
 
 # Data Quality
