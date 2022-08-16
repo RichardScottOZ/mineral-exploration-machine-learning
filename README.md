@@ -111,9 +111,9 @@ Suggestions welcome: open an issue.
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
   * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
+ * [Presentation](https://datascience.jpl.nasa.gov/aiworkshop/presentation-27)
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
-* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
@@ -131,6 +131,9 @@ Suggestions welcome: open an issue.
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
+## Named Entity Recognition
+* [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
+* [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 
 # Remote Sensing
 * [DEA notebooks[(https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
