@@ -338,6 +338,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 * [OSF](https://osf.io/) -> Open Science Foundation
+* [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
 
 ## Reports
 ### Australia
