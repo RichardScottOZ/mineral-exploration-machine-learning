@@ -152,6 +152,10 @@ Suggestions welcome: open an issue.
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
+## Visualisation
+[Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
+ * [Paper](https://arxiv.org/pdf/2103.00741.pdf)
+
 
 ## Other
 * [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
@@ -367,6 +371,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Publications](https://ags.aer.ca/products/all-publications?title=&report-id=&publication_type=All&sort_by=created&sort_order=DESC&page=0)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
+ * [Publications](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146278)
 * [Newfoundland and Labrador](https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/Searching/ReferenceSearch.aspx)
 * [Nova Scotia](https://gesner.novascotia.ca/novascan/DocumentQuery.faces)
