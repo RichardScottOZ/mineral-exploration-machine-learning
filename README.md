@@ -110,7 +110,8 @@ Suggestions welcome: open an issue.
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
   * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
-* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction api
+* [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction 
+ * [API](https://github.com/nasa/concept-tagging-api) -> API web service
  * [Presentation](https://datascience.jpl.nasa.gov/aiworkshop/presentation-27)
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
@@ -312,6 +313,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
     * [Seismic downloads](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/segy2d/web/segy/ResultSet?siblingtreeid=e6d6d3af10d149d39ba2141b9d1ce660&sid=6fac787ca578408bad6cfb514eb15498&order=NATIVE%28%27LINE%2Fascend%27%29&rpp=-1&set=1&reorder=1&bclabel=Result+Set) -> One page of links
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
+* [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
