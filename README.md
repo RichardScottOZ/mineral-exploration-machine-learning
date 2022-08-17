@@ -86,7 +86,8 @@ Suggestions welcome: open an issue.
 ## Geophysics
 ### Australia
 #### Regolith Depth
-* [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6)
+* [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6) -> Model
+* [Complete Radiometrics Grid of Australia with modelled infill]](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
 ### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
