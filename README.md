@@ -781,6 +781,9 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 ### Overviews
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 
+### AEM
+- https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
+
 ## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
 ### General
