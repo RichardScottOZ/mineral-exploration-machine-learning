@@ -64,6 +64,9 @@ Suggestions welcome: open an issue.
 * [Mineral Prospectivity Prediction by CAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CAE)
 ## Sudan
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
+## Norway
+* [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
+ * [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
@@ -729,7 +732,6 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
 - https://www.researchgate.net/publication/358555996_Learning_3D_mineral_prospectivity_from_3D_geological_models_using_convolutional_neural_networks_Application_to_a_structure-controlled_hydrothermal_gold_deposit
-- https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 
 ### Eritrea
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
@@ -766,6 +768,7 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 - https://www.researchgate.net/publication/355397149_Gold_Prospectivity_Mapping_in_the_Sonakhan_Greenstone_Belt_Central_India_A_Knowledge-Driven_Guide_for_Target_Delineation_in_a_Region_of_Low_Exploration_Maturity
 ### Phillipines
 - https://www.researchgate.net/publication/356546133_Mineral_Prospectivity_Mapping_via_Gated_Recurrent_Unit_Model
+- https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 ### Russia
 - https://www.researchgate.net/publication/358431343_Application_of_Maximum_Entropy_for_Mineral_Prospectivity_Mapping_in_Heavily_Vegetated_Areas_of_Greater_Kurile_Chain_with_Landsat_8_Data
 - https://www.researchgate.net/publication/354000754_Mineral_Prospectivity_Mapping_for_Forecasting_Gold_Deposits_in_the_Central_Kolyma_Region_North-East_Russia
