@@ -783,6 +783,7 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 
 ### AEM
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
+- https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 
 ## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
