@@ -778,6 +778,8 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 ### Spain
 - https://www.researchgate.net/publication/356639977_Machine_learning_models_for_Hg_prospecting_in_the_Almaden_mining_district
 
+### Overviews
+- https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 
 ## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
