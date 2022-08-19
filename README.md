@@ -312,6 +312,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
 * [xDD](https://xdd.wisc.edu/api/v1) -> former GeoDeepDive
  * [ADEPT](https://xdd.wisc.edu/adept/) -> GUI to xDD to search 15M harvested papers
+* [OpenAlex]
+  * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
 
 # Data Portals
 ## Australia
