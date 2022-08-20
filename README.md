@@ -43,6 +43,7 @@ Suggestions welcome: open an issue.
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 * [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
+ * [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ## Explore SA - South Australian Department of Energy and Mining Competition
@@ -705,7 +706,8 @@ These you can reproduce the output geospatially from the data given.
 ### Brazil
 - https://www.researchgate.net/publication/360055592_Predicting_mineralization_and_targeting_exploration_criteria_based_on_machine-learning_in_the_Serra_de_Jacobina_quartz-pebble-metaconglomerate_Au-U_deposits_Sao_Francisco_Craton_Brazil
 - https://www.researchgate.net/publication/362263694_Machine_Learning_Methods_for_Quantifying_Uncertainty_in_Prospectivity_Mapping_of_Magmatic-Hydrothermal_Gold_Deposits_A_Case_Study_from_Juruena_Mineral_Province_Northern_Mato_Grosso_Brazil
-https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
+- https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
+-  https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
 #### Fuzzy
 - https://www.researchgate.net/publication/356508827_Geophysical-spatial_Data_Modeling_using_Fuzzy_Logic_Applied_to_Nova_Aurora_Iron_District_Northern_Minas_Gerais_State_Southeastern_Brazil
 - https://www.researchgate.net/publication/348823482_Combining_fuzzy_analytic_hierarchy_process_with_concentration-area_fractal_for_mineral_prospectivity_mapping_A_case_study_involving_Qinling_orogenic_belt_in_central_China
