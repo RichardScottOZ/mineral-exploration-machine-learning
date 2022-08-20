@@ -312,7 +312,9 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [CROSSREF](https://api.crossref.org/swagger-ui/index.html)
 * [xDD](https://xdd.wisc.edu/api/v1) -> former GeoDeepDive
  * [ADEPT](https://xdd.wisc.edu/adept/) -> GUI to xDD to search 15M harvested papers
-* [OpenAlex]
+* [OpenAlex](https://docs.openalex.org/api)
+  * [api](https://api.openalex.org/)
+  * [diophila Python Library](https://github.com/smierz/diophila)
   * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
 
 # Data Portals
@@ -734,6 +736,7 @@ https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
 - https://www.researchgate.net/publication/358555996_Learning_3D_mineral_prospectivity_from_3D_geological_models_using_convolutional_neural_networks_Application_to_a_structure-controlled_hydrothermal_gold_deposit
+- https://www.sciencedirect.com/science/article/abs/pii/S0375674221001370 -> Distinguishing IOCG and IOA deposits via random forest algorithm based on magnetite composition
 
 ### Eritrea
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
