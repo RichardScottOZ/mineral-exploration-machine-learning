@@ -693,7 +693,8 @@ These you can reproduce the output geospatially from the data given.
 # Journals
 - https://www.sciencedirect.com/journal/artificial-intelligence-in-geosciences -> Artificial Intelligence in Geosciences
 
-# Papers - Generally Not ML, or no Code/Data and sometimes no availability at all
+# Papers
+- Generally Not ML, or no Code/Data and sometimes no availability at all
 - Eventually will separate out into things that have data packages or not like NSW Zone studies.
 - However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
 - Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
