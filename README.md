@@ -820,6 +820,8 @@ These you can reproduce the output geospatially from the data given.
 
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
+### Spectral Unmixing
+- https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
 
 
 ## Public Mineral Prospectivity Mapping
