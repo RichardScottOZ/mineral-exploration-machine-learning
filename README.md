@@ -802,7 +802,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
 #### Gravity
 - https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
-
+#### Magnetics
+- https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 ### Mineral
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 
