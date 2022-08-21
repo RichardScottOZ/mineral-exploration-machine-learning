@@ -820,6 +820,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
 
+### Geochemistry
+- https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 ### Geology
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://eprints.utas.edu.au/32368/
