@@ -681,6 +681,9 @@ These you can reproduce the output geospatially from the data given.
 ### England
 - https://www.researchgate.net/publication/358083076_Machine_learning_for_geochemical_exploration_classifying_metallogenic_fertility_in_arc_magmas_and_insights_into_porphyry_copper_deposit_formation
 
+### Geochemistry
+- - https://www.researchgate.net/publication/361076789_Automated_machine_learning_pipeline_for_geochemical_analysis
+
 ### Geology
 - https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
 
@@ -822,7 +825,6 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 ### Geochemistry
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
-- https://www.researchgate.net/publication/361076789_Automated_machine_learning_pipeline_for_geochemical_analysis
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
 ### Geology
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
