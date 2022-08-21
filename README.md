@@ -707,8 +707,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
-- https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
+- https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
 - https://www.researchgate.net/publication/353058758_Using_Machine_Learning_to_Map_Western_Australian_Landscapes_for_Mineral_Exploration 
 #### Brazil
@@ -755,6 +755,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/361194407_Visual_Interpretable_Deep_Learning_Algorithm_for_Geochemical_Anomaly_Recognition
 #### Eritrea
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
+#### South Korea
+- https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
 #### Finland
 - https://tupa.gtk.fi/raportti/arkisto/57_2021.pdf -> Mineral Prospectivity and Exploration Targeting MinProXT 2021 Webinar - paper compilation
 - https://www.researchgate.net/publication/360661926_Target-scale_prospectivity_modeling_for_gold_mineralization_within_the_Rajapalot_Au-Co_project_area_in_northern_Fennoscandian_Shield_Finland_Part_2_Application_of_self-organizing_maps_and_artificial_n
