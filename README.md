@@ -676,6 +676,7 @@ These you can reproduce the output geospatially from the data given.
 ### Prospectivity
 - https://www.sciencedirect.com/science/article/pii/S016913682100010X#s0135 -> Prospectivity modelling of Canadian magmatic Ni (±Cu ± Co ± PGE) sulphide mineral systems [well worth reading]
 - https://www.sciencedirect.com/science/article/pii/S0169136821006612#b0510 -> Data–driven prospectivity modelling of sediment–hosted Zn–Pb mineral systems and their critical raw materials [well worth reading]
+- https://www.sciencedirect.com/science/article/pii/S2666544122000028 -> Towards a fully data-driven prospectivity mapping methodology: A case study of the Southeastern Churchill Province, Québec and Labrador
 
 ### England
 - https://www.researchgate.net/publication/358083076_Machine_learning_for_geochemical_exploration_classifying_metallogenic_fertility_in_arc_magmas_and_insights_into_porphyry_copper_deposit_formation
@@ -731,6 +732,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
 - https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
 - https://www.researchgate.net/publication/348111963_Support_Vector_Machine_and_Artificial_Neural_Network_Modelling_of_Orogenic_Gold_Prospectivity_Mapping_in_the_Swayze_greenstone_belt_Ontario_Canada
+ - https://www.sciencedirect.com/science/article/pii/S2666544122000028 - > 
 - https://data.geology.gov.yk.ca/Reference/95936#InfoTab -> Updates to the Yukon Geological Survey’s mineral potential mapping methodology
 #### China
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
