@@ -159,8 +159,9 @@ Suggestions welcome: open an issue.
 
 ## Visualisation
 [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
- * [Paper](https://arxiv.org/pdf/2103.00741.pdf)
+ * [paper](https://arxiv.org/pdf/2103.00741.pdf)
 [Semantic Segmentation for Extracting Historic Surface Mining Disturbance from Topographic Maps](https://github.com/maxwell-geospatial/topoDL) -> Example is for coal mines
+* [paper](https://www.mdpi.com/2072-4292/12/24/4145)
 
 
 ## Other
@@ -792,6 +793,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/361526053_Mineral_prospectivity_mapping_of_gold-base_metal_mineralisation_in_the_Sabie-Pilgrim%27s_Rest_area_Mpumalanga_Province_South_Africa
 #### Spain
 - https://www.researchgate.net/publication/356639977_Machine_learning_models_for_Hg_prospecting_in_the_Almaden_mining_district
+- https://www.researchgate.net/publication/271671416_Predictive_modelling_of_gold_potential_with_the_integration_of_multisource_information_based_on_random_forest_a_case_study_on_the_Rodalquilar_area_Southern_Spain
 
 ### Overviews
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
