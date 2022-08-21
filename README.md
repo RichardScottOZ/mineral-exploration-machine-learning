@@ -1282,8 +1282,3 @@ https://www.researchgate.net/publication/233039694_Geological_mapping_using_Land
 https://www.researchgate.net/publication/263542786_WEIGHTS_DERIVED_FROM_HYPERSPECTRAL_DATA_TO_FACILITATE_AN_OPTIMAL_FIELD_SAMPLING_SCHEME_FOR_POTENTIAL_MINERALS
 
 
- 
- 
- 
-
-https://www.researchgate.net/publication/28764761_Unsupervised_Named-Entity_Recognition_Generating_Gazetteers_and_Resolving_Ambiguity
