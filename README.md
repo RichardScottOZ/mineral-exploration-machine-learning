@@ -723,6 +723,7 @@ These you can reproduce the output geospatially from the data given.
 - https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340 -> Application of machine learning algorithms to mineral prospectivity mapping
 - https://www.researchgate.net/publication/273176257_Data-_and_Knowledge_driven_mineral_prospectivity_maps_for_Canada's_North
 - https://www.researchgate.net/publication/300153215_Data_mining_for_real_mining_A_robust_algorithm_for_prospectivity_mapping_with_uncertainties
+- https://qspace.library.queensu.ca/bitstream/handle/1974/28138/Cevik_Ilkay_S_202009_MASc.pdf?sequence=3&isAllowed=y -> MACHINE LEARNING ENHANCEMENTS FOR KNOWLEDGE DISCOVERY IN MINERAL EXPLORATION AND IMPROVED MINERAL RESOURCE CLASSIFICATION
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
 - https://www.tandfonline.com/doi/abs/10.1080/22020586.2019.12073020 -> Orogenic gold prospectivity mapping using machine learning
