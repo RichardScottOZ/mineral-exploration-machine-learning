@@ -719,6 +719,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/356508827_Geophysical-spatial_Data_Modeling_using_Fuzzy_Logic_Applied_to_Nova_Aurora_Iron_District_Northern_Minas_Gerais_State_Southeastern_Brazil
 - https://www.researchgate.net/publication/356937528_Mineral_prospectivity_mapping_a_potential_technique_for_sustainable_mineral_exploration_and_mining_activities_-_a_case_study_using_the_copper_deposits_of_the_Tagmout_basin_Morocco
 #### Canada
+- http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
 - https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340 -> Application of machine learning algorithms to mineral prospectivity mapping
 - https://www.researchgate.net/publication/273176257_Data-_and_Knowledge_driven_mineral_prospectivity_maps_for_Canada's_North
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
