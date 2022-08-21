@@ -842,6 +842,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/327709479_Prospecting_Information_Extraction_by_Text_Mining_Based_on_Convolutional_Neural_Networks-A_Case_Study_of_the_Lala_Copper_Deposit_China
 - https://ieeexplore.ieee.org/document/8711400 -> Research and Application on Geoscience Literature Knowledge Discovery Technology
 - https://www.researchgate.net/publication/332328315_Text_Mining_to_Facilitate_Domain_Knowledge_Discovery
+- https://www.slideshare.net/phcleverley/where-text-analytics-meets-geoscience -> Where text analytics meets geoscience
 
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
