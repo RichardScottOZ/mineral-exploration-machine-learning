@@ -96,7 +96,7 @@ Suggestions welcome: open an issue.
 ### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
-### EM
+### Electromagnetics
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
@@ -816,6 +816,8 @@ https://github.com/wmyCDUT/TEM-NLnet_demo .
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
  - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
+#### Magnetotellurics
+- https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 ### Maps
 - https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
 ### Mineral
