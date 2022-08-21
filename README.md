@@ -160,6 +160,7 @@ Suggestions welcome: open an issue.
 ## Visualisation
 [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
  * [Paper](https://arxiv.org/pdf/2103.00741.pdf)
+[Semantic Segmentation for Extracting Historic Surface Mining Disturbance from Topographic Maps](https://github.com/maxwell-geospatial/topoDL) -> Example is for coal mines
 
 
 ## Other
@@ -804,6 +805,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
 #### Magnetics
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
+### Maps
+- https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
 ### Mineral
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 
