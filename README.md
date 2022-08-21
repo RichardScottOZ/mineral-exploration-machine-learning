@@ -1224,10 +1224,8 @@ India
 ## Agent based Modelling
 - https://mpra.ub.uni-muenchen.de/62159/ -> Mineral exploration as a game of chance [Agent Based Modelling]
 
-### Spectral Unmixing
-
 ## Spectral Unmixing
-Overviews and examples, with some focus on neural network approaches.
+- Overviews and examples, with some focus on neural network approaches.
 ### Neural Networks
 - https://www.researchgate.net/publication/224180646_A_neural_network_approach_for_pixel_unmixing_in_hyperspectral_data
 - https://www.researchgate.net/publication/340690859_A_Supervised_Nonlinear_Spectral_Unmixing_Method_by_Means_of_Neural_Networks
