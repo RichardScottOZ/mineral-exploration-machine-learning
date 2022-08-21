@@ -800,9 +800,13 @@ These you can reproduce the output geospatially from the data given.
 #### Spain
 - https://www.researchgate.net/publication/356639977_Machine_learning_models_for_Hg_prospecting_in_the_Almaden_mining_district
 - https://www.researchgate.net/publication/271671416_Predictive_modelling_of_gold_potential_with_the_integration_of_multisource_information_based_on_random_forest_a_case_study_on_the_Rodalquilar_area_Southern_Spain
+#### USA
+- 
+https://www.slideshare.net/JuanCarlosOrdezCalde/geology-chemostratigraphy-and-alteration-geochemistry-of-the-rosemont-cumoag-skarn-deposit-southern-arizona
 
 ### Overviews
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
+- https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry A Systematic Review on the Application of Machine Learning in Exploiting Mineralogical Data in Mining and Mineral Industry
 
 ### Geophysics
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
