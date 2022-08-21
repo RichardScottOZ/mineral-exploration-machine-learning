@@ -822,7 +822,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 ### Geochemistry
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
-- https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping A machine learning approach to geochemical mapping
+- https://www.researchgate.net/publication/361076789_Automated_machine_learning_pipeline_for_geochemical_analysis
+- https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
 ### Geology
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
