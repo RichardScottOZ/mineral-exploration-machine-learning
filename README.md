@@ -859,6 +859,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
 ### Spectral Unmixing
 - https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
+- https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10719.html -> Sentinel-2 as a tool for mapping iron-bearing alteration minerals: a case study from the Iberian Pyrite Belt (Southern Spain)
 
 Last edited: 29/09/2020
 The below are a collection of works from when I was doing a review
