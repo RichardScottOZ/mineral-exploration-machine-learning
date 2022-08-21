@@ -699,6 +699,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/352251078_Data_Analysis_Methods_for_Prospectivity_Modelling_as_applied_to_Mineral_Exploration_Targeting_State-of-the-Art_and_Outlook
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
+- https://www.researchgate.net/publication/331946100_Machine_learning_for_data-driven_discovery_in_solid_Earth_geoscience
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
 
 ### Mineral Prospectivity
