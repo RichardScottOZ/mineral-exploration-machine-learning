@@ -687,7 +687,6 @@ These you can reproduce the output geospatially from the data given.
 ### Geology
 - https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
 
-
 # Geospatial Output - No Code
 - https://geoscience.data.qld.gov.au/report/cr113697) -> NWMP Data-Driven Mineral Exploration And Geological Mapping
 
@@ -698,8 +697,7 @@ These you can reproduce the output geospatially from the data given.
 - Eventually will separate out into things that have data packages or not like NSW Zone studies.
 - However, if interested in an area you can often georeference a picture if nothing else as a rough guide.
 - Generally these are not reproducible - a few like the NSW prospectivity zone studies and NWQMP are with some work.  
-- Occasional paper here may be listed above
-
+- The occasional paper in this section may be listed above
 
 ## New to File
 ### General
@@ -885,9 +883,6 @@ These you can reproduce the output geospatially from the data given.
 
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
-### Spectral Unmixing
-- https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
-- https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10719.html -> Sentinel-2 as a tool for mapping iron-bearing alteration minerals: a case study from the Iberian Pyrite Belt (Southern Spain)
 
 Last edited: 29/09/2020
 The below are a collection of works from when I was doing a review
@@ -1228,34 +1223,39 @@ India
 ## Agent based Modelling
 - https://mpra.ub.uni-muenchen.de/62159/ -> Mineral exploration as a game of chance [Agent Based Modelling]
 
+### Spectral Unmixing
+
 ## Spectral Unmixing
 Overviews and examples, with some focus on neural network approaches.
 ### Neural Networks
-https://www.researchgate.net/publication/323950012_Hyperspectral_Unmixing_Using_A_Neural_Network_Autoencoder
-https://www.researchgate.net/publication/341501560_Convolutional_Autoencoder_for_Spectral-Spatial_Hyperspectral_Unmixing
-https://www.researchgate.net/publication/339066136_Hyperspectral_Unmixing_Using_Deep_Convolutional_Autoencoders_in_a_Supervised_Scenario
-https://www.researchgate.net/publication/340690859_A_Supervised_Nonlinear_Spectral_Unmixing_Method_by_Means_of_Neural_Networks
-https://www.researchgate.net/publication/326205017_Classification_of_Hyperspectral_Data_Using_a_Multi-Channel_Convolutional_Neural_Network
-https://www.researchgate.net/publication/336097421_Spatial-Spectral_Hyperspectral_Unmixing_Using_Multitask_Learning
-https://www.researchgate.net/publication/340961027_Recent_Advances_in_Hyperspectral_Unmixing_Using_Sparse_Techniques_and_Deep_Learning
-https://www.researchgate.net/publication/331794887_Nonlinear_Unmixing_of_Hyperspectral_Data_via_Deep_Autoencoder_Networks
-https://www.researchgate.net/publication/332696102_Deep_Learning_for_Classification_of_Hyperspectral_Data_A_Comparative_Review
-https://www.researchgate.net/publication/333906204_Deep_convolutional_neural_networks_for_land-cover_classification_with_Sentinel-2_images
-https://www.researchgate.net/publication/336889271_Deep_Learning_for_Hyperspectral_Image_Classification_An_Overview
-https://github.com/IShengFang/SpectralNormalizationKeras
-https://www.researchgate.net/publication/330272600_Semisupervised_Stacked_Autoencoder_With_Cotraining_for_Hyperspectral_Image_Classification
-https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
-https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
-https://www.researchgate.net/publication/339062151_Classification_of_small-scale_hyperspectral_images_with_multi-source_deep_transfer_learning
-https://www.researchgate.net/publication/335501086_Convolutional_Autoencoder_For_Spatial-Spectral_Hyperspectral_Unmixing
-https://www.researchgate.net/publication/331824337_Comparative_Analysis_of_Unmixing_Algorithms_Using_Synthetic_Hyperspectral_Data
-https://www.researchgate.net/publication/339657313_Hyperspectral_unmixing_using_deep_convolutional_autoencoder
-https://www.researchgate.net/publication/312355586_Spectral-Spatial_Classification_of_Hyperspectral_Imagery_with_3D_Convolutional_Neural_Network
-https://www.researchgate.net/publication/224180646_A_neural_network_approach_for_pixel_unmixing_in_hyperspectral_data
-https://www.researchgate.net/publication/327995228_Deep_Spectral_Convolution_Network_for_Hyperspectral_Unmixing
-https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
-https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
-https://www.researchgate.net/publication/335878933_LITHOLOGICAL_CLASSIFICATION_USING_MULTI-SENSOR_DATA_AND_CONVOLUTIONAL_NEURAL_NETWORKS
+- https://www.researchgate.net/publication/224180646_A_neural_network_approach_for_pixel_unmixing_in_hyperspectral_data
+- https://www.researchgate.net/publication/340690859_A_Supervised_Nonlinear_Spectral_Unmixing_Method_by_Means_of_Neural_Networks
+- https://www.researchgate.net/publication/326205017_Classification_of_Hyperspectral_Data_Using_a_Multi-Channel_Convolutional_Neural_Network
+- https://www.researchgate.net/publication/339062151_Classification_of_small-scale_hyperspectral_images_with_multi-source_deep_transfer_learning
+- https://www.researchgate.net/publication/331824337_Comparative_Analysis_of_Unmixing_Algorithms_Using_Synthetic_Hyperspectral_Data
+- https://www.researchgate.net/publication/335501086_Convolutional_Autoencoder_For_Spatial-Spectral_Hyperspectral_Unmixing
+- https://www.researchgate.net/publication/341501560_Convolutional_Autoencoder_for_Spectral-Spatial_Hyperspectral_Unmixing
+- https://www.researchgate.net/publication/333906204_Deep_convolutional_neural_networks_for_land-cover_classification_with_Sentinel-2_images
+- https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
+- https://www.researchgate.net/publication/332696102_Deep_Learning_for_Classification_of_Hyperspectral_Data_A_Comparative_Review
+- https://www.researchgate.net/publication/336889271_Deep_Learning_for_Hyperspectral_Image_Classification_An_Overview
+- https://www.researchgate.net/publication/327995228_Deep_Spectral_Convolution_Network_for_Hyperspectral_Unmixing
+- https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
+- https://www.researchgate.net/publication/323950012_Hyperspectral_Unmixing_Using_A_Neural_Network_Autoencoder
+- https://www.researchgate.net/publication/339657313_Hyperspectral_unmixing_using_deep_convolutional_autoencoder
+- https://www.researchgate.net/publication/339066136_Hyperspectral_Unmixing_Using_Deep_Convolutional_Autoencoders_in_a_Supervised_Scenario
+- https://www.researchgate.net/publication/335878933_LITHOLOGICAL_CLASSIFICATION_USING_MULTI-SENSOR_DATA_AND_CONVOLUTIONAL_NEURAL_NETWORKS
+- https://www.researchgate.net/publication/331794887_Nonlinear_Unmixing_of_Hyperspectral_Data_via_Deep_Autoencoder_Networks
+- https://www.researchgate.net/publication/340961027_Recent_Advances_in_Hyperspectral_Unmixing_Using_Sparse_Techniques_and_Deep_Learning
+- https://www.researchgate.net/publication/330272600_Semisupervised_Stacked_Autoencoder_With_Cotraining_for_Hyperspectral_Image_Classification
+- https://www.researchgate.net/publication/336097421_Spatial-Spectral_Hyperspectral_Unmixing_Using_Multitask_Learning
+- https://www.researchgate.net/publication/312355586_Spectral-Spatial_Classification_of_Hyperspectral_Imagery_with_3D_Convolutional_Neural_Network
+- https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10719.html -> Sentinel-2 as a tool for mapping iron-bearing alteration minerals: a case study from the Iberian Pyrite Belt (Southern Spain)
+- https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
+- https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
+- https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
+- https://github.com/IShengFang/SpectralNormalizationKeras
+
 ### General
 https://www.researchgate.net/publication/272565561_Integration_and_Analysis_of_ASTER_and_IKONOS_Images_for_the_Identification_of_Hydrothermally-_Altered_Mineral_Exploration_Sites
 https://www.researchgate.net/publication/342184377_remotesensing-12-01239-v2_1
