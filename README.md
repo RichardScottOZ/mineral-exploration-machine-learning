@@ -838,7 +838,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
 ### Mineral
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
-
+- https://www.researchgate.net/publication/357942198_Mineral_classification_of_lithium-bearing_pegmatites_based_on_laser-induced_breakdown_spectroscopy_Application_of_semi-supervised_learning_to_detect_known_minerals_and_unknown_material
 ### NLP
 - https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
 - https://www.researchgate.net/publication/358616133_Chinese_Named_Entity_Recognition_in_the_Geoscience_Domain_Based_on_BERT
