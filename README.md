@@ -673,13 +673,16 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 
 # Papers with Features Data
 These you can reproduce the output geospatially from the data given.
-### Prospectivity
+### Mineral Prospectivity
 - https://www.sciencedirect.com/science/article/pii/S016913682100010X#s0135 -> Prospectivity modelling of Canadian magmatic Ni (±Cu ± Co ± PGE) sulphide mineral systems [well worth reading]
 - https://www.sciencedirect.com/science/article/pii/S0169136821006612#b0510 -> Data–driven prospectivity modelling of sediment–hosted Zn–Pb mineral systems and their critical raw materials [well worth reading]
 - https://www.sciencedirect.com/science/article/pii/S2666544122000028 -> Towards a fully data-driven prospectivity mapping methodology: A case study of the Southeastern Churchill Province, Québec and Labrador
 
 ### England
 - https://www.researchgate.net/publication/358083076_Machine_learning_for_geochemical_exploration_classifying_metallogenic_fertility_in_arc_magmas_and_insights_into_porphyry_copper_deposit_formation
+
+### Geology
+- https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
 
 
 # Geospatial Output - No Code
@@ -819,6 +822,7 @@ These you can reproduce the output geospatially from the data given.
 
 ### Geology
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
+- https://eprints.utas.edu.au/32368/
 ### Geophysics
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
 #### EM
