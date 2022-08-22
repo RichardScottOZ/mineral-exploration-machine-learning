@@ -884,9 +884,9 @@ https://www.sciencedirect.com/science/article/pii/S001379522100137X
 - https://iopscience.iop.org/article/10.1088/1755-1315/1032/1/012046 -> Classifying Minerals using Deep Learning Algorithms
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 ### NLP
-- https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
 - https://www.researchgate.net/publication/358616133_Chinese_Named_Entity_Recognition_in_the_Geoscience_Domain_Based_on_BERT
 - https://www.researchgate.net/publication/339394395_Dictionary-Based_Automated_Information_Extraction_From_Geological_Documents_Using_a_Deep_Learning_Algorithm
+- https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
 - https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 - https://www.researchgate.net/publication/333464862_GeoDocA_-_Fast_Analysis_of_Geological_Content_in_Mineral_Exploration_Reports_A_Text_Mining_Approach
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
@@ -913,19 +913,18 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/317319129_Natural_Resources_Research_Publications_on_Geochemical_Anomaly_and_Mineral_Potential_Mapping_and_Introduction_to_the_Special_Issue_of_Papers_in_These_Fields
 - https://www.researchgate.net/publication/46696293_Selection_of_coherent_deposit-type_locations_and_their_application_in_data-driven_mineral_prospectivity_mapping
 ## Geochemistry
-- https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
-- https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
-- https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
-- https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
-- https://www.researchgate.net/publication/259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
-- https://www.researchgate.net/publication/238505045_Analysis_and_mapping_of_geochemical_anomalies_using_logratio-transformed_stream_sediment_data_with_censored_values
-- https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
 - https://www.researchgate.net/publication/220164381_Application_of_geochemical_zonality_coefficients_in_mineral_prospectivity_mapping
-- https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
-- https://www.researchgate.net/publication/257189047_Geochemical_mineralization_probability_index_GMPI_A_new_approach_to_generate_enhanced_stream_sediment_geochemical_evidential_map_for_increasing_probability_of_success_in_mineral_potential_mapping
+- https://www.researchgate.net/publication/238505045_Analysis_and_mapping_of_geochemical_anomalies_using_logratio-transformed_stream_sediment_data_with_censored_values
+- https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
 - https://www.researchgate.net/publication/272091723_Geochemical_characteristics_of_mineral_deposits_Implications_for_ore_genesis
+- https://www.researchgate.net/publication/257189047_Geochemical_mineralization_probability_index_GMPI_A_new_approach_to_generate_enhanced_stream_sediment_geochemical_evidential_map_for_increasing_probability_of_success_in_mineral_potential_mapping
+- https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
+- https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
+- https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
+- https://www.researchgate.net/publication/259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
+- https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
 - https://www.researchgate.net/publication/249544991_Usefulness_of_stream_order_to_detect_stream_sediment_geochemical_anomalies
-- 
+- https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
 ## Fuzzy
 - https://www.researchgate.net/publication/272170968_A_Comparative_Analysis_of_Weights_of_Evidence_Evidential_Belief_Functions_and_Fuzzy_Logic_for_Mineral_Potential_Mapping_Using_Incomplete_Data_at_the_Scale_of_Investigation
 - https://www.researchgate.net/publication/267816279_Fuzzification_of_continuous-value_spatial_evidence_for_mineral_prospectivity_mapping
@@ -978,15 +977,15 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/248211737_A_continent-wide_study_of_Australia's_uranium_potential
 - https://www.sciencedirect.com/science/article/abs/pii/S0169136821002250?via%3Dihub
 ### SA
-- https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
+- https://data.gov.au/dataset/ds-ga-a8619169-1c2a-6697-e044-00144fdd4fa6/details?q= -> An assessment of the uranium and geothermal prospectivity of east central South Australia
+- https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf -> An assessment of the uranium and geothermal prospectivity of east-central South Australia
+- https://www.pir.sa.gov.au/__data/assets/pdf_file/0011/239636/204581-001_wise_high.pdf - Eastern Gawler - WPA
 - http://www.energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/previous_feature_articles/new_prospectivity_map
 - https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e59cd4ba-1a0a-4911-9e6a-58d80576678d - Olympic Domain IOCG Prospectivity model
-- https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf -> An assessment of the uranium and geothermal prospectivity of east-central South Australia
-- https://data.gov.au/dataset/ds-ga-a8619169-1c2a-6697-e044-00144fdd4fa6/details?q= 
-- https://www.pir.sa.gov.au/__data/assets/pdf_file/0011/239636/204581-001_wise_high.pdf - Eastern Gawler - WPA
+- https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
 ### QLD
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 - Tennant Creek - Mt Isa
-- Navigate to: qdexdata.dnrme.qld.gov.au Enter the report number: 113697 - NWMP Data Driven Mineral Exploration and Geological Mapping
+- https://gsq-horizon.s3-ap-southeast-2.amazonaws.com/QDEX/113697/cr_113697_1.pdf -> NWMP Data Driven Mineral Exploration and Geological Mapping
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 -> Tennant Creek - Mt Isa
 ### WA
 - https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn Karol Czarnota
 - https://researchdata.edu.au/predictive-mineral-discovery-gold-mineral/1209568?source=suggested_datasets - Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system - https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip
@@ -1003,9 +1002,6 @@ The below are a collection of works from when I was doing a review
 - https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen
 - https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
 - https://www.researchgate.net/publication/265915602_Comparing_prospectivity_modelling_results_and_past_exploration_data_A_case_study_of_porphyry_Cu-Au_mineral_systems_in_the_Macquarie_Arc_Lachlan_Fold_Belt_New_South_Wales
-### England
-- https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN  [Tungsten Model Notebook]
- 
 ### Brazil
 - https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
 - https://www.researchgate.net/publication/340633739_MINERAL_POTENTIAL_AND_OPORTUNITIES_FOR_THE_EXPLORATION_OF_NEW_GEOLOGICAL_GROUNDS_IN_BRAZIL
