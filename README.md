@@ -761,7 +761,6 @@ These you can reproduce the output geospatially from the data given.
  - https://www.sciencedirect.com/science/article/pii/S2666544122000028 - > 
 - https://data.geology.gov.yk.ca/Reference/95936#InfoTab -> Updates to the Yukon Geological Survey’s mineral potential mapping methodology
 - http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
-
 #### China
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/349034539_A_Comparative_Study_of_Machine_Learning_Models_with_Hyperparameter_Optimization_Algorithm_for_Mapping_Mineral_Prospectivity
@@ -843,7 +842,6 @@ These you can reproduce the output geospatially from the data given.
 #### USA
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674218300396?via%3Dihub -> Machine learning strategies for classification and prediction of alteration facies: Examples from the Rosemont Cu-Mo-Ag skarn deposit, SE Tucson Arizona
  - [presentation of the above!] https://www.slideshare.net/JuanCarlosOrdezCalde/geology-chemostratigraphy-and-alteration-geochemistry-of-the-rosemont-cumoag-skarn-deposit-southern-arizona
-
 ### Overviews
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
@@ -895,6 +893,7 @@ https://www.sciencedirect.com/science/article/pii/S001379522100137X
 - https://www.researchgate.net/publication/327709479_Prospecting_Information_Extraction_by_Text_Mining_Based_on_Convolutional_Neural_Networks-A_Case_Study_of_the_Lala_Copper_Deposit_China
 - https://ieeexplore.ieee.org/document/8711400 -> Research and Application on Geoscience Literature Knowledge Discovery Technology
 - https://www.researchgate.net/publication/332328315_Text_Mining_to_Facilitate_Domain_Knowledge_Discovery
+- https://www.researchgate.net/publication/354754114_What_is_this_article_about_Generative_summarization_with_the_BERT_model_in_the_geosciences_domain
 - https://www.slideshare.net/phcleverley/where-text-analytics-meets-geoscience -> Where text analytics meets geoscience
 
 ### Petrography
