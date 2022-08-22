@@ -714,6 +714,7 @@ These you can reproduce the output geospatially from the data given.
   - [arxiv](https://arxiv.org/abs/2003.07474)
   - [presentation](https://slideslive.com/38926360/fully-reversible-neural-networks-for-largescale-surface-and-subsurface-characterization-via-remote-sensing?locale=en)
   - [conference[(https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf)
+  - [juliaCon](https://slim.gatech.edu/Publications/Public/Conferences/JuliaCon/2021/witte2021JULIACONmedlj/witte2021JULIACONmedlj.pdf)
 - https://www.researchgate.net/publication/220164488_Geocomputation_of_mineral_exploration_targets
 - https://www.researchgate.net/publication/272494576_Geological_knowledge_discovery_and_minerals_targeting_from_regolith_using_a_machine_learning_approach
 - https://www.researchgate.net/publication/280013864_Geometric_average_of_spatial_evidence_data_layers_A_GIS-based_multi-criteria_decision-making_approach_to_mineral_prospectivity_mapping
