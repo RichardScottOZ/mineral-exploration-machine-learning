@@ -688,7 +688,7 @@ These you can reproduce the output geospatially from the data given.
 - https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
 
 # Geospatial Output - No Code
-- https://geoscience.data.qld.gov.au/report/cr113697) -> NWMP Data-Driven Mineral Exploration And Geological Mapping
+- https://geoscience.data.qld.gov.au/report/cr113697 -> NWMP Data-Driven Mineral Exploration And Geological Mapping
 
 # Journals
 - https://www.sciencedirect.com/journal/artificial-intelligence-in-geosciences -> Artificial Intelligence in Geosciences
