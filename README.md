@@ -345,11 +345,17 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
 * [Yukon](https://data.geology.gov.yk.ca/)
   *[ftp](https://ygsftp.gov.yk.ca/)
- * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
+* [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
+ * [provincial] (https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
+* [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
+* [Saskatchewan](https://geohub.saskatchewan.ca)
+* [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 ## USA
 * [Michigan](https://geo.btaa.org/)
+* [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
-* [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
+* [National Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+ * [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 ## Other
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
