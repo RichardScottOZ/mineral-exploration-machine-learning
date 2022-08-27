@@ -323,6 +323,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [diophila Python Library](https://github.com/smierz/diophila)
   * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
   * [paper](https://arxiv.org/abs/2205.01833)
+ * [Macrostrat](https://macrostrat.org/api)
 
 # Data Portals
 ## Australia
@@ -336,8 +337,8 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
-* [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
+* [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 ## Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
@@ -351,6 +352,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Saskatchewan](https://geohub.saskatchewan.ca)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
+* [Northwest Territories](https://app.nwtgeoscience.ca/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
