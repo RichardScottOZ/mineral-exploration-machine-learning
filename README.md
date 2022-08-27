@@ -357,6 +357,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 * [National Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  * [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
+ * [Alaska](https://pubs.er.usgs.gov/publication/sim3340)
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 ## Other
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
