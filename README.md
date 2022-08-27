@@ -350,6 +350,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
 * [Saskatchewan](https://geohub.saskatchewan.ca)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
+* [Alberta](https://ags.aer.ca/)
 ## USA
 * [Michigan](https://geo.btaa.org/)
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
@@ -364,6 +365,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 * [OSF](https://osf.io/) -> Open Science Foundation
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
+* [GEM Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults)
 
 ## Reports
 ### Australia
