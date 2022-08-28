@@ -734,6 +734,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
 - https://api.research-repository.uwa.edu.au/portalfiles/portal/5263287/Lysytsyn_Volodymyr_2015.pdf (PhD thesis) GIS-based epithermal copper prospectivity mapping of the Mt Isa Inlier, Australia: Implications for exploration targeting
 - https://www.researchgate.net/publication/331946100_Machine_learning_for_data-driven_discovery_in_solid_Earth_geoscience
+- https://www.researchgate.net/publication/309715081_Magmato-hydrothermal_space_A_new_metric_for_geochemical_characterisation_of_metallic_ore_deposits - Magmato-hydrothermal space: A new metric for geochemical characterisation of metallic ore deposits
 - https://www.researchgate.net/publication/220164234_Mapping_complexity_of_spatial_distribution_of_faults_using_fractal_and_multifractal_models_Vectoring_towards_exploration_targets
 - https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
 - https://www.researchgate.net/publication/273500012_Prediction-area_P-A_plot_and_C-A_fractal_analysis_to_classify_and_evaluate_evidential_maps_for_mineral_prospectivity_modeling
@@ -746,7 +747,6 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
 - https://www.tandfonline.com/doi/pdf/10.1080/22020586.2019.12073159?needAccess=true - > Integrating a Minerals Systems Approach with Machine Learning: A Case Study of ‘Modern Minerals Exploration’ in the Mt Woods Inlier – northern Gawler Craton, South Australia
-
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
 - https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
