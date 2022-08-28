@@ -864,6 +864,7 @@ These you can reproduce the output geospatially from the data given.
 ### Geochemistry
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
+- https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 ### Geology
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
