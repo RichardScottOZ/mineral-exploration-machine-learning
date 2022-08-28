@@ -370,6 +370,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
 * [GEM Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults)
 * [RRuff Mineral Properties](https://rruff.info/ima/)
+ * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 
 ## Reports
 ### Australia
@@ -743,6 +744,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
+- https://www.tandfonline.com/doi/pdf/10.1080/22020586.2019.12073159?needAccess=true - > Integrating a Minerals Systems Approach with Machine Learning: A Case Study of ‘Modern Minerals Exploration’ in the Mt Woods Inlier – northern Gawler Craton, South Australia
+
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
 - https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
