@@ -843,6 +843,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/355397149_Gold_Prospectivity_Mapping_in_the_Sonakhan_Greenstone_Belt_Central_India_A_Knowledge-Driven_Guide_for_Target_Delineation_in_a_Region_of_Low_Exploration_Maturity
 #### South Korea
 - https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
+- https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
 #### Phillipines
 - https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/356546133_Mineral_Prospectivity_Mapping_via_Gated_Recurrent_Unit_Model
