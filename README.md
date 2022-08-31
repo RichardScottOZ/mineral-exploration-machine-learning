@@ -823,6 +823,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/361520562_Recognizing_Multivariate_Geochemical_Anomalies_Related_to_Mineralization_by_Using_Deep_Unsupervised_Graph_Learning
 - https://www.researchgate.net/publication/361589587_Unlabeled_Sample_Selection_for_Mineral_Prospectivity_Mapping_by_Semi-supervised_Support_Vector_Machine
 - https://www.researchgate.net/publication/361194407_Visual_Interpretable_Deep_Learning_Algorithm_for_Geochemical_Anomaly_Recognition
+#### Egypt
+- https://www.researchgate.net/publication/340084035_Reliability_of_using_ASTER_data_in_lithologic_mapping_and_alteration_mineral_detection_of_the_basement_complex_of_West_Berenice_Southeastern_Desert_Egypt
 #### Eritrea
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
 #### Finland
@@ -923,6 +925,9 @@ These you can reproduce the output geospatially from the data given.
 ### Zambia
 - https://www.researchgate.net/publication/263542565_APPLICATION_OF_REMOTE_SENSING_AND_SPATIAL_DATA_INTEGRATION_TO_PREDICT_POTENTIAL_ZONES_FOR_AQUAMARINE-BEARING_PEGMATITES_LUNDAZI_AREA_NORTHEAST_ZAMBIA
 - https://www.researchgate.net/publication/264041472_Geological_and_Mineral_Potential_Mapping_by_Geoscience_Data_Integration
+### Zimbabwe
+- https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
+
  
 ### Overviews
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
@@ -1173,9 +1178,6 @@ The below are a collection of works from when I was doing a review
 ### England
 - https://www.researchgate.net/publication/342339753_A_machine_learning_approach_to_tungsten_prospectivity_modelling_using_knowledge-driven_feature_extraction_and_model_confidence
 - https://www.researchgate.net/project/Enhancing-the-Geological-Understanding-of-SW-England-Using-Machine-Learning-Algorithms
-### Africa
-- https://www.researchgate.net/publication/340084035_Reliability_of_using_ASTER_data_in_lithologic_mapping_and_alteration_mineral_detection_of_the_basement_complex_of_West_Berenice_Southeastern_Desert_Egypt
-- https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
 ### China
 - https://www.researchgate.net/publication/329037175_Mineral_prospectivity_analysis_for_BIF_iron_deposits_A_case_study_in_the_Anshan-Benxi_area_Liaoning_province_North-East_China
 - https://www.researchgate.net/publication/229399579_Mapping_geochemical_singularity_using_multifractal_analysis_Application_to_anomaly_definition_on_stream_sediments_data_from_Funin_Sheet_Yunnan_China
@@ -1229,6 +1231,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/4874824_Mine_Size_and_the_Structure_of_Costs
 ## Agent based Modelling
 - https://mpra.ub.uni-muenchen.de/62159/ -> Mineral exploration as a game of chance [Agent Based Modelling]
+
 ## Spectral Unmixing
 - Overviews and examples, with some focus on neural network approaches.
 ### Neural Networks
