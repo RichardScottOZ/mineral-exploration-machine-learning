@@ -867,6 +867,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/321076980_Spatial_analyses_of_exploration_evidence_data_to_model_skarn-type_copper_prospectivity_in_the_Varzaghan_district_NW_Iran
 - https://www.researchgate.net/publication/304904242_Stepwise_regression_for_recognition_of_geochemical_anomalies_Case_study_in_Takab_area_NW_Iran
 - https://www.researchgate.net/publication/307874730_The_use_of_decision_tree_induction_and_artificial_neural_networks_for_recognizing_the_geochemical_distribution_patterns_of_LREE_in_the_Choghart_deposit_Central_Iran
+#### Ireland
+- https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
 #### India
 - https://www.researchgate.net/publication/226092981_A_Hybrid_Neuro-Fuzzy_Model_for_Mineral_Potential_Mapping
 - https://www.researchgate.net/publication/225328359_A_Hybrid_Fuzzy_Weights-of-Evidence_Model_for_Mineral_Potential_Mapping
