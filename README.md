@@ -779,6 +779,8 @@ These you can reproduce the output geospatially from the data given.
  - https://www.sciencedirect.com/science/article/pii/S2666544122000028 - > 
 - https://data.geology.gov.yk.ca/Reference/95936#InfoTab -> Updates to the Yukon Geological Survey’s mineral potential mapping methodology
 - http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
+### Chile
+- https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/349034539_A_Comparative_Study_of_Machine_Learning_Models_with_Hyperparameter_Optimization_Algorithm_for_Mapping_Mineral_Prospectivity
@@ -1200,8 +1202,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/269518805_Prospectivity_for_epithermal_gold-silver_deposits_in_the_Deseado_Massif_Argentina
 - https://www.researchgate.net/publication/263542560_EVIDENTIAL_BELIEF_MAPPING_OF_EPITHERMAL_GOLD_POTENTIAL_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE_ARGENTINA
 - https://www.researchgate.net/publication/263542691_ANALYSIS_OF_SPATIAL_DISTRIBUTION_OF_EPITHERMAL_GOLD_DEPOSITS_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE
-### Chile
-- https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 
 ## Endowment Modelling
 - https://www.researchgate.net/publication/248211962_A_new_method_for_spatial_centrographic_analysis_of_mineral_deposit_clusters
