@@ -92,7 +92,7 @@ Suggestions welcome: open an issue.
 ### Australia
 #### Regolith Depth
 * [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6) -> Model
-* [Complete Radiometrics Grid of Australia with modelled infill]](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
+* [Complete Radiometrics Grid of Australia with modelled infill](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
 ### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
@@ -932,6 +932,8 @@ These you can reproduce the output geospatially from the data given.
 ### Overviews
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
+### Deposits
+- https://pubs.er.usgs.gov/publication/ofr20211049 -> Deposit Classification Scheme for the Critical Minerals Mapping Initiative Global Geochemical Database
 ### Geochemistry
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
