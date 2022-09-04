@@ -369,6 +369,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
+* [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
 * [OSF](https://osf.io/) -> Open Science Foundation
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
