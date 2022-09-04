@@ -346,6 +346,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
+ * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
@@ -380,6 +381,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GEM Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults)
 * [RRuff Mineral Properties](https://rruff.info/ima/)
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
+* [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
 
 ## Reports
 ### Australia
