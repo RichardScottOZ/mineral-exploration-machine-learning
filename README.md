@@ -340,7 +340,19 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
-## Canada
+## South America
+* [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+* [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
+ * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
+## Europe
+* [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
+* [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
+* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
+* [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
+* [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
+* [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
+## North America
+### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
@@ -354,7 +366,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
-## USA
+### USA
 * [Michigan](https://geo.btaa.org/)
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
@@ -363,14 +375,6 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
  * [Alaska](https://pubs.er.usgs.gov/publication/sim3340)
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 ## Other
-* [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
-* [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
-* [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
- * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
-* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
-* [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
-* [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
-* [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
 * [OSF](https://osf.io/) -> Open Science Foundation
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
 * [GEM Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults)
