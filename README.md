@@ -341,6 +341,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
+* [Groundwater Explorer)(http://www.bom.gov.au/water/groundwater/explorer/map.shtml) - Bureau of Meteorology
 ## South America
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
