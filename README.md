@@ -402,7 +402,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
   * [NSW Digs open](https://digsopen.minerals.nsw.gov.au/digsopen/)
   * [API not public](https://digs.geoscience.nsw.gov.au/solr/select/digs?&q=mr_rin:R00026119)
 * [PorterGEO](http://portergeo.com.au/database/index.asp) -> World mineral deposits databases with summary overviews
-* [Sustainable Minerals Institute[(https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
+* [Sustainable Minerals Institute](https://smi.uq.edu.au/programs) -> Queensland organisation of university affiliated researchers producing datasets and knowledge
 ### Canada
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data#ARIS)
   * [Search](https://aris.empr.gov.bc.ca/search.asp?mode=request&newsearch=Y) -> Mineral Assessment Reports
