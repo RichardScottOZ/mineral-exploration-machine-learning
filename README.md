@@ -452,7 +452,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
   * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly: a great library!
-  * [OMFVista](https://github.com/OpenGeoVis/omfvista) ->Pyvista for Open Mining Format
+  * [OMFVista](https://github.com/OpenGeoVis/omfvista) -> Pyvista for Open Mining Format
   * [Scipy 2022 Tutorial](https://github.com/pyvista/pyvista-tutorial)
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
@@ -627,7 +627,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ### Colormaps
 * [CET Perceptually Uniform Colormaps](https://github.com/coatless-rpkg/cetcolor)
 * [PU Colormaps](https://github.com/thomasostersen/pu_cmaps) -> Formatted for user in Geoscience Analyst
-* [Colormap distortions](https://github.com/mycarta/Colormap-distorsions-Panel-app) -> A Panel app to demonstrate distorsions created by non-perceptual colormaps on geophysical data
+* [Colormap distortions](https://github.com/mycarta/Colormap-distorsions-Panel-app) -> A Panel app to demonstrate distortions created by non-perceptual colormaps on geophysical data
 * [Ripping Data from Colormpas](https://gist.github.com/kwinkunks/485190adcf3239341d8bebac94de3a2b)
 * [Open Geoscience Code Projects](https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/)
 
