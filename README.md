@@ -452,7 +452,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
   * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly: a great library!
-  * [OMFVista](https://github.com/OpenGeoVis/omfvista0 ->Pyvista for Open Mining Format
+  * [OMFVista](https://github.com/OpenGeoVis/omfvista) ->Pyvista for Open Mining Format
   * [Scipy 2022 Tutorial](https://github.com/pyvista/pyvista-tutorial)
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
