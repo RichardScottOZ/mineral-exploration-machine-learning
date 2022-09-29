@@ -96,7 +96,7 @@ Suggestions welcome: open an issue.
 * [Complete Radiometrics Grid of Australia with modelled infill](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
 ### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
-  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380
+  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380)
 ### Electromagnetics
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 ### Inversion
