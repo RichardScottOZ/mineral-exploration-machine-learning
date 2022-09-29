@@ -294,7 +294,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
 ## Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
-* [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services
+* [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services)
 ## Canada
 * [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
 ## Peru
