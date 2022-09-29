@@ -365,7 +365,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Yukon](https://data.geology.gov.yk.ca/)
   * [ftp](https://ygsftp.gov.yk.ca/)
 * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
- * [provincial] https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
+ * [provincial] (https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
 * [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
 * [Saskatchewan](https://geohub.saskatchewan.ca)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
