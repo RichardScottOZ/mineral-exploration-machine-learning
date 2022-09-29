@@ -358,14 +358,14 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
 ## North America
 ### Canada
-* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
+* [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
 * [Yukon](https://data.geology.gov.yk.ca/)
-  *[ftp](https://ygsftp.gov.yk.ca/)
+  * [ftp](https://ygsftp.gov.yk.ca/)
 * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
- * [provincial] (https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
+ * [provincial] https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
 * [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
 * [Saskatchewan](https://geohub.saskatchewan.ca)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
