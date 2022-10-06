@@ -371,6 +371,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
+ * [Mineral Tenure](https://www.maps.geomatics.gov.nt.ca/)
 ### USA
 * [Michigan](https://geo.btaa.org/)
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
