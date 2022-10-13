@@ -359,8 +359,11 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
+ * [Geoscience Data Repository[(https://gdr.agg.nrcan.gc.ca/) -> DAP Server
+ * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
+ * [SIGEOM Database](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_aLaCarte?l=F)
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
 * [Yukon](https://data.geology.gov.yk.ca/)
   * [ftp](https://ygsftp.gov.yk.ca/)
@@ -524,6 +527,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on
 * [Litholog](https://github.com/rgmyr/litholog)
+* [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
