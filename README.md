@@ -329,6 +329,7 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 # Data Portals
 ## Australia
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
+  * [Data Packages](https://dem-sdp.s3-ap-southeast-2.amazonaws.com/index.html) - Annual update
   * [s3 Reports](Rhttp://mer-env.s3-website-ap-southeast-2.amazonaws.com/) -> Reports and textracted versions in s3 bucket with web interface)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
