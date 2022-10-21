@@ -1266,6 +1266,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/335501086_Convolutional_Autoencoder_For_Spatial-Spectral_Hyperspectral_Unmixing
 - https://www.researchgate.net/publication/341501560_Convolutional_Autoencoder_for_Spectral-Spatial_Hyperspectral_Unmixing
 - https://www.researchgate.net/publication/333906204_Deep_convolutional_neural_networks_for_land-cover_classification_with_Sentinel-2_images
+- https://www.researchgate.net/publication/356711693_Deep-learning-based_latent_space_encoding_for_spectral_unmixing_of_geological_materials
 - https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
 - https://www.researchgate.net/publication/332696102_Deep_Learning_for_Classification_of_Hyperspectral_Data_A_Comparative_Review
 - https://www.researchgate.net/publication/336889271_Deep_Learning_for_Hyperspectral_Image_Classification_An_Overview
