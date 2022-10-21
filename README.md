@@ -765,6 +765,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/220164234_Mapping_complexity_of_spatial_distribution_of_faults_using_fractal_and_multifractal_models_Vectoring_towards_exploration_targets
 - https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
 - https://www.researchgate.net/publication/273500012_Prediction-area_P-A_plot_and_C-A_fractal_analysis_to_classify_and_evaluate_evidential_maps_for_mineral_prospectivity_modeling
+- https://www.researchgate.net/publication/354925136_Soil-sample_geochemistry_normalised_by_class_membership_from_machine-learnt_clusters_of_satellite_and_geophysics_data
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
 ### Mineral Prospectivity
