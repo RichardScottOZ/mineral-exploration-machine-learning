@@ -339,6 +339,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
     * [Seismic downloads](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/segy2d/web/segy/ResultSet?siblingtreeid=e6d6d3af10d149d39ba2141b9d1ce660&sid=6fac787ca578408bad6cfb514eb15498&order=NATIVE%28%27LINE%2Fascend%27%29&rpp=-1&set=1&reorder=1&bclabel=Result+Set) -> One page of links
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
+ * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
 * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
