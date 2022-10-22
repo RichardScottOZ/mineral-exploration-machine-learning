@@ -758,16 +758,17 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/272494576_Geological_knowledge_discovery_and_minerals_targeting_from_regolith_using_a_machine_learning_approach
 - https://www.researchgate.net/publication/280013864_Geometric_average_of_spatial_evidence_data_layers_A_GIS-based_multi-criteria_decision-making_approach_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
-- https://www.researchgate.net/publication/337003268_Improved_supervised_classification_of_bedrock_in_areas_of_transported_overburden_Applying_domain_expertise_at_Kerkasha_Eritrea
+- https://www.researchgate.net/publication/337003268_Improved_supervised_classification_of_bedrock_in_areas_of_transported_overburden_Applying_domain_expertise_at_Kerkasha_Eritrea - [Gazley/Hood\
 - https://api.research-repository.uwa.edu.au/portalfiles/portal/5263287/Lysytsyn_Volodymyr_2015.pdf (PhD thesis) GIS-based epithermal copper prospectivity mapping of the Mt Isa Inlier, Australia: Implications for exploration targeting
 - https://www.researchgate.net/publication/331946100_Machine_learning_for_data-driven_discovery_in_solid_Earth_geoscience
 - https://www.researchgate.net/publication/309715081_Magmato-hydrothermal_space_A_new_metric_for_geochemical_characterisation_of_metallic_ore_deposits - Magmato-hydrothermal space: A new metric for geochemical characterisation of metallic ore deposits
 - https://www.researchgate.net/publication/220164234_Mapping_complexity_of_spatial_distribution_of_faults_using_fractal_and_multifractal_models_Vectoring_towards_exploration_targets
 - https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
 - https://www.researchgate.net/publication/273500012_Prediction-area_P-A_plot_and_C-A_fractal_analysis_to_classify_and_evaluate_evidential_maps_for_mineral_prospectivity_modeling
-- https://www.researchgate.net/publication/354925136_Soil-sample_geochemistry_normalised_by_class_membership_from_machine-learnt_clusters_of_satellite_and_geophysics_data
+- https://www.researchgate.net/publication/354925136_Soil-sample_geochemistry_normalised_by_class_membership_from_machine-learnt_clusters_of_satellite_and_geophysics_data [Gazley/Hood]
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
+
 ### Mineral Prospectivity
 #### Australia
 - https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling
@@ -802,7 +803,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
-- https://www.tandfonline.com/doi/abs/10.1080/22020586.2019.12073020 -> Orogenic gold prospectivity mapping using machine learning
+- https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
 - https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
