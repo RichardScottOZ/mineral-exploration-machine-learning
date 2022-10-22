@@ -284,7 +284,7 @@ Suggestions welcome: open an issue.
 * [Remote Sensing]()
 
 # Web Services
-If listed it is assumed they are data generally, if just pictures like WMS it will say so.
+If listed it is assumed they are generally data, if just pictures like WMS it will say so.
 ## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
@@ -347,7 +347,10 @@ If listed it is assumed they are data generally, if just pictures like WMS it wi
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 ## South America
+### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+* [Rigeo](https://rigeo.cprm.gov.br/) -> Institutional Repository of Geosciences
+### Peru
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
 ## Europe
