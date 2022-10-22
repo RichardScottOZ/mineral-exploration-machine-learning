@@ -350,6 +350,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
+ * [Downloads](https://geosgb.cprm.gov.br/geosgb/downloads_en.html) -> Brazil Geological Survey Downloads
 * [Rigeo](https://rigeo.cprm.gov.br/) -> Institutional Repository of Geosciences
 ### Peru
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
