@@ -251,7 +251,7 @@ Suggestions welcome: open an issue.
   * [Forum](https://discourse.pangeo.io/)
   * [COG Best Practices](https://github.com/pangeo-data/cog-best-practices)
 * [Digital Earth Australia](https://www.dea.ga.gov.au/)
-  * [Slack Channel]
+  * [Slack Channel](https://opendatacube.slack.com/)
 * [Open Source Geospatial Foundation](https://github.com/OSGeo/osgeo)
 * [ASEG](https://www.youtube.com/c/ASEGVideos/videos) -> videos from Australia Society of Exploration Geoscientists
 
