@@ -947,6 +947,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/339153591_Sensitivity_analysis_of_prospectivity_modeling_to_evidence_maps_Enhancing_success_of_targeting_for_epithermal_gold_Takab_district_NW_Iran
 - https://www.researchgate.net/publication/321076980_Spatial_analyses_of_exploration_evidence_data_to_model_skarn-type_copper_prospectivity_in_the_Varzaghan_district_NW_Iran
 - https://www.researchgate.net/publication/304904242_Stepwise_regression_for_recognition_of_geochemical_anomalies_Case_study_in_Takab_area_NW_Iran
+- https://www.researchgate.net/publication/350423220_Supervised_mineral_exploration_targeting_and_the_challenges_with_the_selection_of_deposit_and_non-deposit_sites_thereof
 - https://www.researchgate.net/publication/307874730_The_use_of_decision_tree_induction_and_artificial_neural_networks_for_recognizing_the_geochemical_distribution_patterns_of_LREE_in_the_Choghart_deposit_Central_Iran
 #### Ireland
 - https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
