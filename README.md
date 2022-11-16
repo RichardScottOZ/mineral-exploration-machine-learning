@@ -510,6 +510,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
+* [Loop Geosoft Grid](https://github.com/Loop3D/geosoft_grid)
+* [Harmonica Geosoft Grid[(https://github.com/fatiando/harmonica/pull/348) -> Pull request in progress on conversion to xarray
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
