@@ -362,6 +362,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
 * [Minerals4EU](http://minerals4eu.brgm-rec.fr)
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
+ * [Geochemical Maps](http://weppi.gtk.fi/publ/foregsatlas/maps_table.php) -> pdf only!
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
@@ -380,7 +381,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
  * [provincial](https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
 * [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
-* [Saskatchewan](https://geohub.saskatchewan.ca)
+* [Saskatchewan](https://geohub.saskatchewan.ca) http://www.economy.gov.sk.ca/dbsearch/MinDepositQuery/default.aspx?ID=2771
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
@@ -540,6 +541,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
  *[Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
  *[gplately](https://github.com/GPlates/gplately)
+ *[others](https://www.bgh.org.au/software/)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
