@@ -402,6 +402,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [RRuff Mineral Properties](https://rruff.info/ima/)
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
+* [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
 
 ## Reports
 ### Australia
