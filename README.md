@@ -371,6 +371,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 * [Geoportal](https://geoportal.lneg.pt/)
+ * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
