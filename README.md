@@ -313,6 +313,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Spain](https://mapas.igme.es/gis/rest/services)
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [Minnesota](https://mngs-umn.opendata.arcgis.com/)
+* [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
@@ -372,6 +373,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 * [Geoportal](https://geoportal.lneg.pt/)
  * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
+* [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
