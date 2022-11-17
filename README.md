@@ -296,26 +296,35 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
-## Brazil
+## South America
+### Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
 * [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services)
-## Canada
-* [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
-## Peru
+### Peru
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
 ## Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
-## Sweden
+## Europe
+### Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
-## Other
+### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
+### Portgual
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
+### Britain
+* [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
+
+## North America
+### Canada
+* [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
+### USA
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [Minnesota](https://mngs-umn.opendata.arcgis.com/)
-* [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
+## Other
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
