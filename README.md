@@ -369,6 +369,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [github](https://github.com/ngu)
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+* [Geoportal](https://geoportal.lneg.pt/)
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
