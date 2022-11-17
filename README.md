@@ -367,7 +367,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
-8 [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+ * [github](https://github.com/ngu)
+* [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
