@@ -317,7 +317,6 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Spain](https://mapas.igme.es/gis/rest/services)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
-
 ## North America
 ### Canada
 * [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
@@ -412,13 +411,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
  * [Mineral Tenure](https://www.maps.geomatics.gov.nt.ca/)
 ### USA
-* [Michigan](https://geo.btaa.org/)
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 * [National Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  * [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
  * [Alaska](https://pubs.er.usgs.gov/publication/sim3340)
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
+* [Michigan](https://geo.btaa.org/)
+
 ## Other
 * [OSF](https://osf.io/) -> Open Science Foundation
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
@@ -427,6 +427,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
 * [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
+* [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
 
 ## Reports
 ### Australia
