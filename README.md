@@ -368,6 +368,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [github](https://github.com/ngu)
+* [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 * [Geoportal](https://geoportal.lneg.pt/)
 ## North America
