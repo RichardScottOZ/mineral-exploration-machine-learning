@@ -304,6 +304,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Peru
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
+## Argentina
+* [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
 ## Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
 ## Other
@@ -358,6 +360,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Peru
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
+### Argentina
+* [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
@@ -375,6 +379,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoportal](https://geoportal.lneg.pt/)
  * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
+ * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
 ## North America
 ### Canada
