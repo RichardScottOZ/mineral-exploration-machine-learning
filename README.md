@@ -372,6 +372,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
+ * [github](https://github.com/NRCan)
  * [Geoscience Data Repository[(https://gdr.agg.nrcan.gc.ca/) -> DAP Server
  * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
