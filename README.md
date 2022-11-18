@@ -386,6 +386,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
+ * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
 ### Finland
 * [Minerals4EU](http://minerals4eu.brgm-rec.fr)
