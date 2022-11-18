@@ -296,6 +296,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoscience Australia](http://services.ga.gov.au/)
   * [Geoscience Australia Catalogue Service](https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml)
   * [EGGS](http://services.ga.gov.au/gis/eggs/wms) -> Estimates of Geological and Geophysical Surfaces
+ * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
