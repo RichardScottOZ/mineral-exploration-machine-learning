@@ -328,6 +328,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
 ## North America
 ### Canada
+* [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
 * [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
 ### USA
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
