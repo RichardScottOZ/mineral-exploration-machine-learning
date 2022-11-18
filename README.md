@@ -526,12 +526,13 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
 * [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
-  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
+  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
+* [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
     
 ## Data Conversion
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
