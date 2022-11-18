@@ -197,12 +197,12 @@ Suggestions welcome: open an issue.
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
   
 # Machine Learning
-[Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
-[Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
+* [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
+* [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
 ## Probabilistic
-  * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
-  * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
-    * [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO)
+* [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
+* [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
+* [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO)
 ## Clustering  
 ### Self Organising Maps
   * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
