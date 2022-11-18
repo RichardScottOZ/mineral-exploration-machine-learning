@@ -144,6 +144,7 @@ Suggestions welcome: open an issue.
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
+ * [Portuguese models](http://nilc.icmc.usp.br/embeddings)
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
@@ -215,7 +216,7 @@ Suggestions welcome: open an issue.
 * [Bayseg](https://github.com/cgre-aachen/bayseg) -> Spatial segmentation
 ## Explainability
 * [InterpretML](https://github.com/interpretml/interpret) -> Interpreting models of tabular data
-  * [InterpretML](https://github.com/interpretml/interpret-community) -> Community addition
+ * [InterpretML](https://github.com/interpretml/interpret-community) -> Community addition
 
 ## Deep Learning
 * [Deep Colormap Extraction](https://github.com/RichardScottOZ/deep_colormap_extraction) -> Trying to extract a data scale from pictures
@@ -226,12 +227,11 @@ Suggestions welcome: open an issue.
 * [Shap Values](https://github.com/slundberg/shap)
 * [Weight Watcher](https://github.com/CalculatedContent/WeightWatcher) -> Analyse how well networks are trained
  * [weightwatcher.ai](https://weightwatcher.ai/)
-
 ### Self-supervised learning
 * [Self Supervised](https://github.com/untitled-ai/self_supervised) -> Pytorch lightning implementations of multiple algorithms
 * [Simclr](https://github.com/google-research/simclr)
 * [Awesome self-supervised learning](https://github.com/jason718/awesome-self-supervised-learning) -> Curated list
-## Hyperparameters
+### Hyperparameters
 * [Hyperopt](https://github.com/hyperopt/hyperopt)
 * [TPOT Automated ML](https://github.com/trhallam/tpot)
   
