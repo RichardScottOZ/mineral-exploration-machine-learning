@@ -603,7 +603,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geophysical notes](https://github.com/aadm/geophysical_notes) -> Seismic data processing
 ### Magnetotellurics
 * [MtPy](https://github.com/RichardScottOZ/mtpy)
-* [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analaysis
+* [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analysis
+ * [Lithospheric conductors paper](https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems)
 * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
 * [pyMT] (https://github.com/eroots/pyMT)
 * [resistics](https://github.com/resistics/resistics)
@@ -816,6 +817,8 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/354925136_Soil-sample_geochemistry_normalised_by_class_membership_from_machine-learnt_clusters_of_satellite_and_geophysics_data [Gazley/Hood]
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
+
+- https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems
 
 ### Mineral Prospectivity
 #### Australia
