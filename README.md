@@ -317,6 +317,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
 ## Europe
+[EGDI](https://data.geus.dk/egdi/wfs/?whoami=modern_major_mineral@gmail.com&typenames=egdi_mineraloccurr_base_metals) -> EGDI Minerals
 ### Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
 ### Finland
