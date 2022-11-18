@@ -318,6 +318,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
 ### Portgual
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+ * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
 ### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
 ### Britain
