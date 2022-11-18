@@ -302,6 +302,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 	* [WCS](https://gs.geoscience.nsw.gov.au/geoserver/ows?version=1.1.0)
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
+ *[Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
