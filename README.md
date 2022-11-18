@@ -297,6 +297,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Geoscience Australia Catalogue Service](https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml)
   * [EGGS](http://services.ga.gov.au/gis/eggs/wms) -> Estimates of Geological and Geophysical Surfaces
   * [Deep Lithosphere](http://deep-lithospheric-structure.gs.cloud.ga.gov.au/ows) -> Deep Lithospheric Mineral Potential
+  * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
  * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
