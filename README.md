@@ -224,6 +224,8 @@ Suggestions welcome: open an issue.
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
 ### Explainability
 * [Shap Values](https://github.com/slundberg/shap)
+* [Weight Watcher](https://github.com/CalculatedContent/WeightWatcher) -> Analyse how well networks are trained
+ * [weightwatcher.ai](https://weightwatcher.ai/)
 
 ### Self-supervised learning
 * [Self Supervised](https://github.com/untitled-ai/self_supervised) -> Pytorch lightning implementations of multiple algorithms
