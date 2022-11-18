@@ -382,22 +382,31 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
+### Finland
 * [Minerals4EU](http://minerals4eu.brgm-rec.fr)
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
  * [Geochemical Maps](http://weppi.gtk.fi/publ/foregsatlas/maps_table.php) -> pdf only!
+### Sweden
 * [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
+### Spain
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
+### Portugal
+* [Geoportal](https://geoportal.lneg.pt/)
+### Ireland
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
+### Norway
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
  * [github](https://github.com/ngu)
+ * [API](https://www.kartverket.no/en/api-and-data)
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
-* [RGU](https://rfgf.ru/map/) -> GIS project of deposits
-* [Geoportal](https://geoportal.lneg.pt/)
- * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
+### Britan
 * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
  * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
+### Russia
+* [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+ * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
