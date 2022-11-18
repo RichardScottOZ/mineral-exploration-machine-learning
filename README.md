@@ -4,7 +4,7 @@ ML and Data Science is a huge field, these are resources I have found useful and
 Links currently to a fork of a repository are because I have changed something to use and put in a list for reference.
 Resources are also given for data analysis, transformation and visualisation as that is most of the work.
 
-Suggestions welcome: open an issue.
+Suggestions welcome: open a discussion or issue.
 
 # Table of Contents
 
