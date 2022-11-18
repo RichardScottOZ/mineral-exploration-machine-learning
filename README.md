@@ -317,6 +317,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
+	* [Geophysics](http://gtkdata.gtk.fi/ArcGIS/services/Rajapinnat/GTK_Geofysiikka_WMS/MapServer/WMSServer)
+	* [Ground Surveys](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Pohjatutkimukset_WMS/MapServer/WMSServer)
 ### Portgual
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
  * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
