@@ -146,6 +146,7 @@ Suggestions welcome: open an issue.
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
  * [Portuguese models](http://nilc.icmc.usp.br/embeddings)
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
+* [Multilingual alignment](https://github.com/babylonhealth/fastText_multilingual/blob/master/align_your_own.ipynb)
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
