@@ -341,6 +341,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
+* [Africa 10M[(http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Geology
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
