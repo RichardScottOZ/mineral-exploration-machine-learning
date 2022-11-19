@@ -476,6 +476,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Mineral Tenure](https://www.maps.geomatics.gov.nt.ca/)
 ### USA
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
+ * [MRDS](https://mrdata.usgs.gov/mrds/) -> Mineral Resources Data Systems
 * [Earth Explorer](https://earthexplorer.usgs.gov) -> USGS Remote Sensing Data Portal
 * [National Map Database](https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
  * [National Map Database](http://ngmdb.usgs.gov/maps/mapview/)
