@@ -308,6 +308,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### New South Wales
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
 	* [WCS](https://gs.geoscience.nsw.gov.au/geoserver/ows?version=1.1.0)
+	* [Seismic](https://gs-mv.geoscience.nsw.gov.au/geoserver/gsnsw/ows?version=1.0.0&typeName=gsnsw:dw_seismic_lines&outputFormat=shape-zip) -> Seismic and others
 ### Queensland
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 ### South Australia
