@@ -303,6 +303,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Geophysics Surveys](https://services.ga.gov.au/gis/geophysical-surveys/ows?VERSION=2.0.0)
   * [Magnetotelluric](https://services.ga.gov.au/gis/magnetotellurics/wfs) -> Northern Australia AUSLAMP Stations
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
+  * [Stratigraphy](https://services.ga.gov.au/gis/stratunits/ows) -> Stratigraphic Units
 * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
 ### New South Wales
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
