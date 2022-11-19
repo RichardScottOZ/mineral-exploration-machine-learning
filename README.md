@@ -301,16 +301,23 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Geochronology](http://geochronology-isotopes.gs.cloud.ga.gov.au/ows) -> Geochronology
   * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
   * [Geophysics Surveys](https://services.ga.gov.au/gis/geophysical-surveys/ows?VERSION=2.0.0)
+  * [Magnetotelluric](https://services.ga.gov.au/gis/magnetotellurics/wfs) -> Northern Australia AUSLAMP Stations
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
- * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
+* [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
+### New South Wales
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
 	* [WCS](https://gs.geoscience.nsw.gov.au/geoserver/ows?version=1.1.0)
+### Queensland
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
+### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
+### Tasmania
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
+### Victoria
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
+### Western Australia
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
 ## South America
 ### Brazil
