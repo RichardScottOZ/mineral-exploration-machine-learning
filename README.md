@@ -313,8 +313,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
-  * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
+ * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
  * [Geology](https://services.sarig.sa.gov.au/vector/geology/wfs?version=1.1.0)
+ * [Geophysics](https://services.sarig.sa.gov.au/vector/geophysical_data/wfs?version=1.1.0)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
 ### Northern Territory
