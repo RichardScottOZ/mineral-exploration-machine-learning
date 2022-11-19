@@ -344,6 +344,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 [EGDI](https://data.geus.dk/egdi/wfs/?whoami=modern_major_mineral@gmail.com&typenames=egdi_mineraloccurr_base_metals) -> EGDI Minerals
 ### Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
+* [SGU Uranium](https://resource.sgu.se/service/wms/130/flyggeofysik-gammastralning-uran)
+ * [Geophysics metadata](https://resource.sgu.se/dokument/produkter/geofysiska-flygmatningar-metadata-wms-beskrivning.pdf)
 ### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
@@ -371,7 +373,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
  * [orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
-* [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Geology
+* [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
