@@ -317,6 +317,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Geology](https://services.sarig.sa.gov.au/vector/geology/wfs?version=1.1.0)
  * [Geophysics](https://services.sarig.sa.gov.au/vector/geophysical_data/wfs?version=1.1.0)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
+ * [Minerals and Mines](https://services.sarig.sa.gov.au/vector/mines_and_mineral_deposits/wfs?version=1.1.0)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
  * [Seismic](https://services.sarig.sa.gov.au/vector/south_australia_seismic_data/wfs?version=1.1.0)
  * [Tenements](https://services.sarig.sa.gov.au/vector/mineral_tenements/wfs?version=1.1.0)
