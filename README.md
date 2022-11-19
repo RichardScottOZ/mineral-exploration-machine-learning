@@ -337,7 +337,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
 ### Argentina
-* [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
+* [SIGAM](https://sigam.segemar.gov.ar/https://sigam.segemar.gov.ar/geoserver217/wfs)
 ### Other
 * [SIG Andes](http://mapsref.brgm.fr/wxs/1GG/SIGAndes_BRGM) -> Andes geology
 ## Europe
@@ -424,6 +424,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
+ * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
