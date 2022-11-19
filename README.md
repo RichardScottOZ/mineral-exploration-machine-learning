@@ -313,6 +313,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
+  * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
+ * [Geology](https://services.sarig.sa.gov.au/vector/geology/wfs?version=1.1.0)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
 ### Northern Territory
@@ -384,7 +386,6 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [SARIG Catalogue](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search) -> data catalogue
   * [3D Models](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fmodel&resultType=details&sortBy=popularity&from=1&to=20&fast=index&_content_type=json)
   * [Data Packages](https://dem-sdp.s3-ap-southeast-2.amazonaws.com/index.html) - Annual update
-  * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
   * [s3 Reports](Rhttp://mer-env.s3-website-ap-southeast-2.amazonaws.com/) -> Reports and textracted versions in s3 bucket with web interface)
   * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
   * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
