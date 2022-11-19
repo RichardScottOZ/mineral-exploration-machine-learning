@@ -380,7 +380,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 # Data Portals
 ## Australia
-* [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey
+* [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey geospatial map based search
+* [SARIG Catalogue](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search) -> data catalogue
+  * [3D Models](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fmodel&resultType=details&sortBy=popularity&from=1&to=20&fast=index&_content_type=json)
   * [Data Packages](https://dem-sdp.s3-ap-southeast-2.amazonaws.com/index.html) - Annual update
   * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
   * [s3 Reports](Rhttp://mer-env.s3-website-ap-southeast-2.amazonaws.com/) -> Reports and textracted versions in s3 bucket with web interface)
