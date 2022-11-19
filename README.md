@@ -356,6 +356,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Spain](https://mapas.igme.es/gis/rest/services)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
+ * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
 ## North America
 ### Canada
 * [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
