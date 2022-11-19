@@ -315,6 +315,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
+### Northern Territory
+* [NTGS[(http://geology.data.nt.gov.au/geoserver/wfs) -> Northern Territory Geological Survey
 ### Tasmania
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 ### Victoria
