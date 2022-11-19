@@ -356,6 +356,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Spain](https://mapas.igme.es/gis/rest/services)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
+ * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
  * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
 ## North America
 ### Canada
@@ -367,6 +368,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
+ *[orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
 * [Africa 10M[(http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Geology
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
