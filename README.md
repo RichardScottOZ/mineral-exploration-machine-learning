@@ -424,6 +424,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
 ### Portugal
 * [Geoportal](https://geoportal.lneg.pt/)
+ * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ### Ireland
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
 ### Norway
@@ -438,7 +439,6 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
 ### Russia
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
- * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
