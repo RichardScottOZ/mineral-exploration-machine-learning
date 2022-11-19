@@ -467,6 +467,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Alaska](https://pubs.er.usgs.gov/publication/sim3340)
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 * [Michigan](https://geo.btaa.org/)
+## Africa
+* [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
+* [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1)
 
 ## Other
 * [OSF](https://osf.io/) -> Open Science Foundation
@@ -475,7 +478,6 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [RRuff Mineral Properties](https://rruff.info/ima/)
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
-* [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
 * [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
 
 ## Reports
