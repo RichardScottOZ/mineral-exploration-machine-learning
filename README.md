@@ -318,6 +318,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Geophysics](https://services.sarig.sa.gov.au/vector/geophysical_data/wfs?version=1.1.0)
  * [Prospectivity](https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?version=1.1.1)
  * [Remote Sensing](https://services.sarig.sa.gov.au/raster/RemoteSensing/wms?version=1.1.1)
+ * [Seismic](https://services.sarig.sa.gov.au/vector/south_australia_seismic_data/wfs?version=1.1.0)
 ### Northern Territory
 * [NTGS[(http://geology.data.nt.gov.au/geoserver/wfs) -> Northern Territory Geological Survey
 ### Tasmania
