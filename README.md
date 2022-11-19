@@ -472,12 +472,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
 ## Other
-* [OSF](https://osf.io/) -> Open Science Foundation
+### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
 * [GEM Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults)
 * [RRuff Mineral Properties](https://rruff.info/ima/)
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
+### General
+* [OSF](https://osf.io/) -> Open Science Foundation
 * [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
 
 
