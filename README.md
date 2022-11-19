@@ -469,8 +469,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Michigan](https://geo.btaa.org/)
 ## Africa
 * [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
-* [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1)
-
+* [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
+ * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
 ## Other
 * [OSF](https://osf.io/) -> Open Science Foundation
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
@@ -479,6 +479,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
 * [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
+
 
 ## Reports
 ### Australia
