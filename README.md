@@ -885,6 +885,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
+* [TISA IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587) -> Iron oxide copper-gold (IOCG) mineral potential assessment for the Tennant Creek – Mt Isa region: geospatial data
 ### South Australia
 #### Geology
 * [Crystalline Basement](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/216146e3-7cb0-410a-bcb2-68e5e6bcf9f4) -> Crystalline basement intersecting drillholes
@@ -939,7 +940,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 - https://www.researchgate.net/publication/318839364_Network_analysis_of_mineralogical_systems
 
 # Papers with Features Data
-These you can reproduce the output geospatially from the data given.
+- These you can reproduce the output geospatially from the data given.
 ### Mineral Prospectivity
 - https://www.sciencedirect.com/science/article/pii/S016913682100010X#s0135 -> Prospectivity modelling of Canadian magmatic Ni (±Cu ± Co ± PGE) sulphide mineral systems [well worth reading]
 - https://www.sciencedirect.com/science/article/pii/S0169136821006612#b0510 -> Data–driven prospectivity modelling of sediment–hosted Zn–Pb mineral systems and their critical raw materials [well worth reading]
@@ -949,7 +950,7 @@ These you can reproduce the output geospatially from the data given.
 - https://www.researchgate.net/publication/358083076_Machine_learning_for_geochemical_exploration_classifying_metallogenic_fertility_in_arc_magmas_and_insights_into_porphyry_copper_deposit_formation
 
 ### Geochemistry
-- - https://www.researchgate.net/publication/361076789_Automated_machine_learning_pipeline_for_geochemical_analysis
+- https://www.researchgate.net/publication/361076789_Automated_machine_learning_pipeline_for_geochemical_analysis
 
 ### Geology
 - https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
