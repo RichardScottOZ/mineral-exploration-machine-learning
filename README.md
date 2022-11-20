@@ -347,6 +347,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 ### Western Australia
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
+ * [Rest](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services)
 ## South America
 ### Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
@@ -382,6 +383,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [IGME Geode](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geode_50/MapServer)
  * [Geophysics](https://mapas.igme.es/gis/rest/services/BasesDatos/IGME_SIGEOF/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
+ * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
