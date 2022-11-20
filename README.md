@@ -869,8 +869,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 
 # Datasets
-https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734
-
+## Australia
+### Northern
+* [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
+* [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 
 # Papers with Code 
 ### NLP
