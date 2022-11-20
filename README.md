@@ -437,6 +437,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
+* [TWI](https://data.csiro.au/collection/csiro:5588?_st=browse&_str=1&_si=1&browseType=kw&browseValue=Topographic%20Wetness%20Index) -> Topographic Wetness Index
 ### Bureau of Meteorology
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 ### South Australia
