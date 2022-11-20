@@ -434,9 +434,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
- * [Surface Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74855) -> 1M Scale
- * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
-* [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
+  [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 ### CSIRO
 * [CSIRO Data Access Portal](https://data.csiro.au/)
  * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
@@ -879,6 +877,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Australia
 ### Geology
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
+ * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
+* [Surface Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74855) -> 1M Scale
 ### Geophysics
 * [Gravity](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/133023) -> 2019 Australian National Gravity Grids
 #### Magnetics
