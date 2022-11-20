@@ -22,6 +22,7 @@ Suggestions welcome: open a discussion or issue.
 * [Tools](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#tools)
 * [Ontologies](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#ontologies)
 * [Books](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#books)
+* [Datasets](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#datasets)
 * [Papers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#papers)
 * [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#other)
 
@@ -35,7 +36,7 @@ Suggestions welcome: open a discussion or issue.
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 
 
-# Mineral Prospectivity
+# Prospectivity
 ## Australia
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
@@ -865,6 +866,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
 * [EarthArxiv](https://github.com/eartharxiv/API/issues) -> Download papers from the preprint archive
 * [Essoar](https://www.essoar.org/) -> Preprint paper archive
+
+
+# Datasets
+https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734
 
 
 # Papers with Code 
