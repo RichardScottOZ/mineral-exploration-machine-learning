@@ -1353,11 +1353,6 @@ The below are a collection of works from when I was doing a review
 - http://dmpbookshop.eruditetechnologies.com.au/product/regional-scale-targeting-for-gold-in-the-yilgarn-craton-part-1-of-the-yilgarn-gold-exploration-targeting-atlas.do $55 purchase
 - https://www.researchgate.net/publication/263928515_Towards_Australian_metallogenic_maps_through_space_and_time
 - https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn
-#### NSW
-- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen
-- https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
-- https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
-- There are more, need to link
 ### Brazil
 - https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
 - https://www.researchgate.net/publication/341936771_Modeling_of_Cu-Au_Prospectivity_in_the_Carajas_mineral_province_Brazil_through_Machine_Learning_Dealing_with_Imbalanced_Training_Data
@@ -1375,9 +1370,6 @@ The below are a collection of works from when I was doing a review
 - http://www.energymining.sa.gov.au/minerals/knowledge_centre/mesa_journal/previous_feature_articles/new_prospectivity_map
 - https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e59cd4ba-1a0a-4911-9e6a-58d80576678d - Olympic Domain IOCG Prospectivity model
 - https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
-### QLD
-- https://gsq-horizon.s3-ap-southeast-2.amazonaws.com/QDEX/113697/cr_113697_1.pdf -> NWMP Data Driven Mineral Exploration and Geological Mapping
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 -> Tennant Creek - Mt Isa
 ### WA
 - https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn Karol Czarnota
 - https://researchdata.edu.au/predictive-mineral-discovery-gold-mineral/1209568?source=suggested_datasets - Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system - https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip
