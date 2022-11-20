@@ -437,7 +437,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
 * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 ### CSIRO
-* [CSIRO Data Access Portal(https://data.csiro.au/)
+* [CSIRO Data Access Portal[(https://data.csiro.au/)
  * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
