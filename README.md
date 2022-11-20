@@ -885,7 +885,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Geophysics
 * [AusLAMP 3D](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1cab41af-eddf-40e4-b091-a6e733e5701a) -> Magnetotelluric inversions
 * [GCAS](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1ce5ea8f-b6f6-42bb-9061-6a95862840d5) -> Gawler Craton Airborne Survey
-* [Gravity](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/f1c5ab7f-21c8-4ed3-85fa-14f6dba40ca6)
+* [Gravity](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/f1c5ab7f-21c8-4ed3-85fa-14f6dba40ca6) -> Gravity grids
+ * [Stations](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/c6c2c74e-3567-4dbd-8261-c08cda3969c0) -> Gravity stations
 * [Magnetics](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1a797550-8d6b-4ab1-81f2-be6ed15f06d0) -> Magnetics
 ### Queensland
 * [Overview](https://smi.uq.edu.au/files/80453/SREP_NDP_summary_Dec2021.pdf)
