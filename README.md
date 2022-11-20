@@ -378,6 +378,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Spain](https://mapas.igme.es/gis/rest/services)
  * [Geology](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_200/MapServer) -> 200K
   * [50K](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_MAGNA_50/MapServer) -> 50K
+  * [IGME Geode](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geode_50/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
