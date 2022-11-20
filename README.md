@@ -354,6 +354,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Brazil CPRM](https://geoportal.cprm.gov.br/image/rest/services)
 ### Peru
 * [Ingement](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services)
+ * [Mineral Occurrences](https://geocatmin.ingemmet.gob.pe/arcgis/rest/services/SERV_OCURRENCIA_MINERAL/MapServer)
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/https://sigam.segemar.gov.ar/geoserver217/wfs)
@@ -698,7 +699,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
 * [Potential Field Toolbox](https://github.com/RichardScottOZ/PFToolbox) -> Some xarray based Fast Fourier Transform filters - derivatives, pseudogravity, rpg etc.
-  * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples
+  * [Notebook](https://github.com/RichardScottOZ/PFToolbox/blob/master/FFT_Filter.ipynb) -> Class with some examples [Vertical derivative, Pseudogravity, Upward Continuation etc)
  * [Computation geophysics sandbox](https://github.com/yohanesnuwara/computational-geophysics)
  * [RIS Basement Sediment](https://github.com/mdtanker/RIS_basement_sediment) -> Depth to Magnetic Basement in Antarctica
  * [Signal Image Processing](https://github.com/PyBrown/Signal-Image-Processing)
