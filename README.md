@@ -885,6 +885,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
  * [AusAEM(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
 ### Northern
+* [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832)-> Resistivity model derived from magnetotellurics
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
