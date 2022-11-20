@@ -968,6 +968,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [500k](https://www.mrt.tas.gov.au/products/digital_data/1500,000_geology_data_download)
 * [25K](https://www.mrt.tas.gov.au/products/digital_data/125,000_geology_data_download)
 * [Mineral Occurrences](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
+### Victoria
+* [Seamless Geology](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
