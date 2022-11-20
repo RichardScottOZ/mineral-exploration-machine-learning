@@ -553,6 +553,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
 ### General
 * [OSF](https://osf.io/) -> Open Science Foundation
+ * [Sediment Hosted Base Metals](https://osf.io/twksd/) -> Sediment Hosted Base Metals
  * [Lithosphere Athenosphere Boundary](https://osf.io/twksd/) -> LAB Hoggard/Czarnota
 * [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
 
@@ -877,6 +878,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 # Datasets
 ## Australia
 ### Geophysics
+* [Gravity](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/133023) -> 2019 Australian National Gravity Grids
 * [Magnetics TMI](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144733_ -> Magnetic Anomaly Map of Australia, Seventh Edition, 2019 TMI
  * [40m](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131512) -> 40m version
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
@@ -1377,7 +1379,6 @@ The below are a collection of works from when I was doing a review
 - https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2317-48892016000200261 - Sao Francisco Craton Nickel
 ### Australia
 - https://www.researchgate.net/publication/248211737_A_continent-wide_study_of_Australia's_uranium_potential
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884 - Nickel PGE
 - https://www.researchgate.net/publication/334440382_Mapping_iron_oxide_Cu-Au_IOCG_mineral_potential_in_Australia_using_a_knowledge-driven_mineral_systems-based_approach
 - https://researchdata.edu.au/predictive-model-opal-mining-approach/673159/?refer_q=rows=15/sort=score%20desc/class=collection/p=2/q=mineral%20prospectivity%20map/ - Opal
 ### SA
@@ -1394,13 +1395,10 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/351238658_Understanding_Ore-Forming_Conditions_using_Machine_Reading_of_Text
 ### NT
 - https://www.researchgate.net/publication/285235798_An_assessment_of_the_uranium_and_geothermal_prospectivity_of_the_southern_Northern_Territory
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423 Iron oxide-copper-gold potential of the southern Arunta Region
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digitial data package
 - https://www.researchgate.net/publication/342352173_Modelling_gold_potential_in_the_Granites-Tanami_Orogen_NT_Australia_A_comparative_study_using_continuous_and_data-driven_techniques
 ### NSW
 - https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
-- https://search.geoscience.nsw.gov.au/product/9233 - 54 Curnamona Province and Delamerian-Thomson Orogen
-- https://search.geoscience.nsw.gov.au/product/9253 - Eastern Lachlan Orogen https://www.smedg.org.au/GSNSW_2019_Blevin.pdf
+- https://www.smedg.org.au/GSNSW_2019_Blevin.pdf Eastern Lachlan Orogen 
 - https://www.researchgate.net/publication/265915602_Comparing_prospectivity_modelling_results_and_past_exploration_data_A_case_study_of_porphyry_Cu-Au_mineral_systems_in_the_Macquarie_Arc_Lachlan_Fold_Belt_New_South_Wales
 ### Brazil
 - https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
