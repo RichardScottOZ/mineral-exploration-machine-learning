@@ -910,6 +910,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Stations](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/c6c2c74e-3567-4dbd-8261-c08cda3969c0) -> Gravity stations
 * [Magnetics](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1a797550-8d6b-4ab1-81f2-be6ed15f06d0) -> Magnetics
 * [Seismic Lines](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/397d3203-5d96-4c61-9ac9-1d936d66293f) -> Seismic lines
+##### Gawler
+* [Gawler MPP](https://webarchive.nla.gov.au/awa/20160615192753/http://www.ga.gov.au/cedda/data/760 -> Gawler Mineral Promotion Project - Data
 ### Queensland
 * [Overview](https://smi.uq.edu.au/files/80453/SREP_NDP_summary_Dec2021.pdf)
 * [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
@@ -928,6 +930,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Eastern Lachlan](https://search.geoscience.nsw.gov.au/product/9253)
 * [Central Lachlan](https://search.geoscience.nsw.gov.au/product/9261/7922136)
 * [Southern New England](https://search.geoscience.nsw.gov.au/product/9222/7371775)
+### Western Australia
+* [King Leopold](https://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do) -> Mineral prospectivity of the King Leopold Orogen and Lennard Shelf: analysis of potential field data in the west Kimberley region
+* [Yilgarn Gold](https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
