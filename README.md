@@ -887,8 +887,12 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Radiometrics
 * [Radiometrics](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413) -> Complete Radiometric Grid of Australia (Radmap) v4 2019 with modelled infill
 * [K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131962) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered pct potassium grid
-* [Th/K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/cd5b97af-63e4-4239-ae19-09f050257052
+* [U](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131974) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered ppm uranium 
+* [Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131967) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered ppm thorium
+* [Th/K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131976) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio thorium over potassium
 * [U/K](Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium
+* [U/Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131983) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over thorium
+* [U squared/Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131981) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium squared over thorium
 * [Dose Rate](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131960)-> Radiometric Grid of Australia (Radmap) v4 2019 filtered terrestrial dose rate
 * [Ternary Picture](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/134857) -> Radiometric grid of Australia (Radmap) v4 2019 - Ternary image (K, Th, U)
 #### AusAEM
