@@ -423,8 +423,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Australia
 ### Geoscience Australia
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
+ * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/search?resultType=details&sortBy=relevance&fast=index&_content_type=json&from=1&to=20&title_OR_altTitle_OR_any=AusAEM)
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
  * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
+  * [AusAEM](https://www.eftf.ga.gov.au/ausaem)
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
