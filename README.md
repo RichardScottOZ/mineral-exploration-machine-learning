@@ -305,6 +305,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
   * [Stratigraphy](https://services.ga.gov.au/gis/stratunits/ows) -> Stratigraphic Units
 * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
+* [BOM](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer) -> Bureau of Meteorology Hydrogeochemistry
 ### New South Wales
 * [NSW](https://www.regional.nsw.gov.au/meg/geoscience/products-and-data/gis-web-services)
 	* [WCS](https://gs.geoscience.nsw.gov.au/geoserver/ows?version=1.1.0)
