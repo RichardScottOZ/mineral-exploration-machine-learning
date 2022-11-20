@@ -433,6 +433,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
+* [CSIRO Data Access Portal(https://data.csiro.au/)
+ * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
@@ -531,6 +533,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
 ### General
 * [OSF](https://osf.io/) -> Open Science Foundation
+ * [Lithosphere Athenosphere Boundary](https://osf.io/twksd/) -> LAB Hoggard/Czarnota
 * [Geological Survey list](https://mineralplatform.eu/investment/exploration-mining-opportunities/geological-survey)
 
 
