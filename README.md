@@ -327,6 +327,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Tenements](https://gisservices.information.qld.gov.au/arcgis/rest/services/Economy/MineralTenement/FeatureServer)
  * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
  * [Roads](https://gisservices.information.qld.gov.au/arcgis/rest/services/Transportation/Roads/MapServer)
+ * [Watercourse](https://gisservices.information.qld.gov.au/arcgis/rest/services/InlandWaters/WaterCoursesAndBodies/MapServer)
   
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
@@ -375,6 +376,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
 ### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
+ * [Geology](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_200/MapServer) -> 200K
+  * [50K](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_MAGNA_50/MapServer) -> 50K
+ * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
@@ -485,7 +489,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
  * [github](https://github.com/NRCan)
- * [Geoscience Data Repository[(https://gdr.agg.nrcan.gc.ca/) -> DAP Server
+ * [Geoscience Data Repository](https://gdr.agg.nrcan.gc.ca/) -> DAP Server
+ * [DEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Canada DEM in COG format
  * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
