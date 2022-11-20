@@ -417,14 +417,20 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
 * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
 * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
-* [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
-* [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Victorian Geological Survey
-* [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
-* [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
+### Northern Territory
+* [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
+* [GEMIS](https://geoscience.nt.gov.au/gemis/)
+### Queensland
+* [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
+### Western Australia
+* [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
+### NSW
+* [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
+
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
