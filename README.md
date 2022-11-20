@@ -886,8 +886,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [1VD](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132275) -> Total Magnetic Intensity Grid of Australia 2019 - First Vertical Derivative (1VD)
 #### Radiometrics
 * [Radiometrics](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413) -> Complete Radiometric Grid of Australia (Radmap) v4 2019 with modelled infill
-* [Th/K][https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/cd5b97af-63e4-4239-ae19-09f050257052
-* [Ternary Picture](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/134857) ->  Radiometric grid of Australia (Radmap) v4 2019 - Ternary image (K, Th, U)
+* [K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131962) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered pct potassium grid
+* [Th/K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/cd5b97af-63e4-4239-ae19-09f050257052
+* [U/K](Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium
+* [Dose Rate](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131960)-> Radiometric Grid of Australia (Radmap) v4 2019 filtered terrestrial dose rate
+* [Ternary Picture](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/134857) -> Radiometric grid of Australia (Radmap) v4 2019 - Ternary image (K, Th, U)
 #### AusAEM
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
