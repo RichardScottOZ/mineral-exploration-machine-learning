@@ -910,8 +910,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Cloncurry
 * [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
 ### New South Wales
-#### Mineral Potential
+#### Mineral Potential Data Packages
+* [Curnamona](https://search.geoscience.nsw.gov.au/product/9233/7564550)
 * [Eastern Lachlan](https://search.geoscience.nsw.gov.au/product/9253)
+* [Central Lachlan](https://search.geoscience.nsw.gov.au/product/9261/7922136)
+* [Southern New England](https://search.geoscience.nsw.gov.au/product/9222/7371775)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
