@@ -443,6 +443,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [FTP](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp site
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
+### AuScope
+* [3D Geology](http://geomodels.auscope.org.au/) -> Models from multiple areas
 ### Bureau of Meteorology
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 ### South Australia
@@ -660,6 +662,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [PDF Miner](https://github.com/euske/pdfminer)
 * [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
+* [AuScope](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> Data from binary GOCAD models
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [Loop Geosoft Grid](https://github.com/Loop3D/geosoft_grid)
@@ -1329,18 +1332,14 @@ The below are a collection of works from when I was doing a review
  
 ## Geospatial Maps
 ### Australia
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884 - Nickel PGE
 - https://www.researchgate.net/publication/334440382_Mapping_iron_oxide_Cu-Au_IOCG_mineral_potential_in_Australia_using_a_knowledge-driven_mineral_systems-based_approach
 #### South Australia
 - https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
 - An assessment of the uranium and geothermal prospectivity of east-central South Australia - https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf
-#### QLD
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587 - Tennant Creek - Mt Isa
-- Navigate to: qdexdata.dnrme.qld.gov.au Enter the report number: 113697 - NWMP Data Driven Mineral Exploration and Geological Mapping
 #### NT
 - https://www.researchgate.net/publication/285235798_An_assessment_of_the_uranium_and_geothermal_prospectivity_of_the_southern_Northern_Territory
 - https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423 Iron oxide-copper-gold potential of the southern Arunta Region
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digitil data package
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digil data package
 #### WA
 - https://www.researchgate.net/publication/273073675_Building_a_machine_learning_classifier_for_iron_ore_prospectivity_in_the_Yilgarn_Craton
 - http://dmpbookshop.eruditetechnologies.com.au/product/district-scale-targeting-for-gold-in-the-yilgarn-craton-part-2-of-the-yilgarn-gold-exploration-targeting-atlas.do$55 purchase
