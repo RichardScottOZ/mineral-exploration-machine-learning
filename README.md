@@ -877,6 +877,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 # Datasets
 ## Australia
+### Geology
+* [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
 ### Geophysics
 * [Gravity](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/133023) -> 2019 Australian National Gravity Grids
 #### Magnetics
