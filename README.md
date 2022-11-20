@@ -876,7 +876,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
 ### Queensland
-* [Deposit Atlans](https://smi.uq.edu.au/project/nw-mineral-province-deposit-atlas) -> Northwest Mineral Province Deposit Atlas
+* [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
+* [Deposit Atlas](https://smi.uq.edu.au/project/nw-mineral-province-deposit-atlas) -> Northwest Mineral Province Deposit Atlas
 * [Geology](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={0CEA14DE-D170-4CA2-9FC9-20ED49143B4B}) -> Geology series overview
 
 
