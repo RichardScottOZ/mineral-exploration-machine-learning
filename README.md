@@ -875,6 +875,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
+### South Australia
+* [GCAS](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1ce5ea8f-b6f6-42bb-9061-6a95862840d5) -> Gawler Craton Airborne Survey
 ### Queensland
 * [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
 * [Deposit Atlas](https://smi.uq.edu.au/project/nw-mineral-province-deposit-atlas) -> Northwest Mineral Province Deposit Atlas
