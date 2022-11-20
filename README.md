@@ -582,6 +582,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Alberta](https://content.energy.alberta.ca/minerals/abmarsv2/?err=se)
   * [Publications](https://ags.aer.ca/products/all-publications?title=&report-id=&publication_type=All&sort_by=created&sort_order=DESC&page=0)
 * [Yukon](https://data.geology.gov.yk.ca/AssessmentReports)
+ * [Footprint[(https://www.arcgis.com/home/item.html?id=49cc2473b4904ced9dbd530944f5d2e1)
 * [Manitoba](https://www.manitoba.ca/iem/mines/assess.html)
  * [Publications](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146278)
 * [Newfoundland and Labrador](https://gis.geosurv.gov.nl.ca/minesen/geofiles/)
@@ -876,6 +877,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 # Datasets
 ## Australia
 * [Magnetics TMI](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144733_ -> Magnetic Anomaly Map of Australia, Seventh Edition, 2019 TMI
+ * [40m](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131512) -> 40m version
+* [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
+ * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
 ### Northern
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
