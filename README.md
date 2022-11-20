@@ -883,6 +883,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Stuart Shelf Sedimentary Copper 3D Model](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/ee68f692-8f5c-4b7f-a842-a9d381bf6f26)
 * [Surface Geology](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e27f9a25-b749-4dba-bfb3-ca90baf04d79)
 #### Geophysics
+* [AusLAMP 3D](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1cab41af-eddf-40e4-b091-a6e733e5701a) -> Magnetotelluric inversions
 * [GCAS](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1ce5ea8f-b6f6-42bb-9061-6a95862840d5) -> Gawler Craton Airborne Survey
 * [Gravity](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/f1c5ab7f-21c8-4ed3-85fa-14f6dba40ca6)
 * [Magnetics](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1a797550-8d6b-4ab1-81f2-be6ed15f06d0) -> Magnetics
