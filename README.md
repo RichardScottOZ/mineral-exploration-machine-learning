@@ -377,6 +377,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
  * [Geology](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_200/MapServer) -> 200K
+  * [1M](http://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_1M/MapServer) -> 1M
   * [50K](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_MAGNA_50/MapServer) -> 50K
   * [IGME Geode](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geode_50/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
