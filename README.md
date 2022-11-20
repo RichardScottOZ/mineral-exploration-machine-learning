@@ -890,7 +890,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [U](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131974) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered ppm uranium 
 * [Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131967) -> Radiometric Grid of Australia (Radmap) v4 2019 filtered ppm thorium
 * [Th/K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131976) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio thorium over potassium
-* [U/K](Radiometric Grid of Australia v4 2019 ratio uranium over potassium) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium
+* [U/K](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131964) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over potassium
 * [U/Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131983) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium over thorium
 * [U squared/Th](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131981) -> Radiometric Grid of Australia (Radmap) v4 2019 ratio uranium squared over thorium
 * [Dose Rate](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131960)-> Radiometric Grid of Australia (Radmap) v4 2019 filtered terrestrial dose rate
