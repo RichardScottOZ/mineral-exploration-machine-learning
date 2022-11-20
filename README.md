@@ -416,15 +416,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 # Data Portals
 ## Australia
-* [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey geospatial map based search
-* [SARIG Catalogue](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search) -> data catalogue
-  * [3D Models](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fmodel&resultType=details&sortBy=popularity&from=1&to=20&fast=index&_content_type=json)
-  * [Data Packages](https://dem-sdp.s3-ap-southeast-2.amazonaws.com/index.html) - Annual update
-  * [s3 Reports](Rhttp://mer-env.s3-website-ap-southeast-2.amazonaws.com/) -> Reports and textracted versions in s3 bucket with web interface)
-  * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
-  * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
-    * [Seismic downloads](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/segy2d/web/segy/ResultSet?siblingtreeid=e6d6d3af10d149d39ba2141b9d1ce660&sid=6fac787ca578408bad6cfb514eb15498&order=NATIVE%28%27LINE%2Fascend%27%29&rpp=-1&set=1&reorder=1&bclabel=Result+Set) -> One page of links
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
+ * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
@@ -438,6 +431,15 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
  * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
+### South Australia
+* [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey geospatial map based search
+* [SARIG Catalogue](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search) -> data catalogue
+  * [3D Models](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fmodel&resultType=details&sortBy=popularity&from=1&to=20&fast=index&_content_type=json)
+  * [Data Packages](https://dem-sdp.s3-ap-southeast-2.amazonaws.com/index.html) - Annual update
+  * [s3 Reports](Rhttp://mer-env.s3-website-ap-southeast-2.amazonaws.com/) -> Reports and textracted versions in s3 bucket with web interface)
+  * [Reports](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/samref/sarig1/cat0/MSearch;jsessionid=492C6538B64080CE8B13E91C79F8B1BA)
+  * [Seismic](https://www.petroleum.sa.gov.au/data-centre/seismic-data)
+    * [Seismic downloads](https://sarigbasis.pir.sa.gov.au/WebtopEw/ws/segy2d/web/segy/ResultSet?siblingtreeid=e6d6d3af10d149d39ba2141b9d1ce660&sid=6fac787ca578408bad6cfb514eb15498&order=NATIVE%28%27LINE%2Fascend%27%29&rpp=-1&set=1&reorder=1&bclabel=Result+Set) -> One page of links
 ### Northern Territory
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [GEMIS](https://geoscience.nt.gov.au/gemis/)
