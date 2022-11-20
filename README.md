@@ -879,8 +879,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Australia
 ### Geophysics
 * [Gravity](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/133023) -> 2019 Australian National Gravity Grids
-* [Magnetics TMI](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144733_ -> Magnetic Anomaly Map of Australia, Seventh Edition, 2019 TMI
+#### Magnetics
+* [Magnetics TMI](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144733) -> Magnetic Anomaly Map of Australia, Seventh Edition, 2019 TMI
+* [Magnetics 1VD](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132275) -> Total Magnetic Intensity Grid of Australia 2019 - First Vertical Derivative (1VD)
 * [Radiometrics](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413) -> Complete Radiometric Grid of Australia (Radmap) v4 2019 with modelled infill
+* [Th/K][https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/cd5b97af-63e4-4239-ae19-09f050257052
  * [40m](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131512) -> 40m version
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
