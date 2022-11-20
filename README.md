@@ -427,6 +427,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoscience Australia Portal](https://portal.ga.gov.au/)
  * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
   * [AusAEM](https://www.eftf.ga.gov.au/ausaem)
+  * [AusLAMP](https://www.eftf.ga.gov.au/auslamp)
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
@@ -659,7 +660,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [Loop Geosoft Grid](https://github.com/Loop3D/geosoft_grid)
-* [Harmonica Geosoft Grid[(https://github.com/fatiando/harmonica/pull/348) -> Pull request in progress on conversion to xarray
+* [Harmonica Geosoft Grid](https://github.com/fatiando/harmonica/pull/348) -> Pull request in progress on conversion to xarray
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
