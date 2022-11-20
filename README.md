@@ -880,6 +880,16 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Crystalline Basement](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/216146e3-7cb0-410a-bcb2-68e5e6bcf9f4) -> Crystalline basement intersecting drillholes
 * [Mines and Mineral Deposits](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a0e4b62c-ec88-44b8-a530-b4e744a6b414)
 * [Mineral Drillholes](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/3e6692fd-7461-494c-b40b-4cd8738fc762)
+* [Solid Geology 3D](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a3a22f6a-afd0-4d97-9f71-7780ab17e5f9)
+ * [100K Faults](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/50b5a79c-9764-414e-b28d-548dbe006cb3)
+ * [Archaean](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/79d50974-a57e-4754-91aa-1f0be6489a8c)
+ * [Archaean Faults](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/8e517d3f-8255-4159-8bcf-3e101622a2c2)
+ * [Mesoproterozoic](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/3e8bef60-ff90-44ea-a246-cdbf94e834c3) -> Middle
+ * [Mesoproterozoic](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/0bed7f88-5ff3-4cd3-8c7a-6c733b9d47fc) -> Middle faults
+ * [Mesoproterozoic](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89283327-86c9-4128-a8ad-4da63668b136) - > Late
+ * [Mesoproterozoic Faults](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a4e4313f-f932-4e06-9399-c6a52eb9bfcb) -> Late faults
+ * [Neoproterozoic](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/267280d7-8d57-498c-a9ee-ab1f1e52d696)
+ * [Neoproterozoic faults](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/7e5ff842-36cf-4b91-87c2-1e715ef62f0d)
 * [Stuart Shelf Sedimentary Copper 3D Model](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/ee68f692-8f5c-4b7f-a842-a9d381bf6f26)
 * [Surface Geology](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e27f9a25-b749-4dba-bfb3-ca90baf04d79)
 #### Geophysics
@@ -888,6 +898,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Gravity](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/f1c5ab7f-21c8-4ed3-85fa-14f6dba40ca6) -> Gravity grids
  * [Stations](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/c6c2c74e-3567-4dbd-8261-c08cda3969c0) -> Gravity stations
 * [Magnetics](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1a797550-8d6b-4ab1-81f2-be6ed15f06d0) -> Magnetics
+* [Seismic Lines](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/397d3203-5d96-4c61-9ac9-1d936d66293f) -> Seismic lines
 ### Queensland
 * [Overview](https://smi.uq.edu.au/files/80453/SREP_NDP_summary_Dec2021.pdf)
 * [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
