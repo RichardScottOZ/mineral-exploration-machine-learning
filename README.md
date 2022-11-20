@@ -878,10 +878,15 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### South Australia
 * [GCAS](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1ce5ea8f-b6f6-42bb-9061-6a95862840d5) -> Gawler Craton Airborne Survey
 ### Queensland
+* [Overview](https://smi.uq.edu.au/files/80453/SREP_NDP_summary_Dec2021.pdf)
 * [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
 * [Deposit Atlas](https://smi.uq.edu.au/project/nw-mineral-province-deposit-atlas) -> Northwest Mineral Province Deposit Atlas
 * [Geology](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={0CEA14DE-D170-4CA2-9FC9-20ED49143B4B}) -> Geology series overview
-
+* [Vectoring(https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
+#### Cloncurry
+* [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
+## Finland
+* [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
 # Papers with Code 
 ### NLP
@@ -908,7 +913,7 @@ These you can reproduce the output geospatially from the data given.
 - https://eprints.utas.edu.au/32368/ -> Machine-assisted modelling of lithology and metasomatism
 
 # Geospatial Output - No Code
-- https://geoscience.data.qld.gov.au/report/cr113697 -> NWMP Data-Driven Mineral Exploration And Geological Mapping
+- https://geoscience.data.qld.gov.au/report/cr113697 -> NWMP Data-Driven Mineral Exploration And Geological Mapping [CSIRO too]
 
 # Journals
 - https://www.sciencedirect.com/journal/artificial-intelligence-in-geosciences -> Artificial Intelligence in Geosciences
