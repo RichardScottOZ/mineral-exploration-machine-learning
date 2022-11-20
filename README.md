@@ -876,6 +876,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 # Datasets
 ## Australia
+### Geophysics
 * [Magnetics TMI](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144733_ -> Magnetic Anomaly Map of Australia, Seventh Edition, 2019 TMI
  * [40m](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131512) -> 40m version
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
@@ -885,6 +886,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
+* [Ni-Cu-PGE](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884) -> Potential for intrusion-hosted Ni-Cu-PGE sulfide deposits in Australia: A continental-scale analysis of mineral system prospectivity
 * [TISA IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587) -> Iron oxide copper-gold (IOCG) mineral potential assessment for the Tennant Creek – Mt Isa region: geospatial data
 ### South Australia
 #### Geology
@@ -1387,7 +1389,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/335313790_Prospectivity_modelling_of_the_Olympic_Cu-Au_Province - https://services.sarig.sa.gov.au/raster/ProspectivityModelling/wms?service=wms&version=1.1.1&REQUEST=GetCapabilities
 ### WA
 - https://www.sciencedirect.com/science/article/abs/pii/S0301926810002111 - Yilgarn Karol Czarnota
-- https://researchdata.edu.au/predictive-mineral-discovery-gold-mineral/1209568?source=suggested_datasets - Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system - https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip
 - https://www.researchgate.net/publication/229333177_Prospectivity_analysis_of_the_Plutonic_Marymia_Greenstone_Belt_Western_Australia
 - https://www.researchgate.net/publication/280039091_Mineral_systems_approach_applied_to_GIS-based_2D-prospectivity_modelling_of_geological_regions_Insights_from_Western_Australia
 - https://www.researchgate.net/publication/351238658_Understanding_Ore-Forming_Conditions_using_Machine_Reading_of_Text
