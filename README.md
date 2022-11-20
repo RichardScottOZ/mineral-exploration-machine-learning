@@ -305,6 +305,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Magnetotelluric](https://services.ga.gov.au/gis/magnetotellurics/wfs) -> Northern Australia AUSLAMP Stations
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
   * [Stratigraphy](https://services.ga.gov.au/gis/stratunits/ows) -> Stratigraphic Units
+  * [EFTF Area](http://services.ga.gov.au/gis/rest/services/ExploringForTheFutureProjectAreas/MapServer) -> Exploring for the future areas
 * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
 * [BOM](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer) -> Bureau of Meteorology Hydrogeochemistry
 ### New South Wales
