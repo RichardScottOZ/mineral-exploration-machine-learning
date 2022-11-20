@@ -880,6 +880,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [40m](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131512) -> 40m version
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
+ * [AusAEM(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
 ### Northern
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
@@ -917,6 +918,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Vectoring(https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
 #### Cloncurry
 * [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
+### Northern Territory
+* [Arunta IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423) -> Iron oxide-copper-gold potential of the southern Arunta Region
+* [South Uranium](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288) -> Southern Northern Territory uranium and geothermal energy systems assessment digil data package
 ### New South Wales
 #### Mineral Potential Data Packages
 * [Curnamona](https://search.geoscience.nsw.gov.au/product/9233/7564550)
@@ -1343,8 +1347,6 @@ The below are a collection of works from when I was doing a review
 - An assessment of the uranium and geothermal prospectivity of east-central South Australia - https://d28rz98at9flks.cloudfront.net/72666/Rec2011_034.pdf
 #### NT
 - https://www.researchgate.net/publication/285235798_An_assessment_of_the_uranium_and_geothermal_prospectivity_of_the_southern_Northern_Territory
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423 Iron oxide-copper-gold potential of the southern Arunta Region
-- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288 Southern Northern Territory uranium and geothermal energy systems assessment digil data package
 #### WA
 - https://www.researchgate.net/publication/273073675_Building_a_machine_learning_classifier_for_iron_ore_prospectivity_in_the_Yilgarn_Craton
 - http://dmpbookshop.eruditetechnologies.com.au/product/district-scale-targeting-for-gold-in-the-yilgarn-craton-part-2-of-the-yilgarn-gold-exploration-targeting-atlas.do$55 purchase
