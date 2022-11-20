@@ -887,11 +887,12 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Radiometrics
 * [Radiometrics](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413) -> Complete Radiometric Grid of Australia (Radmap) v4 2019 with modelled infill
 * [Th/K][https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/cd5b97af-63e4-4239-ae19-09f050257052
+* [Ternary Picture](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/134857) ->  Radiometric grid of Australia (Radmap) v4 2019 - Ternary image (K, Th, U)
 #### AusAEM
 * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
  * [AusAEM(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
- *(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/140156) -> AusAEM 02 WA/NT 2019-20 Airborne Electromagnetic Survey
+ * (https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/140156) -> AusAEM 02 WA/NT 2019-20 Airborne Electromagnetic Survey
 ### Northern
 * [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832)-> Resistivity model derived from magnetotellurics
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
