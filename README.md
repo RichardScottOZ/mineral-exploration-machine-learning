@@ -929,6 +929,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Northern Territory
 * [Arunta IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/76423) -> Iron oxide-copper-gold potential of the southern Arunta Region
 * [South Uranium](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288) -> Southern Northern Territory uranium and geothermal energy systems assessment digil data package
+* [Tennant Creek](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135011) -> Conductivity Model Derived from Magnetotelluric Data in the East Tennant Region, Northern Territory
 ### New South Wales
 #### Mineral Potential Data Packages
 * [Curnamona](https://search.geoscience.nsw.gov.au/product/9233/7564550)
