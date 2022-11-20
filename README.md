@@ -424,6 +424,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Northern Territory
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [GEMIS](https://geoscience.nt.gov.au/gemis/)
+ * [McArthur Basin[(https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81751) -> 3D Model
 ### Queensland
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 ### Western Australia
