@@ -320,12 +320,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Seismic](https://gs-mv.geoscience.nsw.gov.au/geoserver/gsnsw/ows?version=1.0.0&typeName=gsnsw:dw_seismic_lines&outputFormat=shape-zip) -> Seismic and others
 ### Queensland
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
- * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+ * [Geoscientific](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyState/MapServer) -> Geophysics and Report Index
  * [Geology](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyDetailed/MapServer)
   * [Regional](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyRegional/MapServer)
   * [State](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyState/MapServer)
- 
- 
+ * [Tenements](https://gisservices.information.qld.gov.au/arcgis/rest/services/Economy/MineralTenement/FeatureServer)
+ * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+ * [Roads](https://gisservices.information.qld.gov.au/arcgis/rest/services/Transportation/Roads/MapServer)
+  
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
  * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
