@@ -910,6 +910,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [TISA Alteration](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123013) -> Producing Magnetite and Hematite Alteration Proxies using 3D Gravity and Magnetic Inversion
 ### South Australia
 #### Geology
+* [Bedrock Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/103461)
 * [Crystalline Basement](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/216146e3-7cb0-410a-bcb2-68e5e6bcf9f4) -> Crystalline basement intersecting drillholes
 * [Mines and Mineral Deposits](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a0e4b62c-ec88-44b8-a530-b4e744a6b414)
 * [Mineral Drillholes](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/3e6692fd-7461-494c-b40b-4cd8738fc762)
