@@ -439,10 +439,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### CSIRO
 * [CSIRO Data Access Portal](https://data.csiro.au/)
  * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
+ * [TWI](https://data.csiro.au/collection/csiro:5588?_st=browse&_str=1&_si=1&browseType=kw&browseValue=Topographic%20Wetness%20Index) -> Topographic Wetness Index
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
- * [ASTER Geoscience Maps](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp sites
+ * [FTP](ftp://ftp.arrc.csiro.au/arrc/Australian_ASTER_Geoscience_Map/) -> CSIRO ftp site
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
-* [TWI](https://data.csiro.au/collection/csiro:5588?_st=browse&_str=1&_si=1&browseType=kw&browseValue=Topographic%20Wetness%20Index) -> Topographic Wetness Index
 ### Bureau of Meteorology
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 ### South Australia
@@ -464,6 +464,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
 ### NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
+* [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
 
 ## South America
 ### Brazil
@@ -908,6 +909,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Vectoring(https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
 #### Cloncurry
 * [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
+### New South Wales
+#### Mineral Potential
+* [Eastern Lachlan](https://search.geoscience.nsw.gov.au/product/9253)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
