@@ -301,6 +301,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Deep Lithosphere](http://deep-lithospheric-structure.gs.cloud.ga.gov.au/ows) -> Deep Lithospheric Mineral Potential
   * [Geochronology](http://geochronology-isotopes.gs.cloud.ga.gov.au/ows) -> Geochronology
   * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
+	* [WMS](https://services.ga.gov.au/gis/rest/services/Australian_Geological_Provinces/MapServer) -> WMS picture
   * [Geophysics Surveys](https://services.ga.gov.au/gis/geophysical-surveys/ows?VERSION=2.0.0)
   * [Magnetotelluric](https://services.ga.gov.au/gis/magnetotellurics/wfs) -> Northern Australia AUSLAMP Stations
   * [Ni-Cu-PEGE](http://services.ga.gov.au/gis/services/MineralPotentialMapper/MapServer/WMSServer) -> Intrusion hosted Nickel Copper PGE Deposits
