@@ -891,6 +891,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
 * [Ni-Cu-PGE](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884) -> Potential for intrusion-hosted Ni-Cu-PGE sulfide deposits in Australia: A continental-scale analysis of mineral system prospectivity
 * [TISA IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587) -> Iron oxide copper-gold (IOCG) mineral potential assessment for the Tennant Creek – Mt Isa region: geospatial data
+* [TISA Alteration](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123013) -> Producing Magnetite and Hematite Alteration Proxies using 3D Gravity and Magnetic Inversion
 ### South Australia
 #### Geology
 * [Crystalline Basement](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/216146e3-7cb0-410a-bcb2-68e5e6bcf9f4) -> Crystalline basement intersecting drillholes
