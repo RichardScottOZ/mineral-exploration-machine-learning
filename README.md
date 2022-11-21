@@ -963,10 +963,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Southern New England](https://search.geoscience.nsw.gov.au/product/9222/7371775)
 ### Western Australia
 #### Geology
-[100K Bedrock](https://dasc.dmirs.wa.gov.au/Download/File/1773)
-[500K Bedrock](https://catalogue.data.wa.gov.au/dataset/1-500-000-state-interpreted-bedrock-geology-dmirs-016)
-[Abandoned Mines](https://catalogue.data.wa.gov.au/dataset/abandoned-mines)
-[Mineral Occurrences](https://catalogue.data.wa.gov.au/dataset/minedex-dmirs-001)
+* [100K Bedrock](https://dasc.dmirs.wa.gov.au/Download/File/1773)
+ * 100K mapsheets for surface you have to download individually and combine - they aren't consistent
+* [500K Bedrock](https://catalogue.data.wa.gov.au/dataset/1-500-000-state-interpreted-bedrock-geology-dmirs-016)
+* [Abandoned Mines](https://catalogue.data.wa.gov.au/dataset/abandoned-mines)
+* [Mineral Occurrences](https://catalogue.data.wa.gov.au/dataset/minedex-dmirs-001)
 #### Prospectivity
 * [Capricorn](https://data.csiro.au/collection/csiro:36617v1)-> Prospectivity analysis using a mineral systems approach - Capricorn case study project
 * [King Leopold](https://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do) -> Mineral prospectivity of the King Leopold Orogen and Lennard Shelf: analysis of potential field data in the west Kimberley region
