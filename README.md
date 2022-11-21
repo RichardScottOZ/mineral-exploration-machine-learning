@@ -990,6 +990,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
+## World
+### Geology
+* [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 
 # Papers with Code 
 ### NLP
