@@ -951,6 +951,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [South Uranium](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74288) -> Southern Northern Territory uranium and geothermal energy systems assessment digil data package
 * [Tennant Creek](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135011) -> Conductivity Model Derived from Magnetotelluric Data in the East Tennant Region, Northern Territory
 ### New South Wales
+#### Geology
+* [Seamless Geology](https://search.geoscience.nsw.gov.au/product/9232) -> NSW Seamless Geology Data Package (older version also on this page)
 #### Mineral Potential Data Packages
 * [Curnamona](https://search.geoscience.nsw.gov.au/product/9233/7564550)
 * [Eastern Lachlan](https://search.geoscience.nsw.gov.au/product/9253)
