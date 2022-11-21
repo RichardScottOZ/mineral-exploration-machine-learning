@@ -901,10 +901,16 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Dose Rate](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131960)-> Radiometric Grid of Australia (Radmap) v4 2019 filtered terrestrial dose rate
 * [Ternary Picture](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/134857) -> Radiometric grid of Australia (Radmap) v4 2019 - Ternary image (K, Th, U)
 #### AusAEM
-* [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
- * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
- * [AusAEM(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
- * (https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/140156) -> AusAEM 02 WA/NT 2019-20 Airborne Electromagnetic Survey
+* [AusAEM 1](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132709) -> AusAEM Year 1 NT/QLD Airborne Electromagnetic Survey; GA Layered Earth Inversion Products
+* [AusAEM 1](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
+* [AusAEM 1](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
+* [AusAEM 2](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/140156) -> AusAEM 02 WA/NT 2019-20 Airborne Electromagnetic Survey
+* [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146345) -> AusAEM–WA, Murchison Airborne Electromagnetic Survey Blocks
+* [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146042) -> AusAEM-WA, Southwest-Albany Airborne Electromagnetic Survey Blocks
+* [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144621) -> AusAEM WA 2020-21, Eastern Goldfields & East Yilgarn Airborne
+* [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145265) -> AusAEM (WA) 2020-21, Earaheedy & Desert Strip
+* [AusAEM ERC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145744) -> AusAEM Eastern Resources Corridor
+ * [interp overview](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147251)
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 ### Northern
