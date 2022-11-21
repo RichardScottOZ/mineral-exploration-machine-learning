@@ -905,6 +905,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [AusAEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092) -> AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates
  * [AusAEM(https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145120) -> AusAEM1 Interpretation Data Package
  * (https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/140156) -> AusAEM 02 WA/NT 2019-20 Airborne Electromagnetic Survey
+### Remote Sensing
+* [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 ### Northern
 * [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832)-> Resistivity model derived from magnetotellurics
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
@@ -965,6 +967,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Geology
 * [100K Bedrock](https://dasc.dmirs.wa.gov.au/Download/File/1773)
  * 100K mapsheets for surface you have to download individually and combine - they aren't consistent
+ * 250K mapsheets for surface you have to download individually and combine - they aren't consistent
 * [500K Bedrock](https://catalogue.data.wa.gov.au/dataset/1-500-000-state-interpreted-bedrock-geology-dmirs-016)
 * [Abandoned Mines](https://catalogue.data.wa.gov.au/dataset/abandoned-mines)
 * [Mineral Occurrences](https://catalogue.data.wa.gov.au/dataset/minedex-dmirs-001)
