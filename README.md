@@ -989,6 +989,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
 * [Moho](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=305396) -> National database of Moho depth estimates estimates from seismic refraction and teleseismic surveys
+### Geophysics
+* [Dap Search](http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php) -> Geoportal search - note annoyingly these are in Geosoft grids - see elsewere for conversion possibilties
+ * [Gravity, Magnetics, Radiometrics] -> Mostly country scale
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 ## World
@@ -999,6 +1002,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Geophysics
 #### Gravity
 * [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
+* [WGM 2012](https://bgi.obs-mip.fr/data-products/grids-and-models/wgm2012-global-model/)
+#### Magnetics
+* [EAMG2V3](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.geophysical_models:EMAG2_V3) _> Earth Magnetic Anomaly Grid
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
