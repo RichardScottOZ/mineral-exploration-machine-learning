@@ -988,7 +988,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
-* [Moho](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=305396)
+* [Moho](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=305396) -> National database of Moho depth estimates estimates from seismic refraction and teleseismic surveys
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 ## World
@@ -997,6 +997,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Paleogology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052)(An Atlas of Phanerozoic Paleogeographic Maps
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
+* [Moho](http://gocedata.como.polimi.it/wcs.php) -> GEMMA Data
+* [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
+* [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
 
 
 
