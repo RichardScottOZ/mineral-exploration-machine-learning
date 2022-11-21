@@ -1005,12 +1005,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 #### Magnetics
 * [EAMG2V3](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.geophysical_models:EMAG2_V3) _> Earth Magnetic Anomaly Grid
 * [WDMAM(https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
+* [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [Moho](http://gocedata.como.polimi.it/wcs.php) -> GEMMA Data
 * [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
 * [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
+* [LithoRef18](https://www.juanafonso.com/software) -> A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets
 #### Thermal
 * [Heat Flow](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008389)
 
