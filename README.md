@@ -878,6 +878,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 # Datasets
 ## Australia
+[Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
 ### Geology
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
  * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
@@ -994,6 +995,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
+* [Geology](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=292232) -> Bedrock geology compilation and regional synthesis of south Rae and parts of Hearne domains, Churchill Province, Northwest Territories, Saskatchewan, Nunavut, Manitoba and Alberta
 * [Moho](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=305396) -> National database of Moho depth estimates estimates from seismic refraction and teleseismic surveys
 ### Geophysics
 * [Dap Search](http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php) -> Geoportal search - note annoyingly these are in Geosoft grids - see elsewere for conversion possibilties
