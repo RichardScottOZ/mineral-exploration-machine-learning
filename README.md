@@ -912,6 +912,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145265) -> AusAEM (WA) 2020-21, Earaheedy & Desert Strip
 * [AusAEM ERC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145744) -> AusAEM Eastern Resources Corridor
  * [interp overview](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147251)
+#### AusLAMP
+* [AusLAMP SEA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131889) -> Resistivity model of the southeast Australian mainland from AusLAMP magnetotelluric data
+* [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832) -> Resistivity model derived from magnetotellurics: AusLAMP-TISA project 
+* [AusLAMP Delamerian](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144077) Lithospheric resistivity model of the Delamerian Orogen from AusLAMP magnetotelluric data
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 ### Northern
