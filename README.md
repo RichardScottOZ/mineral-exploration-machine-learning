@@ -1002,6 +1002,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 ## World
 ### Geology
+* [Bedrock](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=223767) -> Generalised geology of the world
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [Paleogology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052)(An Atlas of Phanerozoic Paleogeographic Maps
 ### Geophysics
