@@ -998,7 +998,6 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Geology
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [Paleogology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052)(An Atlas of Phanerozoic Paleogeographic Maps
-* [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
 ### Geophysics
 #### Gravity
 * [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
@@ -1011,8 +1010,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [Moho](http://gocedata.como.polimi.it/wcs.php) -> GEMMA Data
 * [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
-
-
+* [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
+#### Thermal
+* [Heat Flow](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008389)
 
 
 # Papers with Code 
