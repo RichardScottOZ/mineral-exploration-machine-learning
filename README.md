@@ -698,7 +698,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [SA Stratigraphy](https://github.com/RADutchie/SA-Strarigraphy-db) -> Stratigraphy database editor webapp
 * [Striplog](https://github.com/agile-geoscience/striplog)
 * [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
-* [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on
+* [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on, plates, margins etc.
 * [Litholog](https://github.com/rgmyr/litholog)
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
  *[Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
@@ -985,6 +985,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Mineral Occurrences](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
 ### Victoria
 * [Seamless Geology](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
+## Canada
+### Geology
+* [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
 
