@@ -1013,7 +1013,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
 * [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
 * [LithoRef18](https://www.juanafonso.com/software) -> A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets
-* [CRUST1.0](https://ds.iris.edu/ds/products/emc-crust10/) -> global crustal model
+* [CRUST1.0](https://ds.iris.edu/ds/products/emc-crust10/) -> global crustal model netcdf
+ * [Overview homepage](https://igppweb.ucsd.edu/~gabi/crust1.html)
 #### Thermal
 * [Heat Flow](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008389)
 
