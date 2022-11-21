@@ -465,7 +465,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
 * [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
  * [Download URLS](https://dasc.dmirs.wa.gov.au/Download/File/3599) -> dataset of download links
-### NSW
+* [data WA subset](https://catalogue.data.wa.gov.au/org/department-of-mines-industry-regulation-and-safety)
+ ## NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
 
@@ -961,6 +962,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Central Lachlan](https://search.geoscience.nsw.gov.au/product/9261/7922136)
 * [Southern New England](https://search.geoscience.nsw.gov.au/product/9222/7371775)
 ### Western Australia
+#### Geology
+[100K Bedrock]((https://dasc.dmirs.wa.gov.au/Download/File/1773))
+#### Prospectivity
 * [Capricorn](https://data.csiro.au/collection/csiro:36617v1)-> Prospectivity analysis using a mineral systems approach - Capricorn case study project
 * [King Leopold](https://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do) -> Mineral prospectivity of the King Leopold Orogen and Lennard Shelf: analysis of potential field data in the west Kimberley region
 * [Yilgarn Gold](https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip)
