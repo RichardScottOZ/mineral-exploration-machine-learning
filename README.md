@@ -463,6 +463,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 ### Western Australia
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
+* [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
+ * [Download URLS](https://dasc.dmirs.wa.gov.au/Download/File/3599) -> dataset of download links
 ### NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
