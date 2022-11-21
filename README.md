@@ -914,12 +914,18 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [interp overview](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147251)
 #### AusLAMP
 * [AusLAMP SEA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131889) -> Resistivity model of the southeast Australian mainland from AusLAMP magnetotelluric data
+ * [Victoria Data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/120864)
+ * [NSW Data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/132148)
 * [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832) -> Resistivity model derived from magnetotellurics: AusLAMP-TISA project 
-* [AusLAMP Delamerian](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144077) Lithospheric resistivity model of the Delamerian Orogen from AusLAMP magnetotelluric data
+* [AusLAMP Delamerian](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144077) -> Lithospheric resistivity model of the Delamerian Orogen from AusLAMP magnetotelluric data
+* [AusLAMP NE SA](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1cab41af-eddf-40e4-b091-a6e733e5701a)
+* [AusLAMP Gawler](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1cab41af-eddf-40e4-b091-a6e733e5701a)
+ * [AusLAMP Stations](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/116721) -> circa 2017
+ * [Tasmanides Paper](https://www.sciencedirect.com/science/article/pii/S0040195120302432?via%3Dihub)
+ 
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 ### Northern
-* [AusLAMP TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130832)-> Resistivity model derived from magnetotellurics
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
