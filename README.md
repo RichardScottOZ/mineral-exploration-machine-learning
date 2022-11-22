@@ -400,9 +400,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### USA
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [Minnesota](https://mngs-umn.opendata.arcgis.com/)
+### Asia
+* [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
+* [India Mineral[(https://bhukosh.gsi.gov.in/arcgis/services/Mineral/Mineral/MapServer/WmsServer) -> WMS
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
-* [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
  * [orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
 # APIs
@@ -549,7 +551,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### China
 * [Mineral Occurrences](http://dcc.cgs.gov.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1)
 ### India
-* [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public)
+* [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public) -> India Geological Survey
 ## Other
 ### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
