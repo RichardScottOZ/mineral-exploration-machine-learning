@@ -545,6 +545,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
+## Asia
+### China
+* [Mineral Occurrences](http://dcc.cgs.gov.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1)
+### India
+* [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public)
 ## Other
 ### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
