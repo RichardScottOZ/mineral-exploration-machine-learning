@@ -555,7 +555,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [ReSci](https://www.sciencebase.gov/catalog/item/4f4e4760e4b07f02db47dfb4) -> Registry of Scientific Collections of the National Geological and Geophysical Data Preservation Program
 * [Michigan](https://geo.btaa.org/)
 ## Africa
-* [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
+* [Cadastre](https://landadmin.trimble.com/cadastre-portals/)
+* [Hydrogeology](https://ggis.un-igrac.org/maps/1900)
 * [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
 * [Namibia](https://namibia.africageoportal.com/)
  * [Mineral Occurrences](https://namibia.africageoportal.com/datasets/2eee87a9bec944b1b628aad36c262407_0/explore?location=55.319481%2C5.326328%2C7.67&showTable=true)
