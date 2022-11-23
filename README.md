@@ -560,6 +560,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [RRuff Mineral Properties](https://rruff.info/ima/)
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
+ * [catalog](http://onegeology-geonetwork.brgm.fr/geonetwork3/srv/eng/catalog.search#/search)
 ### General
 * [OSF](https://osf.io/) -> Open Science Foundation
  * [Sediment Hosted Base Metals](https://osf.io/twksd/) -> Sediment Hosted Base Metals
