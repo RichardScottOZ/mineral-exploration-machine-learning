@@ -403,11 +403,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Minnesota](https://mngs-umn.opendata.arcgis.com/)
 ### Asia
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
+ * [orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
 * [India Mineral[(https://bhukosh.gsi.gov.in/arcgis/services/Mineral/Mineral/MapServer/WmsServer) -> WMS
+### Africa
+* [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
+* [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs - > There is a WMS version too
+ * [github](https://github.com/IPISResearch)
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
- * [orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
-* [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
@@ -547,11 +550,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Michigan](https://geo.btaa.org/)
 ## Africa
 * [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
+* [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
 ## Asia
 ### China
+* [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
 * [Mineral Occurrences](http://dcc.cgs.gov.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1)
+ * [National Mineral Deposit Database](http://dcc.ngac.org.cn/en//geologicalData/details/doi/10.23650/data.C.2018.NGA120770.K1.1.1.V1)
 ### India
 * [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public) -> India Geological Survey
 ## Other
