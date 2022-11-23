@@ -387,6 +387,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Geophysics](https://mapas.igme.es/gis/rest/services/BasesDatos/IGME_SIGEOF/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
  * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
+### Ukraine
+* [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
@@ -472,10 +474,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
  * [Download URLS](https://dasc.dmirs.wa.gov.au/Download/File/3599) -> dataset of download links
 * [data WA subset](https://catalogue.data.wa.gov.au/org/department-of-mines-industry-regulation-and-safety)
- ## NSW
+## NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
-
+## New Zealand
+* [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
@@ -515,7 +518,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
  * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
+### Ukraine
+* [Mineral Resources](https://eng.minerals-ua.info/)
 ### Russia
+* [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 ## North America
 ### Canada
