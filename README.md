@@ -557,9 +557,13 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Africa
 * [Africa Cadastre](https://landadmin.trimble.com/cadastre-portals/)
 * [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
+* [Namibia](https://namibia.africageoportal.com/)
+ * [Mineral Occurrences](https://namibia.africageoportal.com/datasets/2eee87a9bec944b1b628aad36c262407_0/explore?location=55.319481%2C5.326328%2C7.67&showTable=true)
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
 * [Tanzania](https://www.gmis-tanzania.com/)
+ * [Mineral Occurrences](https://www.gmis-tanzania.com/download/minocc.zip)
+ * [Mines](https://www.gmis-tanzania.com/download/mines.zip)
 ## Asia
 ### China
 * [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
