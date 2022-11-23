@@ -525,6 +525,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
  * [SIGEOM Database](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_aLaCarte?l=F)
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
+ * [Mineral occcurrence database](https://catalogue.data.gov.bc.ca/dataset/minfile-mineral-occurrence-database)
 * [Yukon](https://data.geology.gov.yk.ca/)
   * [ftp](https://ygsftp.gov.yk.ca/)
 * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
