@@ -1379,7 +1379,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 ### Geophysics
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
-https://www.sciencedirect.com/science/article/pii/S001379522100137X
+- https://www.sciencedirect.com/science/article/pii/S001379522100137X
 #### EM
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
@@ -1451,6 +1451,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/267816279_Fuzzification_of_continuous-value_spatial_evidence_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/301635716_Union_score_and_fuzzy_logic_mineral_prospectivity_mapping_using_discretized_and_continuous_spatial_evidence_values
 ## Uncertainty
+- https://deliverypdf.ssrn.com/delivery.php?ID=555064031119110002088087068121000096050036019060022069010050000053011056029076002067121000064004002088113115000107115017083105004026015092089005123065040099024112018026013043065104094012124120126039100033055018066074125089104115090100009064122122019003015085069021024027072126106082092110&EXT=pdf&INDEX=TRUE -> Estimating uncertainties in 3-D models of complex fold-and-thrust 2 belts: a case study of the Eastern Alps triangle zone
 - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
 - https://www.researchgate.net/publication/235443307_Managing_uncertainty_in_exploration_targeting
 - https://www.researchgate.net/publication/255909185_The_upside_of_uncertainty_Identification_of_lithology_contact_zones_from_airborne_geophysics_and_satellite_data_using_random_forests_and_support_vector_machines
