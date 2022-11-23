@@ -399,6 +399,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [References](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer)
 ### USA
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
+* [USGS MRDS](https://mrdata.usgs.gov/services/mrds?request=getcapabilities&service=WFS&version=1.0.0&)
 * [Minnesota](https://mngs-umn.opendata.arcgis.com/)
 ### Asia
 * [China](http://data.ngac.org.cn/mineralresource/index.html?id=302c137ee126465095b3df8e68168d8c) -> WMS mineral deposit wap
