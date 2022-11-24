@@ -400,6 +400,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
 ### Ukraine
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
+### Ireland
+* [Rest](https://gsi.geodata.gov.ie/server/rest/services)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
