@@ -389,6 +389,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [IGME Geode](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geode_50/MapServer)
  * [Geophysics](https://mapas.igme.es/gis/rest/services/BasesDatos/IGME_SIGEOF/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
+ * [GeoFPI](https://mapas.igme.es/gis/rest/services/GeoFPI) - > Geology and Minerals
  * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
 ### Ukraine
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
