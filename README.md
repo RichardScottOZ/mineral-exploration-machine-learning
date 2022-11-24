@@ -411,6 +411,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [BRG](https://services.bgr.de/uebersicht/kurzlinks)
 ### Czech Republic
 * [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
+### Slovakia
+* [Rest](https://gis.geology.sk/arcgis/rest/services)
 
 ## North America
 ### Canada
@@ -566,8 +568,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
 ### Croatia
 * [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
+* [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
 ### Czech Republic
-* [](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
+* [GS](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
+### Slovenia
+* [Data Catalogue][https://egeologija.si/geonetwork/srv/eng/catalog.search#/}
+### Slovakia
+* [Data Catalogue][https://apl.geology.sk/mapportal/#/aplikacie/3/}
+* [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
  
 ## North America
 ### Canada
