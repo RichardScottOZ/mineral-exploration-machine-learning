@@ -482,6 +482,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
+* [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
@@ -969,7 +970,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 ### Northern
-* [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa
+* [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa with interpolated grids
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
 * [Inversion Models](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901) -> The North Australian Craton 3D Gravity and Magnetic Inversion Models
 * [Ni-Cu-PGE](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884) -> Potential for intrusion-hosted Ni-Cu-PGE sulfide deposits in Australia: A continental-scale analysis of mineral system prospectivity
