@@ -1028,7 +1028,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Deposit Atlas](https://smi.uq.edu.au/project/nw-mineral-province-deposit-atlas) -> Northwest Mineral Province Deposit Atlas
 * [Geology](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={0CEA14DE-D170-4CA2-9FC9-20ED49143B4B}) -> Geology series overview
 * [Mineral and Energy Report](https://geoscience.data.qld.gov.au/data/report/cr102061) -> NORTH-WEST QUEENSLAND MINERAL AND ENERGY PROVINCE REPORT 2011 - NWQMEP
-* [Vectoring(https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
+* [Vectoring[(https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
 #### Cloncurry
 * [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
 ### Northern Territory
