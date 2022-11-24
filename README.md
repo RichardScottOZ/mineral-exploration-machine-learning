@@ -350,6 +350,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Western Australia
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
  * [Rest](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services)
+## New Zealand
+* [GNS}(https://maps.gns.cri.nz/) -> List of web services
+ 
 ## South America
 ### Brazil
 * [Brazil Geoportal](https://geoportal.cprm.gov.br/server/rest/services)
@@ -483,6 +486,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
 * [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
+* [Geology](https://data.gns.cri.nz/geology/) -> Web Map
+* https://maps.gns.cri.nz/gns/wfs 
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
