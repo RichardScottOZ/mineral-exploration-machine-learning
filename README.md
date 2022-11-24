@@ -409,6 +409,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
 ### Germany
 * [BRG](https://services.bgr.de/uebersicht/kurzlinks)
+### Czech Republic
+* [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
+
 ## North America
 ### Canada
 * [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
@@ -545,7 +548,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [github](https://github.com/ngu)
  * [API](https://www.kartverket.no/en/api-and-data)
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
-### Britan
+### Britain
 * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
  * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
@@ -561,6 +564,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [GDI](https://gst.bgr.de) -> 3D Models Germany
 ### France
 * [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
+### Croatia
+* [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
+### Czech Republic
+* [](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
  
 ## North America
 ### Canada
