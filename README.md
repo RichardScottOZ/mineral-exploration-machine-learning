@@ -523,6 +523,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Russia
 * [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+### Other
+* [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
@@ -556,12 +558,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Michigan](https://geo.btaa.org/)
 ## Africa
 * [Cadastre](https://landadmin.trimble.com/cadastre-portals/)
-* [Hydrogeology](https://ggis.un-igrac.org/maps/1900)
+* [Hydrogeology](https://ggis.un-igrac.org/maps/1900) -> Hydrogeology and geology from groundwater atlas
 * [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
 * [Namibia](https://namibia.africageoportal.com/)
  * [Mineral Occurrences](https://namibia.africageoportal.com/datasets/2eee87a9bec944b1b628aad36c262407_0/explore?location=55.319481%2C5.326328%2C7.67&showTable=true)
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
+* [Uganda](https://gmis.beak.de/uganda/) -> GMIS portal
+ * [Metallic minerals](http://catalog.data.ug/dataset/metallic-minerals)
 * [Tanzania](https://www.gmis-tanzania.com/)
  * [Mineral Occurrences](https://www.gmis-tanzania.com/download/minocc.zip)
  * [Mines](https://www.gmis-tanzania.com/download/mines.zip)
