@@ -363,6 +363,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Environmental](https://geo.serfor.gob.pe/geoservicios/rest/services)
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/https://sigam.segemar.gov.ar/geoserver217/wfs)
+### Colombia
+* [Rest](https://srvags.sgc.gov.co/arcgis/rest/services)
+ * [Deposits 2018](https://srvags.sgc.gov.co/arcgis/rest/services/Mapa_metalogenico_2018/Mapa_Metalogenico_2018/MapServer)
 ### Other
 * [SIG Andes](http://mapsref.brgm.fr/wxs/1GG/SIGAndes_BRGM) -> Andes geology
 ## Europe
@@ -389,7 +392,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [IGME Geode](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geode_50/MapServer)
  * [Geophysics](https://mapas.igme.es/gis/rest/services/BasesDatos/IGME_SIGEOF/MapServer)
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
- * [GeoFPI](https://mapas.igme.es/gis/rest/services/GeoFPI) - > Geology and Minerals
+ * [GeoFPI](https://mapas.igme.es/gis/rest/services/GeoFPI) - > Geology and Minerals South Portuguese Zone
  * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
 ### Ukraine
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
@@ -500,6 +503,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
  * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
+### Colombia
+* [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
