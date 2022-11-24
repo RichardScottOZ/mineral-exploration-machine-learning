@@ -393,6 +393,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
  * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
+### Germany
+* [BRG](https://services.bgr.de/uebersicht/kurzlinks)
 ## North America
 ### Canada
 * [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
@@ -411,6 +413,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
 * [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs - > There is a WMS version too
  * [github](https://github.com/IPISResearch)
+* [Uganda](https://gmis.beak.de/geoserver/uganda/wms?VERSION=1.3.0) -> GMIS WMS
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
 # APIs
@@ -523,8 +526,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Russia
 * [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
-### Other
+### Germany
+* [Geoportal(https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/)
+ * [Geomap](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/geoviewer) -> M
+ * [Atom](https://services.bgr.de/atomfeeds/service.xml) -> Atom data feed
+ * [GDI](https://gst.bgr.de) -> 3D Models Germany
+### France
 * [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
+ 
 ## North America
 ### Canada
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
@@ -569,6 +578,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Tanzania](https://www.gmis-tanzania.com/)
  * [Mineral Occurrences](https://www.gmis-tanzania.com/download/minocc.zip)
  * [Mines](https://www.gmis-tanzania.com/download/mines.zip)
+* [SIGM](http://41.224.38.194:8080/SIGM/pages/geocatalogue/geocatalogue.xhtml) -> Tunisia Geology and Mining
 ## Asia
 ### China
 * [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
@@ -806,6 +816,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats) -> Statistical analysis library for ODC
   * [Geo Notebooks](https://github.com/Element84/geo-notebooks) -> Code examples from Element 84
  * [Raster4ML](https://github.com/remotesensinglab/raster4ml) -> A large number of vegetation indices
+ * [Lefa](http://lefa.geologov.net) -> Fracture analysis, lineaments
  ## Serverless
  * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
   * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
@@ -1716,5 +1727,4 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/304036250_Mineral_Exploration_for_Epithermal_Gold_in_Northern_Patagonia_Argentina_From_Regional-_to_Deposit-Scale_Prospecting_Using_Landsat_TM_and_Terra_ASTER
 - https://www.researchgate.net/publication/340652300_New_logical_operator_algorithms_for_mapping_of_hydrothermally_altered_rocks_using_ASTER_data_A_case_study_from_central_Turkey
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
-
 
