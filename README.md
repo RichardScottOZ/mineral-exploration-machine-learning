@@ -1073,6 +1073,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Mineral Occurrences](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
 ### Victoria
 * [Seamless Geology](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
+## New Zealand
+* [Mineral Data Pack](https://www.nzpam.govt.nz/maps-geoscience/minerals-datapack/) -> Mineral Exploration Data Pack
+
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
