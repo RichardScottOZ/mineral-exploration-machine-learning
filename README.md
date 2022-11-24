@@ -351,7 +351,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Western Australia](https://services.slip.wa.gov.au/public/services/SLIP_Public_Services/Industry_and_Mining_WFS/MapServer/WFSServer)
  * [Rest](https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services)
 ## New Zealand
-* [GNS}(https://maps.gns.cri.nz/) -> List of web services
+* [GNS](https://maps.gns.cri.nz/) -> List of web services
  
 ## South America
 ### Brazil
