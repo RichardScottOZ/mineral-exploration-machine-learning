@@ -534,9 +534,11 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ### Ireland
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
+ * [GSI](https://dcenr.maps.arcgis.com/apps/MapSeries/index.html?appid=a30af518e87a4c0ab2fbde2aaac3c228) - Map viewer
 * [Goldmine](https://secure.decc.gov.ie/goldmine/index.html) -> Map and document search
 * [data.gov.ie](https://data.gov.ie/organization/geological-survey-of-ireland) -> National portal view
 * [isde](https://isde.ie/geonetwork/srv/eng/catalog.search#/) -> Irish Spatial Data Exchange
+
 ### Norway
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
