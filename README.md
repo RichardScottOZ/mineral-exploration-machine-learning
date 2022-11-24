@@ -1083,6 +1083,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Gravity, Magnetics, Radiometrics] -> Mostly country scale
 ## Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
+## Ireland
+* [MPM](https://www.gsi.ie/en-ie/data-and-maps/Pages/Minerals.aspx) -> Mineral Potentinal Mapping project
 ## World
 ### Geology
 * [Bedrock](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=223767) -> Generalised geology of the world
