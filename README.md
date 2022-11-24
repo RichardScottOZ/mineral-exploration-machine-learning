@@ -547,7 +547,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
 ### Germany
-* [Geoportal(https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/)
+* [Geoportal](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/)
  * [Geomap](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/geoviewer) -> M
  * [Atom](https://services.bgr.de/atomfeeds/service.xml) -> Atom data feed
  * [GDI](https://gst.bgr.de) -> 3D Models Germany
