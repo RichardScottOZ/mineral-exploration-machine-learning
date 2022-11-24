@@ -1021,7 +1021,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Magnetics](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1a797550-8d6b-4ab1-81f2-be6ed15f06d0) -> Magnetics
 * [Seismic Lines](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/397d3203-5d96-4c61-9ac9-1d936d66293f) -> Seismic lines
 ##### Gawler
-* [Gawler MPP](https://webarchive.nla.gov.au/awa/20160615192753/http://www.ga.gov.au/cedda/data/760 -> Gawler Mineral Promotion Project - Data
+* [Gawler MPP](https://webarchive.nla.gov.au/awa/20160615192753/http://www.ga.gov.au/cedda/data/760) -> Gawler Mineral Promotion Project - Data
 ### Queensland
 * [Overview](https://smi.uq.edu.au/files/80453/SREP_NDP_summary_Dec2021.pdf)
 * [Deep Mining Queensland](https://smi.uq.edu.au/project/deep-mining-queensland)-> Deep Mining Queensland
