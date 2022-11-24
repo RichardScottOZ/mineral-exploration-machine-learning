@@ -402,6 +402,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
 ### Ireland
 * [Rest](https://gsi.geodata.gov.ie/server/rest/services)
+ * [Mineral Locations](https://gsi.geodata.gov.ie/server/rest/services/Minerals/IE_GSI_Mineral_Locations_IE26_ITM/MapServer/0)
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
@@ -533,6 +534,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ### Ireland
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
+* [Goldmine](https://secure.decc.gov.ie/goldmine/index.html) -> Map and document search
+* [data.gov.ie](https://data.gov.ie/organization/geological-survey-of-ireland) -> National portal view
+* [isde](https://isde.ie/geonetwork/srv/eng/catalog.search#/) -> Irish Spatial Data Exchange
 ### Norway
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
