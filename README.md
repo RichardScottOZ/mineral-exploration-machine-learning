@@ -1086,7 +1086,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [WGM 2012](https://bgi.obs-mip.fr/data-products/grids-and-models/wgm2012-global-model/)
 #### Magnetics
 * [EAMG2V3](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.geophysical_models:EMAG2_V3) _> Earth Magnetic Anomaly Grid
-* [WDMAM(https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
+* [WDMAM](https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
 * [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
