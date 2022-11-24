@@ -381,7 +381,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
-    * [Bedrock Geology](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Kalliopera_WFS/MapServer/WFSServer_
+    * [Bedrock Geology](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Kalliopera_WFS/MapServer/WFSServer_)
 	* [Geophysics](http://gtkdata.gtk.fi/ArcGIS/services/Rajapinnat/GTK_Geofysiikka_WMS/MapServer/WMSServer)
 	* [Ground Surveys](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Pohjatutkimukset_WMS/MapServer/WMSServer)
 * [Arctic Minerals](http://13.95.69.121:80/geoserver/erl/ows) -> Arctic 1M Mineral Occurrences
