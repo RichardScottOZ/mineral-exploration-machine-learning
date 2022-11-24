@@ -413,6 +413,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
 ### Slovakia
 * [Rest](https://gis.geology.sk/arcgis/rest/services)
+### Hungary
+* [MBFZ OGC](https://map.mbfsz.gov.hu/)
 
 ## North America
 ### Canada
@@ -576,6 +578,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Slovakia
 * [Data Catalogue][https://apl.geology.sk/mapportal/#/aplikacie/3/}
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
+### Hungary
+* {MBFSZ Maps](https://map.mbfsz.gov.hu/)
  
 ## North America
 ### Canada
