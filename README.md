@@ -422,7 +422,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [India Mineral](https://bhukosh.gsi.gov.in/arcgis/services/Mineral/Mineral/MapServer/WmsServer) -> WMS
 ### Africa
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
-* [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs - > There is a WMS version too
+* [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs) - > There is a WMS version too
  * [github](https://github.com/IPISResearch)
 * [Uganda](https://gmis.beak.de/geoserver/uganda/wms?VERSION=1.3.0) -> GMIS WMS
 ## Other
