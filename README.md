@@ -342,7 +342,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Seismic](https://services.sarig.sa.gov.au/vector/south_australia_seismic_data/wfs?version=1.1.0)
  * [Tenements](https://services.sarig.sa.gov.au/vector/mineral_tenements/wfs?version=1.1.0)
 ### Northern Territory
-* [NTGS[(http://geology.data.nt.gov.au/geoserver/wfs) -> Northern Territory Geological Survey
+* [NTGS](http://geology.data.nt.gov.au/geoserver/wfs) -> Northern Territory Geological Survey
 ### Tasmania
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 ### Victoria
