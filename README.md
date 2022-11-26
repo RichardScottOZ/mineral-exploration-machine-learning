@@ -418,6 +418,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [MBFZ Rest](https://map.mbfsz.gov.hu/arcgis/rest/services)
 ### Romania
 * [IGR](https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
+ * [IGR minres](https://inspire.igr.ro/geoserver/minerals4eu/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
 
 ## North America
 ### Canada
