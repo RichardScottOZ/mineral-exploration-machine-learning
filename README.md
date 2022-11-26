@@ -825,6 +825,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geophysical notes](https://github.com/aadm/geophysical_notes) -> Seismic data processing
 ### Magnetotellurics
 * [MtPy](https://github.com/RichardScottOZ/mtpy)
+ * [Tutorials](https://github.com/simpeg-research/iris-mt-course-2022)
 * [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analysis
  * [Lithospheric conductors paper](https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems)
 * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
