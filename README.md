@@ -415,6 +415,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Rest](https://gis.geology.sk/arcgis/rest/services)
 ### Hungary
 * [MBFZ OGC](https://map.mbfsz.gov.hu/)
+* [MBFZ Rest](https://map.mbfsz.gov.hu/arcgis/rest/services)
+### Romania
+* [IGR](https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
 
 ## North America
 ### Canada
@@ -1779,4 +1782,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/304036250_Mineral_Exploration_for_Epithermal_Gold_in_Northern_Patagonia_Argentina_From_Regional-_to_Deposit-Scale_Prospecting_Using_Landsat_TM_and_Terra_ASTER
 - https://www.researchgate.net/publication/340652300_New_logical_operator_algorithms_for_mapping_of_hydrothermally_altered_rocks_using_ASTER_data_A_case_study_from_central_Turkey
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
+
+
+https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities
 
