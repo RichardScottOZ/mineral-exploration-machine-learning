@@ -583,6 +583,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
 ### Hungary
 * {MBFSZ Maps](https://map.mbfsz.gov.hu/)
+### Hungary
+* {IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
+ * [Mineral Resources](https://geoportal.igr.ro/viewminres)
+
  
 ## North America
 ### Canada
@@ -1784,5 +1788,5 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
 
 
-https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities
+
 
