@@ -419,6 +419,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Romania
 * [IGR](https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
  * [IGR minres](https://inspire.igr.ro/geoserver/minerals4eu/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
+### Poland
+* [Rest example](https://cbdgmapa.pgi.gov.pl/arcgis/rest/services/midas/MapServer/1?f=json) -> Many more mapservers
 
 ## North America
 ### Canada
@@ -1478,6 +1480,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Geophysics
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X
+- https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
 #### EM
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
@@ -1646,7 +1649,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/323856713_Lithological_mapping_using_Random_Forests_applied_to_geophysical_and_remote_sensing_data_a_demonstration_study_from_the_Eastern_Goldfields_of_Australia
 - https://publications.csiro.au/publications/#publication/PIcsiro:EP123339/SQmineral%20prospectivity/RP1/RS50/RORECENT/STsearch-by-keyword/LISEA/RI16/RT26 [nickel]
 - https://www.researchgate.net/publication/257026553_Regional_prospectivity_analysis_for_hydrothermal-remobilised_nickel_mineral_systems_in_western_Victoria_Australia
-####Western Australia
+### Western Australia
 - https://www.researchgate.net/publication/274714146_Reducing_subjectivity_in_multi-commodity_mineral_prospectivity_analyses_Modelling_the_west_Kimberley_Australia
 - https://www.researchgate.net/publication/319013132_Identifying_mineral_prospectivity_using_3D_magnetotelluric_potential_field_and_geological_data_in_the_east_Kimberley_Australia
 - https://www.researchgate.net/publication/280930127_Regional-scale_targeting_for_gold_in_the_Yilgarn_Craton_Part_1_of_the_Yilgarn_Gold_Exploration_Targeting_Atlas
