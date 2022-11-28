@@ -1151,6 +1151,10 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 - https://www.sciencedirect.com/science/article/pii/S2590197422000064?via%3Dihub#bib20- -> Geoscience language models and their intrinsic evaluation -> NRCan code above [includes model]
 - https://www.researchgate.net/publication/334507958_Word_embeddings_for_application_in_geosciences_development_evaluation_and_examples_of_soil-related_concepts -> GeoVec [includes model]
 - https://www.researchgate.net/publication/347902344_Portuguese_word_embeddings_for_the_oil_and_gas_industry_Development_and_evaluation -> PetroVec [includes model]
+- A resource for automated search and collation of geochemical datasets from journal supplements
+### Geochemistry
+- https://www.researchgate.net/publication/365758387_A_resource_for_automated_search_and_collation_of_geochemical_datasets_from_journal_supplements
+	- https://github.com/erinlmartin/figshare_geoscrape?s=09
 ### Other
 - https://www.researchgate.net/publication/318839364_Network_analysis_of_mineralogical_systems
 
