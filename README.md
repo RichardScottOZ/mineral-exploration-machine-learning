@@ -47,7 +47,9 @@ Suggestions welcome: open a discussion or issue.
  * [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
-## Explore SA - South Australian Department of Energy and Mining Competition
+### South Australia
+* [Gawler_MPM](https://github.com/e-farahbakhsh/Gawler_MPM) -> Cobalt, Chromium, Nickel
+#### Explore SA - South Australian Department of Energy and Mining Competition
 * [Winners](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/abba4f54-b6ef-4fe4-b951-57f11299d490) -> SARIG data information
 * [Caldera](https://github.com/mrodda117/CalderaPublic) -> Caldera Analytics analysis
 * [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
