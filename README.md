@@ -610,7 +610,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Nova Scotia](https://novascotia.ca/natr/meb/maps/)
  * [provincial](https://novascotia.ca/natr/meb/download/gis-data-maps-provincial.asp)
 * [Prince Edward Island](http://www.gov.pe.ca/gis/download.php3)
-* [Saskatchewan](https://geohub.saskatchewan.ca) http://www.economy.gov.sk.ca/dbsearch/MinDepositQuery/default.aspx?ID=2771
+* [Saskatchewan](https://geohub.saskatchewan.ca) 
+ * [Mineral occurrence database](https://applications.saskatchewan.ca/Apps/ECON_Apps/dbsearch/MinDepositQuery/default.aspx?ID=5987)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
