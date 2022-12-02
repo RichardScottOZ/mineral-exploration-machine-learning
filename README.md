@@ -439,6 +439,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [orefield](http://219.142.81.85/arcgis/rest/services/矿产地数据库2019/orefield2019/MapServer/0) -> Mineral occurrence points
 * [India Mineral](https://bhukosh.gsi.gov.in/arcgis/services/Mineral/Mineral/MapServer/WmsServer) -> WMS
 ### Africa
+* [Africa Geoportal](https://services8.arcgis.com/oTalEaSXAuyNT7xf/ArcGIS/rest/services) -> Rest services
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
 * [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs) - > There is a WMS version too
  * [github](https://github.com/IPISResearch)
@@ -633,6 +634,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
 * [Namibia](https://namibia.africageoportal.com/)
  * [Mineral Occurrences](https://namibia.africageoportal.com/datasets/2eee87a9bec944b1b628aad36c262407_0/explore?location=55.319481%2C5.326328%2C7.67&showTable=true)
+ * [Miners](https://services8.arcgis.com/oTalEaSXAuyNT7xf/ArcGIS/rest/services/Namibia_Mines/FeatureServer/layers)
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
  * [Mineral Occurrences](https://maps.geoscience.org.za/download/mineral-shapefiles.php) -> Example where you need to log in to download
 * [Uganda](https://gmis.beak.de/uganda/) -> GMIS portal
