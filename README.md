@@ -590,7 +590,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Hungary
 * {MBFSZ Maps](https://map.mbfsz.gov.hu/)
 ### Romania
-* {IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
+* [IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
 ### Poland
  *[Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
