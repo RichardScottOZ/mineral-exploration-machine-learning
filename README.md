@@ -588,7 +588,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Slovenia
 * [Data Catalogue][https://egeologija.si/geonetwork/srv/eng/catalog.search#/}
 ### Slovakia
-* [Data Catalogue][https://apl.geology.sk/mapportal/#/aplikacie/3/}
+* [Data Catalogue](https://apl.geology.sk/mapportal/#/aplikacie/3/}
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
 ### Hungary
 * [MBFSZ Maps](https://map.mbfsz.gov.hu/)
