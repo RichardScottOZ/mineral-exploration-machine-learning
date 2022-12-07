@@ -441,6 +441,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Africa
 * [Africa Geoportal](https://services8.arcgis.com/oTalEaSXAuyNT7xf/ArcGIS/rest/services) -> Rest services
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
+https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs) - > There is a WMS version too
  * [github](https://github.com/IPISResearch)
 * [Uganda](https://gmis.beak.de/geoserver/uganda/wms?VERSION=1.3.0) -> GMIS WMS
@@ -485,6 +486,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [ASTER Maps notes](https://confluence.csiro.au/public/SpecSens/files/276430859/276430921/1/1426138425933/Australian+ASTER+Geoscience+Product+Notes+FINALx.pdf) -> Notes for the above
 ### AuScope
 * [3D Geology](http://geomodels.auscope.org.au/) -> Models from multiple areas
+### TERN
+* [Enhanced Bare Earth Covariates for Soil and Lithological Modelling](https://portal.tern.org.au/metadata/21910)
 ### Bureau of Meteorology
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
 ### South Australia
