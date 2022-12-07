@@ -591,9 +591,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Data Catalogue][https://apl.geology.sk/mapportal/#/aplikacie/3/}
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
 ### Hungary
-* {MBFSZ Maps](https://map.mbfsz.gov.hu/)
+* [MBFSZ Maps](https://map.mbfsz.gov.hu/)
 ### Romania
-* [IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
+* [IGR[(https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
 ### Poland
  *[Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
