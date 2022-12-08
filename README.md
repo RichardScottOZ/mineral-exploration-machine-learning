@@ -596,7 +596,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
 ### Poland
- *[Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
+ * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
 
  
 ## North America
@@ -729,6 +729,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## GIS
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools : Indispensible for some quick and easy viewing
     * [2D Geology in QGIS](https://github.com/frizatch/2DGeology_in_QGIS) -> Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
+    * [OpenLog](https://gitlab.com/geolandia/openlog/openlog-qgis-plugin) -> Drillhole plugin beta
   * [GRASS](https://github.com/OSGeo/grass) 
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
