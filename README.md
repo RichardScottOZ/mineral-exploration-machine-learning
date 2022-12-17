@@ -191,6 +191,7 @@ Suggestions welcome: open a discussion or issue.
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
 ## Guides
+* [Geospatial CLI](https://github.com/JakobMiksch/geospatial-cli) - List of geospatial command line tools 
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * [Earth Observation](https://github.com/RichardScottOZ/awesome-earthobservation-code)
 * [Earth Artificial Intelligence](Awesome-Earth-Artificial-Intelligence)
