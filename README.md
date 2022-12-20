@@ -101,9 +101,10 @@ Suggestions welcome: open a discussion or issue.
 #### Regolith Depth
 * [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6) -> Model
 * [Complete Radiometrics Grid of Australia with modelled infill](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
-### AEM Interpolation
+#### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380)
+  
 ### Electromagnetics
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 ### Inversion
@@ -845,6 +846,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
 * [pyMT](https://github.com/eroots/pyMT)
 * [resistics](https://github.com/resistics/resistics)
+* [MECMUS](https://github.com/GoFEM/MECMUS) -> tools to read Electrical Conductivity model of the USA
+ * [model](https://ds.iris.edu/ds/products/emc-mecmus-2022/)
    
 ### Gridding
 * [GMT](https://github.com/GenericMappingTools/gmt)
