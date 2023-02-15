@@ -496,6 +496,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Enhanced Bare Earth Covariates for Soil and Lithological Modelling](https://portal.tern.org.au/metadata/21910)
 ### Bureau of Meteorology
 * [Groundwater Explorer](http://www.bom.gov.au/water/groundwater/explorer/map.shtml) -> Bureau of Meteorology
+### Foundational Spatial Data
+* [Elvis](https://elevation.fsdf.org.au/)
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/) -> South Australia Geological Survey geospatial map based search
 * [SARIG Catalogue](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/search) -> data catalogue
