@@ -521,6 +521,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
+## Tasmania
+* [MRT](https://www.mrt.tas.gov.au/products)
+* [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map)
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
 * [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
