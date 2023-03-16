@@ -353,6 +353,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [NTGS](http://geology.data.nt.gov.au/geoserver/wfs) -> Northern Territory Geological Survey
 ### Tasmania
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
+* [Tasmania REST)(https://data.stategrowth.tas.gov.au/ags/rest/services)
 ### Victoria
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 ### Western Australia
