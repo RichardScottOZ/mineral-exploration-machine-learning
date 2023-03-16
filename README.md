@@ -523,7 +523,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [DiGS](https://search.geoscience.nsw.gov.au/) -> Publications and Geotechnical collections
 ## Tasmania
 * [MRT](https://www.mrt.tas.gov.au/products)
-* [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map)
+* [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map) -> Webmap
+## Victoria
+* [Earth Resources](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data)
+* [GeoVIC](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic) -> Webmaps needs registration to be more useful
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
 * [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
