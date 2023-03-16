@@ -512,8 +512,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [GEMIS](https://geoscience.nt.gov.au/gemis/)
  * [McArthur Basin](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81751) -> 3D Model
+ * [Geophysical Surveys](https://geoscience.nt.gov.au/downloads/NTWideDownloads.html)
+ * [Geophysics](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81428)
 ### Queensland
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
+* [Geophysical Surveys](http://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Airborne%20geophysical%20survey%20-%20Queensland%22)
 ### Western Australia
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
 * [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
@@ -527,6 +530,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map) -> Webmap
 ## Victoria
 * [Earth Resources](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data)
+ * [Geophysics[(http://earthresources.efirst.com.au/categories.asp?cID=13)
 * [GeoVIC](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic) -> Webmaps needs registration to be more useful
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
