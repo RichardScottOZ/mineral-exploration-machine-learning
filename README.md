@@ -519,7 +519,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GEMIS](https://geoscience.nt.gov.au/gemis/)
  * [McArthur Basin](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81751) -> 3D Model
  * [Geophysical Surveys](https://geoscience.nt.gov.au/downloads/NTWideDownloads.html)
- * [Geophysics](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81428)
+ * [Geophysics](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81428) -> reference
+ * [Drilling and Geochemistry](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81743) -> reference
+	* [Data Package](https://geoscience.nt.gov.au/gemis/ntgsjspui/bitstream/1/81743/2/DIP001.zip) -> data package
 ### Queensland
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 * [Geophysical Surveys](http://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Airborne%20geophysical%20survey%20-%20Queensland%22)
