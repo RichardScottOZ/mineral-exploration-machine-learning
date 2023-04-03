@@ -360,6 +360,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Tasmania
 * [Tasmania WFS](https://www.mrt.tas.gov.au/products/digital_data/web_feature_service)
 * [Tasmania REST)(https://data.stategrowth.tas.gov.au/ags/rest/services)
+ * [Boreholes](https://data.stategrowth.tas.gov.au/ags/rest/services/MRT/Boreholes_and_Traces/MapServer)
 ### Victoria
 * [Victoria Geonetwork](http://geology.data.vic.gov.au/)
 ### Western Australia
