@@ -11,7 +11,7 @@ Suggestions welcome: open a discussion or issue.
 * [Prospectivity](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#prospectivity)
 * [Geology](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#geology)
 * [Natural Language Processing](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#natural-language-processing)
-* [Remote Sensing](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#natural-language-processing)
+* [Remote Sensing](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#remote-sensing)
 * [Data Quality](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#data-quality)
 * [Community](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#communit)
 * [Cloud providers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
@@ -161,6 +161,7 @@ Suggestions welcome: open a discussion or issue.
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
+* [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
