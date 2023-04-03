@@ -529,6 +529,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
 * [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
  * [Download URLS](https://dasc.dmirs.wa.gov.au/Download/File/3599) -> dataset of download links
+* [Drilling and Geochemistry](https://wamexgeochem.net.au/)
+ * [Download package](https://exp-gswa-mdhdb-bkt01.s3.ap-southeast-2.amazonaws.com/GSWA_Nov2022_FlatTables.zip) - improvement?
 * [data WA subset](https://catalogue.data.wa.gov.au/org/department-of-mines-industry-regulation-and-safety)
 ## NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
