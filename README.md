@@ -1550,11 +1550,12 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Gravity
 - https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
 - https://www.researchgate.net/publication/365142017_3D_gravity_inversion_based_on_deep_learning
-- https://www.researchgate.net/publication/362276214_DecNet_Decomposition_network_for_3D_gravity_inversion
+- https://www.researchgate.net/publication/362276214_DecNet_Decomposition_network_for_3D_gravity_inversion -> Olympic Dam example here
 -### Magnetics
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
- - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
+- https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
+- https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
