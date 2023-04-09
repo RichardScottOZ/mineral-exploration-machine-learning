@@ -1526,6 +1526,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.sciencedirect.com/science/article/pii/S0169136822005509?dgcid=rss_sd_all -> Applying neural networks-based modelling to the prediction of mineralization: A case-study using the Western Australian Geochemistry (WACHEM) database
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
+- https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 ### Geology
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
