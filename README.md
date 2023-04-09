@@ -109,6 +109,9 @@ Suggestions welcome: open a discussion or issue.
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
+* [Recovering 3D Basement Relief Using Gravity Data Through Convolutional Neural Networks](https://github.com/LiYongbo-geo/GV-Net-code)
+ * [Data](10.5281/zenodo.5543969)
+ * [Paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
 ### Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
@@ -526,6 +529,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Queensland
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 * [Geophysical Surveys](http://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Airborne%20geophysical%20survey%20-%20Queensland%22)
+* [Drilling and geochemistry](https://geoscience.data.qld.gov.au/data/geochemistry/whole-of-queensland-geochemistry-databases)
 ### Western Australia
 * [GEOVIEW](https://geoview.dmp.wa.gov.au/geoview/?Viewer=GeoView) -> Western Australia Geological Survey
 * [DMIRS](https://dasc.dmirs.wa.gov.au/) -> DMIRS Data and Software Centre
