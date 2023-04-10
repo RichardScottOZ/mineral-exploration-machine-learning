@@ -281,6 +281,7 @@ Suggestions welcome: open a discussion or issue.
 * [Digital Earth Australia](https://www.dea.ga.gov.au/)
   * [Slack Channel](https://opendatacube.slack.com/)
 * [Open Source Geospatial Foundation](https://github.com/OSGeo/osgeo)
+ * [OSGeoLive](https://github.com/OSGeo/OSGeoLive) -> Bootable DVD/USB with lots of open source geospatial software
 * [ASEG](https://www.youtube.com/c/ASEGVideos/videos) -> videos from Australia Society of Exploration Geoscientists
 
 # Cloud Providers
