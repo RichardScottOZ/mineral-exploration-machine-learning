@@ -123,6 +123,7 @@ Suggestions welcome: open a discussion or issue.
  
  ### Magnetics
  * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
+  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300423000675)
   
 ## Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
