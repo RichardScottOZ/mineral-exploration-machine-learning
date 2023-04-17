@@ -121,6 +121,9 @@ Suggestions welcome: open a discussion or issue.
 * [Fast imaging for the 3D density structures by machine learning approach](https://github.com/LiYongbo-geo/GV-Net-code)
  * [Paper](https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach)
  
+ ### Magnetics
+ * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
+  
 ## Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
