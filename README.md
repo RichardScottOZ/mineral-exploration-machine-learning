@@ -177,6 +177,7 @@ Suggestions welcome: open a discussion or issue.
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
+* [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
