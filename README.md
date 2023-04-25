@@ -1284,6 +1284,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
 - https://www.tandfonline.com/doi/pdf/10.1080/22020586.2019.12073159?needAccess=true - > Integrating a Minerals Systems Approach with Machine Learning: A Case Study of ‘Modern Minerals Exploration’ in the Mt Woods Inlier – northern Gawler Craton, South Australia
+- https://www.researchgate.net/publication/365697240_Mineral_potential_modelling_of_orogenic_gold_systems_in_the_Granites-Tanami_Orogen_Northern_Territory_Australia_A_multi-technique_approach
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
 - https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
