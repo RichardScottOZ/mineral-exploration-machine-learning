@@ -1085,6 +1085,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
+* [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8)
+** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
 ### Northern
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa with interpolated grids
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
