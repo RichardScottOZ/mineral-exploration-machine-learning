@@ -1557,6 +1557,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 ### Geophysics
+- https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
 - https://www.researchgate.net/publication/368448190_Deep_Learning_to_estimate_the_basement_depth_by_gravity_data_using_Feedforward_neural_network
 - https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
 - https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
