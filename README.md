@@ -1588,6 +1588,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Mineral
 - https://www.researchgate.net/publication/357942198_Mineral_classification_of_lithium-bearing_pegmatites_based_on_laser-induced_breakdown_spectroscopy_Application_of_semi-supervised_learning_to_detect_known_minerals_and_unknown_material
 - https://iopscience.iop.org/article/10.1088/1755-1315/1032/1/012046 -> Classifying Minerals using Deep Learning Algorithms
+- https://www.researchgate.net/publication/370835450_Predicting_new_mineral_occurrences_and_planetary_analog_environments_via_mineral_association_analysis
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 ### NLP
 - https://www.researchgate.net/publication/358616133_Chinese_Named_Entity_Recognition_in_the_Geoscience_Domain_Based_on_BERT
