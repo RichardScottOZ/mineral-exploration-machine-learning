@@ -1316,6 +1316,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/365782501_Improving_Mineral_Prospectivity_Model_Generalization_An_Example_from_Orogenic_Gold_Mineralization_of_the_Sturgeon_Lake_Transect_Ontario_Canada
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
+ - https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
