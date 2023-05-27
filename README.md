@@ -1560,6 +1560,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA]
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X
 - https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
+- https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
 #### EM
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
