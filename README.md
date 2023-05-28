@@ -1216,7 +1216,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geochemistry
 - https://www.researchgate.net/publication/365758387_A_resource_for_automated_search_and_collation_of_geochemical_datasets_from_journal_supplements
 	- https://github.com/erinlmartin/figshare_geoscrape?s=09
-### Other
+### Geology
+- https://github.com/sydney-machine-learning/autoencoders_remotesensing -> Stacked Autoencoders for Lithological Mapping
+### Mineral
 - https://www.researchgate.net/publication/318839364_Network_analysis_of_mineralogical_systems
 
 # Papers with Features Data
