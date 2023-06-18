@@ -507,7 +507,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
-  [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
+ * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
+ * [MORPH gdb](https://github.com/Neil-Symington/MORPH_gdb) -> Officer Musgrave drilling data
 ### CSIRO
 * [CSIRO Data Access Portal](https://data.csiro.au/)
  * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
@@ -855,6 +856,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
 * [SA Stratigraphy](https://github.com/RADutchie/SA-Strarigraphy-db) -> Stratigraphy database editor webapp
 * [Striplog](https://github.com/agile-geoscience/striplog)
+
 * [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on, plates, margins etc.
 * [Litholog](https://github.com/rgmyr/litholog)
