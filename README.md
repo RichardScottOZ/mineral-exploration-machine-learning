@@ -155,6 +155,7 @@ Suggestions welcome: open a discussion or issue.
 ## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
  * [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Datasets to support models
+ * [Paper](https://link.springer.com/article/10.1007/s11053-023-10216-1) -> Applications of Natural Language Processing to Geoscience Text Data and Prospectivity Modeling
 * [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
   * [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
     * [Paper](https://soil.copernicus.org/articles/5/177/2019/)
