@@ -45,6 +45,7 @@ Suggestions welcome: open a discussion or issue.
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 * [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
  * [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
+ * [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ### South Australia
