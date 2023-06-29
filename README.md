@@ -897,7 +897,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Magnetotellurics
 * [MtPy](https://github.com/RichardScottOZ/mtpy)
  * [Tutorials](https://github.com/simpeg-research/iris-mt-course-2022)
-* [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distant to MT features analysis
+* [Mineral Stats Toolkit](https://github.com/RichardScottOZ/mineral-stats-toolkit) -> Distance to MT features analysis
  * [Lithospheric conductors paper](https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems)
 * [mtwaffle](https://github.com/kinverarity1/mtwaffle) -> MT data analysis examples
 * [pyMT](https://github.com/eroots/pyMT)
