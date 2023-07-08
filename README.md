@@ -512,6 +512,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Exploring for the Future Portal](https://portal.ga.gov.au//eftf) -> Geoscience Australia web portal with download information
   * [AusAEM](https://www.eftf.ga.gov.au/ausaem)
   * [AusLAMP](https://www.eftf.ga.gov.au/auslamp)
+ * [Geochronology and Isotopes](https://portal.ga.gov.au/persona/geochronology)
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
