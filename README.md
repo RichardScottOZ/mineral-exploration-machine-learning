@@ -1575,12 +1575,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 ### Geophysics
-- https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
-- https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
-- https://www.researchgate.net/publication/368448190_Deep_Learning_to_estimate_the_basement_depth_by_gravity_data_using_Feedforward_neural_network
-- https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach
 - https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
-- https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X - Joint interpretation of geophysical data: Applying machine learning to the modeling of an evaporitic sequence in Villar de Cañas (Spain)
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA
 - https://www.researchgate.net/publication/368550674_Objective_classification_of_high-resolution_geophysical_data_Empowering_the_next_generation_of_mineral_exploration_in_Sierra_Leone
@@ -1595,12 +1590,17 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/344397798_TEMDnet_A_Novel_Deep_Denoising_Network_for_Transient_Electromagnetic_Signal_With_Signal-to-Image_Transformation
 - https://www.researchgate.net/publication/366391168_Two-dimensional_fast_imaging_of_airborne_EM_data_based_on_U-net
 #### Gravity
-- https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
 - https://www.researchgate.net/publication/365142017_3D_gravity_inversion_based_on_deep_learning
 - https://www.researchgate.net/publication/362276214_DecNet_Decomposition_network_for_3D_gravity_inversion -> Olympic Dam example here
+- https://www.researchgate.net/publication/368448190_Deep_Learning_to_estimate_the_basement_depth_by_gravity_data_using_Feedforward_neural_network
+- https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
+- https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach
+- https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
 -### Magnetics
+- https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
+- https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
