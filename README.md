@@ -570,7 +570,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map) -> Webmap
 ## Victoria
 * [Earth Resources](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data)
- * [Geophysics[(http://earthresources.efirst.com.au/categories.asp?cID=13)
+ * [Geophysics](http://earthresources.efirst.com.au/categories.asp?cID=13)
 * [GeoVIC](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic) -> Webmaps needs registration to be more useful
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
