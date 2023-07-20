@@ -123,8 +123,8 @@ Suggestions welcome: open a discussion or issue.
 
 ### Gravity
 * [Recovering 3D Basement Relief Using Gravity Data Through Convolutional Neural Networks]
- * [Data](10.5281/zenodo.5543969)
- * [Paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
+  * [Data](10.5281/zenodo.5543969)
+  * [Paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
 * [Stable downward continuation of the gravity potential field implemented using deep learning](https://github.com/LiYongbo-geo/DC-Net-code)
  * [Paper](https://www.researchgate.net/publication/366965954_Stable_downward_continuation_of_the_gravity_potential_field_implemented_using_deep_learning)
 * [Fast imaging for the 3D density structures by machine learning approach](https://github.com/LiYongbo-geo/GV-Net-code)
@@ -549,11 +549,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Northern Territory
 * [STRIKE](https://strike.nt.gov.au/wss.html) -> Northern Territory Geological Survey
 * [GEMIS](https://geoscience.nt.gov.au/gemis/)
- * [McArthur Basin](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81751) -> 3D Model
- * [Geophysical Surveys](https://geoscience.nt.gov.au/downloads/NTWideDownloads.html)
- * [Geophysics](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81428) -> reference
- * [Drilling and Geochemistry](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81743) -> reference
-	* [Data Package](https://geoscience.nt.gov.au/gemis/ntgsjspui/bitstream/1/81743/2/DIP001.zip) -> data package
+  * [McArthur Basin](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81751) -> 3D Model
+  * [Geophysical Surveys](https://geoscience.nt.gov.au/downloads/NTWideDownloads.html)
+  * [Geophysics](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81428) -> reference
+  * [Drilling and Geochemistry](https://geoscience.nt.gov.au/gemis/ntgsjspui/handle/1/81743) -> reference
+	  * [Data Package](https://geoscience.nt.gov.au/gemis/ntgsjspui/bitstream/1/81743/2/DIP001.zip) -> data package
 ### Queensland
 * [Geological Survey of Queensland](https://geoscience.data.qld.gov.au/)
 * [Geophysical Surveys](http://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Airborne%20geophysical%20survey%20-%20Queensland%22)
@@ -573,13 +573,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [MRT Maps](https://www.mrt.tas.gov.au/mrt_maps/app/list/map) -> Webmap
 ## Victoria
 * [Earth Resources](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data)
- * [Geophysics[(http://earthresources.efirst.com.au/categories.asp?cID=13)
+  * [Geophysics](http://earthresources.efirst.com.au/categories.asp?cID=13)
 * [GeoVIC](https://earthresources.vic.gov.au/geology-exploration/maps-reports-data/geovic) -> Webmaps needs registration to be more useful
 ## New Zealand
 * [Exploration Database](https://data.nzpam.govt.nz/GOLD/system/mainframe.asp) -> Online
 * [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
 * [Geology](https://data.gns.cri.nz/geology/) -> Web Map
-* https://maps.gns.cri.nz/gns/wfs 
+  * https://maps.gns.cri.nz/gns/wfs 
 ## South America
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
