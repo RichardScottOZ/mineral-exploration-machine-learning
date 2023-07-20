@@ -520,6 +520,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
+  * [Australian Borehole Stratigraphic Units](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147641) -> Compilation for groundwater of sedimentary
  * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
  * [MORPH gdb](https://github.com/Neil-Symington/MORPH_gdb) -> Officer Musgrave drilling data
 ### CSIRO
