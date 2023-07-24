@@ -161,7 +161,9 @@ Suggestions welcome: open a discussion or issue.
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
  * [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
- * [Paper]- https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain
+ * [Paper] - https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain
+* [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
+ * [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
 ## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
  * [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Datasets to support models
