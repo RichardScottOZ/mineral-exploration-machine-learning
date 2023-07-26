@@ -1362,6 +1362,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Chile
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
+- https://link.springer.com/article/10.1007/s11053-023-10237-w - A New Generation of Artificial Intelligence Algorithms for Mineral Prospectivity Mapping [UNSEEN]
+- https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model [UNSEEN]
+- https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping [UNSEEN]
+
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
 - https://www.researchgate.net/publication/329600793_A_combined_approach_using_spatially-weighted_principal_components_analysis_and_wavelet_transformation_for_geochemical_anomaly_mapping_in_the_Dashui_ore-concentration_district_Central_China
@@ -1379,7 +1383,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/368586826_Bagging-based_Positive-Unlabeled_Data_Learning_Algorithm_with_Base_Learners_Random_Forest_and_XGBoost_for_3D_Exploration_Targeting_in_the_Kalatongke_District_Xinjiang_China
 - https://www.researchgate.net/publication/347079505_Convolutional_neural_network_and_transfer_learning_based_mineral_prospectivity_modeling_for_geochemical_exploration_of_Au_mineralization_within_the_Guandian-Zhangbaling_area_Anhui_Province_China
 - https://www.researchgate.net/publication/352703015_Data-driven_based_logistic_function_and_prediction-area_plot_for_mineral_prospectivity_mapping_a_case_study_from_the_eastern_margin_of_Qinling_orogenic_belt_central_China
-- https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model [UNSEEN]
 - https://www.sciencedirect.com/science/article/abs/pii/S0012825218306123 -> Deep learning and its application in geochemical mapping
 - https://www.researchgate.net/publication/352893038_Detection_of_geochemical_anomalies_related_to_mineralization_using_the_GANomaly_network
 - https://www.researchgate.net/publication/357685352_Determination_of_Predictive_Variables_in_Mineral_Prospectivity_Mapping_Using_Supervised_and_Unsupervised_Methods
