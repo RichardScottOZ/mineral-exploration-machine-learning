@@ -1104,7 +1104,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [AusLAMP Gawler](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/1cab41af-eddf-40e4-b091-a6e733e5701a)
  * [AusLAMP Stations](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/116721) -> circa 2017
  * [Tasmanides Paper](https://www.sciencedirect.com/science/article/pii/S0040195120302432?via%3Dihub)
- #### Mineral Potential
+#### Moho
+* [Moho 2019 and 2023](https://auspass.edu.au/research/)
+#### Mineral Potential
  * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
  
 ### Remote Sensing
