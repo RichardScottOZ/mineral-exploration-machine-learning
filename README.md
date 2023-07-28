@@ -1120,8 +1120,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Mineral Deposits
 * [Geological setting, age and endowment of major Australian mineral deposits](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145716)
 #### Mineral Potential
- * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
-  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
+* [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
+ * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
+#### Mine Waste
+* [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
  
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
