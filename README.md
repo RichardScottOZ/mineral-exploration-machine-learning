@@ -1061,6 +1061,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 # Datasets
 ## Global
+* [GEOROC](https://data.goettingen-research-online.de/dataverse/digis) -> Geochemical composition of rocks
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
 ## Australia
