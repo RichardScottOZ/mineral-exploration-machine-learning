@@ -1111,6 +1111,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Tasmanides Paper](https://www.sciencedirect.com/science/article/pii/S0040195120302432?via%3Dihub)
 #### Moho
 * [Moho 2019 and 2023](https://auspass.edu.au/research/)
+ * [Paper](https://academic.oup.com/gji/article/233/3/1863/7008903?login=false)
 #### Mineral Potential
  * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
  
