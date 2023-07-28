@@ -1065,7 +1065,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
 ## Australia
-[Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
+* [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
 ### Geology
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
  * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
