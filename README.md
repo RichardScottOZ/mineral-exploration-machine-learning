@@ -26,6 +26,9 @@ Suggestions welcome: open a discussion or issue.
 * [Papers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#papers)
 * [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#other)
 
+# Map
+* [Map of Github](https://anvaka.github.io/map-of-github/#10.26/28.263/19.7499)
+
 # Frameworks
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
   * [Geo-Wavelets](https://github.com/RichardScottOZ/geo-wavelets)
@@ -526,7 +529,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Hydrogeology Catchments](https://portal.ga.gov.au/) -> search for catchments layer
  * [Critical Minerals Mapping Initiative](https://portal.ga.gov.au/persona/cmmi)
  * [Australian Stratigraphic Units](https://asud.ga.gov.au/search-stratigraphic-units)
-  * [Australian Borehole Stratigraphic Units](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147641) -> Compilation for groundwater of sedimentary
+  * [Australian Borehole Stratigraphic Units](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147641) -> Compilation for groundwater of sedimentary units
  * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
  * [MORPH gdb](https://github.com/Neil-Symington/MORPH_gdb) -> Officer Musgrave drilling data
 ### CSIRO
