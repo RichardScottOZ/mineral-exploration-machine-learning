@@ -1117,6 +1117,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Moho
 * [Moho 2019 and 2023](https://auspass.edu.au/research/)
  * [Paper](https://academic.oup.com/gji/article/233/3/1863/7008903?login=false)
+#### Mineral Deposits
+* [Geological setting, age and endowment of major Australian mineral deposits](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145716)
 #### Mineral Potential
  * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
   * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
