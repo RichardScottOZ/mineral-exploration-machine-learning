@@ -76,7 +76,7 @@ Suggestions welcome: open a discussion or issue.
  * [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
 
 # Geology
-* [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey based on their datasets
+* [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
 * [DL-RMD] (https://ozminerals.service-now.com/sp) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
@@ -168,7 +168,7 @@ Suggestions welcome: open a discussion or issue.
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
 ## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
- * [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Datasets to support models
+ * [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Data to support models
  * [Paper](https://doi.org/10.1016/j.acags.2022.100084) -> Geoscience language models and their intrinsic evaluation
  * [Paper](https://link.springer.com/article/10.1007/s11053-023-10216-1) -> Applications of Natural Language Processing to Geoscience Text Data and Prospectivity Modeling
 * [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
@@ -242,8 +242,8 @@ Suggestions welcome: open a discussion or issue.
 # Data Quality
 * [Geoscience Data Quality for Machine Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) -> Geoscience Data Quality for Machine Learning
 * [Australian Gravity Data](https://github.com/RichardScottOZ/australia-gravity-data) -> Overview and analysis of gravity station data
-* [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector datasets
-* [Redflag](https://github.com/agilescientific/redflag) -> Analysis of datasets and overview to detect problems
+* [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector data
+* [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
   
 # Machine Learning
 * [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
@@ -1060,6 +1060,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 
 # Datasets
+## Global
+* [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 ## Australia
 [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
 ### Geology
