@@ -1114,6 +1114,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Paper](https://academic.oup.com/gji/article/233/3/1863/7008903?login=false)
 #### Mineral Potential
  * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
+  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
  
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
