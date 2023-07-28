@@ -341,6 +341,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
+ * [Mineral Potential](https://ecat.ga.gov.au/geonetwork/srv/api/records/f4bd18f3-5688-4c4d-8072-bdedc49a29e6) -> WMS
 * [Geoscience Australia Catalogue Service](https://ecat.ga.gov.au/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&acceptVersions=2.0.2&acceptFormats=application%2Fxml)
 ### Geology
 * [AUSLAMP](http://services.ga.gov.au/gis/rest/services/AusLAMP_TISA_Stations/MapServer) - > Tennant Creek - MtIsa
