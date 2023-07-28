@@ -189,6 +189,7 @@ Suggestions welcome: open a discussion or issue.
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
+* [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 
 # Remote Sensing
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
