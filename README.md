@@ -1130,6 +1130,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
 * [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8)
 ** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
+### Topography
+* [Multiscale Topographic Position](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123119) - RGB
 ### Northern
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa with interpolated grids
 * [Solid Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/135277) -> Solid Geology of the North Australian Craton
@@ -1137,6 +1139,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Ni-Cu-PGE](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/83884) -> Potential for intrusion-hosted Ni-Cu-PGE sulfide deposits in Australia: A continental-scale analysis of mineral system prospectivity
 * [TISA IOCG](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130587) -> Iron oxide copper-gold (IOCG) mineral potential assessment for the Tennant Creek – Mt Isa region: geospatial data
 * [TISA Alteration](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123013) -> Producing Magnetite and Hematite Alteration Proxies using 3D Gravity and Magnetic Inversion
+
 ### South Australia
 #### Geology
 * [Bedrock Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/103461)
