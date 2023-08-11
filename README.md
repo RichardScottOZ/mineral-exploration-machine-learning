@@ -1132,6 +1132,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
 ### Topography
 * [Multiscale Topographic Position](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123119) - RGB
+ * [Info](https://portal.tern.org.au/metadata/102.100.100/9241)
 * [Topographic Wetness Index](https://data.csiro.au/collection/csiro:5588v2) - 1 and 3 arc seconds
  * [Info](https://portal.tern.org.au/metadata/102.100.100/9241)
 ### Northern
