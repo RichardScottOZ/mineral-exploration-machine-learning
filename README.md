@@ -1104,6 +1104,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144621) -> AusAEM WA 2020-21, Eastern Goldfields & East Yilgarn Airborne
 * [AusAEM–WA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145265) -> AusAEM (WA) 2020-21, Earaheedy & Desert Strip
 * [AusAEM ERC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145744) -> AusAEM Eastern Resources Corridor
+* [AusAEM WRC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147688) -> AusAEM Western Resources Corridor
  * [interp overview](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147251)
 #### AusLAMP
 * [AusLAMP SEA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131889) -> Resistivity model of the southeast Australian mainland from AusLAMP magnetotelluric data
