@@ -1129,7 +1129,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
  
 ### Remote Sensing
-* [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/)
+* [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/) - Bare earth median from Landsat
+ * [Enhanced barest earth Landsat imagery for soil and lithological modelling: Dataset](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144231) -> Details of an enhancement
 * [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8)
 ** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
 ### Topography
