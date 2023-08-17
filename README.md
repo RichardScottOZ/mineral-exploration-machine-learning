@@ -1106,6 +1106,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [AusAEM ERC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145744) -> AusAEM Eastern Resources Corridor
 * [AusAEM WRC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147688) -> AusAEM Western Resources Corridor
  * [interp overview](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147251)
+* [National surface and near-surface conductivity grids](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148588) -> National ML interpolation for AusEM in similar fashion to Northern Australia
 #### AusLAMP
 * [AusLAMP SEA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/131889) -> Resistivity model of the southeast Australian mainland from AusLAMP magnetotelluric data
  * [Victoria Data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/120864)
