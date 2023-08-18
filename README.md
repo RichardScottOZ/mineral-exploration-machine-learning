@@ -1131,6 +1131,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Sediment Hosted Copper](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
  * [Report](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147539)
  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
+* [Carbonatite Rare Earth Elements](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147865)
 #### Mine Waste
 * [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
  
