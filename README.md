@@ -1128,6 +1128,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Overview - Geoscience Australia](https://www.eftf.ga.gov.au/mineral-potential-mapping) -> Overview of publications and datasets
 * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
 * [Sediment Hosted Copper](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
+ * [Report](https://dx.doi.org/10.26186/147539)
  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
 #### Mine Waste
 * [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
