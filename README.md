@@ -1198,6 +1198,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geology](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={0CEA14DE-D170-4CA2-9FC9-20ED49143B4B}) -> Geology series overview
 * [Mineral and Energy Report](https://geoscience.data.qld.gov.au/data/report/cr102061) -> NORTH-WEST QUEENSLAND MINERAL AND ENERGY PROVINCE REPORT 2011 - NWQMEP
 * [Vectoring](https://geoscience.data.qld.gov.au/data/report/cr126164) -> Mineral geochemistry vectoring
+* [Petroleum Wells](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={CBBE665F-60A8-4116-87C8-AEBF0D21B97C})
+* [Coal Seam Gas Wells](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={C45038EB-BB83-4B16-9231-1905ED753D77})
+* [Drillholes](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={9ED7F9ED-456A-4D87-AD30-69231A6F5811})
 #### Cloncurry
 * [Toolkit](https://geoscience.data.qld.gov.au/data/report/cr126168) -> Multielement toolkit and laboratory
 ### Northern Territory
