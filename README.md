@@ -97,6 +97,7 @@ Suggestions welcome: open a discussion or issue.
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
 * [dawson-facies-2022](https://github.com/johnlab-research/dawson-facies-2022) -> Transfer learning for geological images
  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300422002333) - > Impact of dataset size and convolutional neural network architecture on transfer learning for carbonate rock classification
+* [Litho-Classifcation](https://github.com/luthfigeo/Litho-Classification) -> Volcanic facies Classification using Random Forest
  
  ## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
