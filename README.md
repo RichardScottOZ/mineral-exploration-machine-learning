@@ -957,6 +957,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
 * [PyGSLib](https://github.com/opengeostat/pygslib) -> Downhole surveying and interval normalising
+* [dhcomp](https://github.com/FractalGeoAnalytics/dhcomp/tree/master) -> composites geophysical data to a set of intervals
 
 ## Remote Sensing
 * [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
