@@ -60,6 +60,8 @@ Suggestions welcome: open a discussion or issue.
 * [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
 * [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
 * [Data Driven Mineralisation Mapping](https://github.com/Abdallah-M-Ali/mman4020_Data_Driven_Mineralisation_Mapping/blob/main/docs/tensor.ipynb)
+## South America
+* [Machine learning to classify ore deposits from tectonomagmatic properties](https://github.com/intelligent-exploration/mineralexplorationcourse/tree/master/Week10)
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
