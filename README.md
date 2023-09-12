@@ -1649,6 +1649,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 ### Geophysics
+#### Foundation
+- https://www.researchgate.net/publication/373714604_Seismic_Foundation_Model_SFM_a_new_generation_deep_learning_model_in_geophysics
 - https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X - Joint interpretation of geophysical data: Applying machine learning to the modeling of an evaporitic sequence in Villar de Cañas (Spain)
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA
