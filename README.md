@@ -369,6 +369,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [EFTF Area](http://services.ga.gov.au/gis/rest/services/ExploringForTheFutureProjectAreas/MapServer) -> Exploring for the future areas
 * [Temperature](http://services.ga.gov.au/gis/rest/services/OZTemp_Interpreted_Temperature_5km_Depth/MapServer) -> Interpreted temperature
 * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
+ * {Land Cover](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146197)
  * [Waterbodies](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146197)
 * [BOM](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer) -> Bureau of Meteorology Hydrogeochemistry
 ### New South Wales
