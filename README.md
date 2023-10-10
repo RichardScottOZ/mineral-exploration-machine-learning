@@ -36,6 +36,7 @@ Suggestions welcome: open a discussion or issue.
   * [GIS ML Workflow](https://github.com/sheecegardezi/GIS-ML-Workflow)
 * [EIS Toolkit](https://github.com/GispoCoding/eis_toolkit/tree/master) -> Python library for mineral prospectivity mapping from EIS Horizon EU Project
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
+* [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 
