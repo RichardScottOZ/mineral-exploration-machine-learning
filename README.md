@@ -583,6 +583,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Drilling and Geochemistry](https://wamexgeochem.net.au/)
  * [Download package](https://exp-gswa-mdhdb-bkt01.s3.ap-southeast-2.amazonaws.com/GSWA_Nov2022_FlatTables.zip) - improvement?
  * [Geochemistry](https://wamexgeochem.net.au/)
+ * [Petroleum Wells with depths](https://wapims.dmp.wa.gov.au/WAPIMS/)
 * [data WA subset](https://catalogue.data.wa.gov.au/org/department-of-mines-industry-regulation-and-safety)
 ## NSW
 * [MINVIEW](https://minview.geoscience.nsw.gov.au/) -> New South Wales Geological Survey
