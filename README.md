@@ -1056,6 +1056,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geological Society of Queensland vocabularies](https://github.com/geological-survey-of-queensland/vocabularies)
   * [Geological Properties Database](https://github.com/geological-survey-of-queensland/geological-properties-database)
   * [Geofeatures](https://github.com/geological-survey-of-queensland/geofeatures-ont)
+* [Geological Society of Western Australia](https://github.com/Geological-Survey-of-Western-Australia/Vocabularies)
 * [Stratigraphic](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
 * [Geoscience Knowledge Manager](https://github.com/Loop3D/GKM)
 
