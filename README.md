@@ -1642,6 +1642,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.sciencedirect.com/science/article/pii/S0169136822005509?dgcid=rss_sd_all -> Applying neural networks-based modelling to the prediction of mineralization: A case-study using the Western Australian Geochemistry (WACHEM) database
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
+- https://www.researchgate.net/publication/369300132_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
