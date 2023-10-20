@@ -1062,6 +1062,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geological Society of Western Australia](https://github.com/Geological-Survey-of-Western-Australia/Vocabularies)
 * [Stratigraphic](https://github.com/GeoscienceAustralia/strat-ontology-graph-API)
 * [Geoscience Knowledge Manager](https://github.com/Loop3D/GKM)
+* [GeoSciML Vocabularies](https://geosciml.org/resource/def/voc/)
 
 # Books
 * [Textbook](https://github.com/rougier/scientific-visualization-book)
