@@ -206,6 +206,8 @@ Suggestions welcome: open a discussion or issue.
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
+## LLM
+# [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
