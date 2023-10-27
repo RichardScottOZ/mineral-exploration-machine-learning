@@ -199,6 +199,7 @@ Suggestions welcome: open a discussion or issue.
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
+* [Machine Learning Approaches for Sub-surface Geological Heterogeneous Sources](https://theses.hal.science/tel-04107211/document)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
 # Remote Sensing
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
