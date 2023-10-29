@@ -199,7 +199,6 @@ Suggestions welcome: open a discussion or issue.
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
-* [Machine Learning Approaches for Sub-surface Geological Heterogeneous Sources](https://theses.hal.science/tel-04107211/document)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
 # Remote Sensing
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
@@ -1369,6 +1368,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/337003268_Improved_supervised_classification_of_bedrock_in_areas_of_transported_overburden_Applying_domain_expertise_at_Kerkasha_Eritrea - Gazley/Hood
 - https://api.research-repository.uwa.edu.au/portalfiles/portal/5263287/Lysytsyn_Volodymyr_2015.pdf (PhD thesis) GIS-based epithermal copper prospectivity mapping of the Mt Isa Inlier, Australia: Implications for exploration targeting
 - https://www.researchgate.net/publication/331946100_Machine_learning_for_data-driven_discovery_in_solid_Earth_geoscience
+- https://theses.hal.science/tel-04107211/document - Machine Learning Approaches for Sub-surface Geological Heterogeneous Sources
 - https://www.researchgate.net/publication/309715081_Magmato-hydrothermal_space_A_new_metric_for_geochemical_characterisation_of_metallic_ore_deposits - Magmato-hydrothermal space: A new metric for geochemical characterisation of metallic ore deposits
 - https://www.researchgate.net/publication/220164234_Mapping_complexity_of_spatial_distribution_of_faults_using_fractal_and_multifractal_models_Vectoring_towards_exploration_targets
 - https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
