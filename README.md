@@ -527,6 +527,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Macrostrat](https://macrostrat.org/api)
 
 # Data Portals
+## World
+* [Earth Model Collaboration](https://ds.iris.edu/ds/products/emc/) -> ccess to various Earth models, visualization tools for model preview, facilities to extract model data/metadata and access to the contributed processing software and scripts.
 ## Australia
 ### Geoscience Australia
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
