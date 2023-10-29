@@ -1436,6 +1436,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://link.springer.com/article/10.1007/s11053-023-10237-w - A New Generation of Artificial Intelligence Algorithms for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model [UNSEEN]
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping [UNSEEN]
+- https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling - A Framework for Data-Driven Mineral Prospectivity Mapping with Interpretable Machine Learning and Modulated Predictive Modeling [UNSEEN]
+
 
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
