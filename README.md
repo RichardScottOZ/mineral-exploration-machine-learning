@@ -1438,7 +1438,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Chile
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
-- https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model [UNSEEN]
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling - A Framework for Data-Driven Mineral Prospectivity Mapping with Interpretable Machine Learning and Modulated Predictive Modeling [UNSEEN]
 - https://www.researchgate.net/publication/374968979_3D_cooperative_inversion_of_airborne_magnetic_and_gravity_gradient_data_using_deep_learning_techniques - 3D cooperative inversion of airborne magnetic and gravity gradient data using deep learning techniques [UNSEEN]
@@ -1494,6 +1493,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/367106018_Mineral_Prospectivity_Mapping_of_Porphyry_Copper_Deposits_Based_on_Remote_Sensing_Imagery_and_Geochemical_Data_in_the_Duolong_Ore_District_Tibet - Mineral Prospectivity Mapping of Porphyry Copper Deposits Based on Remote Sensing Imagery and Geochemical Data in the Duolong Ore District, Tibet
 - https://www.researchgate.net/publication/355749736_Mineral_prospectivity_mapping_using_a_joint_singularity-based_weighting_method_and_long_short-term_memory_network
 - https://www.researchgate.net/publication/369104190_Mineral_Prospectivity_Mapping_Using_Attention-based_Convolutional_Neural_Network 
+- https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model
 - https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data
 - https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
 - https://www.researchgate.net/publication/332547136_Prospectivity_Mapping_for_Porphyry_Cu-Mo_Mineralization_in_the_Eastern_Tianshan_Xinjiang_Northwestern_China
