@@ -1438,7 +1438,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Chile
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
-- https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling - A Framework for Data-Driven Mineral Prospectivity Mapping with Interpretable Machine Learning and Modulated Predictive Modeling [UNSEEN]
 - https://www.researchgate.net/publication/374968979_3D_cooperative_inversion_of_airborne_magnetic_and_gravity_gradient_data_using_deep_learning_techniques - 3D cooperative inversion of airborne magnetic and gravity gradient data using deep learning techniques [UNSEEN]
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
@@ -1446,6 +1445,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/349034539_A_Comparative_Study_of_Machine_Learning_Models_with_Hyperparameter_Optimization_Algorithm_for_Mapping_Mineral_Prospectivity
 - https://www.researchgate.net/publication/354132594_A_Convolutional_Neural_Network_of_GoogLeNet_Applied_in_Mineral_Prospectivity_Prediction_Based_on_Multi-source_Geoinformation
 - https://www.researchgate.net/publication/369865076_A_deep-learning-based_mineral_prospectivity_modeling_framework_and_workflow_in_prediction_of_porphyry-epithermal_mineralization_in_the_Duolong_Ore_District_Tibet
+- https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling
 - https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/353421842_A_hybrid_logistic_regression_gene_expression_programming_model_and_its_application_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
