@@ -1438,10 +1438,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Chile
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
-- https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling - A Framework for Data-Driven Mineral Prospectivity Mapping with Interpretable Machine Learning and Modulated Predictive Modeling [UNSEEN]
 - https://www.researchgate.net/publication/374968979_3D_cooperative_inversion_of_airborne_magnetic_and_gravity_gradient_data_using_deep_learning_techniques - 3D cooperative inversion of airborne magnetic and gravity gradient data using deep learning techniques [UNSEEN]
-
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
 - https://www.researchgate.net/publication/329600793_A_combined_approach_using_spatially-weighted_principal_components_analysis_and_wavelet_transformation_for_geochemical_anomaly_mapping_in_the_Dashui_ore-concentration_district_Central_China
@@ -1453,6 +1451,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/335036019_An_Autoencoder-Based_Dimensionality_Reduction_Algorithm_for_Intelligent_Clustering_of_Mineral_Deposit_Data
 - https://www.researchgate.net/publication/363696083_An_Integrated_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_Using_Bagging-Based_Positive_Unlabeled_Learning_and_Bayesian_Cost-Sensitive_Logistic_Regression
+- https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/332751556_Application_of_hierarchical_clustering_singularity_mapping_and_Kohonen_neural_network_to_identify_Ag-Au-Pb-Zn_polymetallic_mineralization_associated_geochemical_anomaly_in_Pangxidong_district
 - https://www.researchgate.net/publication/339096362_Application_of_nonconventional_mineral_exploration_techniques_case_studies
 - https://www.researchgate.net/publication/325702993_Assessment_of_Geochemical_Anomaly_Uncertainty_Through_Geostatistical_Simulation_and_Singularity_Analysis
