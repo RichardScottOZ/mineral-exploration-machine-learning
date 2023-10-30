@@ -1350,6 +1350,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## New to File
 ### General
 - https://www.researchgate.net/publication/337650865_A_combinative_knowledge-driven_integration_method_for_integrating_geophysical_layers_with_geological_and_geochemical_datasets
+- https://link.springer.com/article/10.1007/s11053-023-10237-w - A New Generation of Artificial Intelligence Algorithms for Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/235443297_Addressing_challenges_with_exploration_datasets_to_generate_usable_mineral_potential_maps
 - https://www.researchgate.net/publication/330077321_An_Improved_Data-Driven_Multiple_Criteria_Decision-Making_Procedure_for_Spatial_Modeling_of_Mineral_Prospectivity_Adaption_of_Prediction-Area_Plot_and_Logistic_Functions
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
@@ -1437,7 +1438,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Chile
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
-- https://link.springer.com/article/10.1007/s11053-023-10237-w - A New Generation of Artificial Intelligence Algorithms for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model [UNSEEN]
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling - A Framework for Data-Driven Mineral Prospectivity Mapping with Interpretable Machine Learning and Modulated Predictive Modeling [UNSEEN]
