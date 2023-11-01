@@ -206,8 +206,8 @@ Suggestions welcome: open a discussion or issue.
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
-* [IBM-NASA-GEOSPATIAL](https://huggingface.co/ibm-nasa-geospatial)
-- https://github.com/NASA-IMPACT/hls-foundation-os/tree/main
+* [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
+ * Image segmentation by foundation model finetuning(https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
 ## LLM
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 
