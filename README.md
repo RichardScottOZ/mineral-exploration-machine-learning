@@ -206,6 +206,7 @@ Suggestions welcome: open a discussion or issue.
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
+- https://github.com/NASA-IMPACT/hls-foundation-os/tree/main
 ## LLM
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 
@@ -282,6 +283,7 @@ Suggestions welcome: open a discussion or issue.
 * [Extract and Classify Images from Geoscience Documents](https://github.com/bolgebrygg/extract-and-classify-images-from-geoscience-documents)
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
+* [zen3geo](https://github.com/weiji14/zen3geo) -> Xbatcher style data science with pytorch
 ### Explainability
 * [Shap Values](https://github.com/slundberg/shap)
 * [Weight Watcher](https://github.com/CalculatedContent/WeightWatcher) -> Analyse how well networks are trained
@@ -845,6 +847,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
+* [Kart](https://github.com/koordinates/kart) - Distributed version control for daata
 * [SF](https://r-spatial.github.io/sf/)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
