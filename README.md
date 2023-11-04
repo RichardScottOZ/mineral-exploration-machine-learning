@@ -868,8 +868,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [PiAutoStage](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693) -> 'An Open-Source 3D Printed Tool for the Automatic Collection of High-Resolution Microscope Imagery;' designed for mineral samples.
 
 ## Data Conversion
-* [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
-* [PDF Miner](https://github.com/euske/pdfminer)
 * [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
@@ -880,6 +878,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
+* [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
+* [PDF Miner](https://github.com/euske/pdfminer)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
 
 ## Geochemistry
