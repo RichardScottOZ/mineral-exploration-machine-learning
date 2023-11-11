@@ -1049,6 +1049,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## C
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
   * [Tools]() -> Note has many command line tools that are very useful as well
+  
+## Julia
+* [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
 
 ## Data Science
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
