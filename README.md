@@ -802,7 +802,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
 * [Minnesota](https://conservancy.umn.edu/handle/11299/708)
 * [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
-*[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
+ * [json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
 * [Alaska](https://dggs.alaska.gov/pubs)
 * [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
 ### Other
