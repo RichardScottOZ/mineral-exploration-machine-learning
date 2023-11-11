@@ -908,9 +908,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on, plates, margins etc.
 * [Litholog](https://github.com/rgmyr/litholog)
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
- *[Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
- *[gplately](https://github.com/GPlates/gplately)
- *[others](https://www.bgh.org.au/software/)
+ * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
+ * [gplately](https://github.com/GPlates/gplately)
+ * [others](https://www.bgh.org.au/software/)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
