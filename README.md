@@ -1035,8 +1035,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 ## PyData Stack
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
-  *[GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
-  *[Git Bash](https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473) -> Getting conda to work in Git Bash
+  * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
+  * [Git Bash](https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473) -> Getting conda to work in Git Bash
 * [Numpy Multidimensional arrays](https://numpy.org/)
 * [Pandas Tabular data analysis](https://pandas.pydata.org/)
 * [Matplotlib visualisation](https://matplotlib.org/)
