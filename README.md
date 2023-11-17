@@ -91,7 +91,7 @@ Suggestions welcome: open a discussion or issue.
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
-  *[Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
+  * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 
 ## Lithology
@@ -802,7 +802,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [New Mexico](https://geoinfo.nmt.edu/publications/index.cfml)
 * [Minnesota](https://conservancy.umn.edu/handle/11299/708)
 * [Michigan](https://www.michigan.gov/egle/about/organization/oil-gas-and-minerals/oil-and-gas/geological-catalog)
-*[json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
+ * [json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
 * [Alaska](https://dggs.alaska.gov/pubs)
 * [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
 ### Other
@@ -811,7 +811,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
   * [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
   * [Publications](https://www.bgs.ac.uk/information-hub/publications/)
-*[GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
+* [GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
 * [Mineral Databse](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
 * [NASA](https://www.sti.nasa.gov/research-access/)  
@@ -908,9 +908,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on, plates, margins etc.
 * [Litholog](https://github.com/rgmyr/litholog)
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
- *[Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
- *[gplately](https://github.com/GPlates/gplately)
- *[others](https://www.bgh.org.au/software/)
+ * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
+ * [gplately](https://github.com/GPlates/gplately)
+ * [others](https://www.bgh.org.au/software/)
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
@@ -927,7 +927,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Harmonica](https://github.com/fatiando/harmonica)
 * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
 * [Worms](https://bitbucket.org/fghorow/bsdwormer)
-  *[Worms update](https://bitbucket.org/RichardScottOZ/bsdwormer/) <- potential fields worm creation with some minor updates to handle new networkx api
+  * [Worms update](https://bitbucket.org/RichardScottOZ/bsdwormer/) <- potential fields worm creation with some minor updates to handle new networkx api
 * [Osborne Magnetic](https://github.com/fatiando-data/osborne-magnetic) -> Survey data processing example
 ### Seismic
 * [Segyio](https://github.com/equinor/segyio)
@@ -1036,8 +1036,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 ## PyData Stack
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
-  *[GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
-  *[Git Bash](https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473) -> Getting conda to work in Git Bash
+  * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
+  * [Git Bash](https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473) -> Getting conda to work in Git Bash
 * [Numpy Multidimensional arrays](https://numpy.org/)
 * [Pandas Tabular data analysis](https://pandas.pydata.org/)
 * [Matplotlib visualisation](https://matplotlib.org/)
@@ -1050,6 +1050,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## C
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
   * [Tools]() -> Note has many command line tools that are very useful as well
+  
+## Julia
+* [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
 
 ## Data Science
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
