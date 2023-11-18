@@ -745,6 +745,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [National Mineral Deposit Database](http://dcc.ngac.org.cn/en//geologicalData/details/doi/10.23650/data.C.2018.NGA120770.K1.1.1.V1)
 ### India
 * [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public) -> India Geological Survey
+ * Note Rajasthan geology doesn't work except piecemeal which is painful - if you want it, let me know
 ## Other
 ### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
