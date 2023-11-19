@@ -1464,6 +1464,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/353421842_A_hybrid_logistic_regression_gene_expression_programming_model_and_its_application_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
+- https://www.researchgate.net/publication/373715610_A_Multimodal_Learning_Framework_for_Comprehensive_3D_Mineral_Prospectivity_Modeling_with_Jointly_Learned_Structure-Fluid_Relationships
 - https://www.researchgate.net/publication/335036019_An_Autoencoder-Based_Dimensionality_Reduction_Algorithm_for_Intelligent_Clustering_of_Mineral_Deposit_Data
 - https://www.researchgate.net/publication/363696083_An_Integrated_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_Using_Bagging-Based_Positive_Unlabeled_Learning_and_Bayesian_Cost-Sensitive_Logistic_Regression
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping
