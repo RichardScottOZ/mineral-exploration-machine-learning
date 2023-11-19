@@ -1935,6 +1935,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/332696102_Deep_Learning_for_Classification_of_Hyperspectral_Data_A_Comparative_Review
 - https://www.researchgate.net/publication/336889271_Deep_Learning_for_Hyperspectral_Image_Classification_An_Overview
 - https://www.researchgate.net/publication/327995228_Deep_Spectral_Convolution_Network_for_Hyperspectral_Unmixing
+- https://www.researchgate.net/publication/356393038_Generalized_Unsupervised_Clustering_of_Hyperspectral_Images_of_Geological_Targets_in_the_Near_Infrared
 - https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
 - https://www.researchgate.net/publication/323950012_Hyperspectral_Unmixing_Using_A_Neural_Network_Autoencoder
 - https://www.researchgate.net/publication/339657313_Hyperspectral_unmixing_using_deep_convolutional_autoencoder
