@@ -657,6 +657,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
  * [github](https://github.com/ngu)
  * [API](https://www.kartverket.no/en/api-and-data)
+ * [Geoporta](https://geo.ngu.no/geoscienceportalopen/search) -> Geophysics
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
 ### Britain
 * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
