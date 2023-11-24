@@ -911,6 +911,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Analise_de_Dados_Estruturais_Altamira](https://github.com/fnaghetini/Analise_de_Dados_Estruturais_Altamira/blob/main/Analise_de_Dados_Estruturais_Altamira.ipynb)
 * [Global Tectonics](https://github.com/dhasterok/global_tectonics) -> Open source dataset to build on, plates, margins etc.
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0012825222001532?fr=RR-2&ref=pdf_download&rr=82b54d6f3bca5721)
+ * [zenodo additions](https://zenodo.org/record/6586972)
 * [Litholog](https://github.com/rgmyr/litholog)
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
