@@ -826,6 +826,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [QGIS](https://qgis.org/en/site/) -> GIS Data Visualisation and Analysis Open Source desktop application, has some ML tools : Indispensible for some quick and easy viewing
     * [2D Geology in QGIS](https://github.com/frizatch/2DGeology_in_QGIS) -> Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
     * [OpenLog](https://gitlab.com/geolandia/openlog/openlog-qgis-plugin) -> Drillhole plugin beta
+	* [Weights-of-Evidence](https://github.com/chudasama-bijal/QGIS-Plugin-Weights-of-Evidence-Model)
+	 * [plugin](https://plugins.qgis.org/plugins/wofe_module/)
   * [GRASS](https://github.com/OSGeo/grass) 
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
@@ -1838,7 +1840,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/342352173_Modelling_gold_potential_in_the_Granites-Tanami_Orogen_NT_Australia_A_comparative_study_using_continuous_and_data-driven_techniques
 ### NSW
 - https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/mineral-potential-mapping#_southern-_new-_england-_orogen-mineral-potential
-- https://www.smedg.org.au/GSNSW_2019_Blevin.pdf Eastern Lachlan Orogen 
+- https://www.smedg.org.au/GSNSW_2019_Blevin.pdf - Eastern Lachlan Orogen 
 - https://www.researchgate.net/publication/265915602_Comparing_prospectivity_modelling_results_and_past_exploration_data_A_case_study_of_porphyry_Cu-Au_mineral_systems_in_the_Macquarie_Arc_Lachlan_Fold_Belt_New_South_Wales
 ### Brazil
 - https://www.researchgate.net/publication/340633563_CATALOG_OF_PROSPECTIVITY_MAPS_OF_SELECTED_AREAS_FROM_BRAZIL
