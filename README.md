@@ -1263,6 +1263,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [500K Bedrock](https://catalogue.data.wa.gov.au/dataset/1-500-000-state-interpreted-bedrock-geology-dmirs-016)
 * [Abandoned Mines](https://catalogue.data.wa.gov.au/dataset/abandoned-mines)
 * [Mineral Occurrences](https://catalogue.data.wa.gov.au/dataset/minedex-dmirs-001)
+### Mineral Potential
+* [Komatiite-hosted nickel](http://www.dmp.wa.gov.au/msa/komatiite-ni-489.aspx)
 #### Prospectivity
 * [Capricorn](https://data.csiro.au/collection/csiro:36617v1)-> Prospectivity analysis using a mineral systems approach - Capricorn case study project
 * [King Leopold](https://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do) -> Mineral prospectivity of the King Leopold Orogen and Lennard Shelf: analysis of potential field data in the west Kimberley region
