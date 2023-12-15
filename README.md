@@ -1128,7 +1128,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Predictive grids of major oxide concentrations in surface rock and regolith over the Australian continent](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148587) -> Various oxides
 ### Geology
 * [Alkaline Rocks Atlas](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963)
- * [Cenzoic]
+ * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/4ef3b60d-d7ee-4810-af66-b0948dae4acb)
+ * [Mesozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/7d3ace8d-9771-4090-926d-d618db5071bf)
+ * [Paleozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/63a29e5e-041e-42ad-a540-8125aa442624)
+ * [Archaean](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/7120ce29-606f-4329-abbf-dd6cb56a1cbf)
  * [search](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/search?keyword=Alkaline%20rocks)
  * [Proterozoic Alkaline Rocks](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147893) -> Proterozoic alkaline and related igneous rocks of Australia GIS
   * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a98dc23a-9666-4568-807c-09910646603a)
