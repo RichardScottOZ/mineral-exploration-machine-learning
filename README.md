@@ -1128,8 +1128,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Predictive grids of major oxide concentrations in surface rock and regolith over the Australian continent](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148587) -> Various oxides
 ### Geology
 * [Alkaline Rocks Atlas](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963)
+ * [Cenzoic]
  * [search](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/search?keyword=Alkaline%20rocks)
  * [Proterozoic Alkaline Rocks](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147893) -> Proterozoic alkaline and related igneous rocks of Australia GIS
+  * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a98dc23a-9666-4568-807c-09910646603a)
+  * [Mesozoic]
+  * [Paleozoic]
+  * [Archaean]
  * [paper](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147894)
  https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
