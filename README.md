@@ -1132,9 +1132,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [search](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/search?keyword=Alkaline%20rocks)
  * [Proterozoic Alkaline Rocks](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147893) -> Proterozoic alkaline and related igneous rocks of Australia GIS
   * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a98dc23a-9666-4568-807c-09910646603a)
-  * [Mesozoic]
-  * [Paleozoic]
-  * [Archaean]
+  * [Mesozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/a8d7e179-9a03-4c4e-bcae-e224917f8f2a)
+  * [Paleozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/5b490317-7cfc-45de-8597-003a8f89dddd)
+  * [Archaean](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/7c0a177d-9733-452c-95e2-671af856e54b)
  * [paper](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147894)
  https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
