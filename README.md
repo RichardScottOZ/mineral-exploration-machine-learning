@@ -1179,6 +1179,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Report](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147539)
  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147540)
 * [Carbonatite Rare Earth Elements](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147865)
+ * [paper](https://www.researchgate.net/publication/373752600_A_national-scale_mineral_potential_assessment_for_carbonatite-related_rare_earth_element_mineral_systems_in_Australia)
 #### Mine Waste
 * [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
 #### Native Title
