@@ -1116,6 +1116,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
 ## Australia
 * [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
+* [Heavy MIneral Map of Australia](https://www.mdpi.com/2075-163X/12/8/961)
+ * [Shiny App](https://geoscienceaustralia.shinyapps.io/mna4hm/)
 ### Geochemistry
 * [Predictive grids of major oxide concentrations in surface rock and regolith over the Australian continent](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148587) -> Various oxides
 ### Geology
