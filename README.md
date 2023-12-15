@@ -1108,6 +1108,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 # Datasets
 ## Global
+* [EarthChem](https://www.earthchem.org/) -> Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data
 * [GEOROC](https://data.goettingen-research-online.de/dataverse/digis) -> Geochemical composition of rocks
 * [global geology](https://github.com/siwill22/global-geology) -> A short recipe to make a global geology map in GIS format (e.g. shapefile), with age ranges mapped to the GTS2020 timescale
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
