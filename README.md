@@ -369,7 +369,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
 * [WMS](https://services.ga.gov.au/gis/rest/services/Australian_Geological_Provinces/MapServer) -> WMS picture
 * [EGGS](http://services.ga.gov.au/gis/eggs/wms) -> Estimates of Geological and Geophysical Surfaces
-* [Alkaline Rocks](https://services.ga.gov.au/gis/services/ProterozoicAlkalineAndRelatedIgneousRocksOfAustralia/MapServer/WFSServer) - Proterozoic Alkaline Rocks Dataset WFS {also has WMS}
+* [Proterozoic Alkaline Rocks](https://services.ga.gov.au/gis/services/ProterozoicAlkalineAndRelatedIgneousRocksOfAustralia/MapServer/WFSServer) - Proterozoic Alkaline Rocks Dataset WFS {also has WMS}
 * [Stratigraphy](https://services.ga.gov.au/gis/stratunits/ows) -> Stratigraphic Units
 ### Geophysics
 * [Geophysics Surveys](https://services.ga.gov.au/gis/geophysical-surveys/ows?VERSION=2.0.0)
@@ -1123,8 +1123,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geochemistry
 * [Predictive grids of major oxide concentrations in surface rock and regolith over the Australian continent](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148587) -> Various oxides
 ### Geology
+* [Alkaline Rocks Atlas](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963)
+ * [search](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/search?keyword=Alkaline%20rocks)
 * [Alkaline Rocks](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147893) -> Proterozoic alkaline and related igneous rocks of Australia GIS
  * [paper](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147894)
+ https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
  * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
 * [Surface Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74855) -> 1M Scale
