@@ -2040,3 +2040,5 @@ The below are a collection of works from when I was doing a review
 
 
 
+### General Interest
+- https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
