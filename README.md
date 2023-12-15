@@ -1366,6 +1366,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://github.com/TomasNaprstek/Aeromagnetic_CNN - Aeromagnetic CNN
  - Paper https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
  - [PhD](https://zone.biblio.laurentian.ca/bitstream/10219/3549/1/Naprstek%20PhD%20Thesis%20V4.pdf) -> New Methods for the Interpolation and Interpretation of Lineaments in Aeromagnetic Data
+ - Paper https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data -> Convolution Neural Networks Applied to the Interpretation of Lineaments in Aeromagnetic Data
 
 # Geospatial Output - No Code
 - https://geoscience.data.qld.gov.au/report/cr113697 -> NWMP Data-Driven Mineral Exploration And Geological Mapping [CSIRO too]
