@@ -369,6 +369,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
 * [WMS](https://services.ga.gov.au/gis/rest/services/Australian_Geological_Provinces/MapServer) -> WMS picture
 * [EGGS](http://services.ga.gov.au/gis/eggs/wms) -> Estimates of Geological and Geophysical Surfaces
+* [Alkaline Rocks](https://services.ga.gov.au/gis/services/ProterozoicAlkalineAndRelatedIgneousRocksOfAustralia/MapServer/WFSServer) - Proterozoic Alkaline Rocks Dataset WFS {also has WMS}
 * [Stratigraphy](https://services.ga.gov.au/gis/stratunits/ows) -> Stratigraphic Units
 ### Geophysics
 * [Geophysics Surveys](https://services.ga.gov.au/gis/geophysical-surveys/ows?VERSION=2.0.0)
