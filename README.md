@@ -25,7 +25,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Datasets](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#datasets)
 * [Papers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#papers)
 * [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#other)
-* [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#general-interest)
+* [General Interest](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#general-interest)
 
 # Map
 * [Map of Github](https://anvaka.github.io/map-of-github/#10.26/28.263/19.7499)
