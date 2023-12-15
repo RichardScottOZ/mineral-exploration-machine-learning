@@ -25,6 +25,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Datasets](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#datasets)
 * [Papers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#papers)
 * [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#other)
+* [Other](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#general-interest)
 
 # Map
 * [Map of Github](https://anvaka.github.io/map-of-github/#10.26/28.263/19.7499)
@@ -2040,5 +2041,5 @@ The below are a collection of works from when I was doing a review
 
 
 
-### General Interest
+# General-Interest
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
