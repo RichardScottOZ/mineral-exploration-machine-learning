@@ -1297,7 +1297,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [King Leopold](https://dmpbookshop.eruditetechnologies.com.au/product/mineral-prospectivity-of-the-king-leopold-orogen-and-lennard-shelf-analysis-of-potential-field-data-in-the-west-kimberley-region-geographical-product-n14bnzp.do) -> Mineral prospectivity of the King Leopold Orogen and Lennard Shelf: analysis of potential field data in the west Kimberley region
 * [Yilgarn Gold](https://d28rz98at9flks.cloudfront.net/82617/Y4_Gold_Targeting.zip)
 * [Yilgarn 2](https://researchdata.edu.au/predictive-mineral-discovery-mineral-system/1209568) -> Predictive mineral discovery in the eastern Yilgarn Craton: an example of district-scale targeting of an orogenic gold mineral system
-* [Shop note] -> WA has a few prospecitivity packages available to purchase on USB drive for 50-60AU type prices - see in geospaital maps section
+* [Shop note] -> WA has a few prospectivity packages available to purchase on USB drive for 50-60AU type prices - see in geospaital maps section
 ### Tasmania
 #### Geology
 * [250k](https://www.mrt.tas.gov.au/products/digital_data/1250,000_geology_data_download)
