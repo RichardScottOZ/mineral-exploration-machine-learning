@@ -159,7 +159,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
- * [GeoCoDa]https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry
+ * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
@@ -384,7 +384,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [EFTF Area](http://services.ga.gov.au/gis/rest/services/ExploringForTheFutureProjectAreas/MapServer) -> Exploring for the future areas
 * [Temperature](http://services.ga.gov.au/gis/rest/services/OZTemp_Interpreted_Temperature_5km_Depth/MapServer) -> Interpreted temperature
 * [DEA](https://ows.dea.ga.gov.au/) -> Digital Earth Australia
- * {Land Cover](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146197)
+ * [Land Cover](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146197)
  * [Waterbodies](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146197)
 * [BOM](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer) -> Bureau of Meteorology Hydrogeochemistry
 ### New South Wales
@@ -1720,7 +1720,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
- - [thesis paper update] https://eprints.utas.edu.au/32368/
+ - https://eprints.utas.edu.au/32368/ - thesis paper update 
 - https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
 ### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
