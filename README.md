@@ -216,6 +216,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
  * Image segmentation by foundation model finetuning(https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
+* [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
 
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
