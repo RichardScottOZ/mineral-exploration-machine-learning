@@ -202,7 +202,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
-## LLM
+## Large Language Models
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
 * [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
