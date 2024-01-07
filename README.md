@@ -1307,6 +1307,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [500k](https://www.mrt.tas.gov.au/products/digital_data/1500,000_geology_data_download)
 * [25K](https://www.mrt.tas.gov.au/products/digital_data/125,000_geology_data_download)
 * [Mineral Occurrences](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
+* [3D Model](https://www.mrt.tas.gov.au/products/database_searches/3d_model_data)
 ### Victoria
 * [Seamless Geology](https://www.mrt.tas.gov.au/products/digital_data/state_deposits_data_download)
 ## New Zealand
