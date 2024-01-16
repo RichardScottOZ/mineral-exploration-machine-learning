@@ -107,8 +107,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [SedNet](https://github.com/MudRocw1/SedNet_explainable-deep-learning-network)
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
 
- 
- ## Drilling
+## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
 
 ## Paleovalleys
@@ -869,6 +868,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
+	[geofileops](https://github.com/geofileops/geofileops) - Increased speed spatial joins via database functions and geopackage
 * [Kart](https://github.com/koordinates/kart) - Distributed version control for daata
 * [SF](https://r-spatial.github.io/sf/)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
