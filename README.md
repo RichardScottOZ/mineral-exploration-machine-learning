@@ -117,6 +117,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
 ## Geophysics
+### Foundation Models
+* [Seismic Foundation Model](https://github.com/shenghanlin/SeismicFoundationModel) -> "a new generation deep learning model in geophysics"
 ### Australia
 #### Regolith Depth
 * [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6) -> Model
