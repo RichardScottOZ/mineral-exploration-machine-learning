@@ -1229,7 +1229,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Info](https://portal.tern.org.au/metadata/102.100.100/8339)
 * [Weathering Intensity Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/123106)
  * [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0016706111000036)
- * [Info])https://www.ga.gov.au/ausgeonews/ausgeonews201103/weathering.jsp_
+ * [Info](https://www.ga.gov.au/ausgeonews/ausgeonews201103/weathering.jsp_)
  * {Info](https://researchdata.edu.au/weathering-intensity-model-australia/1361069)
 ### Northern
 * [Cover thickness TISA](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130734) -> Cover thickness points for Tennant Creek Mt Isa with interpolated grids
