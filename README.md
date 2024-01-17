@@ -240,6 +240,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [paper](https://arxiv.org/pdf/2103.00741.pdf)
 [Semantic Segmentation for Extracting Historic Surface Mining Disturbance from Topographic Maps](https://github.com/maxwell-geospatial/topoDL) -> Example is for coal mines
 * [paper](https://www.mdpi.com/2072-4292/12/24/4145)
+* [International Chronostratigraphic Color Codes](https://stratigraphy.org/chart) -> RGB codes and others in spreadsheet and other formats
 
 ## Texture
 * [Mineral Texture Classification Using Deep Convolutional Neural Networks: An Application to Zircons From Porphyry Copper Deposits](https://github.com/ChetanNathwani/zirconCNN)
