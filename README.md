@@ -176,7 +176,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
-* [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
  * [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
  * [Paper] - https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain
 * [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
@@ -206,6 +205,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
+## Ontology
+* [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 ## Large Language Models
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
