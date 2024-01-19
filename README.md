@@ -208,6 +208,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Ontology
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [GAKG](https://github.com/geobrain-ai/gakg?tab=readme-ov-file) -> A Multimodal Geoscience Academic Knowledge Graph (Chinese)
+* [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
 ## Large Language Models
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
