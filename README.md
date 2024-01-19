@@ -211,6 +211,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Large Language Models
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
+* [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
 * [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 
@@ -1793,7 +1794,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
 - https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 - https://www.researchgate.net/publication/333464862_GeoDocA_-_Fast_Analysis_of_Geological_Content_in_Mineral_Exploration_Reports_A_Text_Mining_Approach
-- https://www.researchgate.net/publication/330835955_Geoscience_Keyphrase_Extraction_Algorithm_Using_Enhanced_Word_Embedding
+- https://www.researchgate.net/publication/330835955_Geoscience_Keyphrase_Extraction_Algorithm_Using_Enhanced_Word_Embedding [UNSEEN]
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/321850315_Information_extraction_and_knowledge_graph_construction_from_geoscience_literature
 - https://www.researchgate.net/publication/365929623_Named_Entity_Annotation_Schema_for_Geological_Literature_Mining_in_the_Domain_of_Porphyry_Copper_Deposits
