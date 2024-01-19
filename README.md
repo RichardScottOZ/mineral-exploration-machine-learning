@@ -212,6 +212,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
  * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
+ * [technical report](https://arxiv.org/abs/2401.00434)
 * [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 
