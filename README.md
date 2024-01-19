@@ -242,11 +242,13 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
 ## Visualisation
-[Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
+* [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
  * [paper](https://arxiv.org/pdf/2103.00741.pdf)
-[Semantic Segmentation for Extracting Historic Surface Mining Disturbance from Topographic Maps](https://github.com/maxwell-geospatial/topoDL) -> Example is for coal mines
-* [paper](https://www.mdpi.com/2072-4292/12/24/4145)
+* [Semantic Segmentation for Extracting Historic Surface Mining Disturbance from Topographic Maps](https://github.com/maxwell-geospatial/topoDL) -> Example is for coal mines
+ * [paper](https://www.mdpi.com/2072-4292/12/24/4145)
 * [International Chronostratigraphic Color Codes](https://stratigraphy.org/chart) -> RGB codes and others in spreadsheet and other formats
+* [LithClass](https://mrdata.usgs.gov/catalog/lithrgb.txt) -> USGS version of lithology color codes
+ * [color version](https://mrdata.usgs.gov/catalog/lithclass-color.php)
 * [SeisWiz](https://github.com/amustafa9/SeisWiz) -> Lightweight python SEG-Y viewer
 
 ## Texture
