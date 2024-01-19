@@ -225,7 +225,6 @@ Suggestions welcome: open a discussion, issue or pull request.
  * Image segmentation by foundation model finetuning(https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
  * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
 
-
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
@@ -247,7 +246,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Texture
 * [Mineral Texture Classification Using Deep Convolutional Neural Networks: An Application to Zircons From Porphyry Copper Deposits](https://github.com/ChetanNathwani/zirconCNN)
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
-
 
 ## Other
 * [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
@@ -1795,6 +1793,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
 - https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 - https://www.researchgate.net/publication/333464862_GeoDocA_-_Fast_Analysis_of_Geological_Content_in_Mineral_Exploration_Reports_A_Text_Mining_Approach
+- https://www.researchgate.net/publication/330835955_Geoscience_Keyphrase_Extraction_Algorithm_Using_Enhanced_Word_Embedding
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/321850315_Information_extraction_and_knowledge_graph_construction_from_geoscience_literature
 - https://www.researchgate.net/publication/365929623_Named_Entity_Annotation_Schema_for_Geological_Literature_Mining_in_the_Domain_of_Porphyry_Copper_Deposits
