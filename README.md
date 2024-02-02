@@ -347,6 +347,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 # Cloud Providers
 ## AWS
 * [ec2 Spot Labs](https://github.com/awslabs/ec2-spot-labs) -> Making automatically working sith Spot instances easier
+* [Sagemaker Geospatial ML](https://aws.amazon.com/sagemaker/geospatial/)
 * [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
 * [Sagemaker](https://github.com/aws/amazon-sagemaker-examples) -> ML Managed Service
   * [SDK](https://github.com/aws/sagemaker-python-sdk)
