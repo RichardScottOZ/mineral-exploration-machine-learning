@@ -1302,6 +1302,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Central Lachlan](https://search.geoscience.nsw.gov.au/product/9261/7922136)
 * [Southern New England](https://search.geoscience.nsw.gov.au/product/9222/7371775)
 ### Western Australia
+#### Geochemistry
+* [Mafic/Ultramafic](https://data.csiro.au/collection/csiro:58059)
 #### Geology
 * [100K Bedrock](https://dasc.dmirs.wa.gov.au/Download/File/1773)
  * 100K mapsheets for surface you have to download individually and combine - they aren't consistent
@@ -1309,7 +1311,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [500K Bedrock](https://catalogue.data.wa.gov.au/dataset/1-500-000-state-interpreted-bedrock-geology-dmirs-016)
 * [Abandoned Mines](https://catalogue.data.wa.gov.au/dataset/abandoned-mines)
 * [Mineral Occurrences](https://catalogue.data.wa.gov.au/dataset/minedex-dmirs-001)
-### Mineral Potential
+#### Mineral Potential
 * [Komatiite-hosted nickel](http://www.dmp.wa.gov.au/msa/komatiite-ni-489.aspx)
 #### Prospectivity
 * [Capricorn](https://data.csiro.au/collection/csiro:36617v1)-> Prospectivity analysis using a mineral systems approach - Capricorn case study project
