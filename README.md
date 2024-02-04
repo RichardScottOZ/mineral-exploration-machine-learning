@@ -1125,6 +1125,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook) -> How to access NASA resources
 * [Data Cleaner's Cookbook](https://www.datafix.com.au/cookbook/about.html) -> Putting unix tools to good use for data wrangling and cleaning
 * [Encyclopedia of Mathematical Geosciences](https://link.springer.com/referencework/10.1007/978-3-030-26050-7?page=1#toc)
+* [Handbook of Mathematical Geosciences](https://link.springer.com/book/10.1007/978-3-319-78999-6?page=2#toc)
 
 # Other
 * [GXPy](https://github.com/GeosoftInc/gxpy) -> Geosoft Python API
