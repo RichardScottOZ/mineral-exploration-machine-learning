@@ -1459,6 +1459,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 - https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems
 
+
 ### Mineral Prospectivity
 #### Australia
 - https://www.mdpi.com/2072-4292/15/16/4074 -> A Spatial Data-Driven Approach for Mineral Prospectivity Mapping
@@ -2100,6 +2101,8 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
 
 
+### NLP
+- https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 
 
 # General-Interest
