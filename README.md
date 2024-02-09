@@ -254,6 +254,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Texture
 * [Mineral Texture Classification Using Deep Convolutional Neural Networks: An Application to Zircons From Porphyry Copper Deposits](https://github.com/ChetanNathwani/zirconCNN)
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
+  
+## Simulation
+* [Intelligent Prospector](https://github.com/sisl/MineralExploration  )
 
 ## Other
 * [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
