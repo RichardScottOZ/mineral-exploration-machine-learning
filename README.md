@@ -256,7 +256,8 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
   
 ## Simulation
-* [Intelligent Prospector](https://github.com/sisl/MineralExploration  )
+* [Intelligent Prospector](https://github.com/sisl/MineralExploration) -> Sequential data acquisition plannin
+	* [Zenodo](https://zenodo.org/records/6727378)
 
 ## Other
 * [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
@@ -269,6 +270,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
+
 ## Guides
 * [Geospatial CLI](https://github.com/JakobMiksch/geospatial-cli) - List of geospatial command line tools 
 * [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
