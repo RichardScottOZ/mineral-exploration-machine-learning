@@ -659,6 +659,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
 ### Uruguay
 * [Dimage](http://visualizadorgeominero.dinamige.gub.uy/DINAMIGE_mvc2/)
+### Chile
+* [Portalgeomin](https://portalgeomin.sernageomin.cl/)
+
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
