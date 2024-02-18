@@ -1127,11 +1127,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GeoSciML Vocabularies](https://geosciml.org/resource/def/voc/)
 
 # Books
+## Python
+* [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
+* [Geoprocessing with Python(https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
+## Other
 * [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
-* [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
 * [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
-* [Geoprocessing with Python(https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
 * [Earthdata Cloud Cookbook](https://github.com/NASA-Openscapes/earthdata-cloud-cookbook) -> How to access NASA resources
 * [Data Cleaner's Cookbook](https://www.datafix.com.au/cookbook/about.html) -> Putting unix tools to good use for data wrangling and cleaning
 * [Encyclopedia of Mathematical Geosciences](https://link.springer.com/referencework/10.1007/978-3-030-26050-7?page=1#toc)
