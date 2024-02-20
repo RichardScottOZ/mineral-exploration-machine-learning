@@ -45,6 +45,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 # Prospectivity
 ## Australia
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
+* [Prospectivity Mapping of Ni-Co Laterites](https://github.com/EarthByte/Lachlan_Laterite_Ni_Co)
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
   * [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
