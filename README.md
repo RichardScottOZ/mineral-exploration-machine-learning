@@ -1634,6 +1634,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/233791624_Spatial_association_of_gold_deposits_with_remotely_-_sensed_faults_South_Ashanti_belt_Ghana
 #### Greenland
 - https://www.researchgate.net/publication/360970965_Identification_of_Radioactive_Mineralized_Lithology_and_Mineral_Prospectivity_Mapping_Based_on_Remote_Sensing_in_High-Latitude_Regions_A_Case_Study_on_the_Narsaq_Region_of_Greenland
+#### India
+- https://www.researchgate.net/publication/372636338_Unsupervised_machine_learning_based_prospectivity_analysis_of_NW_and_NE_India_for_carbonatite-alkaline_complex-related_REE_deposits
 #### Indonesia
 - https://www.researchgate.net/publication/263542819_Regional-Scale_Geothermal_Prospectivity_Mapping_in_West_Java_Indonesia_by_Data-driven_Evidential_Belief_Functions
 #### Iran
