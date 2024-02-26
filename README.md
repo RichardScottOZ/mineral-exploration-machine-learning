@@ -1349,7 +1349,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Mineral Data Pack](https://www.nzpam.govt.nz/maps-geoscience/minerals-datapack/) -> Mineral Exploration Data Pack
 
 ## North Americia
-[National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids](https://www.sciencebase.gov/catalog/item/6193e9f3d34eb622f68f13a5) -> Also has some Australia data
+* [National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids](https://www.sciencebase.gov/catalog/item/6193e9f3d34eb622f68f13a5) -> Also has some Australia data
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
