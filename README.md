@@ -1155,6 +1155,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [global geology](https://github.com/siwill22/global-geology) -> A short recipe to make a global geology map in GIS format (e.g. shapefile), with age ranges mapped to the GTS2020 timescale
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
+* [Sediment Thickness](https://igppweb.ucsd.edu/%7Egabi/sediment.html) -> Map
 ## Australia
 * [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
 * [Heavy Mineral Map](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148916)
