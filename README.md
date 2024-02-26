@@ -971,6 +971,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [AEM Interpretation](https://github.com/Neil-Symington/aem_interp_dash)
 ### Gravity and Magnetics 
 * [Harmonica](https://github.com/fatiando/harmonica)
+ * [Filter examples](https://www.fatiando.org/harmonica/latest/user_guide/transformations.html) -> Fast Fourier transform based processing via xarray
 * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
 * [Worms](https://bitbucket.org/fghorow/bsdwormer)
   * [Worms update](https://bitbucket.org/RichardScottOZ/bsdwormer/) <- potential fields worm creation with some minor updates to handle new networkx api
