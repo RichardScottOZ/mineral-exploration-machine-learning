@@ -1872,6 +1872,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
+- https://www.researchgate.net/publication/375911531_Spatial_Interpolation_Using_Machine_Learning_From_Patterns_and_Regularities_to_Block_Models#fullTextFileContent
 - https://www.researchgate.net/publication/
 259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
 - https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
