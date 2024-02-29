@@ -1861,7 +1861,7 @@ The below are a collection of works from when I was doing a review
   - https://jaywen.com/files/He_2022_Applied_Geochemistry.pdf
 - https://www.researchgate.net/publication/220164381_Application_of_geochemical_zonality_coefficients_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/238505045_Analysis_and_mapping_of_geochemical_anomalies_using_logratio-transformed_stream_sediment_data_with_censored_values
-- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002626  -> Comparative Study on Three Autoencoder-Based Deep Learning Algorithms for Geochemical Anomaly Identification
+- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002626 -> Comparative Study on Three Autoencoder-Based Deep Learning Algorithms for Geochemical Anomaly Identification
 - https://www.researchgate.net/publication/373758047_Decision-making_within_geochemical_exploration_data_based_on_spatial_uncertainty_-A_new_insight_and_a_futuristic_review
 - https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
 - https://www.researchgate.net/publication/272091723_Geochemical_characteristics_of_mineral_deposits_Implications_for_ore_genesis
@@ -1873,6 +1873,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
+- https://www.researchgate.net/publication/349606557_Robust_Feature_Extraction_for_Geochemical_Anomaly_Recognition_Using_a_Stacked_Convolutional_Denoising_Autoencoder [UNSEEN]
 - https://www.researchgate.net/publication/375911531_Spatial_Interpolation_Using_Machine_Learning_From_Patterns_and_Regularities_to_Block_Models#fullTextFileContent
 - https://www.researchgate.net/publication/
 259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
