@@ -1857,6 +1857,8 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/46696293_Selection_of_coherent_deposit-type_locations_and_their_application_in_data-driven_mineral_prospectivity_mapping
 ## Geochemistry
 - https://www.researchgate.net/publication/375926319_A_paradigm_shift_in_Precambrian_research_driven_by_big_data
+- https://www.researchgate.net/publication/359447201_A_review_of_machine_learning_in_geochemistry_and_cosmochemistry_Method_improvements_and_applications 
+  - https://jaywen.com/files/He_2022_Applied_Geochemistry.pdf
 - https://www.researchgate.net/publication/220164381_Application_of_geochemical_zonality_coefficients_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/238505045_Analysis_and_mapping_of_geochemical_anomalies_using_logratio-transformed_stream_sediment_data_with_censored_values
 - https://www.researchgate.net/publication/373758047_Decision-making_within_geochemical_exploration_data_based_on_spatial_uncertainty_-A_new_insight_and_a_futuristic_review
