@@ -1356,7 +1356,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
-* [Geology](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=292232) -> Bedrock geology compilation and regional synthesis of south Rae and parts of Hearne domains, Churchill Province, Northwest Territories, Saskatchewan, Nunavut, Manitoba and Alberta
+* [Geology](https://ostrnrcan-dostrncan.canada.ca/entities/publication/8ac30d9e-5be6-44b6-8119-848ab893f1e7) -> Updated Bedrock geology map
+ * [Geology](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=292232) -> Bedrock geology compilation and regional synthesis of south Rae and parts of Hearne domains, Churchill Province, Northwest Territories, Saskatchewan, Nunavut, Manitoba and Alberta
 * [Moho](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=305396) -> National database of Moho depth estimates estimates from seismic refraction and teleseismic surveys
 ### Geophysics
 * [Dap Search](http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php) -> Geoportal search - note annoyingly these are in Geosoft grids - see elsewere for conversion possibilties
