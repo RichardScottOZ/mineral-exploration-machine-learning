@@ -998,6 +998,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [PyGMT](https://www.pygmt.org/latest/)
 * [Verde](https://github.com/fatiando/verde)
 * [Grid_aeromag](https://github.com/rmorel/grid-aeromag) -> Brazilian gridding example
+* [pyinterp](https://github.com/CNES/pangeo-pyinterp/tree/master) -> Multidimensional gridding via Boost
 * [Pseudogravity](http://www.cpgg.ufba.br/sato/cursos/geo542/all.f) -> From Blakely, 95
 ### Inversion
 * [SimPEG](https://github.com/RichardScottOZ/simpeg)
