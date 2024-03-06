@@ -1026,6 +1026,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
  * [paper](https://gmd.copernicus.org/articles/14/6711/2021/)
+* [drilldown](https://github.com/cardinalgeo/drilldown) -> Drilling visualisation in notebooks via geoh5py -> note desurveying
 * [PyGSLib](https://github.com/opengeostat/pygslib) -> Downhole surveying and interval normalising
 * [pyborehole](https://github.com/AlexanderJuestel/pyborehole) -> Processing and visualizing borehole data
 * [dhcomp](https://github.com/FractalGeoAnalytics/dhcomp/tree/master) -> composites geophysical data to a set of intervals
