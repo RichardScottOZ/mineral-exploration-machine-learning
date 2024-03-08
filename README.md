@@ -736,6 +736,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Natural Resources Canada](https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892)
  * [github](https://github.com/NRCan)
  * [Geoscience Data Repository](https://gdr.agg.nrcan.gc.ca/) -> DAP Server
+ * [Mining Web Map Portal](https://osdp-psdo.canada.ca/dp/en/explore?search_event=dev_mining)
  * [DEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Canada DEM in COG format
  * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
@@ -1783,6 +1784,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X - Joint interpretation of geophysical data: Applying machine learning to the modeling of an evaporitic sequence in Villar de Cañas (Spain)
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA
 - https://www.researchgate.net/publication/368550674_Objective_classification_of_high-resolution_geophysical_data_Empowering_the_next_generation_of_mineral_exploration_in_Sierra_Leone
+- https://datarock.com.au/blog/transfer-learning-with-seismic-attributes -> Transfer Learning with Seismic Attributes
 #### EM
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
