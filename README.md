@@ -97,6 +97,7 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
+ * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
