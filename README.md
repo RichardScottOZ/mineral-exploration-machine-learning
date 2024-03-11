@@ -1542,6 +1542,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/341485750_Evaluation_of_random_forest-based_analysis_for_the_gypsum_distribution_in_the_Atacama_desert
 #### China
 - https://www.researchgate.net/publication/374968979_3D_cooperative_inversion_of_airborne_magnetic_and_gravity_gradient_data_using_deep_learning_techniques - 3D cooperative inversion of airborne magnetic and gravity gradient data using deep learning techniques [UNSEEN]
+- https://www.researchgate.net/publication/369919958_3D_mineral_exploration_Cu-Zn_targeting_with_multi-source_geoscience_datasets_in_the_Weilasituo-bairendaba_district_Inner_Mongolia_China
 - https://www.researchgate.net/publication/350817136_3D_Mineral_Prospectivity_Mapping_Based_on_Deep_Metallogenic_Prediction_Theory_A_Case_Study_of_the_Lala_Copper_Mine_Sichuan_China
 - https://www.researchgate.net/publication/336771580_3D_Mineral_Prospectivity_Mapping_with_Random_Forests_A_Case_Study_of_Tongling_Anhui_China
 - https://www.researchgate.net/publication/366201930_3D_Quantitative_Metallogenic_Prediction_of_Indium-Rich_Ore_Bodies_in_the_Dulong_Sn-Zn_Polymetallic_Deposit_Yunnan_Province_SW_China
