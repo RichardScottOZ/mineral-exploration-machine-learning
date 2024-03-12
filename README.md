@@ -260,7 +260,7 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
   
 ## Simulation
-* [Intelligent Prospector](https://github.com/sisl/MineralExploration) -> Sequential data acquisition plannin
+* [Intelligent Prospector](https://github.com/sisl/MineralExploration) -> Sequential data acquisition planning
 	* [Zenodo](https://zenodo.org/records/6727378)
 	* [paper](https://gmd.copernicus.org/articles/16/289/2023/gmd-16-289-2023.html)
 
