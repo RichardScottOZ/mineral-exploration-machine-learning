@@ -1799,7 +1799,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
-- https://www.researchgate.net/publication/373836226_An_information_theoretic_Bayesian_uncertainty_analysis_of_AEM_systems_over_Menindee_Lake_Australia -> An information theoretic Bayesian uncertainty analysis of AEM systems over Menindee Lake, Australia [UNSEEN]
+- https://www.researchgate.net/publication/373836226_An_information_theoretic_Bayesian_uncertainty_analysis_of_AEM_systems_over_Menindee_Lake_Australia -> An information theoretic Bayesian uncertainty analysis of AEM systems over Menindee Lake, Australia
 - https://www.researchgate.net/publication/348850484_Effect_of_Data_Normalization_on_Neural_Networks_for_the_Forward_Modelling_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/publication/342153377_Fast_imaging_of_time-domain_airborne_EM_data_using_deep_learning_technology
 - https://library.seg.org/doi/10.4133/JEEG4.2.93 -> Neural Network Interpretation of High Frequency Electromagnetic Ellipticity Data Part I: Understanding the Half‐Space and Layered Earth Response
