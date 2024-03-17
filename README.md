@@ -223,7 +223,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 
-
 # Remote Sensing
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
@@ -232,14 +231,15 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
-* https://github.com/Modexus/torchgeo
+* [CIMAE](https://github.com/Modexus/torchgeo) -> CIMAE - Channel Independent Masked Autoencoder
+ * [fork](https://github.com/RichardScottOZ/torchgeo-cimae) -> to give it the name for reference
+ * [Self-Supervised Representation Learning for Remote Sensing] -> Master's thesis includes the above and comparisons of several models
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
  * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
  
-
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
