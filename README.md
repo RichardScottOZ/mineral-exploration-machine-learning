@@ -230,6 +230,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
 * [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
 * [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
+* [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
 * [ScaleMae](https://github.com/bair-climate-initiative/scale-mae)
@@ -1834,7 +1835,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://www.researchgate.net/publication/361741409_Physics-Driven_Deep_Learning_Inversion_with_Application_to_Magnetotelluric
 #### Surface Resistivity
-- https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet Deriving Surface Resistivity from Polarimetric SAR Data Using Dual-Input UNet
+- https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
+
 
 ### Maps
 - https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
