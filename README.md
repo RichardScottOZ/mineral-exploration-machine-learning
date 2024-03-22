@@ -242,7 +242,9 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
- * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
+  * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
+ ## Processing
+ * [sarsen](https://github.com/bopen/sarsen) -> xarray based SAR image processing and correction
  
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
