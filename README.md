@@ -69,6 +69,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Machine learning to classify ore deposits from tectonomagmatic properties](https://github.com/intelligent-exploration/mineralexplorationcourse/tree/master/Week10)
 ## Brazil
 * [Mapa Preditivo](https://github.com/fnaghetini/Mapa-Preditivo) -> Brazil student project
+* [Course_Predictive_Mapping_USP](https://github.com/victsnet/Curso_Mapeamento_Preditivo_USP) -> Course Project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
 * [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE)
@@ -224,12 +225,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 
 # Remote Sensing
+* [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
-* [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
-* [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
-* [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
-* [Convolutional Neural Networks for Alteration Mapping](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
@@ -244,6 +242,8 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
   * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
  ## Processing
+ * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
+ * [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
  * [sarsen](https://github.com/bopen/sarsen) -> xarray based SAR image processing and correction
  
 ## Spectral Unmixing
