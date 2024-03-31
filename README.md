@@ -238,6 +238,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [Self-Supervised Representation Learning for Remote Sensing] -> Master's thesis includes the above and comparisons of several models
 * [U Barn](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn)
  * [paper](https://www.researchgate.net/publication/377712228_Self-Supervised_Spatio-Temporal_Representation_Learning_Of_Satellite_Image_Time_Series) 
+* [earthnets](https://earthnets.nicepage.io/ )
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
