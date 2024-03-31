@@ -89,17 +89,19 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
+* [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
+ * [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
 * [DL-RMD](https://github.com/rizwanasif/DL-RMD) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
+* [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
-* [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
-  * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
-* [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
-* [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
+## Training Data
+* [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
+  * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
 
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
