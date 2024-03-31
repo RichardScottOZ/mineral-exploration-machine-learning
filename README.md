@@ -239,6 +239,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [U Barn](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn)
  * [paper](https://www.researchgate.net/publication/377712228_Self-Supervised_Spatio-Temporal_Representation_Learning_Of_Satellite_Image_Time_Series) 
 * [earthnets](https://earthnets.nicepage.io/ )
+* [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
