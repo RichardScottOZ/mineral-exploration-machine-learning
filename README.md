@@ -1771,6 +1771,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/338663292_A_Predictive_Geospatial_Exploration_Model_for_Mississippi_Valley_Type_Pb-Zn_Mineralization_in_the_Southeast_Missouri_Lead_District
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674218300396?via%3Dihub -> Machine learning strategies for classification and prediction of alteration facies: Examples from the Rosemont Cu-Mo-Ag skarn deposit, SE Tucson Arizona
  - [presentation of the above!] https://www.slideshare.net/JuanCarlosOrdezCalde/geology-chemostratigraphy-and-alteration-geochemistry-of-the-rosemont-cumoag-skarn-deposit-southern-arizona
+ - https://github.com/rohitash-chandra/research/blob/master/presentations/CSIRO%20Minerals-Seminar-September2022.pdf -> Machine Learning for Mineral Exploration: A Data Odyssey
+	- Video https://www.youtube.com/watch?v=zhXuPQy7mk8&t=561s
 #### Zambia
 - https://www.researchgate.net/publication/263542565_APPLICATION_OF_REMOTE_SENSING_AND_SPATIAL_DATA_INTEGRATION_TO_PREDICT_POTENTIAL_ZONES_FOR_AQUAMARINE-BEARING_PEGMATITES_LUNDAZI_AREA_NORTHEAST_ZAMBIA
 - https://www.researchgate.net/publication/264041472_Geological_and_Mineral_Potential_Mapping_by_Geoscience_Data_Integration
