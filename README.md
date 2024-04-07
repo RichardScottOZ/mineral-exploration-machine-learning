@@ -1592,6 +1592,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/347079505_Convolutional_neural_network_and_transfer_learning_based_mineral_prospectivity_modeling_for_geochemical_exploration_of_Au_mineralization_within_the_Guandian-Zhangbaling_area_Anhui_Province_China
 - https://www.researchgate.net/publication/352703015_Data-driven_based_logistic_function_and_prediction-area_plot_for_mineral_prospectivity_mapping_a_case_study_from_the_eastern_margin_of_Qinling_orogenic_belt_central_China
 - https://www.sciencedirect.com/science/article/abs/pii/S0012825218306123 -> Deep learning and its application in geochemical mapping
+- https://www.frontiersin.org/articles/10.3389/feart.2024.1308426/full -> Deep gold prospectivity modeling in the Jiaojia gold belt, Jiaodong Peninsula, eastern China using machine learning of geometric and geodynamic variables
 - https://www.researchgate.net/publication/352893038_Detection_of_geochemical_anomalies_related_to_mineralization_using_the_GANomaly_network
 - https://www.researchgate.net/publication/357685352_Determination_of_Predictive_Variables_in_Mineral_Prospectivity_Mapping_Using_Supervised_and_Unsupervised_Methods
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674221001370 -> Distinguishing IOCG and IOA deposits via random forest algorithm based on magnetite composition
