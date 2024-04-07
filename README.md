@@ -449,15 +449,14 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Seismic](https://gs-mv.geoscience.nsw.gov.au/geoserver/gsnsw/ows?version=1.0.0&typeName=gsnsw:dw_seismic_lines&outputFormat=shape-zip) -> Seismic and others
 ### Queensland
 * [Queensland](https://gisservices.information.qld.gov.au/arcgis/rest/services)
- * [Geoscientific](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyState/MapServer) -> Geophysics and Report Index
- * [Geology](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyDetailed/MapServer)
-  * [Regional](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyRegional/MapServer)
-  * [State](https://gisservices.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyState/MapServer)
- * [Tenements](https://gisservices.information.qld.gov.au/arcgis/rest/services/Economy/MineralTenement/FeatureServer)
- * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
- * [Roads](https://gisservices.information.qld.gov.au/arcgis/rest/services/Transportation/Roads/MapServer)
- * [Watercourse](https://gisservices.information.qld.gov.au/arcgis/rest/services/InlandWaters/WaterCoursesAndBodies/MapServer)
-  
+ * [Geoscientific](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation) -> Geophysics and Report Index
+ * [Geology](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyDetailed/MapServer)
+  * [Regional](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyRegional/MapServer)
+  * [State](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/GeoscientificInformation/GeologyState/MapServer)
+ * [Tenements](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Economy/MineralTenement/FeatureServer)
+ * [Roads](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/Transportation/Roads/MapServer)
+ * [Watercourse](https://spatial-gis.information.qld.gov.au/arcgis/rest/services/InlandWaters/WaterCoursesAndBodies/MapServer)
+ 
 ### South Australia
 * [SARIG](https://map.sarig.sa.gov.au/MapViewer/StartUp/?siteParams=WebServicesWidget)
  * [Drillholes](https://services.sarig.sa.gov.au/vector/drillholes/wfs?version=1.1.0)
@@ -517,6 +516,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Portgual
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
  * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
+ * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
 ### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
  * [Geology](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_200/MapServer) -> 200K
@@ -1810,6 +1810,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
 ### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
+
 ### Geophysics
 #### Foundation
 - https://www.researchgate.net/publication/373714604_Seismic_Foundation_Model_SFM_a_new_generation_deep_learning_model_in_geophysics
