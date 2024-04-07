@@ -285,6 +285,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Intelligent Prospector](https://github.com/sisl/MineralExploration) -> Sequential data acquisition planning
 	* [Zenodo](https://zenodo.org/records/6727378)
 	* [paper](https://gmd.copernicus.org/articles/16/289/2023/gmd-16-289-2023.html)
+	
 ## Geometry
 * [Deep Angle]([https://github.com/ArashRabbani/DeepAngle) -> Fast calculation of contact angles in tomography images using deep learning	
 
@@ -916,12 +917,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
     
 ## Geospatial General
 * [Python resources for earth science](https://github.com/javedali99/python-resources-for-earth-sciences)
+* [geoutils](https://github.com/GlacioHack/geoutils) ->  geospatial analysis and foster inter-operability between other Python GIS packages.
 ## Vector Data
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
-  * [geofileops](https://github.com/geofileops/geofileops) - Increased speed spatial joins via database functions and geopackage
-* [Kart](https://github.com/koordinates/kart) - Distributed version control for daata
+  * [geofileops](https://github.com/geofileops/geofileops) -> Increased speed spatial joins via database functions and geopackage
+* [Kart](https://github.com/koordinates/kart) -> Distributed version control for daata
 * [SF](https://r-spatial.github.io/sf/)
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
@@ -950,7 +952,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Harmonica Geosoft Grid](https://github.com/fatiando/harmonica/pull/348) -> Pull request in progress on conversion to xarray
 * [AuScope](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> Data from binary GOCAD models
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
-	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) >- In here they have a method to extract data from binary GOCAD SG Grids
+	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> In here they have a method to extract data from binary GOCAD SG Grids
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
