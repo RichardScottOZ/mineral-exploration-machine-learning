@@ -1804,10 +1804,12 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
+- https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
+#### Structure
+- https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
+#### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
  - https://eprints.utas.edu.au/32368/ - thesis paper update 
-- https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
-#### Depth
 - https://www.researchgate.net/publication/280038632_Estimating_the_fill_thickness_and_bedrock_topography_in_intermontane_valleys_using_artificial_neural_networks_-_Supporting_Information 
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
 ### Geomorphology
@@ -2182,5 +2184,5 @@ The below are a collection of works from when I was doing a review
 # General-Interest
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
-- https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability
+- https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
 
