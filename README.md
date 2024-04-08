@@ -251,6 +251,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
   * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
+   * [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
  ## Processing
  * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
  * [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
@@ -917,7 +918,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
     
 ## Geospatial General
 * [Python resources for earth science](https://github.com/javedali99/python-resources-for-earth-sciences)
-* [geoutils](https://github.com/GlacioHack/geoutils) ->  geospatial analysis and foster inter-operability between other Python GIS packages.
+* [geoutils](https://github.com/GlacioHack/geoutils) -> geospatial analysis and foster inter-operability between other Python GIS packages.
 ## Vector Data
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
