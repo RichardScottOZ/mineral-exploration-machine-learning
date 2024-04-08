@@ -250,7 +250,8 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
-  * [SpectralGPT](https://zenodo.org/records/8412455)  -> remote sensing foundation model customized for spectral data
+  * [SpectralGPT](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)
+   * [zenodo](https://zenodo.org/records/8412455))  -> remote sensing foundation model customized for spectral data
    * [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
  ## Processing
  * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
