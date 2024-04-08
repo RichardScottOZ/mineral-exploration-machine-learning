@@ -299,6 +299,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
 * [Be a Geoscience Detective](https://github.com/bluetyson/Be-a-geoscience-detective)
 * [Earth ML](http://earthml.holoviz.org/tutorial/Machine_Learning.html) -> Some basic tutorials in PyData approaches
+* [GeoMLA](https://github.com/thengl/GeoMLA) -> Machine Learning algorithms for spatial and spatiotemporal data
 
 ## Platforms
 * [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
