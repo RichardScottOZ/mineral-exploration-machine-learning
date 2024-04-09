@@ -933,8 +933,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
   * [geofileops](https://github.com/geofileops/geofileops) -> Increased speed spatial joins via database functions and geopackage
+* [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.  
 * [Kart](https://github.com/koordinates/kart) -> Distributed version control for daata
 * [SF](https://r-spatial.github.io/sf/)
+### ESRI rest
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 ## Raster Data
@@ -947,6 +949,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
+ * [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
 * [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
 
