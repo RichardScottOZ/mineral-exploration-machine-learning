@@ -579,7 +579,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Uganda](https://gmis.beak.de/geoserver/uganda/wms?VERSION=1.3.0) -> GMIS WMS
 
 ### General
-* [Mineral Exploration Web Services](https://github.com/jack-tuna/Mineral_Exploration_Web_Services) -> QGIS plugin with access to many
+* [Mineral Exploration Web Services](https://github.com/jack-tuna/Mineral_Exploration_Web_Services) -> QGIS plugin with access to many relevant web services
 
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
