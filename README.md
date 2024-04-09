@@ -1009,6 +1009,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geoscience Australia AEM](https://github.com/GeoscienceAustralia/ga-aem)
 * [UH Electromagnetics](https://github.com/jiajiasun/UHElectromagnetics) -> Coursework notebooks on understanding this domain
 * [AEM Interpretation](https://github.com/Neil-Symington/aem_interp_dash)
+* [EMag Py](https://gitlab.com/hkex/emagpy/-/tree/master) -> FDEM 
+* [ResIPy](https://github.com/hkexgroup/resipy) -> DC / IP 
 ### Gravity and Magnetics 
 * [Harmonica](https://github.com/fatiando/harmonica)
  * [Filter examples](https://www.fatiando.org/harmonica/latest/user_guide/transformations.html) -> Fast Fourier transform based processing via xarray
