@@ -577,8 +577,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [IPIS Artisanal Mines](http://geo.ipisresearch.be/geoserver/wfs) - > There is a WMS version too
  * [github](https://github.com/IPISResearch)
 * [Uganda](https://gmis.beak.de/geoserver/uganda/wms?VERSION=1.3.0) -> GMIS WMS
+
+### General
+* [Mineral Exploration Web Services](https://github.com/jack-tuna/Mineral_Exploration_Web_Services) -> QGIS plugin with access to many
+
 ## Other
 * [Open Street Map](https://tile.openstreetmap.org/{z}/{x}/{y}.png) -> useful general tile service
+
 # APIs
 * [Open Data API](https://github.com/RichardScottOZ/open-data-api) -> GSQ Open Data Portal API
   * [Geochemistry parsing](https://github.com/geological-survey-of-queensland/geochemistry_parsing)
@@ -595,8 +600,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
   * [paper](https://arxiv.org/abs/2205.01833)
  * [Macrostrat](https://macrostrat.org/api)
-
-# Data Portals
+ 
+ # Data Portals
 ## World
 * [Earth Model Collaboration](https://ds.iris.edu/ds/products/emc/) -> access to various Earth models, visualization tools for model preview, facilities to extract model data/metadata and access to the contributed processing software and scripts.
 ## Australia
