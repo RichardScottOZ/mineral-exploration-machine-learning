@@ -40,6 +40,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
+## Pipelines
+* [geotargts](https://github.com/RichardScottOZ/geotargets ) -> Extension of targts to terra and stars
 
 
 # Prospectivity
