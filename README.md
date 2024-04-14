@@ -933,15 +933,16 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Python resources for earth science](https://github.com/javedali99/python-resources-for-earth-sciences)
 * [geoutils](https://github.com/GlacioHack/geoutils) -> geospatial analysis and foster inter-operability between other Python GIS packages.
 ## Vector Data
+### Python
 * [Geopandas](https://geopandas.org/en/stable/)
   * [Dask-geopandas](https://github.com/RichardScottOZ/dask-geopandas)
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
   * [geofileops](https://github.com/geofileops/geofileops) -> Increased speed spatial joins via database functions and geopackage
-* [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.  
 * [Kart](https://github.com/koordinates/kart) -> Distributed version control for daata
-* [SF](https://r-spatial.github.io/sf/)
-### ESRI rest
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
+### R
+* [SF](https://r-spatial.github.io/sf/)
+* [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.  
 
 ## Raster Data
 ### C
@@ -963,8 +964,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
 #### Gui
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
-
-https://github.com/perrygeo/python-rasterstats
 
 ## Data Collection
 * [PiAutoStage](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693) -> 'An Open-Source 3D Printed Tool for the Automatic Collection of High-Resolution Microscope Imagery;' designed for mineral samples.
