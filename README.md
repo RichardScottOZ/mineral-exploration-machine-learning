@@ -259,6 +259,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
  * [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
  * [sarsen](https://github.com/bopen/sarsen) -> xarray based SAR image processing and correction
+ * [openEO](https://github.com/Open-EO) -> openEO develops an open API to connect R, Python, JavaScript and other clients to EO cloud back-ends
  
 ## Spectral Unmixing
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
