@@ -366,8 +366,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
+  * [Mattermost](https://mattermost.softwareunderground.org/)- Community chat service
+	* [Old Slack Channel](https://softwareunderground.org/slack)(deprecated, see mattermost above)
   * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
-  * [Slack Channel](https://softwareunderground.org/slack)
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
     * [Transform 2022](https://www.youtube.com/playlist?list=PLgLft9vxdduDFkG9gtuNicNmb2YUzWqSQ)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
