@@ -2222,6 +2222,7 @@ The below are a collection of works from when I was doing a review
 
 # General-Interest
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
+- https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
 
