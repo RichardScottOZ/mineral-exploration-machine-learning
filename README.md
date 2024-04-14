@@ -944,7 +944,15 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
 
 ## Raster Data
+### C
+* [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
+### R  
+* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
+* [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
+* [stars](https://github.com/r-spatial/stars) -> stars: spatiotemporal Arrays: Raster and Vector Datacubes
+### Python 
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
+* [Rasterstats](https://github.com/perrygeo/python-rasterstats) -> summarising geospatial raster datasets based on vector geometries
 * [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
@@ -953,11 +961,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
-* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
- * [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
- * [stars](https://github.com/r-spatial/stars) -> stars: spatiotemporal Arrays: Raster and Vector Datacubes
+#### Gui
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
-* [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
+
+https://github.com/perrygeo/python-rasterstats
 
 ## Data Collection
 * [PiAutoStage](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693) -> 'An Open-Source 3D Printed Tool for the Automatic Collection of High-Resolution Microscope Imagery;' designed for mineral samples.
