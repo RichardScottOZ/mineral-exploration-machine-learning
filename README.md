@@ -366,6 +366,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
+  * [Chat Singup](https://softwareunderground.org/mattermost - SWUNG community chat signup
   * [Mattermost](https://mattermost.softwareunderground.org/)- Community chat service
 	* [Old Slack Channel](https://softwareunderground.org/slack)(deprecated, see mattermost above)
   * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
@@ -1199,7 +1200,31 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 
 # Datasets
-## Global
+## World
+### Geology
+* [Bedrock](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=223767) -> Generalised geology of the world
+* [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
+* [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
+### Geophysics
+#### Gravity
+* [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
+* [WGM 2012](https://bgi.obs-mip.fr/data-products/grids-and-models/wgm2012-global-model/)
+#### Magnetics
+* [EAMG2V3](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.geophysical_models:EMAG2_V3) _> Earth Magnetic Anomaly Grid
+* [WDMAM](https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
+* [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
+#### Seismic
+* [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
+* [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
+* [Moho](http://gocedata.como.polimi.it/wcs.php) -> GEMMA Data
+* [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
+* [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
+* [LithoRef18](https://www.juanafonso.com/software) -> A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets
+* [CRUST1.0](https://ds.iris.edu/ds/products/emc-crust10/) -> global crustal model netcdf
+ * [Overview homepage](https://igppweb.ucsd.edu/~gabi/crust1.html)
+#### Thermal
+* [Heat Flow](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008389)
+#### General
 * [Deep Time Digital Earth](https://deep-time.org/data) -> Data and visualisation for a variety of data sources and models
 * [EarthChem](https://www.earthchem.org/) -> Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data
 * [GEOROC](https://data.goettingen-research-online.de/dataverse/digis) -> Geochemical composition of rocks
@@ -1207,6 +1232,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
 * [Sediment Thickness](https://igppweb.ucsd.edu/%7Egabi/sediment.html) -> Map
+
 ## Australia
 * [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
 * [Heavy Mineral Map](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148916)
@@ -1403,6 +1429,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 ## North Americia
 * [National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids](https://www.sciencebase.gov/catalog/item/6193e9f3d34eb622f68f13a5) -> Also has some Australia data
+* [Groundwater wells](https://www.hydroshare.org/resource/8b02895f02c14dd1a749bcc5584a5c55/) -> Database
 ## Canada
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
@@ -1412,35 +1439,12 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geophysics
 * [Dap Search](http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php) -> Geoportal search - note annoyingly these are in Geosoft grids - see elsewere for conversion possibilties
  * [Gravity, Magnetics, Radiometrics] -> Mostly country scale
-## Finland
+ 
+## Europe 
+### Finland
 * [FODD](https://www.gtk.fi/en/fennoscandian-mineral-deposits-application-ore-deposits-database-and-maps/) -> Fennoscandian Mineral Deposits
-## Ireland
+### Ireland
 * [MPM](https://www.gsi.ie/en-ie/data-and-maps/Pages/Minerals.aspx) -> Mineral Potentinal Mapping project
-## World
-### Geology
-* [Bedrock](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=223767) -> Generalised geology of the world
-* [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
-* [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
-### Geophysics
-#### Gravity
-* [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
-* [WGM 2012](https://bgi.obs-mip.fr/data-products/grids-and-models/wgm2012-global-model/)
-#### Magnetics
-* [EAMG2V3](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.geophysical_models:EMAG2_V3) _> Earth Magnetic Anomaly Grid
-* [WDMAM](https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
-* [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
-#### Seismic
-* [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
-* [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
-* [Moho](http://gocedata.como.polimi.it/wcs.php) -> GEMMA Data
-* [Moho](https://nextcloud.ifg.uni-kiel.de/index.php/s/PS2owBsPznj5gpb) -> Szwillus Data
-* [Seismic Velocity](https://ds.iris.edu/ds/products/emc-dbrd_nature2020/) - > Debayle et al
-* [LithoRef18](https://www.juanafonso.com/software) -> A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets
-* [CRUST1.0](https://ds.iris.edu/ds/products/emc-crust10/) -> global crustal model netcdf
- * [Overview homepage](https://igppweb.ucsd.edu/~gabi/crust1.html)
-#### Thermal
-* [Heat Flow](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GC008389)
-
 
 # Papers with Code 
 ### NLP
