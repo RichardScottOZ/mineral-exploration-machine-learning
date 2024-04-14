@@ -955,6 +955,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
  * [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
+ * [stars](https://github.com/r-spatial/stars) -> stars: spatiotemporal Arrays: Raster and Vector Datacubes
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
 * [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
 
