@@ -952,6 +952,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
+  * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
  * [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
