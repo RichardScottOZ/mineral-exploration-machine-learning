@@ -1914,6 +1914,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://www.researchgate.net/publication/361741409_Physics-Driven_Deep_Learning_Inversion_with_Application_to_Magnetotelluric
+#### Passive Seismic
+- https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 #### Surface Resistivity
 - https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
 
