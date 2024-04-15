@@ -962,8 +962,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
+### Benchmarks
+* [raster-benchmark](https://github.com/kadyb/raster-benchmark) -> Benchmarking some raster libaries in python and R
 #### Gui
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
+
 
 ## Data Collection
 * [PiAutoStage](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693) -> 'An Open-Source 3D Printed Tool for the Automatic Collection of High-Resolution Microscope Imagery;' designed for mineral samples.
