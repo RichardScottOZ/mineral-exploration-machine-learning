@@ -103,7 +103,9 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
-## Training Data
+* [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
+ * [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
+	## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
 
@@ -1912,6 +1914,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Geothermal
 - https://www.osti.gov/biblio/2335471 - Applications of Machine Learning Techniques to Geothermal Play Fairway Analysis in the Great Basin Region, Nevada [adjacent but interesting]
  - https://gdr.openei.org/submissions/1402 - Associated code
+ - https://catalog.data.gov/dataset/python-codebase-and-jupyter-notebooks-applications-of-machine-learning-techniques-to-geoth 
+ - https://www.researchgate.net/publication/341418586_Preliminary_Report_on_Applications_of_Machine_Learning_Techniques_to_the_Nevada_Geothermal_Play_Fairway_Analysis
 
 
 ### Maps
