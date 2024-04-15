@@ -798,6 +798,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Mineral occurrence database](https://applications.saskatchewan.ca/Apps/ECON_Apps/dbsearch/MinDepositQuery/default.aspx?ID=5987)
 * [Newfoundland](https://geoatlas.gov.nl.ca/Default.htm) -> didn't work in Chrome, tried it in Edge
 * [Alberta](https://ags.aer.ca/)
+ * [Interactive Mapping Application](https://experience.arcgis.com/experience/d813bc54fcde4e099de7b399f7145434/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
  * [Mineral Tenure](https://www.maps.geomatics.gov.nt.ca/)
 ### USA
