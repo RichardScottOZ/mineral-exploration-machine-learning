@@ -1905,6 +1905,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Surface Resistivity
 - https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
 
+#### geothermal
+- https://www.osti.gov/biblio/2335471 - Applications of Machine Learning Techniques to Geothermal Play Fairway Analysis in the Great Basin Region, Nevada [adjacent but interesting]
+
 
 ### Maps
 - https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
