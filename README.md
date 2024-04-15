@@ -1844,21 +1844,25 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 ### Geology
-- https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
-- https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
-- https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
-- https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
-- https://www.sciencedirect.com/science/article/pii/S0169136824000921 -> Machine learning-based field geological mapping: A new exploration of geological survey data acquisition strategy https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
-- https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
-#### Structure
-- https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 #### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
  - https://eprints.utas.edu.au/32368/ - thesis paper update 
 - https://www.researchgate.net/publication/280038632_Estimating_the_fill_thickness_and_bedrock_topography_in_intermontane_valleys_using_artificial_neural_networks_-_Supporting_Information 
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
-### Geomorphology
+#### Drill Core
+- https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
+- https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
+#### General
+- https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
+- https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
+- https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
+- https://www.sciencedirect.com/science/article/pii/S0169136824000921 -> Machine learning-based field geological mapping: A new exploration of geological survey data acquisition strategy https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
+#### Geochronology
+- https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
+#### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
+#### Structure
+- https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 
 ### Geophysics
 #### Foundation
