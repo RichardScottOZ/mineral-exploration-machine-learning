@@ -102,8 +102,8 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
-  * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
+  * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 * [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
  * [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
@@ -1327,6 +1327,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Paper](https://academic.oup.com/gji/article/233/3/1863/7008903?login=false)
 #### Mineral Deposits
 * [Geological setting, age and endowment of major Australian mineral deposits](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145716)
+* [A Comprehensive dataset for Australian mine production 1799 to 2021](https://doi.org/10.25439/rmt.22724081.v2)
+ * [paper](https://www.nature.com/articles/s41597-023-02275-z#Sec3)
 #### Mineral Potential
 * [Overview - Geoscience Australia](https://www.eftf.ga.gov.au/mineral-potential-mapping) -> Overview of publications and datasets
 * [Sediment Hosted Zinc](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147425)
@@ -1927,8 +1929,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  - https://gdr.openei.org/submissions/1402 - Associated code
  - https://catalog.data.gov/dataset/python-codebase-and-jupyter-notebooks-applications-of-machine-learning-techniques-to-geoth 
  - https://www.researchgate.net/publication/341418586_Preliminary_Report_on_Applications_of_Machine_Learning_Techniques_to_the_Nevada_Geothermal_Play_Fairway_Analysis
-
-
+ 
 ### Maps
 - https://www.researchgate.net/publication/347786302_Semantic_Segmentation_Deep_Learning_for_Extracting_Surface_Mine_Extents_from_Historic_Topographic_Maps
 ### Mineral
