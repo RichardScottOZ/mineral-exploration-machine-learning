@@ -970,6 +970,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
+  * [serverless-datacube-demo](https://github.com/earth-mover/serverless-datacube-demo) -> xarray via lithops / Coiled / Modal
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xdggs](https://github.com/RichardScottOZ/xdggs) -> Other types of grids
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
