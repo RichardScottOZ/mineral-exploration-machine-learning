@@ -971,6 +971,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
+  * [xdggs](https://github.com/RichardScottOZ/xdggs) -> Other types of grids
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
 ### Benchmarks
