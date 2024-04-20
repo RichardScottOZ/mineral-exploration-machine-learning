@@ -1951,6 +1951,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/321850315_Information_extraction_and_knowledge_graph_construction_from_geoscience_literature
 - https://www.researchgate.net/publication/365929623_Named_Entity_Annotation_Schema_for_Geological_Literature_Mining_in_the_Domain_of_Porphyry_Copper_Deposits
 - https://www.researchgate.net/publication/329621358_Ontology-Based_Enhanced_Word_Embedding_for_Automated_Information_Extraction_from_Geoscience_Reports
+- https://www.researchgate.net/publication/379808469_Ontology-driven_relational_data_mapping_for_constructing_a_knowledge_graph_of_porphyry_copper_deposits -> Ontology-driven relational data mapping for constructing a knowledge graph of porphyry copper deposits
 - https://www.researchgate.net/publication/327709479_Prospecting_Information_Extraction_by_Text_Mining_Based_on_Convolutional_Neural_Networks-A_Case_Study_of_the_Lala_Copper_Deposit_China
 - https://ieeexplore.ieee.org/document/8711400 -> Research and Application on Geoscience Literature Knowledge Discovery Technology
 - https://www.researchgate.net/publication/332328315_Text_Mining_to_Facilitate_Domain_Knowledge_Discovery
