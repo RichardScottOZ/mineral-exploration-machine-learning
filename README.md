@@ -76,7 +76,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Course_Predictive_Mapping_USP](https://github.com/victsnet/Curso_Mapeamento_Preditivo_USP) -> Course Project
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
-* [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE)
+* [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE) -> includes fractal analysis
   * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 * [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
 ## China
@@ -1864,6 +1864,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  - https://eprints.utas.edu.au/32368/ - thesis paper update 
 - https://www.researchgate.net/publication/280038632_Estimating_the_fill_thickness_and_bedrock_topography_in_intermontane_valleys_using_artificial_neural_networks_-_Supporting_Information 
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
+- https://www.researchgate.net/publication/379813337_Contribution_to_advancing_aquifer_geometric_mapping_using_machine_learning_and_deep_learning_techniques_a_case_study_of_the_AL_Haouz-Mejjate_aquifer_Marrakech_Morocco
 #### Drill Core
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
 - https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
