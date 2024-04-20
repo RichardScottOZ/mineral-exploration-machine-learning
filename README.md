@@ -2257,5 +2257,5 @@ The below are a collection of works from when I was doing a review
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
-
+- https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
