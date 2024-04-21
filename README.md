@@ -1159,6 +1159,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
 
 ## Technology Stacks
+### C
+* [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
+  * [Tools]() -> Note has many command line tools that are very useful as well
+### Julia
+* [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
 ### Python - PyData
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
   * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
@@ -1173,13 +1178,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
 ### Rust - GeoRust
 * [GeoRust](https://georust.org/) -> Collection of geospatial utilities in rust
-
-## C
-* [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
-  * [Tools]() -> Note has many command line tools that are very useful as well
-  
-## Julia
-* [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
 
 ## Data Science
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
