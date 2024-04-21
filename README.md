@@ -1158,7 +1158,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geospatial](https://github.com/giswqs/geospatial) >- installs multiple common python packages
 * [Geospatial python](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/) -> Curated list
 
-## PyData Stack
+## Technology Stacks
+### Python - PyData
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
   * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
   * [Git Bash](https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473) -> Getting conda to work in Git Bash
@@ -1170,6 +1171,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Dask Cloud Provider](https://github.com/RichardScottOZ/dask-cloudprovider) -> Automatically start dask clusters on the cloud
   * [Dask Median](https://gist.github.com/andrewdhicks/d89849997453cdfad6fa568816ca7160) -> Notebook giving a Dask median function prototype
 * [Python Geospatial Ecosystem](https://github.com/loicdtx/python-geospatial-ecosystem) -> Curated information
+### Rust - GeoRust
+* [GeoRust](https://georust.org/) -> Collection of geospatial utilities in rust
 
 ## C
 * [GDAL](https://github.com/OSGeo/gdal) -> Absolutely crucial data transformation and analysis framework
