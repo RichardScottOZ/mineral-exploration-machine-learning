@@ -921,6 +921,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 	* [Weights-of-Evidence](https://github.com/chudasama-bijal/QGIS-Plugin-Weights-of-Evidence-Model)
 	 * [plugin](https://plugins.qgis.org/plugins/wofe_module/)
   * [GRASS](https://github.com/OSGeo/grass) 
+  * [saga](https://github.com/saga-gis/saga-gis)
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
@@ -1096,6 +1097,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Levelling](https://github.com/GeoscienceAustralia/geochemical-levelling)
 * [Pygeochem tools](https://github.com/RADutchie/pygeochemtools)
 * [Geoquimica](https://github.com/gferrsilva/geoquimica)
+* [Geochemistrypi](https://github.com/ZJUEarthData/geochemistrypi)
   
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
