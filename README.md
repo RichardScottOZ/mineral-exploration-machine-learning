@@ -921,7 +921,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 	* [Weights-of-Evidence](https://github.com/chudasama-bijal/QGIS-Plugin-Weights-of-Evidence-Model)
 	 * [plugin](https://plugins.qgis.org/plugins/wofe_module/)
   * [GRASS](https://github.com/OSGeo/grass) 
-  * [saga](https://github.com/saga-gis/saga-gis)
+  * [saga](https://github.com/saga-gis/saga-gis) -> mirror of sourceforge
 ## 3D
 * [PyVista](https://github.com/pyvista/pyvista) -> VTK wrapping api for great data visualisation and analysis
   * [PVGeo](https://pvgeo.org/index.html)
