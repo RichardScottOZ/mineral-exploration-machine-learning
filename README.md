@@ -1098,6 +1098,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Pygeochem tools](https://github.com/RADutchie/pygeochemtools)
 * [Geoquimica](https://github.com/gferrsilva/geoquimica)
 * [Geochemistrypi](https://github.com/ZJUEarthData/geochemistrypi)
+ * [paper](https://www.researchgate.net/publication/377746652_Geochemistry_p_Automated_Machine_Learning_Python_Framework_for_Tabular_Data)
   
 ## Drilling
 * [dh2loop](https://github.com/Loop3D/dh2loop) -> Drilling Interval assistance
