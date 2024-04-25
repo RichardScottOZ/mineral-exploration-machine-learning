@@ -782,6 +782,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
 ### Poland
  * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
+### United Kingdom
+* [UK Onshore Geophysical Library] (https://ukogl.org.uk/)
 
  
 ## North America
