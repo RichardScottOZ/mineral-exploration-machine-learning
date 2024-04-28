@@ -109,7 +109,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
 * [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
  * [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
-	## Training Data
+## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
 
@@ -294,12 +294,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Texture
 * [Mineral Texture Classification Using Deep Convolutional Neural Networks: An Application to Zircons From Porphyry Copper Deposits](https://github.com/ChetanNathwani/zirconCNN)
-  * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
+ * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025933)
   
 ## Simulation
 * [Intelligent Prospector](https://github.com/sisl/MineralExploration) -> Sequential data acquisition planning
-	* [Zenodo](https://zenodo.org/records/6727378)
-	* [paper](https://gmd.copernicus.org/articles/16/289/2023/gmd-16-289-2023.html)
+ * [Zenodo](https://zenodo.org/records/6727378)
+ * [paper](https://gmd.copernicus.org/articles/16/289/2023/gmd-16-289-2023.html)
 	
 ## Geometry
 * [Deep Angle]([https://github.com/ArashRabbani/DeepAngle) -> Fast calculation of contact angles in tomography images using deep learning	
@@ -340,8 +340,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO) -> Positive Unlabeled Bagging with Bayesian Optimisation
 ## Clustering  
 ### Self Organising Maps
-  * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
-  * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
+* [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
+* [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
   * [kmedoids](https://github.com/kno10/python-kmedoids)
@@ -1167,6 +1167,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Tools]() -> Note has many command line tools that are very useful as well
 ### Julia
 * [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
+* [Introduction to Julia for Geoscience](https://github.com/mauro3/Julia-intro-for-geoscience-EGU2024)
 ### Python - PyData
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
   * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
