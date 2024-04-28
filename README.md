@@ -2267,6 +2267,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/340652300_New_logical_operator_algorithms_for_mapping_of_hydrothermally_altered_rocks_using_ASTER_data_A_case_study_from_central_Turkey
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
 
+- https://www.researchgate.net/publication/379960654_From_sensor_fusion_to_knowledge_distillation_in_collaborative_LIBS_and_hyperspectral_imaging_for_mineral_identification
 
 ### NLP
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
