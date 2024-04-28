@@ -162,12 +162,18 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Fast imaging for the 3D density structures by machine learning approach](https://github.com/LiYongbo-geo/GV-Net-code)
  * [Paper](https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach)
  
- ### Magnetics
- * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
-  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300423000675)
+### Magnetics
+* [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
+ * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300423000675)
   
-## Petrophysics
+### Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
+
+### Tectonics
+ * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
+ * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
+
+###
 
 # Geochemistry
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
