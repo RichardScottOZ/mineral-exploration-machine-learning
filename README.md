@@ -267,10 +267,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
- * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
-  * [SpectralGPT](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)
-   * [zenodo](https://zenodo.org/records/8412455))  -> remote sensing foundation model customized for spectral data
-   * [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
+  * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
+ * [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP) -> A Vision Language Foundation Model for Remote Sensing
+ * [SpectralGPT](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)
+  * [zenodo](https://zenodo.org/records/8412455))  -> remote sensing foundation model customized for spectral data
+  * [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
  ## Processing
  * [ASTER Conversion](https://git.earthdata.nasa.gov/projects/LPDUR/repos/aster-l1t/browse) -> Conversion from ASTER hd5 to geotiff NASA github
  * [HLS Data Resources](https://github.com/nasa/HLS-Data-Resources) -> Harmonized Landsat Sentinel wrangling
