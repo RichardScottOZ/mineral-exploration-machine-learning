@@ -982,6 +982,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [serverless-datacube-demo](https://github.com/earth-mover/serverless-datacube-demo) -> xarray via lithops / Coiled / Modal
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xdggs](https://github.com/RichardScottOZ/xdggs) -> Other types of grids
+  * [xgcm](https://github.com/xgcm/xhistogram) -> Histograms with labels
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
   * [xarray-einstats](https://github.com/arviz-devs/xarray-einstats) -> Stats, linear algebra and einops for xarray
