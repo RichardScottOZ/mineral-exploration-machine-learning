@@ -126,6 +126,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
+* [corel](https://github.com/RichardScottOZ/corel) -> smart computer vision model that identifies facies and performs rock typing on core images
+
 
 ## Paleovalleys
 * [Sub3DNet1.0: a deep-learning model for regional-scale 3D subsurface structure mapping](https://gmd.copernicus.org/articles/14/3421/2021/)
