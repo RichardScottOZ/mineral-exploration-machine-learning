@@ -293,6 +293,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Hyperspectral
 * [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/danfenghong/Information_Fusion_CasFormer)
+* [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras) 
+ * [paper](https://arxiv.org/abs/1802.05957)
+
 
 ## Visualisation
 * [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
@@ -2203,7 +2206,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
-- https://github.com/IShengFang/SpectralNormalizationKeras
 - https://www.sciencedirect.com/science/article/pii/S0009281924000473 -> Geochemical characteristics and mapping of Reşadiye (Tokat-Türkiye) bentonite deposits using machine learning and sub-pixel mixture algorithms
 
 ### General
