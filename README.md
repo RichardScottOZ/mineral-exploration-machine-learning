@@ -291,6 +291,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
+## Hyperspectral
+* [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/RichardScottOZ/Information_Fusion_CasFormer)
+
 ## Visualisation
 * [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
  * [paper](https://arxiv.org/pdf/2103.00741.pdf)
