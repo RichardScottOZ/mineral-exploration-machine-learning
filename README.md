@@ -2204,6 +2204,8 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
 - https://github.com/IShengFang/SpectralNormalizationKeras
+- https://www.sciencedirect.com/science/article/pii/S0009281924000473 -> Geochemical characteristics and mapping of Reşadiye (Tokat-Türkiye) bentonite deposits using machine learning and sub-pixel mixture algorithms
+
 ### General
 - https://www.researchgate.net/publication/337841253_A_solar_optical_hyperspectral_library_of_rare_earth-bearing_minerals_rare_earth_oxides_copper-bearing_minerals_and_Apliki_mine_surface_samples
 - https://www.researchgate.net/publication/3204295_Abundance_Estimation_of_Spectrally_Similar_Minerals_by_Using_Derivative_Spectra_in_Simulated_Annealing
