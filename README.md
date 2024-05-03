@@ -292,7 +292,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
 ## Hyperspectral
-* [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/RichardScottOZ/Information_Fusion_CasFormer)
+* [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/danfenghong/Information_Fusion_CasFormer)
 
 ## Visualisation
 * [Deep Colormap Extraction from Visualizations](https://github.com/yuanlinping/deep_colormap_extraction)
@@ -1892,6 +1892,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Drill Core
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
 - https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
+- https://www.sciencedirect.com/science/article/pii/S2949891024002112 -> Sensitivity analysis of similarity learning models for well-intervals based on logging data
 #### General
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
