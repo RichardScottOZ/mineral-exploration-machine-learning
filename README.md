@@ -178,17 +178,20 @@ Suggestions welcome: open a discussion, issue or pull request.
 ###
 
 # Geochemistry
-* [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
-* [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
-* [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
-* [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
-* [indicator_minerals](https://github.com/DinaKlim/indicator_minerals) -> Can PCA can tell the story of the origin of tourmaline?
-* [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
-* [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
-* [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
-* [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
  * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
+* [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
+* [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
+* [indicator_minerals](https://github.com/DinaKlim/indicator_minerals) -> Can PCA can tell the story of the origin of tourmaline?
+* [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
+* [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
+* [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
+* [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
+* [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
+* [Secular Changes in the Occurrence of Subduction During the Archean] https://zenodo.org/records/10418615 -> Zenodo code archive
+ * [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_Archean 
+
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
@@ -1894,9 +1897,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.researchsquare.com/article/rs-4106957/v1 -> Multi-element geochemical anomaly recognition applying geologically-constrained convolutional deep learning algorithm with Butterworth filtering
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
-- https://www.researchgate.net/publication/
-- https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_Archean 
-- 334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
+- https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 ### Geology
 #### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
