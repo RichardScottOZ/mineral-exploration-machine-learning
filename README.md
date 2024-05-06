@@ -2311,3 +2311,5 @@ The below are a collection of works from when I was doing a review
 - https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+
+- https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
