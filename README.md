@@ -1661,6 +1661,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/375764940_A_lightweight_convolutional_neural_network_with_end-to-end_learning_for_three-dimensional_mineral_prospectivity_modeling_A_case_study_of_the_Sanhetun_Area_Heilongjiang_Province_Northeastern_China
 - https://www.sciencedirect.com/science/article/pii/S0169136824001343 -> A novel hybrid ensemble model for mineral prospectivity prediction: A case study in the Malipo W-Sn mineral district, Yunnan Province, China
 - https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
+- https://link.springer.com/article/10.1007/s11053-024-10344-2 -> A Heterogeneous Graph Construction Method for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/353421842_A_hybrid_logistic_regression_gene_expression_programming_model_and_its_application_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/373715610_A_Multimodal_Learning_Framework_for_Comprehensive_3D_Mineral_Prospectivity_Modeling_with_Jointly_Learned_Structure-Fluid_Relationships
