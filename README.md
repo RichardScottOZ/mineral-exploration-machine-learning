@@ -154,6 +154,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Structure
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+#### Euler deconvolution
+- https://legacy.fatiando.org/gallery/gravmag/euler_moving_window.html
+- https://notebook.community/joferkington/tutorials/1404_Euler_deconvolution/euler-deconvolution-examples
+- https://github.com/ffigura/Euler-deconvolution-plateau
+
 
 ### Gravity
 * [Recovering 3D Basement Relief Using Gravity Data Through Convolutional Neural Networks]
