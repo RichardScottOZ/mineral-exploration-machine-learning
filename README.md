@@ -1874,6 +1874,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
  
 ### Overviews
+- https://www.sciencedirect.com/science/article/pii/S2772883824000347 -> A review on the applications of airborne geophysical and remote sensing datasets in epithermal gold mineralisation mapping
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 - https://www.researchgate.net/publication/365777421_Computer_Vision_and_Pattern_Recognition_for_the_Analysis_of_2D3D_Remote_Sensing_Data_in_Geoscience_A_Survey - Computer Vision and Pattern Recognition for the Analysis of 2D/3D Remote Sensing Data in Geoscience: A Survey
