@@ -2023,6 +2023,7 @@ The below are a collection of works from when I was doing a review
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002626 -> Comparative Study on Three Autoencoder-Based Deep Learning Algorithms for Geochemical Anomaly Identification
 - https://www.researchgate.net/publication/373758047_Decision-making_within_geochemical_exploration_data_based_on_spatial_uncertainty_-A_new_insight_and_a_futuristic_review
 - https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
+- https://www.researchgate.net/publication/380262759_Factor_analysis_in_residual_soils_of_the_Iberian_Pyrite_Belt_Spain_Comparison_between_raw_data_log_transformation_data_and_compositional_data [UNSEEN]
 - https://www.researchgate.net/publication/272091723_Geochemical_characteristics_of_mineral_deposits_Implications_for_ore_genesis
 
 - https://www.researchgate.net/publication/257189047_Geochemical_mineralization_probability_index_GMPI_A_new_approach_to_generate_enhanced_stream_sediment_geochemical_evidential_map_for_increasing_probability_of_success_in_mineral_potential_mapping
