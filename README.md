@@ -2221,6 +2221,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/272565561_Integration_and_Analysis_of_ASTER_and_IKONOS_Images_for_the_Identification_of_Hydrothermally-_Altered_Mineral_Exploration_Sites
 - https://www.researchgate.net/publication/236271149_Multi-_and_hyperspectral_geologic_remote_sensing_A_review_GRSG_Member_News
 - https://www.researchgate.net/publication/220492175_Multi-and_Hyperspectral_geologic_remote_sensing_A_review
+- https://www.sciencedirect.com/science/article/pii/S1574954124001572 -> Rapid estimation of soil Mn content by machine learning and soil spectra in large-scale
 - https://www.researchgate.net/publication/342184377_remotesensing-12-01239-v2_1
 - https://www.researchgate.net/project/Remote-sensing-exploration-of-critical-mineral-deposits
 - https://www.researchgate.net/project/Sentinel-2-MSI-for-geological-remote-sensing
