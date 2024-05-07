@@ -310,6 +310,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras) 
  * [paper](https://arxiv.org/abs/1802.05957)
 * [S^2HM^2](https://github.com/tulilin/S2HM2) -> S2HM2: A Spectral-Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Image
+ * [paper](https://ieeexplore.ieee.org/abstract/document/10508226)
 
 
 ## Visualisation
