@@ -1973,6 +1973,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
+- http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
