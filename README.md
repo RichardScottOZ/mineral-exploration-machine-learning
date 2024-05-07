@@ -1957,6 +1957,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/366391168_Two-dimensional_fast_imaging_of_airborne_EM_data_based_on_U-net
 #### Gravity
 - https://www.researchgate.net/publication/365142017_3D_gravity_inversion_based_on_deep_learning
+- https://www.researchgate.net/publication/378930477_A_Deep_Learning_Gravity_Inversion_Method_Based_on_a_Self-Constrained_Network_and_Its_Application
 - https://www.researchgate.net/publication/362276214_DecNet_Decomposition_network_for_3D_gravity_inversion -> Olympic Dam example here
 - https://www.researchgate.net/publication/368448190_Deep_Learning_to_estimate_the_basement_depth_by_gravity_data_using_Feedforward_neural_network
 - https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
