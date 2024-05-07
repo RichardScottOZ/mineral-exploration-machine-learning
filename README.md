@@ -156,6 +156,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 #### Euler deconvolution
 - https://legacy.fatiando.org/gallery/gravmag/euler_moving_window.html
+	- Harmonica version eventually? https://hackmd.io/@fatiando/development-calls-2024?utm_source=preview-mode&utm_medium=rec
 - https://notebook.community/joferkington/tutorials/1404_Euler_deconvolution/euler-deconvolution-examples
 - https://github.com/ffigura/Euler-deconvolution-plateau
 
@@ -308,6 +309,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/danfenghong/Information_Fusion_CasFormer)
 * [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras) 
  * [paper](https://arxiv.org/abs/1802.05957)
+* [S^2HM^2](https://github.com/tulilin/S2HM2) -> S2HM2: A Spectral-Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Image
 
 
 ## Visualisation
