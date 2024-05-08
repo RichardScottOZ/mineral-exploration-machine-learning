@@ -265,6 +265,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [data](https://github.com/vishalned/MMEarth-data)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
+* [grid-mae](https://github.com/RichardScottOZ/grid-mae) -> Investigate using multiscale grids in a Vision Transformer Masked Autoencoder
 * [ScaleMae](https://github.com/bair-climate-initiative/scale-mae)
  * [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Reed_Scale-MAE_A_Scale-Aware_Masked_Autoencoder_for_Multiscale_Geospatial_Representation_Learning_ICCV_2023_paper.pdf)
 * [CIMAE](https://github.com/Modexus/torchgeo) -> CIMAE - Channel Independent Masked Autoencoder
