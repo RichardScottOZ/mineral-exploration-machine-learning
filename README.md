@@ -181,7 +181,6 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
 
-###
 
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
@@ -197,7 +196,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Secular Changes in the Occurrence of Subduction During the Archean] https://zenodo.org/records/10418615 -> Zenodo code archive
  * [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_Archean 
-
+ 
+# Kriging
+* [DKNN: deep kriging neural network for interpretable geospatial interpolation](https://github.com/in1311/DKNN)
+ * [paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316 )
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
