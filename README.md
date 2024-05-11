@@ -128,7 +128,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
 * [corel](https://github.com/RichardScottOZ/corel) -> smart computer vision model that identifies facies and performs rock typing on core images
 
-
 ## Paleovalleys
 * [Sub3DNet1.0: a deep-learning model for regional-scale 3D subsurface structure mapping](https://gmd.copernicus.org/articles/14/3421/2021/)
 
@@ -1072,6 +1071,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
  * [gplately](https://github.com/GPlates/gplately)
  * [others](https://www.bgh.org.au/software/)
+ * [undeworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
+
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
