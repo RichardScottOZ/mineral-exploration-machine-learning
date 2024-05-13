@@ -1704,6 +1704,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/340401748_Effects_of_Random_Negative_Training_Samples_on_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/360333702_Ensemble_learning_models_with_a_Bayesian_optimization_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/267927676_Evaluation_of_uncertainty_in_mineral_prospectivity_mapping_due_to_missing_evidence_A_case_study_with_skarn-type_Fe_deposits_in_Southwestern_Fujian_Province_China
+- https://www.mdpi.com/2075-163X/14/5/492 -> Exploration Vectors and Indicators Extracted by Factor Analysis and Association Rule Algorithms at the Lintan Carlin-Type Gold Deposit, Youjiang Basin, China
 - https://www.researchgate.net/publication/379852209_Fractal-Based_Multi-Criteria_Feature_Selection_to_Enhance_Predictive_Capability_of_AI-Driven_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/338789096_From_2D_to_3D_Modeling_of_Mineral_Prospectivity_Using_Multi-source_Geoscience_Datasets_Wulong_Gold_District_China
 - https://www.researchgate.net/publication/359714254_Geochemical_characterization_of_the_Central_Mineral_Belt_U_Cu_Mo_V_mineralization_Labrador_Canada_Application_of_unsupervised_machine-learning_for_evaluation_of_IOCG_and_affiliated_mineral_potential
