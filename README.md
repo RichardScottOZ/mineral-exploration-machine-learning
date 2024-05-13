@@ -977,6 +977,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geoscience Analyst](https://mirageoscience.com/mining-industry-software/geoscience-analyst/)
   * [geoh5py](https://geoh5py.readthedocs.io/) -> getting data to and from geoh5 projects
   * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
+  * [geoh5vista](https://github.com/derek-kinakin/geoh5vista)
   * [gams](https://github.com/eroots/gams) -> magnetic data analysis
 * [Rayshader](https://github.com/tylermorganwall/rayshader)
 * [Vdeo](https://github.com/marcomusy/vedo)
