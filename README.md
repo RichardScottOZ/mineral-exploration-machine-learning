@@ -179,7 +179,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Tectonics
  * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
-
+ * [Unleashing the power of Machine
+Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
+  * [Honours Thesis](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
 
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
