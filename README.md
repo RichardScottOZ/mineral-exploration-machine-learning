@@ -1713,6 +1713,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/380190183_Geologically_Constrained_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/307011381_Identification_and_mapping_of_geochemical_patterns_and_their_significance_for_regional_metallogeny_in_the_southern_Sanjiang_China
+- https://link.springer.com/article/10.1007/s11053-024-10334-4 -> Identification of Geochemical Anomalies Using an End-to-End Transformer
 - https://www.researchgate.net/publication/359627130_Identification_of_ore-finding_targets_using_the_anomaly_components_of_ore-forming_element_associations_extracted_by_SVD_and_PCA_in_the_Jiaodong_gold_cluster_area_Eastern_China
 - https://www.researchgate.net/publication/282621670_Identifying_geochemical_anomalies_associated_with_Au-Cu_mineralization_using_multifractal_and_artificial_neural_network_models_in_the_Ningqiang_district_Shaanxi_China
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674224000943 -> Integrate physics-driven dynamics simulation with data-driven machine learning to predict potential targets in maturely explored orefields: A case study in Tongguangshan orefield, Tongling, China
