@@ -1074,7 +1074,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
  * [gplately](https://github.com/GPlates/gplately)
  * [others](https://www.bgh.org.au/software/)
- * [undeworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
+ * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
 
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
