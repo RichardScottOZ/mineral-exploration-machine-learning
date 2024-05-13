@@ -181,8 +181,9 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
  * [Unleashing the power of Machine
 Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
-  * [Honours Thesis](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
-
+  * [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
+  [related](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
+  
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
  * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
