@@ -1615,6 +1615,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/253217016_Advanced_methodologies_for_the_analysis_of_databases_of_mineral_deposits_and_major_faults
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
+- https://meg.resourcesregulator.nsw.gov.au/sites/default/files/2024-05/EITH%202024%20Muller_Exploration_in_the_House_keynote.pdf -> Critical minerals – prospectivity mapping using generative AI
 - https://www.tandfonline.com/doi/pdf/10.1080/22020586.2019.12073159?needAccess=true - > Integrating a Minerals Systems Approach with Machine Learning: A Case Study of ‘Modern Minerals Exploration’ in the Mt Woods Inlier – northern Gawler Craton, South Australia
 - https://www.researchgate.net/publication/365697240_Mineral_potential_modelling_of_orogenic_gold_systems_in_the_Granites-Tanami_Orogen_Northern_Territory_Australia_A_multi-technique_approach
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
@@ -1679,13 +1680,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369865076_A_deep-learning-based_mineral_prospectivity_modeling_framework_and_workflow_in_prediction_of_porphyry-epithermal_mineralization_in_the_Duolong_Ore_District_Tibet
 - https://www.researchgate.net/publication/374982967_A_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_with_Interpretable_Machine_Learning_and_Modulated_Predictive_Modeling
 - https://www.sciencedirect.com/science/article/pii/S0169136824002026 -> A Global-Local collaborative approach to quantifying spatial non-stationarity in three-dimensional mineral prospectivity modeling
-- https://www.sciencedirect.com/science/article/pii/S0169136824001343 -> A novel hybrid ensemble model for mineral prospectivity prediction: A case study in the Malipo W-Sn mineral district, Yunnan Province, China
-- https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
 - https://link.springer.com/article/10.1007/s11053-024-10344-2 -> A Heterogeneous Graph Construction Method for Mineral Prospectivity Mapping [UNSEEN]
 - https://www.researchgate.net/publication/353421842_A_hybrid_logistic_regression_gene_expression_programming_model_and_its_application_to_mineral_prospectivity_mapping
-- https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/375764940_A_lightweight_convolutional_neural_network_with_end-to-end_learning_for_three-dimensional_mineral_prospectivity_modeling_A_case_study_of_the_Sanhetun_Area_Heilongjiang_Province_Northeastern_China
+- https://www.researchgate.net/publication/339821823_A_Monte_Carlo-based_framework_for_risk-return_analysis_in_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/373715610_A_Multimodal_Learning_Framework_for_Comprehensive_3D_Mineral_Prospectivity_Modeling_with_Jointly_Learned_Structure-Fluid_Relationships
+- https://www.sciencedirect.com/science/article/pii/S0169136824001343 -> A novel hybrid ensemble model for mineral prospectivity prediction: A case study in the Malipo W-Sn mineral district, Yunnan Province, China
+- https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/335036019_An_Autoencoder-Based_Dimensionality_Reduction_Algorithm_for_Intelligent_Clustering_of_Mineral_Deposit_Data
 - https://www.researchgate.net/publication/363696083_An_Integrated_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_Using_Bagging-Based_Positive_Unlabeled_Learning_and_Bayesian_Cost-Sensitive_Logistic_Regression
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping
