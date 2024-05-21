@@ -179,8 +179,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Tectonics
  * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
-
-
+ * [Unleashing the power of Machine
+Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
+  * [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
+  [related](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
+  
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
  * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
@@ -568,7 +571,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 	* [Geophysics](http://gtkdata.gtk.fi/ArcGIS/services/Rajapinnat/GTK_Geofysiikka_WMS/MapServer/WMSServer)
 	* [Ground Surveys](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Pohjatutkimukset_WMS/MapServer/WMSServer)
 * [Arctic Minerals](http://13.95.69.121:80/geoserver/erl/ows) -> Arctic 1M Mineral Occurrences
-### Portgual
+### Denmark
+* [deus](http://data.geus.dk/geusmap/ows/25832.jsp?whoami=[email]) -> Greenland WMS/WFS
+### Portugal
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
  * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
  * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
@@ -975,6 +980,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geoscience Analyst](https://mirageoscience.com/mining-industry-software/geoscience-analyst/)
   * [geoh5py](https://geoh5py.readthedocs.io/) -> getting data to and from geoh5 projects
   * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
+  * [geoh5vista](https://github.com/derek-kinakin/geoh5vista)
   * [gams](https://github.com/eroots/gams) -> magnetic data analysis
 * [Rayshader](https://github.com/tylermorganwall/rayshader)
 * [Vdeo](https://github.com/marcomusy/vedo)
@@ -1071,7 +1077,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
  * [gplately](https://github.com/GPlates/gplately)
  * [others](https://www.bgh.org.au/software/)
- * [undeworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
+ * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
 
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
@@ -1705,6 +1711,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/340401748_Effects_of_Random_Negative_Training_Samples_on_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/360333702_Ensemble_learning_models_with_a_Bayesian_optimization_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/267927676_Evaluation_of_uncertainty_in_mineral_prospectivity_mapping_due_to_missing_evidence_A_case_study_with_skarn-type_Fe_deposits_in_Southwestern_Fujian_Province_China
+- https://www.mdpi.com/2075-163X/14/5/492 ->Exploration Vectors and Indicators Extracted by Factor Analysis and Association Rule Algorithms at the Lintan Carlin-Type Gold Deposit, Youjiang Basin, China
 - https://www.researchgate.net/publication/379852209_Fractal-Based_Multi-Criteria_Feature_Selection_to_Enhance_Predictive_Capability_of_AI-Driven_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/338789096_From_2D_to_3D_Modeling_of_Mineral_Prospectivity_Using_Multi-source_Geoscience_Datasets_Wulong_Gold_District_China
 - https://www.researchgate.net/publication/359714254_Geochemical_characterization_of_the_Central_Mineral_Belt_U_Cu_Mo_V_mineralization_Labrador_Canada_Application_of_unsupervised_machine-learning_for_evaluation_of_IOCG_and_affiliated_mineral_potential
@@ -1713,6 +1720,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/380190183_Geologically_Constrained_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/307011381_Identification_and_mapping_of_geochemical_patterns_and_their_significance_for_regional_metallogeny_in_the_southern_Sanjiang_China
+- https://link.springer.com/article/10.1007/s11053-024-10334-4 -> Identification of Geochemical Anomalies Using an End-to-End Transformer
 - https://www.researchgate.net/publication/359627130_Identification_of_ore-finding_targets_using_the_anomaly_components_of_ore-forming_element_associations_extracted_by_SVD_and_PCA_in_the_Jiaodong_gold_cluster_area_Eastern_China
 - https://www.researchgate.net/publication/282621670_Identifying_geochemical_anomalies_associated_with_Au-Cu_mineralization_using_multifractal_and_artificial_neural_network_models_in_the_Ningqiang_district_Shaanxi_China
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674224000943 -> Integrate physics-driven dynamics simulation with data-driven machine learning to predict potential targets in maturely explored orefields: A case study in Tongguangshan orefield, Tongling, China
@@ -1953,6 +1961,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/368550674_Objective_classification_of_high-resolution_geophysical_data_Empowering_the_next_generation_of_mineral_exploration_in_Sierra_Leone
 - https://datarock.com.au/blog/transfer-learning-with-seismic-attributes -> Transfer Learning with Seismic Attributes
 #### EM
+- https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time
+Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
