@@ -1987,7 +1987,7 @@ Domain Electromagnetic Data using Deep Learning
 #### Hyperspectral
 - https://www.researchgate.net/publication/380391736_A_review_on_hyperspectral_imagery_application_for_lithological_mapping_and_mineral_prospecting_Machine_learning_techniques_and_future_prospects 
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
--### Magnetics
+### Magnetics
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
@@ -2000,6 +2000,7 @@ Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://www.researchgate.net/publication/361741409_Physics-Driven_Deep_Learning_Inversion_with_Application_to_Magnetotelluric
+- https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
 #### Passive Seismic
 - https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 #### Surface Resistivity
