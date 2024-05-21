@@ -1978,6 +1978,7 @@ Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/344397798_TEMDnet_A_Novel_Deep_Denoising_Network_for_Transient_Electromagnetic_Signal_With_Signal-to-Image_Transformation
 - https://www.researchgate.net/publication/366391168_Two-dimensional_fast_imaging_of_airborne_EM_data_based_on_U-net
 #### Gravity
+- https://link.springer.com/article/10.1007/s11770-024-1096-5 -> 3D gravity inversion using cycle-consistent generative adversarial network [UNSEEN]
 - https://www.researchgate.net/publication/365142017_3D_gravity_inversion_based_on_deep_learning
 - https://www.researchgate.net/publication/378930477_A_Deep_Learning_Gravity_Inversion_Method_Based_on_a_Self-Constrained_Network_and_Its_Application
 - https://www.researchgate.net/publication/362276214_DecNet_Decomposition_network_for_3D_gravity_inversion -> Olympic Dam example here
