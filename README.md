@@ -1007,8 +1007,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
 ### R  
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
-* [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
-* [stars](https://github.com/r-spatial/stars) -> stars: spatiotemporal Arrays: Raster and Vector Datacubes
+* [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
+* [stars](https://github.com/r-spatial/stars) -> spatiotemporal Arrays: Raster and Vector Datacubes
+* [exactextracr](https://github.com/isciences/exactextractr) -> raster zonal statistics for R
 ### Python 
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats) -> summarising geospatial raster datasets based on vector geometries
