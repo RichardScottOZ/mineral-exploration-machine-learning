@@ -1965,8 +1965,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/368550674_Objective_classification_of_high-resolution_geophysical_data_Empowering_the_next_generation_of_mineral_exploration_in_Sierra_Leone
 - https://datarock.com.au/blog/transfer-learning-with-seismic-attributes -> Transfer Learning with Seismic Attributes
 #### EM
-- https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time
-Domain Electromagnetic Data using Deep Learning
+- https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
@@ -1999,6 +1998,7 @@ Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
+- https://ieeexplore.ieee.org/abstract/document/10530923 -> Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
