@@ -39,6 +39,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
+ * [terratorch](https://github.com/IBM/terratorch) ->  flexible fine-tuning framework for Geospatial Foundation Models
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
  * [paper](https://arxiv.org/html/2404.06978v1)
