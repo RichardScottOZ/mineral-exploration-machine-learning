@@ -949,6 +949,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
   * [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
   * [Publications](https://www.bgs.ac.uk/information-hub/publications/)
+  * [MEIGA](https://www.bgs.ac.uk/news/over-600-mineral-exploration-project-reports-now-available-through-the-uk-critical-minerals-intelligence-centre/) -> MEIGA 600 BGS mineral exploration project reports
 * [GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
 * [Mineral Databse](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
