@@ -135,6 +135,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Stratigraphy
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
+## Structural
+* [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
+
 ## Geophysics
 ### Foundation Models
 * [Seismic Foundation Model](https://github.com/shenghanlin/SeismicFoundationModel) -> "a new generation deep learning model in geophysics"
