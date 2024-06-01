@@ -121,7 +121,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
 * [dawson-facies-2022](https://github.com/johnlab-research/dawson-facies-2022) -> Transfer learning for geological images
  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300422002333) - > Impact of dataset size and convolutional neural network architecture on transfer learning for carbonate rock classification
-* [Litho-Classifcation](https://github.com/luthfigeo/Litho-Classification) -> Volcanic facies Classification using Random Forest
+* [Litho-Classification](https://github.com/luthfigeo/Litho-Classification) -> Volcanic facies Classification using Random Forest
 * [SedNet](https://github.com/MudRocw1/SedNet_explainable-deep-learning-network)
  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
 
@@ -1951,6 +1951,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.sciencedirect.com/science/article/pii/S0169136824000921 -> Machine learning-based field geological mapping: A new exploration of geological survey data acquisition strategy https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
+https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utilizing Random Forest algorithm for identifying mafic and ultramafic rocks in the Gameleira Suite, Archean-Paleoproterozoic basement of the Brasília Belt, Brazil
 #### Geochronology
 - https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
 #### Geomorphology
