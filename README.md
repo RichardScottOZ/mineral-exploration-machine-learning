@@ -98,6 +98,8 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
 * [DL-RMD](https://github.com/rizwanasif/DL-RMD) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
+* [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
+ * [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
  * [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
