@@ -136,6 +136,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
 
 ## Structural
+* [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 
 ## Geophysics
