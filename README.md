@@ -140,6 +140,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Structural
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
+* [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
+* [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+
 
 ## Geophysics
 ### Foundation Models
@@ -158,8 +161,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
 
-### Structure
-* [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 #### Euler deconvolution
 - https://legacy.fatiando.org/gallery/gravmag/euler_moving_window.html
 	- Harmonica version eventually? https://hackmd.io/@fatiando/development-calls-2024?utm_source=preview-mode&utm_medium=rec
@@ -1963,6 +1964,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 #### Structure
+* [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
+ *[paper](https://gmd.copernicus.org/preprints/gmd-2024-35/gmd-2024-35.pdf) 
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
 
