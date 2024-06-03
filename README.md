@@ -196,16 +196,19 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
  * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
+ * [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
+ * [Demo application](http://60.205.170.161:8001/)
+* [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
 * [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
 * [indicator_minerals](https://github.com/DinaKlim/indicator_minerals) -> Can PCA can tell the story of the origin of tourmaline?
 * [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
-* [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Secular Changes in the Occurrence of Subduction During the Archean] https://zenodo.org/records/10418615 -> Zenodo code archive
- * [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_Archean 
+ * [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_ArcheanA machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
  
 # Kriging
 * [DKNN: deep kriging neural network for interpretable geospatial interpolation](https://github.com/in1311/DKNN)
