@@ -1947,6 +1947,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
 - https://www.sciencedirect.com/science/article/pii/S2949891024002112 -> Sensitivity analysis of similarity learning models for well-intervals based on logging data
 #### General
+Deep learning-based geological map generation using geological routes
+https://www.researchgate.net/publication/354781583_Deep_learning_framework_for_geological_symbol_detection_on_geological_maps
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://www.researchgate.net/publication/379939974_Graph_convolutional_network_for_lithological_classification_and_mapping_using_stream_sediment_geochemical_data_and_geophysical_data
 - https://ieeexplore.ieee.org/abstract/document/10493129 -> Geological Background Prototype Learning Enhanced Network for Remote Sensing-Based Engineering Geological Lithology Interpretation in Highly Vegetated Areas [Unseen]
