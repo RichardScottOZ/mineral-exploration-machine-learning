@@ -282,6 +282,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Multi Pretext Masked Autoencoder (MP-MAE)](https://github.com/vishalned/MMEarth-train)
  * [data](https://github.com/vishalned/MMEarth-data)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
+ * [SamGIS](https://github.com/trincadev/samgis-be) -> Segment Anything applied to GIS
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
 * [grid-mae](https://github.com/RichardScottOZ/grid-mae) -> Investigate using multiscale grids in a Vision Transformer Masked Autoencoder
 * [ScaleMae](https://github.com/bair-climate-initiative/scale-mae)
@@ -1970,10 +1971,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 #### Structure
-* [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
- *[paper](https://gmd.copernicus.org/preprints/gmd-2024-35/gmd-2024-35.pdf) 
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
+Enhanced dip angle map using Kuwahara and Gaussian filters: an example fr example from Burdur region, T egion, Türkiye 
 
 ### Geophysics
 #### Foundation
