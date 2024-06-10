@@ -1758,7 +1758,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/235443301_Mineral_potential_mapping_in_a_frontier_region
 - https://www.researchgate.net/publication/235443302_Mineral_potential_mapping_in_frontier_regions_A_Mongolian_case_study
 - https://www.researchgate.net/publication/329037175_Mineral_prospectivity_analysis_for_BIF_iron_deposits_A_case_study_in_the_Anshan-Benxi_area_Liaoning_province_North-East_China
-- https://www.researchgate.net/publication/351649498_Mineral_Prospectivity_Mapping_based_on_Isolation_Forest_and_Random_Forest_Implication_for_the_Existence_of_Spatial_Signature_of_Mineralization_in_Outliers
+- https://link.springer.com/article/10.1007/s11053-024-10335-3 -> Mineral Prospectivity Prediction Based on Self-Supervised Contrastive Learning and Geochemical Data: A Case Study of the Gold Deposit in the Malanyu District, Hebei Province, China [USEEN]
+- https://www.researchgate.net/publication/ 351649498_Mineral_Prospectivity_Mapping_based_on_Isolation_Forest_and_Random_Forest_Implication_for_the_Existence_of_Spatial_Signature_of_Mineralization_in_Outliers
 - https://www.researchgate.net/publication/358528670_Mineral_Prospectivity_Mapping_Based_on_Wavelet_Neural_Network_and_Monte_Carlo_Simulations_in_the_Nanling_W-Sn_Metallogenic_Province
 - https://www.researchgate.net/publication/352983697_Mineral_prospectivity_mapping_by_deep_learning_method_in_Yawan-Daqiao_area_Gansu
 - https://www.researchgate.net/publication/367106018_Mineral_Prospectivity_Mapping_of_Porphyry_Copper_Deposits_Based_on_Remote_Sensing_Imagery_and_Geochemical_Data_in_the_Duolong_Ore_District_Tibet - Mineral Prospectivity Mapping of Porphyry Copper Deposits Based on Remote Sensing Imagery and Geochemical Data in the Duolong Ore District, Tibet
@@ -2370,7 +2371,7 @@ The below are a collection of works from when I was doing a review
 ### NLP
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 - https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
-
+- https://ieeexplore.ieee.org/abstract/document/10544642 -> Assessing named entity recognition efficacy using diverse geoscience datasets [UNSEEN]
 
 # General-Interest
 - https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
