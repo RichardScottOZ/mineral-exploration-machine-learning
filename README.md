@@ -838,7 +838,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Poland
  * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
 ### United Kingdom
-* [UK Onshore Geophysical Library] (https://ukogl.org.uk/)
+* [UK Onshore Geophysical Library](https://ukogl.org.uk/)
+* [OS Data Hub British Geology](https://osdatahub.os.uk/downloads/open)
+ * [Geology 625](https://osdatahub.os.uk/downloads/open/BGS_Geology_625k)
 
  
 ## North America
