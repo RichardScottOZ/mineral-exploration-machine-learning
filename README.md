@@ -1934,8 +1934,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/375509344_Alteration_assemblage_characterization_using_machine_learning_applied_to_high_resolution_drill-core_images_hyperspectral_data_and_geochemistry
 - https://qspace.library.queensu.ca/items/38f52d19-609d-4916-bcd0-3ce20675dee3/full - > Application of Computational Methods to Data Integration and Geoscientific Problems in Mineral Exploration and Mining
-- https://www.sciencedirect.com/science/article/pii/S0169136824002099 -> Development of a machine learning model to classify mineral deposits using sphalerite chemistry and mineral assemblages
 - https://www.sciencedirect.com/science/article/pii/S0169136822005509?dgcid=rss_sd_all -> Applying neural networks-based modelling to the prediction of mineralization: A case-study using the Western Australian Geochemistry (WACHEM) database
+- https://www.sciencedirect.com/science/article/pii/S0169136824002099 -> Development of a machine learning model to classify mineral deposits using sphalerite chemistry and mineral assemblages
+- https://www.sciencedirect.com/science/article/pii/S0169136824002403 -> Discrimination of deposit types using magnetite geochemistry based on machine learning
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
 - https://www.researchgate.net/publication/369300132_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS
 - https://link.springer.com/article/10.1007/s11053-024-10317-5 -> Denoising of Geochemical Data using Deep Learning–Implications for Regional Surveys]
