@@ -1948,6 +1948,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 - https://www.researchgate.net/publication/369729999_Visual_Interpretation_of_Machine_Learning_Genetical_Classification_of_Apatite_from_Various_Ore_Sources
+- https://www.researchgate.net/publication/377892369_Apatite_trace_element_composition_as_an_indicator_of_ore_deposit_types_A_machine_learning_approach
+
 ### Geology
 #### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
