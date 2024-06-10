@@ -368,7 +368,6 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoMLA](https://github.com/thengl/GeoMLA) -> Machine Learning algorithms for spatial and spatiotemporal data
 
 ## Platforms
-* [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) -> Computing platform connected to data sources
 
 ## Guides
 * [Geospatial CLI](https://github.com/JakobMiksch/geospatial-cli) - List of geospatial command line tools 
