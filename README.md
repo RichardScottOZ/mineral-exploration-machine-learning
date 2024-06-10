@@ -2032,6 +2032,7 @@ Enhanced dip angle map using Kuwahara and Gaussian filters: an example fr exampl
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://www.researchgate.net/publication/361741409_Physics-Driven_Deep_Learning_Inversion_with_Application_to_Magnetotelluric
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
+- https://ieeexplore.ieee.org/abstract/document/10551853 -> Magnetotelluric Data Inversion Based on Deep Learning with the Self-attention Mechanism
 #### Passive Seismic
 - https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 #### Surface Resistivity
