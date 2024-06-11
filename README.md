@@ -322,6 +322,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
 * [3DCAE-hyperspectral-classification](https://github.com/MeiShaohui/3DCAE-hyperspectral-classification)
 * [DeHIC](https://github.com/jingge326/DeHIC)
+* [Rev-Net](https://github.com/Lab-PANbin/Rev-Net)
+ * [paper](https://ieeexplore.ieee.org/document/10536904) -> A Reversible Generative Network for Hyperspectral Unmixing With Spectral Variability
 * [Pysptools](https://github.com/RichardScottOZ/pysptools) -> also has useful heuristic algorithms
 * [Spectral Python](https://github.com/spectralpython/spectral)
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
