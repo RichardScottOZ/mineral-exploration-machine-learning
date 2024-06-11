@@ -16,7 +16,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Community](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#communit)
 * [Cloud providers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
 * [Domains](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#domains)
-* [Overview](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#overview)
+* [Overview](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#overview)data oirta
 * [Web Services](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#web-services)
 * [Data Portals](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#data-portals)
 * [Tools](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#tools)
@@ -891,6 +891,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Mineral Occurrences](https://www.gmis-tanzania.com/download/minocc.zip)
  * [Mines](https://www.gmis-tanzania.com/download/mines.zip)
 * [SIGM](http://41.224.38.194:8080/SIGM/pages/geocatalogue/geocatalogue.xhtml) -> Tunisia Geology and Mining
+* [Zambia](https://portals.landfolio.com/zambia/) -> Zambia tenements heres
 ## Asia
 ### China
 * [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
