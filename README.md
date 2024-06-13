@@ -170,8 +170,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Gravity
 * [Recovering 3D Basement Relief Using Gravity Data Through Convolutional Neural Networks]
-  * [Data](10.5281/zenodo.5543969)
-  * [Paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
+ * [Data](10.5281/zenodo.5543969)
+ * [Paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
 * [Stable downward continuation of the gravity potential field implemented using deep learning](https://github.com/LiYongbo-geo/DC-Net-code)
  * [Paper](https://www.researchgate.net/publication/366965954_Stable_downward_continuation_of_the_gravity_potential_field_implemented_using_deep_learning)
 * [Fast imaging for the 3D density structures by machine learning approach](https://github.com/LiYongbo-geo/GV-Net-code)
@@ -2296,6 +2296,7 @@ The below are a collection of works from when I was doing a review
 ### General
 - https://www.sciencedirect.com/science/article/pii/S0273117724004861?dgcid=rss_sd_all -> Optimization of machine learning algorithms for remote alteration mapping
 - https://www.researchgate.net/publication/337841253_A_solar_optical_hyperspectral_library_of_rare_earth-bearing_minerals_rare_earth_oxides_copper-bearing_minerals_and_Apliki_mine_surface_samples
+- https://ieeexplore.ieee.org/document/10536904 -> A Reversible Generative Network for Hyperspectral Unmixing With Spectral Variability
 - https://www.researchgate.net/publication/3204295_Abundance_Estimation_of_Spectrally_Similar_Minerals_by_Using_Derivative_Spectra_in_Simulated_Annealing
 - https://www.researchgate.net/publication/338371376_Accuracy_assessment_of_hydrothermal_mineral_maps_derived_from_ASTER_images
 - https://www.researchgate.net/publication/337790490_Analysis_of_Most_Significant_Bands_and_Band_Ratios_for_Discrimination_of_Hydrothermal_Alteration_Minerals
