@@ -188,9 +188,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
 ### Tectonics
- * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
+* [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
- * [Unleashing the power of Machine
+* [Unleashing the power of Machine
 Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
   * [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
   [related](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
