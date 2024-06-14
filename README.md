@@ -142,11 +142,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+* [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
 
 ## Simulation
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
-## Geondynamics
+## Geonynamics
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 
 ## Geophysics
