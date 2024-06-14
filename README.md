@@ -139,17 +139,22 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Structural
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
+* [gplately](https://github.com/GPlates/gplately)
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 * [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
+* [others](https://www.bgh.org.au/software/)
+
 
 ## Simulation
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
-## Geonynamics
+## Geodnynamics
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
+* [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
+
 
 ## Geophysics
 ### Foundation Models
@@ -1103,10 +1108,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Litholog](https://github.com/rgmyr/litholog)
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
- * [gplately](https://github.com/GPlates/gplately)
- * [others](https://www.bgh.org.au/software/)
- * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
-
+ 
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
 * [Geophysics for Practicing Geoscientists](https://github.com/geoscixyz/gpg)
