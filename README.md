@@ -143,6 +143,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 
+## Simulation
+* [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
+
 
 ## Geophysics
 ### Foundation Models
