@@ -146,7 +146,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
 * [others](https://www.bgh.org.au/software/)
 
-
 ## Simulation
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
@@ -155,7 +154,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
-
 
 ## Geophysics
 ### Foundation Models
@@ -685,6 +683,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
   * [paper](https://arxiv.org/abs/2205.01833)
  * [Macrostrat](https://macrostrat.org/api)
+ * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
+)
  
  # Data Portals
 ## World
