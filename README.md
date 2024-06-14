@@ -16,7 +16,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Community](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#communit)
 * [Cloud providers](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#cloud-providers)
 * [Domains](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#domains)
-* [Overview](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#overview)data oirta
+* [Overview](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#overview)
 * [Web Services](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#web-services)
 * [Data Portals](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#data-portals)
 * [Tools](https://github.com/RichardScottOZ/mineral-exploration-machine-learning#tools)
@@ -229,7 +229,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
  * [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
- * [Paper] - https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain
+ * [Paper](https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain)
 * [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
  * [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
 ## Word Embeddings
