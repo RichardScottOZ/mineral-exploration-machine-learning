@@ -150,7 +150,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Simulation
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
-## Geodnynamics
+## Geodynamics
+* [Badlands](https://github.com/badlands-model/badlands) -> Basin and Landscape Dynamics
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
