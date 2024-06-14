@@ -146,6 +146,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Simulation
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
+## Geondynamics
+* [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics
 
 ## Geophysics
 ### Foundation Models
