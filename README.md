@@ -682,8 +682,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [diophila Python Library](https://github.com/smierz/diophila)
   * [Python Library](https://github.com/dpriskorn/OpenAlexAPI)
   * [paper](https://arxiv.org/abs/2205.01833)
- * [Macrostrat](https://macrostrat.org/api)
- * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
+* [Macrostrat](https://macrostrat.org/api)
+ * [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.189) 
+* [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
 )
  
  # Data Portals
