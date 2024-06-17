@@ -490,7 +490,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [Stratigraphy](https://en.wikipedia.org/wiki/Stratigraphy) 
 * [Geochemistry](https://en.wikipedia.org/wiki/Geochemistry)
 * [Geophysics](https://en.wikipedia.org/wiki/Geophysics)
-* [Remote Sensing]()
+* [Remote Sensing](https://en.wikipedia.org/wiki/Remote_sensing)
 
 # Web Services
 If listed it is assumed they are generally data, if just pictures like WMS it will say so.
