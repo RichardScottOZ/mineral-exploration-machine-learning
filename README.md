@@ -1960,6 +1960,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369300132_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS
 - https://link.springer.com/article/10.1007/s11053-024-10317-5 -> Denoising of Geochemical Data using Deep Learning–Implications for Regional Surveys]
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
+- https://www.researchgate.net/publication/381369176_Effectiveness_of_LOF_iForest_and_OCSVM_in_detecting_anomalies_in_stream_sediment_geochemical_data#:~:text=LOF%20outperformed%20iForest%20and%20OCSVM,patterns%20in%20the%20iForest%20map 
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.researchgate.net/publication/354564681_Machine_Learning_for_Identification_of_Primary_Water_Concentrations_in_Mantle_Pyroxene
