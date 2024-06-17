@@ -924,6 +924,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [article](https://hazen.carnegiescience.edu/research/evolutionary-system-mineralogy) -> Evolutionary system of mineralogy
 * [OneGeology](http://onegeology.brgm.fr/OnegeologyGlobal/)
  * [catalog](http://onegeology-geonetwork.brgm.fr/geonetwork3/srv/eng/catalog.search#/search)
+## Iran
+### Geology
+* [OGC BGS 1M Bedrock](https://ogc.bgs.ac.uk/cgi-bin/BGS_GSI_EN_Bedrock_and_Structural_Geology/ows)
 ### General
 * [OSF](https://osf.io/) -> Open Science Foundation
  * [Sediment Hosted Base Metals](https://osf.io/twksd/) -> Sediment Hosted Base Metals
