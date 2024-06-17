@@ -623,6 +623,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
  * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
+ & [Inspire 625](http://ogc.bgs.ac.uk/digmap625k_gsml_insp_gs/wfs?service=WFS&request=GetCapabilities&AcceptVersions=2.0.0)
 ### Germany
 * [BRG](https://services.bgr.de/uebersicht/kurzlinks)
 ### Czech Republic
