@@ -307,7 +307,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
 * [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
 * [AiTLAS](https://github.com/biasvariancelabs/aitlas-arena) -> an open-source benchmark suite for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
-* [Segementation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
+* [Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
+* [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [awesome mining band ratio collection](https://github.com/rodreras/awesome-mining-band-ratio) -> collection of simple band ratio uses for highlight various minerals
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
@@ -686,7 +687,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Macrostrat](https://macrostrat.org/api)
  * [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.189) 
 * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
-)
  
  # Data Portals
 ## World
