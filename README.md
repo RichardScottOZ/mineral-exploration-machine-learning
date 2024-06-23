@@ -1984,6 +1984,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
 - https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
 - https://www.sciencedirect.com/science/article/pii/S2949891024002112 -> Sensitivity analysis of similarity learning models for well-intervals based on logging data
+- https://www.sciencedirect.com/science/article/pii/S2949891024003828 -> CoreViT: a new vision transformer model for lithology identification in cores
 #### General
 - https://www.sciencedirect.com/science/article/pii/S0034425724002323 -> Deep learning-based geological map generation using geological routes
 - https://www.researchgate.net/publication/354781583_Deep_learning_framework_for_geological_symbol_detection_on_geological_maps
