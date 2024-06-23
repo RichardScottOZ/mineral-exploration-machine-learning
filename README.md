@@ -210,6 +210,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
  * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
 * [DAN-GRF](https://github.com/Saeid1986/DAN-GRF) -> Deep autoencoder network connected to geographical random forest for spatially aware geochemical anomaly detection
+ * [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001407)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
  * [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
