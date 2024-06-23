@@ -1952,6 +1952,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Deposits
 - https://pubs.er.usgs.gov/publication/ofr20211049 -> Deposit Classification Scheme for the Critical Minerals Mapping Initiative Global Geochemical Database
 ### Geochemistry
+- https://www.researchgate.net/publication/378150628_A_SMOTified_extreme_learning_machine_for_identifying_mineralization_anomalies_from_geochemical_exploration_data_a_case_study_from_the_Yeniugou_area_Xinjiang_China A SMOTified extreme learning machine for identifying mineralization anomalies from geochemical exploration data
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/375509344_Alteration_assemblage_characterization_using_machine_learning_applied_to_high_resolution_drill-core_images_hyperspectral_data_and_geochemistry
 - https://qspace.library.queensu.ca/items/38f52d19-609d-4916-bcd0-3ce20675dee3/full - > Application of Computational Methods to Data Integration and Geoscientific Problems in Mineral Exploration and Mining
