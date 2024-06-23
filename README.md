@@ -1865,7 +1865,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/320886789_Prospectivity_analysis_of_orogenic_gold_deposits_in_Saqez-Sardasht_Goldfield_Zagros_Orogen_Iran
 - https://www.researchgate.net/publication/361529867_Prospectivity_mapping_of_orogenic_lode_gold_deposits_using_fuzzy_models_a_case_study_of_Saqqez_area_NW_of_Iran
 - https://www.researchgate.net/publication/361717490_Quantifying_Uncertainties_Linked_to_the_Diversity_of_Mathematical_Frameworks_in_Knowledge-Driven_Mineral_Prospectivity_Mapping
-- https://www.researchgate.net/publication/374730424_Recognition_of_mineralization-related_anomaly_patterns_through_an_autoencoder_neural_network_for_mineral_exploration_targetingcognition of mineralization-related anomaly patterns through an autoencoder neural network for mineral exploration targeting
+- https://www.researchgate.net/publication/374730424_Recognition_of_mineralization-related_anomaly_patterns_through_an_autoencoder_neural_network_for_mineral_exploration_targeting
 - https://www.researchgate.net/publication/349957803_Regional-Scale_Mineral_Prospectivity_Mapping_Support_Vector_Machines_and_an_Improved_Data-Driven_Multi-criteria_Decision-Making_Technique
 - https://www.researchgate.net/publication/339153591_Sensitivity_analysis_of_prospectivity_modeling_to_evidence_maps_Enhancing_success_of_targeting_for_epithermal_gold_Takab_district_NW_Iran
 - https://www.researchgate.net/publication/321076980_Spatial_analyses_of_exploration_evidence_data_to_model_skarn-type_copper_prospectivity_in_the_Varzaghan_district_NW_Iran
@@ -1983,6 +1983,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/379813337_Contribution_to_advancing_aquifer_geometric_mapping_using_machine_learning_and_deep_learning_techniques_a_case_study_of_the_AL_Haouz-Mejjate_aquifer_Marrakech_Morocco
 #### Drill Core
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
+- https://www.researchgate.net/publication/381445417_Machine_Learning_for_Lithology_Analysis_using_a_Multi-Modal_Approach_of_Integrating_XRF_and_XCT_data 
 - https://www.researchgate.net/publication/379760986_A_machine_vision_approach_for_detecting_changes_in_drill_core_textures_using_optical_images
 - https://www.sciencedirect.com/science/article/pii/S2949891024002112 -> Sensitivity analysis of similarity learning models for well-intervals based on logging data
 - https://www.sciencedirect.com/science/article/pii/S2949891024003828 -> CoreViT: a new vision transformer model for lithology identification in cores
