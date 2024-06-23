@@ -2052,6 +2052,7 @@ Enhanced dip angle map using Kuwahara and Gaussian filters: an example fr exampl
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
 - https://ieeexplore.ieee.org/abstract/document/10530923 -> Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning
+- https://www.sciencedirect.com/science/article/pii/S2214579624000510 -> Intelligent Geological Interpretation of AMT Data Based on Machine Learning
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
