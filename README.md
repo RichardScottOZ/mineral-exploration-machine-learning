@@ -1698,6 +1698,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  - https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
+- https://link.springer.com/article/10.1007/s11053-024-10369-7 -> Predictive Modeling of Canadian Carbonatite-Hosted REE +/− Nb Deposits
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
 - https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
 - https://www.researchgate.net/publication/220164155_Support_vector_machine_A_tool_for_mapping_mineral_prospectivity
