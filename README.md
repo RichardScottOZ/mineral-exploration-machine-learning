@@ -148,6 +148,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [others](https://www.bgh.org.au/software/)
 
 ## Simulation
+* [GebPy](https://github.com/MABeeskow/GebPy) -> generation of geological data for rocks and minerals
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
 
 ## Geodynamics
