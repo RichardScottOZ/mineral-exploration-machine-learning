@@ -150,6 +150,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Simulation
 * [GebPy](https://github.com/MABeeskow/GebPy) -> generation of geological data for rocks and minerals
 * [OpenGeoSys](https://gitlab.opengeosys.org/ogs/ogs) -> development of numerical methods for the simulation of thermo-hydro-mechanical-chemical (THMC) processes in porous and fractured media
+* [Stratigraphics.jl](https://github.com/JuliaEarth/StratiGraphics.jl) -> Creating 3D stratigraphy from 2D geostatistical processes
 
 ## Geodynamics
 * [Badlands](https://github.com/badlands-model/badlands) -> Basin and Landscape Dynamics
