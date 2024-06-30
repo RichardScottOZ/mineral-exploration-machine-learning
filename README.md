@@ -2011,6 +2011,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 #### Stratigraphy
 - https://www.researchgate.net/publication/335486001_A_Stratigraphic_Prediction_Method_Based_on_Machine_Learning
+- https://www.researchgate.net/publication/346641320_Classifying_basin-scale_stratigraphic_geometries_from_subsurface_formation_tops_with_machine_learning
 #### Structure
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
