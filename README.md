@@ -136,6 +136,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Stratigraphy
 * [Predicatops](https://github.com/JustinGOSSES/predictatops) -> Stratigraphic predication designed for hydrocarbon
+* [stratal-geometries](https://github.com/jessepisel/stratal-geometries) -> Predicting Stratigraphic Geometries from Subsurface Well Logs
 
 ## Structural
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
