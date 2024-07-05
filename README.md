@@ -218,6 +218,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
  * [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
  * [Demo application](http://60.205.170.161:8001/)
+ * https://colab.research.google.com/drive/1-bOZgG6Nxt2Rp1ueO1SYmzIqCRiyyYcT
+* [GeochemPrint](https://colab.research.google.com/drive/1nX0vip0VS3f-GjL9l5femBiRcMwMGe_Y) 
+ * [paper]-> Geochemical fingerprinting of continental and oceanic basalts  
 * [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
 * [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
