@@ -2021,10 +2021,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/335486001_A_Stratigraphic_Prediction_Method_Based_on_Machine_Learning
 - https://www.researchgate.net/publication/346641320_Classifying_basin-scale_stratigraphic_geometries_from_subsurface_formation_tops_with_machine_learning
 #### Structure
+- https://www.sciencedirect.com/science/article/pii/S0098300421000285 -> A machine learning model for structural trend fields
+- https://www.sciencedirect.com/science/article/pii/S019181412400138X -> Mapping paleostress trajectories by means of the clustering of reduced stress tensors determined from homogeneous and heterogeneous data sets
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
-https://www.sciencedirect.com/science/article/pii/S019181412400138X -> Mapping paleostress trajectories by means of the clustering of reduced stress tensors determined from homogeneous and heterogeneous data sets
-Enhanced dip angle map using Kuwahara and Gaussian filters: an example fr example from Burdur region, T egion, Türkiye 
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae226/7701418 -> Use of Decision Tree Ensembles for Crustal Structure Imaging from Receiver Functions
 
 ### Geophysics
