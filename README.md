@@ -1452,6 +1452,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8)
 ** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
 * [DEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/72759) -> Australia 1 sec SRTM DEM of various varieties
+### Structure
+* [Major Crustal Boundaries of Australia - 2024 Edition](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149663)
 ### Velocity
 * [AU Tomo](https://data.csiro.au/collection/csiro:51008) -> Next-generation velocity model of the Australian crust from synchronous and asynchronous ambient noise imaging
 ### Topography
