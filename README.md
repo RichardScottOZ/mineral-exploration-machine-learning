@@ -273,8 +273,10 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
  * [Overview of approaches](https://www.jair.org/index.php/jair/article/view/11640/26511)
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
-* [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
+* [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in  
+ * [paper]https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [INDUS](https://huggingface.co/nasa-impact/nasa-smd-ibm-v0.1) -> NASA science tailored LLM suite
+ * [pwper](https://arxiv.org/html/2405.10725v2)
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
 ## Ontology
