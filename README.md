@@ -276,7 +276,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in  
  * [paper]https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 * [INDUS](https://huggingface.co/nasa-impact/nasa-smd-ibm-v0.1) -> NASA science tailored LLM suite
- * [pwper](https://arxiv.org/html/2405.10725v2)
+ * [paper](https://arxiv.org/html/2405.10725v2)
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
 ## Ontology
@@ -1980,7 +1980,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S0169136824002403 -> Discrimination of deposit types using magnetite geochemistry based on machine learning
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
 - https://www.researchgate.net/publication/369300132_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS_DEEP-LEARNING_IDENTIFICATION_OF_ANOMALOUS_DATA_IN_GEOCHEMICAL_DATASETS
-- https://link.springer.com/article/10.1007/s11053-024-10317-5 -> Denoising of Geochemical Data using Deep Learning–Implications for Regional Surveys]
+- https://www.researchgate.net/publication/378549920_Denoising_of_geochemical_data_using_deep_learning-Implications_for_regional_surveys -> Denoising of Geochemical Data using Deep Learning–Implications for Regional Surveys]
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
 - https://www.researchgate.net/publication/381369176_Effectiveness_of_LOF_iForest_and_OCSVM_in_detecting_anomalies_in_stream_sediment_geochemical_data#:~:text=LOF%20outperformed%20iForest%20and%20OCSVM,patterns%20in%20the%20iForest%20map 
 - https://dzkjqb.cug.edu.cn/en/article/doi/10.19509/j.cnki.dzkq.tb20220423 -> Gaussian mixture model in geochemical anomaly delineation of stream sediments: A case study of Xupu, Hunan Province [UNSEEN]
