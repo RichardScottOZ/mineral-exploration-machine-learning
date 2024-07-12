@@ -1286,6 +1286,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
 * [Awesome python data science](https://github.com/krzjoa/awesome-python-data-science) -> Curated guide
 
+## Probability
+* [distfit](https://github.com/erdogant/distfit) -> Probability density fitting
+
 ## Science
 * [Python resources for earth sciences](https://github.com/javedali99/python-resources-for-earth-sciences)
 * [Awesome scientific computing](https://github.com/nschloe/awesome-scientific-computing)
