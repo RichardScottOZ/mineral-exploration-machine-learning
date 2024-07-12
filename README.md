@@ -492,6 +492,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Loguru](https://github.com/Delgan/loguru) -> Logging library
 * [AWS GDAL Robot](https://github.com/mblackgeo/aws-gdal-robot) -> Lambda and batch processing of geotiffs
 * [Serverless Seismic Processing](https://github.com/vavourak/serverless_seismic_processing)
+* [LIthops](https://github.com/lithops-cloud/lithops) -> multi-cloud distributed computing framework
 
 # Overviews
 * [Mineral Exploration](https://www.ga.gov.au/scientific-topics/minerals/mineral-exploration)
