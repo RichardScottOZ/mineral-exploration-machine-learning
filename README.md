@@ -1361,6 +1361,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
 * [Sediment Thickness](https://igppweb.ucsd.edu/%7Egabi/sediment.html) -> Map
+* [spatialreference.org](https://github.com/neteler/spatialreference.org) -> repository for the website
 
 ## Australia
 * [Common Earth Model](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101380)
