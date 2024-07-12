@@ -479,15 +479,18 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ## AWS
 * [ec2 Spot Labs](https://github.com/awslabs/ec2-spot-labs) -> Making automatically working sith Spot instances easier
 * [Sagemaker Geospatial ML](https://aws.amazon.com/sagemaker/geospatial/)
-* [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
 * [Sagemaker](https://github.com/aws/amazon-sagemaker-examples) -> ML Managed Service
   * [SDK](https://github.com/aws/sagemaker-python-sdk)
   * [Entrypoint Utilities](https://github.com/aws-samples/amazon-sagemaker-entrypoint-utilities)
   * [Workshop 101](https://github.com/RichardScottOZ/sagemaker-workshop-101)
   * [Training Toolkit](https://github.com/aws/sagemaker-training-toolkit)
+### Batch
 * [Shepard](https://github.com/RichardScottOZ/shepard) -> Automated cloud formation setup of AWS Batch Pipelines: this is great
+### Packages
+* [Mlmax](https://github.com/awslabs/mlmax) - Start fast library
 * [Smallmatter](https://github.com/aws-samples/smallmatter-package)
 * [Pyutil](https://github.com/verdimrc/pyutil)
+## General
 * [Deep Learning Containers](https://github.com/aws/deep-learning-containers)
 * [Loguru](https://github.com/Delgan/loguru) -> Logging library
 * [AWS GDAL Robot](https://github.com/mblackgeo/aws-gdal-robot) -> Lambda and batch processing of geotiffs
