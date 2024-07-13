@@ -2375,6 +2375,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/338371376_Accuracy_assessment_of_hydrothermal_mineral_maps_derived_from_ASTER_images
 - https://www.researchgate.net/publication/337790490_Analysis_of_Most_Significant_Bands_and_Band_Ratios_for_Discrimination_of_Hydrothermal_Alteration_Minerals
 - https://www.researchgate.net/project/Deep-Learning-for-Remote-Sensing-2
+- https://ieeexplore.ieee.org/abstract/document/10589462 -> Deep Spectral Spatial Feature Enhancement through Transformer for Hyperspectral Image Classification
 - https://www.researchgate.net/publication/331876006_Fusion_of_Landsat_and_Worldview_Images
 - https://www.researchgate.net/publication/259096595_Geological_mapping_using_remote_sensing_data_A_comparison_of_five_machine_learning_algorithms_their_response_to_variations_in_the_spatial_distribution_of_training_data_and_the_use_of_explicit_spatial_
 - https://www.researchgate.net/publication/341802637_Improved_k-means_and_spectral_matching_for_hyperspectral_mineral_mapping
