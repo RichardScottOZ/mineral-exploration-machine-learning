@@ -2030,6 +2030,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/354781583_Deep_learning_framework_for_geological_symbol_detection_on_geological_maps
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
 - https://www.researchgate.net/publication/379939974_Graph_convolutional_network_for_lithological_classification_and_mapping_using_stream_sediment_geochemical_data_and_geophysical_data
+- https://www.sciencedirect.com/science/article/abs/pii/S0098300424001493-> FlexLogNet: A flexible deep learning-based well-log completion method of adaptively using what you have to predict what you are missing
 - https://ieeexplore.ieee.org/abstract/document/10493129 -> Geological Background Prototype Learning Enhanced Network for Remote Sensing-Based Engineering Geological Lithology Interpretation in Highly Vegetated Areas [Unseen]
 - https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
