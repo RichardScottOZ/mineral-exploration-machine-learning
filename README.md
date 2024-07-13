@@ -2056,6 +2056,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA
 - https://www.researchgate.net/publication/368550674_Objective_classification_of_high-resolution_geophysical_data_Empowering_the_next_generation_of_mineral_exploration_in_Sierra_Leone
 - https://datarock.com.au/blog/transfer-learning-with-seismic-attributes -> Transfer Learning with Seismic Attributes
+#### Potential Fields
+- https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/390212334/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_SMITH_Luke_Thomas_-_2023_.pdf -> Potential Field Geophysics Enhancement Using Conteporary Deep Learning
 #### EM
 - https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
