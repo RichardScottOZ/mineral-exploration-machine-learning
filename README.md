@@ -1064,11 +1064,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## Raster Data
 ### C
 * [exactextract](https://github.com/isciences/exactextract) -> command line zonal stats in C
-### R  
-* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
-* [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
-* [stars](https://github.com/r-spatial/stars) -> spatiotemporal Arrays: Raster and Vector Datacubes
-* [exactextracr](https://github.com/isciences/exactextractr) -> raster zonal statistics for R
+### Julia
+* [Rasters.jl](https://github.com/rafaqz/Rasters.jl) -> reading and writing common raster data types
 ### Python 
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats) -> summarising geospatial raster datasets based on vector geometries
@@ -1084,6 +1081,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
   * [xarray-einstats](https://github.com/arviz-devs/xarray-einstats) -> Stats, linear algebra and einops for xarray
+### R  
+* [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
+* [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
+* [stars](https://github.com/r-spatial/stars) -> spatiotemporal Arrays: Raster and Vector Datacubes
+* [exactextracr](https://github.com/isciences/exactextractr) -> raster zonal statistics for R
 ### Benchmarks
 * [raster-benchmark](https://github.com/kadyb/raster-benchmark) -> Benchmarking some raster libaries in python and R
 #### Gui
