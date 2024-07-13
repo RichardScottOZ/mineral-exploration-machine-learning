@@ -204,6 +204,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
 ### Tectonics
+* [Discern detachment of the subducting slab in an ancient subduction zone using machine learning](https://github.com/dzheng2333/basalt_geochemistry) -> Notebook
 * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
  * [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
 * [Unleashing the power of Machine
