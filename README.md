@@ -1295,6 +1295,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GeoRust](https://georust.org/) -> Collection of geospatial utilities in rust
 ### Databases
 * [DuckDB](https://github.com/duckdb/duckdb) -> In process OLAP DB at speed - has some geospatial and array capabilities
+ * [ibis + Duckdb geopsatial](https://github.com/ncclementi/ibis_duckdb_geospatial_scipy2024) -> scipy2024 talk
 
 ## Data Science
 * [Python Data Science Template](https://github.com/RichardScottOZ/python-data-science-template) -> Project package setup
