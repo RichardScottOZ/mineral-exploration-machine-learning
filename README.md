@@ -40,7 +40,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
- * [TorchSpatial]
+  * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
   * [paper](https://arxiv.org/abs/2406.15658)
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
