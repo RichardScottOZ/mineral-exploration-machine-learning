@@ -480,6 +480,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Open Source Geospatial Foundation](https://github.com/OSGeo/osgeo)
  * [OSGeoLive](https://github.com/OSGeo/OSGeoLive) -> Bootable DVD/USB with lots of open source geospatial software
 * [ASEG](https://www.youtube.com/c/ASEGVideos/videos) -> videos from Australia Society of Exploration Geoscientists
+* [AI for Geological Modelling and Mapping](https://www.youtube.com/@AI-GMM/videos) -> videos from the conference day
+ * [conference](https://www.exeter.ac.uk/research/institutes/idsai/events/artificialintelligenceforgeologicalmodellingandmapping22-23may2024/)
 
 # Cloud Providers
 ## AWS
