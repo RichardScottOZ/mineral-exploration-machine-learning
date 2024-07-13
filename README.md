@@ -415,6 +415,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 # Machine Learning
 * [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
 * [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
+* [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
 ## Probabilistic
 * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
