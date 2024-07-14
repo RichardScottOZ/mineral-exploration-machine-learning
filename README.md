@@ -413,10 +413,12 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
   
 # Machine Learning
-* [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
 * [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
-* [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
  * [paper](https://joss.theoj.org/papers/10.21105/joss.06889.pdf)
+* [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
+* [geospatial-rf](https://github.com/BritishGeologicalSurvey/geospatial-rf) -> Functions and wrappers to assist with random forest applications in a spatial context
+## Metrics
+* [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
 ## Probabilistic
 * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
