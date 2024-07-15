@@ -198,6 +198,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300423000675)
 * [MagImage2Geo3D](https://github.com/neu-gjt/MagImage2Geo3D)
+ * [paper](https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods)
 
 ### Seismic
 * [StorSeismic](https://github.com/swag-kaust/storseismic) -> An approach to pre-train a neural network to store seismic data features
