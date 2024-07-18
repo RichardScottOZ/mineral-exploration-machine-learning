@@ -1164,7 +1164,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Filter examples](https://www.fatiando.org/harmonica/latest/user_guide/transformations.html) -> Fast Fourier transform based processing via xarray
 * [Australian Gravity Data](https://github.com/compgeolab/australia-gravity-data)
 * [Worms](https://bitbucket.org/fghorow/bsdwormer)
-  * [Worms update](https://bitbucket.org/RichardScottOZ/bsdwormer/) <- potential fields worm creation with some minor updates to handle new networkx api
+ * [Worms update](https://bitbucket.org/RichardScottOZ/bsdwormer/) <- potential fields worm creation with some minor updates to handle new networkx api
+  *[github mirror](https://github.com/RichardScottOZ/BSDWormer)   
 * [Osborne Magnetic](https://github.com/fatiando-data/osborne-magnetic) -> Survey data processing example
 ### Seismic
 * [Segyio](https://github.com/equinor/segyio)
