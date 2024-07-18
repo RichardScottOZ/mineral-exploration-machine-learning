@@ -405,18 +405,17 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Earth Artificial Intelligence](Awesome-Earth-Artificial-Intelligence)
 * [Open Source GIS](https://link.springer.com/chapter/10.1007/978-3-030-53125-6_30) -> Comprehensive overview of the ecosystem
 
-
 # Data Quality
 * [Geoscience Data Quality for Machine Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) -> Geoscience Data Quality for Machine Learning
 * [Australian Gravity Data](https://github.com/RichardScottOZ/australia-gravity-data) -> Overview and analysis of gravity station data
 * [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector data
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
-  
 # Machine Learning
 * [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
 * [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
 * [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
  * [paper](https://joss.theoj.org/papers/10.21105/joss.06889.pdf)
+* [geospatial-rf](https://github.com/BritishGeologicalSurvey/geospatial-rf) -> Functions and wrappers to assist with random forest applications in a spatial context
 ## Probabilistic
 * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
@@ -2116,6 +2115,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://ieeexplore.ieee.org/abstract/document/10530923 -> Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning
 #### Passive Seismic
 - https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
+- https://nature.com/articles/s41467-020-17841-x -> Clustering earthquake signals and background noises in continuous seismic data with unsupervised deep learning
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
 #### Surface Resistivity
