@@ -117,6 +117,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
+  * [website](https://tectonique.net/noddy)
 
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
@@ -196,7 +197,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Magnetics
 * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
  * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300423000675)
- 
+* [MagImage2Geo3D](https://github.com/neu-gjt/MagImage2Geo3D)
+ * [paper](https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods)
+
 ### Seismic
 * [StorSeismic](https://github.com/swag-kaust/storseismic) -> An approach to pre-train a neural network to store seismic data features
   
@@ -411,11 +414,12 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector data
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
 # Machine Learning
-* [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
 * [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
-* [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
  * [paper](https://joss.theoj.org/papers/10.21105/joss.06889.pdf)
 * [geospatial-rf](https://github.com/BritishGeologicalSurvey/geospatial-rf) -> Functions and wrappers to assist with random forest applications in a spatial context
+* [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
+## Metrics
+* [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
 ## Probabilistic
 * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
@@ -2093,6 +2097,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/326231731_Depth_and_Lineament_Maps_Derived_from_North_Cameroon_Gravity_Data_Computed_by_Artificial_Neural_Network_International_Journal_of_Geophysics_vol_2018_Article_ID_1298087_13_pages_2018
 - https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach
 - https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
+- https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.897055/full -> High-precision downward continuation of the potential field based on the D-Unet network
 #### Hyperspectral
 - https://www.researchgate.net/publication/380391736_A_review_on_hyperspectral_imagery_application_for_lithological_mapping_and_mineral_prospecting_Machine_learning_techniques_and_future_prospects 
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
@@ -2101,6 +2106,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
 - https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
+High-precision downward continuation of the potential field based on the D-Unet network
+- https://www.sciencedirect.com/science/article/pii/S0169136822004279?via%3Dihub -> Magnetic grid resolution enhancement using machine learning: A case study from the Eastern Goldfields Superterrane
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
