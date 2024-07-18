@@ -2127,6 +2127,7 @@ High-precision downward continuation of the potential field based on the D-Unet 
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099053 -> Eikonal Tomography With Physics-Informed Neural Networks: Rayleigh Wave Phase Velocity in the Northeastern Margin of the Tibetan Plateau
 - https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 - https://www.nature.com/articles/s41598-019-50381-z -> High-resolution seismic tomography of Long Beach, CA using machine learning
+- https://arxiv.org/abs/2104.01588 -> PINNtomo: Seismic tomography using physics-informed neural networks
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
 #### Surface Resistivity
