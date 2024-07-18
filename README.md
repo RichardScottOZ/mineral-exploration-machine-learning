@@ -2114,8 +2114,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://ieeexplore.ieee.org/abstract/document/10530923 -> Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning
 #### Passive Seismic
-- https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 - https://nature.com/articles/s41467-020-17841-x -> Clustering earthquake signals and background noises in continuous seismic data with unsupervised deep learning
+- https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
+- https://www.nature.com/articles/s41598-019-50381-z -> High-resolution seismic tomography of Long Beach, CA using machine learning
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
 #### Surface Resistivity
