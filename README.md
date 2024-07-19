@@ -1357,7 +1357,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 # Datasets
 ## World
 ### Geology
-* [Bedrock](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=223767) -> Generalised geology of the world
+* [Bedrock](https://osdp-psdo.canada.ca/dp/en/search/metadata/NRCAN-GEOSCAN-1-2237677) -> Generalised geology of the world
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
 * [GLIM](https://doi.pangaea.de/10.1594/PANGAEA.788537) -> Global lithology map
