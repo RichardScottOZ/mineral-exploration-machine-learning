@@ -2023,6 +2023,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.researchgate.net/publication/354564681_Machine_Learning_for_Identification_of_Primary_Water_Concentrations_in_Mantle_Pyroxene
 - https://www.researchgate.net/publication/366210211_Machine_Learning_Prediction_of_Ore_Deposit_Genetic_Type_Using_Magnetite_Geochemistry 
+- https://link.springer.com/article/10.1007/s42461-024-01013-2 -> NIR-Spectroscopy and Machine Learning Models to Pre-concentrate Copper Hosted Within Sedimentary Rocks[UNSEEN]
 - https://www.researchsquare.com/article/rs-4106957/v1 -> Multi-element geochemical anomaly recognition applying geologically-constrained convolutional deep learning algorithm with Butterworth filtering
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
