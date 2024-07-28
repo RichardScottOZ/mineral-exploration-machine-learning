@@ -1981,6 +1981,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/263542579_Optimal_Exploration_Target_Zones
 - https://www.researchgate.net/publication/222892103_Optimal_field_sampling_for_targeting_minerals_using_hyperspectral_data
 - https://www.researchgate.net/publication/271671416_Predictive_modelling_of_gold_potential_with_the_integration_of_multisource_information_based_on_random_forest_a_case_study_on_the_Rodalquilar_area_Southern_Spain
+#### Sudan
+- https://link.springer.com/article/10.1007/s11053-024-10387-5 -> Toward Data-Driven Mineral Prospectivity Mapping from Remote Sensing Data Using Deep Forest Predictive Model [UNSEEN]
 #### Sweden
 - https://www.researchgate.net/publication/259128115_Biogeochemical_expression_of_rare_earth_element_and_zirconium_mineralization_at_Norra_Karr_Southern_Sweden
 - https://www.researchgate.net/publication/260086862_COMPARISION_OF_VMS_PROSPECTIVITY_MAPPING_BY_EBF_AND_WOFE_MODELING_THE_SKELLEFTE_DISTRICT_SWEDEN
@@ -2503,3 +2505,4 @@ The below are a collection of works from when I was doing a review
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia- https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
+- Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
