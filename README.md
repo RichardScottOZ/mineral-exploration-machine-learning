@@ -299,7 +299,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
  * [paper](https://www.researchgate.net/publication/363408251_Understanding_geological_reports_based_on_knowledge_graphs_using_a_deep_learning_approach)
 * [GeoFault Ontology](https://github.com/Yuanwei-Q/GeoFault-Ontology) 
- * [Dissertation](Knowledge Modelling for Digital Geology]
+ * [Dissertation](Knowledge Modelling for Digital Geology] -> PhD thesis with two papers
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
  * [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
 ## Large Language Models
