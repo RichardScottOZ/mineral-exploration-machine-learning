@@ -1084,6 +1084,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Rasters.jl](https://github.com/rafaqz/Rasters.jl) -> reading and writing common raster data types
 ### Python 
 * [Rasterio](https://github.com/rasterio/rasterio) -> python base library for raster data handling
+ * [georeader](https://github.com/giswqs/georeader) -> process raster data from different satellite missions
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats) -> summarising geospatial raster datasets based on vector geometries
 * [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
