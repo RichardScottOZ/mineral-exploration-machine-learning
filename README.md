@@ -1053,6 +1053,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [geoapps](https://geoapps.readthedocs.io/en/stable/) -> notebook based applications for geophysics via geoh5py
   * [geoh5vista](https://github.com/derek-kinakin/geoh5vista)
   * [gams](https://github.com/eroots/gams) -> magnetic data analysis
+  * [paper](https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019) - A Framework for Mineral Geoscience Data and Model Portability - geoh5
+
 * [Rayshader](https://github.com/tylermorganwall/rayshader)
 * [Vdeo](https://github.com/marcomusy/vedo)
     
@@ -1790,6 +1792,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/339096362_Application_of_nonconventional_mineral_exploration_techniques_case_studies
 - https://www.researchgate.net/publication/325702993_Assessment_of_Geochemical_Anomaly_Uncertainty_Through_Geostatistical_Simulation_and_Singularity_Analysis
 - https://www.researchgate.net/publication/368586826_Bagging-based_Positive-Unlabeled_Data_Learning_Algorithm_with_Base_Learners_Random_Forest_and_XGBoost_for_3D_Exploration_Targeting_in_the_Kalatongke_District_Xinjiang_China
+- https://link.springer.com/article/10.1007/s11004-024-10153-6 -> Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region [UNSEEN]
 - https://www.sciencedirect.com/science/article/pii/S0169136824001409 -> CNN-Transformers for mineral prospectivity mapping in the Maodeng–Baiyinchagan area, Southern Great Xing'an Range
 - https://www.researchgate.net/publication/347079505_Convolutional_neural_network_and_transfer_learning_based_mineral_prospectivity_modeling_for_geochemical_exploration_of_Au_mineralization_within_the_Guandian-Zhangbaling_area_Anhui_Province_China
 - https://www.researchgate.net/publication/352703015_Data-driven_based_logistic_function_and_prediction-area_plot_for_mineral_prospectivity_mapping_a_case_study_from_the_eastern_margin_of_Qinling_orogenic_belt_central_China
@@ -2000,7 +2003,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Zimbabwe
 - https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
 
-## GENRAL PAPERS
+## GENERAL PAPERS
  
 ### Overviews
 - https://www.sciencedirect.com/science/article/pii/S2772883824000347 -> A review on the applications of airborne geophysical and remote sensing datasets in epithermal gold mineralisation mapping
@@ -2014,6 +2017,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### ESG
 - https://www.escubed.org/journals/earth-science-systems-and-society/articles/10.3389/esss.2024.10109/full -> Geospatial Data and Deep Learning Expose ESG Risks to Critical Raw Materials Supply: The Case of Lithium
 ### Geochemistry
+Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region
 - https://www.researchgate.net/publication/378150628_A_SMOTified_extreme_learning_machine_for_identifying_mineralization_anomalies_from_geochemical_exploration_data_a_case_study_from_the_Yeniugou_area_Xinjiang_China A SMOTified extreme learning machine for identifying mineralization anomalies from geochemical exploration data
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/375509344_Alteration_assemblage_characterization_using_machine_learning_applied_to_high_resolution_drill-core_images_hyperspectral_data_and_geochemistry
@@ -2494,7 +2498,6 @@ The below are a collection of works from when I was doing a review
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
 
 # General-Interest
-- https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2024019 - A Framework for Mineral Geoscience Data and Model Portability - geoh5
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
