@@ -42,11 +42,14 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
   * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
   * [paper](https://arxiv.org/abs/2406.15658)
+* [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
+## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
+* [geodl](https://github.com/maxwell-geospatial/geodl) -> semantic segmentation of geospatial data using convolutional neural network-based deep learning
  * [paper](https://arxiv.org/html/2404.06978v1)
-## Pipelines
-* [geotargts](https://github.com/RichardScottOZ/geotargets ) -> Extension of targts to terra and stars
+### Pipelines
+* [geotargts](https://github.com/RichardScottOZ/geotargets) -> Extension of targ3ts to terra and stars
 
 
 # Prospectivity
@@ -2105,7 +2108,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/344397798_TEMDnet_A_Novel_Deep_Denoising_Network_for_Transient_Electromagnetic_Signal_With_Signal-to-Image_Transformation
 - https://www.researchgate.net/publication/366391168_Two-dimensional_fast_imaging_of_airborne_EM_data_based_on_U-net
 #### Gravity
-- https://ieeexplore.ieee.org/abstract/document/10597585 -> 3D Basement Relief and Density Inversion Based on EfficientNetV2 Deep Learning Network
+- https://ieeexplore.ieee.org/abstract/document/10597585 -> 3D Basement Relief and Density Inversion Based on EfficientNetV2 Deep Learning Network [UNSEEN]
 - https://link.springer.com/article/10.1007/s11770-024-1096-5 -> 3D gravity inversion using cycle-consistent generative adversarial network [UNSEEN]
 - https://www.researchgate.net/publication/365142017_3D_gravity_inversion_based_on_deep_learning
 - https://www.researchgate.net/publication/378930477_A_Deep_Learning_Gravity_Inversion_Method_Based_on_a_Self-Constrained_Network_and_Its_Application
