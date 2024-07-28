@@ -2005,8 +2005,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Overviews
 - https://www.sciencedirect.com/science/article/pii/S2772883824000347 -> A review on the applications of airborne geophysical and remote sensing datasets in epithermal gold mineralisation mapping
 - https://www.researchgate.net/publication/353530416_A_Systematic_Review_on_the_Application_of_Machine_Learning_in_Exploiting_Mineralogical_Data_in_Mining_and_Mineral_Industry 
-- https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 - https://www.researchgate.net/publication/365777421_Computer_Vision_and_Pattern_Recognition_for_the_Analysis_of_2D3D_Remote_Sensing_Data_in_Geoscience_A_Survey - Computer Vision and Pattern Recognition for the Analysis of 2D/3D Remote Sensing Data in Geoscience: A Survey
+- https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
+- https://www.proquest.com/openview/e7bec6c8ee50183b5049516b000d4f5c/1?pq-origsite=gscholar&cbl=18750&diss=y -> Probabilistic Knowledge-Guided Machine Learning in Engineering and Geoscience Systems 
+ - [KGMLPrescribedFires](https://github.com/sharm636/KGMLPrescribedFires) repository for one paper / part of above
 ### Deposits
 - https://pubs.er.usgs.gov/publication/ofr20211049 -> Deposit Classification Scheme for the Critical Minerals Mapping Initiative Global Geochemical Database
 ### ESG
@@ -2148,6 +2150,7 @@ High-precision downward continuation of the potential field based on the D-Unet 
 - https://www.nature.com/articles/s41598-019-50381-z -> High-resolution seismic tomography of Long Beach, CA using machine learning
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
+- https://ojs.uni-miskolc.hu/index.php/geosciences/article/view/3313 -> EDGE DETECTION OF TOMOGRAPHIC IMAGES USING TRADITIONAL AND DEEP LEARNING TOOLS
 #### Surface Resistivity
 - https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
 
