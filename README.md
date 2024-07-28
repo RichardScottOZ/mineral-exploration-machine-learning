@@ -1995,6 +1995,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Zimbabwe
 - https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
 
+## GENRAL PAPERS
  
 ### Overviews
 - https://www.sciencedirect.com/science/article/pii/S2772883824000347 -> A review on the applications of airborne geophysical and remote sensing datasets in epithermal gold mineralisation mapping
@@ -2062,6 +2063,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 #### Lithology
 - https://link.springer.com/article/10.1007/s11053-024-10375-9 - SsL-VGMM: A Semisupervised Machine Learning Model of Multisource Data Fusion for Lithology Prediction [UNSEEN]
+- https://www.researchgate.net/publication/380719080_An_integrated_machine_learning_framework_with_uncertainty_quantification_for_three-dimensional_lithological_modeling_from_multi-source_geophysical_data_and_drilling_data
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 #### Stratigraphy
