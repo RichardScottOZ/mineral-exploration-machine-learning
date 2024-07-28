@@ -1361,6 +1361,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
 * [GLIM](https://doi.pangaea.de/10.1594/PANGAEA.788537) -> Global lithology map
+* [World Stress Map](https://www.world-stress-map.org/) -> Global compilation of information on the crustal present-day stress field
 ### Geophysics
 #### Gravity
 * [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
