@@ -2008,7 +2008,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/365777421_Computer_Vision_and_Pattern_Recognition_for_the_Analysis_of_2D3D_Remote_Sensing_Data_in_Geoscience_A_Survey - Computer Vision and Pattern Recognition for the Analysis of 2D/3D Remote Sensing Data in Geoscience: A Survey
 - https://www.researchgate.net/publication/352104303_Deep_Learning_for_Geophysics_Current_and_Future_Trends
 - https://www.proquest.com/openview/e7bec6c8ee50183b5049516b000d4f5c/1?pq-origsite=gscholar&cbl=18750&diss=y -> Probabilistic Knowledge-Guided Machine Learning in Engineering and Geoscience Systems 
- - [KGMLPrescribedFires](https://github.com/sharm636/KGMLPrescribedFires) repository for one paper / part of above
+ - [KGMLPrescribedFires](https://github.com/sharm636/KGMLPrescribedFires) repository for one paper / part of above dissertation
 ### Deposits
 - https://pubs.er.usgs.gov/publication/ofr20211049 -> Deposit Classification Scheme for the Critical Minerals Mapping Initiative Global Geochemical Database
 ### ESG
