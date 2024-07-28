@@ -1358,9 +1358,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## World
 ### Geology
 * [Bedrock](https://osdp-psdo.canada.ca/dp/en/search/metadata/NRCAN-GEOSCAN-1-2237677) -> Generalised geology of the world
-* [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
-* [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
 * [GLIM](https://doi.pangaea.de/10.1594/PANGAEA.788537) -> Global lithology map
+* [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
+* [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [World Stress Map](https://www.world-stress-map.org/) -> Global compilation of information on the crustal present-day stress field
 ### Geophysics
 #### Gravity
@@ -2099,6 +2099,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 - https://www.researchgate.net/publication/342153377_Fast_imaging_of_time-domain_airborne_EM_data_using_deep_learning_technology
 - https://library.seg.org/doi/10.4133/JEEG4.2.93 -> Neural Network Interpretation of High Frequency Electromagnetic Ellipticity Data Part I: Understanding the Half-Space and Layered Earth Response
 - https://arxiv.org/abs/2207.12607 -> Physics Embedded Machine Learning for Electromagnetic Data Imaging
+- https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae244/7713480 -> Physics-guided deep learning-based inversion for airborne electromagnetic data
 - https://www.researchgate.net/publication/359441000_Surface_parameters_and_bedrock_properties_covary_across_a_mountainous_watershed_Insights_from_machine_learning_and_geophysics
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
 - https://www.researchgate.net/publication/344397798_TEMDnet_A_Novel_Deep_Denoising_Network_for_Transient_Electromagnetic_Signal_With_Signal-to-Image_Transformation
