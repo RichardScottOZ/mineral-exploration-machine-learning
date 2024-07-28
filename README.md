@@ -2087,6 +2087,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utili
 #### EM
 - https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
+- https://www.researchgate.net/profile/Yunhe-Liu/publication/382196526_An_Efficient_Bayesian_Inference_for_Geo-electromagnetic_Data_Inversion_based_on_Surrogate_Modeling_with_Adaptive_Sampling_DNN
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
 - https://www.researchgate.net/publication/373836226_An_information_theoretic_Bayesian_uncertainty_analysis_of_AEM_systems_over_Menindee_Lake_Australia -> An information theoretic Bayesian uncertainty analysis of AEM systems over Menindee Lake, Australia
