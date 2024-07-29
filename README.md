@@ -2059,6 +2059,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/280038632_Estimating_the_fill_thickness_and_bedrock_topography_in_intermontane_valleys_using_artificial_neural_networks_-_Supporting_Information 
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
 - https://www.researchgate.net/publication/379813337_Contribution_to_advancing_aquifer_geometric_mapping_using_machine_learning_and_deep_learning_techniques_a_case_study_of_the_AL_Haouz-Mejjate_aquifer_Marrakech_Morocco
+- https://www.linkedin.com/pulse/depth-basement-modelling-machine-learning-perspective-n5gyc/?trackingId=qFSktvVPUiSa2V2nlmXVoQ%3D%3D
 #### Drill Core
 - https://pubmed.ncbi.nlm.nih.gov/35776744/ - Deep learning based lithology classification of drill core images
 - https://www.researchgate.net/publication/381445417_Machine_Learning_for_Lithology_Analysis_using_a_Multi-Modal_Approach_of_Integrating_XRF_and_XCT_data 
@@ -2076,7 +2077,9 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/370175012_GeoPDNN_A_Semisupervised_Deep_Learning_Neural_Network_Using_Pseudolabels_for_Three-dimensional_Urban_Geological_Modelling_and_Uncertainty_Analysis_from_Borehole_Data
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.sciencedirect.com/science/article/pii/S0169136824000921 -> Machine learning-based field geological mapping: A new exploration of geological survey data acquisition strategy https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
-https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utilizing Random Forest algorithm for identifying mafic and ultramafic rocks in the Gameleira Suite, Archean-Paleoproterozoic basement of the Brasília Belt, Brazil
+- https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utilizing Random Forest algorithm for identifying mafic and ultramafic rocks in the Gameleira Suite, Archean-Paleoproterozoic basement of the Brasília Belt, Brazil
+- https://arxiv.org/pdf/2407.18100 -> DINOv2 Rocks Geological Image Analysis: Classification,
+
 #### Geochronology
 - https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
 #### Geomorphology
@@ -2513,5 +2516,4 @@ The below are a collection of works from when I was doing a review
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia- https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
-- Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
-- Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
+- https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
