@@ -1681,6 +1681,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/352251078_Data_Analysis_Methods_for_Prospectivity_Modelling_as_applied_to_Mineral_Exploration_Targeting_State-of-the-Art_and_Outlook
 - https://www.researchgate.net/publication/267927728_Data-Driven_Evidential_Belief_Modeling_of_Mineral_Potential_Using_Few_Prospects_and_Evidence_with_Missing_Values
 - https://www.linkedin.com/pulse/deep-learning-meets-downward-continuation-caldera-analytics/?trackingId=Ybkv3ukNI7ygH3irCHZdGw%3D%3D
+- https://www.researchgate.net/publication/382560010_DINOv2_Rocks_Geological_Image_Analysis_Classification_Segmentation_and_Interpretability
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
 - https://link.springer.com/article/10.1007/s11430-024-1309-9 -> Explainable artificial intelligence models for mineral prospectivity mapping
 - https://www.researchgate.net/publication/229792860_From_Predictive_Mapping_of_Mineral_Prospectivity_to_Quantitative_Estimation_of_Number_of_Undiscovered_Prospects
