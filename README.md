@@ -146,6 +146,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Structural
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
+* [Assessing plate reconstruction models using plate driving force consistency tests](https://zenodo.org/records/7904975) -> Jupyter notebook and data
+ [paper](https://www.nature.com/articles/s41598-023-37117-w)
 * [gplately](https://github.com/GPlates/gplately)
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
@@ -2104,8 +2106,6 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
 - https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
-
-#Assessing plate reconstruction models using plate driving force consistency tests
 
 ### Geophysics
 #### Foundation
