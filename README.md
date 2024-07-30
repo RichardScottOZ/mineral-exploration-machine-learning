@@ -2103,6 +2103,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 #### Tectonics
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
+- https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
 
 #Assessing plate reconstruction models using plate driving force consistency tests
 
