@@ -230,6 +230,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [DAN-GRF](https://github.com/Saeid1986/DAN-GRF) -> Deep autoencoder network connected to geographical random forest for spatially aware geochemical anomaly detection
  * [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001407)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [Zircon fertility models](https://github.com/cicarrascog/Zircon_fertility_models) -> Decision trees to predict fertile zircon from porphyry copper deposits
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
  * [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
  * [Demo application](http://60.205.170.161:8001/)
