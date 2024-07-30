@@ -2100,6 +2100,10 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae226/7701418 -> Use of Decision Tree Ensembles for Crustal Structure Imaging from Receiver Functions
+#### Tectonics
+- https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
+
+#Assessing plate reconstruction models using plate driving force consistency tests
 
 ### Geophysics
 #### Foundation
