@@ -2048,6 +2048,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://dzkjqb.cug.edu.cn/en/article/doi/10.19509/j.cnki.dzkq.tb20220423 -> Gaussian mixture model in geochemical anomaly delineation of stream sediments: A case study of Xupu, Hunan Province [UNSEEN]
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
+- https://www.sciencedirect.com/science/article/abs/pii/S0098300424001626 -> Local phase-constrained convolutional autoencoder network for identifying multivariate geochemical anomalies
 - https://www.researchgate.net/publication/354564681_Machine_Learning_for_Identification_of_Primary_Water_Concentrations_in_Mantle_Pyroxene
 - https://www.researchgate.net/publication/366210211_Machine_Learning_Prediction_of_Ore_Deposit_Genetic_Type_Using_Magnetite_Geochemistry 
 - https://link.springer.com/article/10.1007/s42461-024-01013-2 -> NIR-Spectroscopy and Machine Learning Models to Pre-concentrate Copper Hosted Within Sedimentary Rocks[UNSEEN]
