@@ -49,7 +49,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [geodl](https://github.com/maxwell-geospatial/geodl) -> semantic segmentation of geospatial data using convolutional neural network-based deep learning
  * [paper](https://arxiv.org/html/2404.06978v1)
 ### Pipelines
-* [geotargts](https://github.com/RichardScottOZ/geotargets) -> Extension of targ3ts to terra and stars
+* [geotargts](https://github.com/RichardScottOZ/geotargets) -> Extension of targets to terra and stars
 
 
 # Prospectivity
