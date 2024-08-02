@@ -247,7 +247,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
 * [Prospectivity mapping of rare earth elements through geochemical data analysis](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) -> Prospectivity mapping of rare earth elements through geochemical data analysis
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
-* [Secular Changes in the Occurrence of Subduction During the Archean] https://zenodo.org/records/10418615 -> Zenodo code archive
+* [Secular Changes in the Occurrence of Subduction During the Archean](https://zenodo.org/records/10418615) -> Zenodo code archive
 	* [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_ArcheanA machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
  
 # Kriging
