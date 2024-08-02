@@ -41,7 +41,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
   * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
-  * [paper](https://arxiv.org/abs/2406.15658)
+	* [paper](https://arxiv.org/abs/2406.15658)
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 ## R
@@ -68,7 +68,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 ### South Australia
 * [Gawler_MPM](https://github.com/e-farahbakhsh/Gawler_MPM) -> Cobalt, Chromium, Nickel
- * [Paper](https://www.researchgate.net/publication/373954003_Critical_mineral_prospectivity_mapping_on_the_Gawler_craton_using_a_new_machine_learning_framework)
+	* [Paper](https://www.researchgate.net/publication/373954003_Critical_mineral_prospectivity_mapping_on_the_Gawler_craton_using_a_new_machine_learning_framework)
 #### Explore SA - South Australian Department of Energy and Mining Competition
 * [Winners](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/abba4f54-b6ef-4fe4-b951-57f11299d490) -> SARIG data information
 * [Caldera](https://github.com/mrodda117/CalderaPublic) -> Caldera Analytics analysis
@@ -83,7 +83,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mineral Prospectivity Mapping](https://github.com/Eliasmgprado/MineralProspectivityMapping)
 * [3D Weights of Evidence](https://github.com/e-farahbakhsh/3DWofE)
 * [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE) -> includes fractal analysis
-  * [Paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
+	* [paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 * [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
 ## China
 * [MPM by ensemble learning](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
@@ -95,12 +95,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
- * [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
+	* [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
 * [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
- * [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
+	* [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
 * [DL-RMD](https://github.com/rizwanasif/DL-RMD) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
@@ -112,9 +112,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
- * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
+	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 * [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
- * [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
+	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
 * [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
  * [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
 ## Training Data
@@ -128,10 +128,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [SA Geology Lithology Predictions](https://github.com/RADutchie/SA-geology-litho-predictions)
 * [Automated Well Log Correlation](https://github.com/dudley-fitzgerald/AutomatedWellLogCorrelation)
 * [dawson-facies-2022](https://github.com/johnlab-research/dawson-facies-2022) -> Transfer learning for geological images
- * [Paper](https://www.sciencedirect.com/science/article/pii/S0098300422002333) - > Impact of dataset size and convolutional neural network architecture on transfer learning for carbonate rock classification
+	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300422002333) - > Impact of dataset size and convolutional neural network architecture on transfer learning for carbonate rock classification
 * [Litho-Classification](https://github.com/luthfigeo/Litho-Classification) -> Volcanic facies Classification using Random Forest
 * [SedNet](https://github.com/MudRocw1/SedNet_explainable-deep-learning-network)
- * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
+	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
 
 ## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
