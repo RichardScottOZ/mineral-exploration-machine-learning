@@ -47,7 +47,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
 * [geodl](https://github.com/maxwell-geospatial/geodl) -> semantic segmentation of geospatial data using convolutional neural network-based deep learning
- * [paper](https://arxiv.org/html/2404.06978v1)
+	* [paper](https://arxiv.org/html/2404.06978v1)
 ### Pipelines
 * [geotargts](https://github.com/RichardScottOZ/geotargets) -> Extension of targets to terra and stars
 
@@ -61,7 +61,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
   * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 * [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
- * [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
+	* [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
  * [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
 * [MPM-WofE](https://github.com/GeoscienceAustralia/MPM-WofE) -> Mineral Potential Mapping - Weights of Evidence
 ## Explorer Challenge
@@ -90,7 +90,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mineral Prospectivity Prediction Convolutional Neural Networks](https://github.com/yangna815/Mineral-Prospectivity-Prediction-Convolutional-Neural-Networks) -> CNN Example with a few architectures [a paper by this author uses GoogleNet]
 * [Mineral Prospectivity Prediction by CSAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CSAE)
 * [Mineral Prospectivity Prediction by CAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CAE)
-  * [Paper](https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data)
+ 	* [paper](https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data)
 ## Sudan
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 ## Norway
@@ -104,10 +104,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [DL-RMD](https://github.com/rizwanasif/DL-RMD) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
- * [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
+	* [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
- * [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
+	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
@@ -116,7 +116,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
 	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
 * [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
- * [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
+	* [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
 ## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
