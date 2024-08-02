@@ -443,6 +443,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ### Self Organising Maps
 * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
+### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
   * [kmedoids](https://github.com/kno10/python-kmedoids)
