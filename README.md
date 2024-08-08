@@ -1,3 +1,4 @@
+
 # mineral-exploration-machine-learning
 This page lists resources for mineral exploration and machine learning, generally with useful code and examples. 
 ML and Data Science is a huge field, these are resources I have found useful and/or interesting to me in practice.
@@ -2530,3 +2531,4 @@ The below are a collection of works from when I was doing a review
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia- https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
 - https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
+- https://www.sciencedirect.com/science/article/abs/pii/S0098300424000839#sec6 -> Leveraging automated deep learning (AutoDL) in geosciences
