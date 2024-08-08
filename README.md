@@ -363,6 +363,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
  * [openEO](https://github.com/Open-EO) -> openEO develops an open API to connect R, Python, JavaScript and other clients to EO cloud back-ends
  
 ## Spectral Unmixing
+* [Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024](https://github.com/mahmad00/Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024)
+	* [paper](https://arxiv.org/abs/2404.14955)
 * [Hyperspectral Deep Learning Review](https://github.com/mhaut/hyperspectral_deeplearning_review)
 * [Hyperspectral Autoencoders](https://github.com/RichardScottOZ/hyperspectral-autoencoders)
 * [Deeplearn HSI](https://github.com/hantek/deeplearn_hsi)
