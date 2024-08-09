@@ -2099,6 +2099,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 #### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 #### Lithology
+- https://www.nature.com/articles/s41598-024-66199-3 -> Machine learning and remote sensing-based lithological mapping of the Duwi Shear-Belt area, Central Eastern Desert, Egypt
 - https://link.springer.com/article/10.1007/s11053-024-10375-9 - SsL-VGMM: A Semisupervised Machine Learning Model of Multisource Data Fusion for Lithology Prediction [UNSEEN]
 - https://www.researchgate.net/publication/380719080_An_integrated_machine_learning_framework_with_uncertainty_quantification_for_three-dimensional_lithological_modeling_from_multi-source_geophysical_data_and_drilling_data
 #### Mineralogy
