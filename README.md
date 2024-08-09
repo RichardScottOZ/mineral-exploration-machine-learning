@@ -2136,6 +2136,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
 - https://www.researchgate.net/profile/Yunhe-Liu/publication/382196526_An_Efficient_Bayesian_Inference_for_Geo-electromagnetic_Data_Inversion_based_on_Surrogate_Modeling_with_Adaptive_Sampling_DNN
 - https://www.researchgate.net/publication/325980016_Agglomerative_hierarchical_clustering_of_airborne_electromagnetic_data_for_multi-scale_geological_studies
+- https://www.earthdoc.org/content/papers/10.3997/2214-4609.202410980 -> Deep Learning Assisted 2-D Current Density Modelling of Very Low Frequency Electromagnetic Data
 - https://npg.copernicus.org/articles/26/13/2019/ -> Denoising stacked autoencoders for transient electromagnetic signal denoising
 - https://www.researchgate.net/publication/373836226_An_information_theoretic_Bayesian_uncertainty_analysis_of_AEM_systems_over_Menindee_Lake_Australia -> An information theoretic Bayesian uncertainty analysis of AEM systems over Menindee Lake, Australia
 - https://www.researchgate.net/publication/348850484_Effect_of_Data_Normalization_on_Neural_Networks_for_the_Forward_Modelling_of_Transient_Electromagnetic_Data
