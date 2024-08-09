@@ -2533,6 +2533,9 @@ The below are a collection of works from when I was doing a review
 - https://ieeexplore.ieee.org/abstract/document/10544642 -> Assessing named entity recognition efficacy using diverse geoscience datasets [UNSEEN]
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
 
+### LLM
+- https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
+
 # General-Interest
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
