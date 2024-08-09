@@ -1872,6 +1872,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://link.springer.com/article/10.1007/s11053-024-10387-5 - Toward Data-Driven Mineral Prospectivity Mapping from Remote Sensing Data Using Deep Forest Predictive Model
 - https://www.researchgate.net/publication/361589587_Unlabeled_Sample_Selection_for_Mineral_Prospectivity_Mapping_by_Semi-supervised_Support_Vector_Machine
 - https://www.researchgate.net/publication/343515866_Using_deep_variational_autoencoder_networks_for_recognizing_geochemical_anomalies
+- https://link.springer.com/article/10.1007/s11004-024-10151-8 -> Using Three-dimensional Modeling and Random Forests to Predict Deep Ore Potentials: A Case Study on Xiongcun Porphyry Copper–Gold Deposit in Tibet, China
 - https://www.researchgate.net/publication/361194407_Visual_Interpretable_Deep_Learning_Algorithm_for_Geochemical_Anomaly_Recognition
 #### Egypt
 - https://www.researchgate.net/publication/340084035_Reliability_of_using_ASTER_data_in_lithologic_mapping_and_alteration_mineral_detection_of_the_basement_complex_of_West_Berenice_Southeastern_Desert_Egypt
@@ -2168,9 +2169,9 @@ High-precision downward continuation of the potential field based on the D-Unet 
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
 - https://ieeexplore.ieee.org/abstract/document/10530937 -> A Magnetotelluric Data Denoising Method Based on Lightweight Ensemble Learning [UNSEEN]
+- https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
-- https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
 - https://www.sciencedirect.com/science/article/pii/S2214579624000510 -> Intelligent Geological Interpretation of AMT Data Based on Machine Learning
 - https://ieeexplore.ieee.org/abstract/document/10551853 -> Magnetotelluric Data Inversion Based on Deep Learning with the Self-attention Mechanism
 - https://www.researchgate.net/publication/361741409_Physics-Driven_Deep_Learning_Inversion_with_Application_to_Magnetotelluric
