@@ -45,6 +45,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://arxiv.org/abs/2406.15658)
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
+* [AIDE: Artificial Intelligence for Disentangling Extremes](https://github.com/RichardScottOZ/AIDE?tab=readme-ov-file)
+ * (https://www.researchgate.net/profile/Miguel-Angel-Fernandez-Torres/publication/381917888_The_AIDE_Toolbox_Artificial_intelligence_for_disentangling_extreme_events/links/66846648714e0b03153f38ae/The-AIDE-Toolbox-Artificial-intelligence-for-disentangling-extreme-events.pdf)
+
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
 * [geodl](https://github.com/maxwell-geospatial/geodl) -> semantic segmentation of geospatial data using convolutional neural network-based deep learning
@@ -1100,7 +1103,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
-  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely tools like colorisation, grid workflows
+  * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely handy tools like colorisation, grid workflows
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [serverless-datacube-demo](https://github.com/earth-mover/serverless-datacube-demo) -> xarray via lithops / Coiled / Modal
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
@@ -2443,7 +2446,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/336097421_Spatial-Spectral_Hyperspectral_Unmixing_Using_Multitask_Learning
 - https://www.researchgate.net/publication/312355586_Spectral-Spatial_Classification_of_Hyperspectral_Imagery_with_3D_Convolutional_Neural_Network
 - https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10719.html -> Sentinel-2 as a tool for mapping iron-bearing alteration minerals: a case study from the Iberian Pyrite Belt (Southern Spain)
-- https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/334058881_SSDC-DenseNet_A_Cost-Effective_End-to-End_Spectral-Spatial_Dual-Channel_Dense_Network_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
 - https://www.sciencedirect.com/science/article/pii/S0009281924000473 -> Geochemical characteristics and mapping of Reşadiye (Tokat-Türkiye) bentonite deposits using machine learning and sub-pixel mixture algorithms
