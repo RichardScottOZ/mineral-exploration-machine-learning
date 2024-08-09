@@ -2435,6 +2435,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/332696102_Deep_Learning_for_Classification_of_Hyperspectral_Data_A_Comparative_Review
 - https://www.researchgate.net/publication/336889271_Deep_Learning_for_Hyperspectral_Image_Classification_An_Overview
 - https://www.researchgate.net/publication/327995228_Deep_Spectral_Convolution_Network_for_Hyperspectral_Unmixing
+- https://ieeexplore.ieee.org/abstract/document/10580951 -> Exploring Hybrid Contrastive Learning and Scene-to-Label Information for Multilabel Remote Sensing Image Classification [UNSEEN]
 - https://www.researchgate.net/publication/356393038_Generalized_Unsupervised_Clustering_of_Hyperspectral_Images_of_Geological_Targets_in_the_Near_Infrared 
 - https://ieeexplore.ieee.org/abstract/document/10588073 -> Hyperspectral Image Classification Using Spatial and Spectral Features Based on Deep Learning [UNSEEN]
 - https://www.researchgate.net/publication/333301728_Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature
