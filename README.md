@@ -2075,6 +2075,8 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/369729999_Visual_Interpretation_of_Machine_Learning_Genetical_Classification_of_Apatite_from_Various_Ore_Sources
 
 ### Geology
+#### Alteration
+- https://ieeexplore.ieee.org/abstract/document/10544529 -> Remote sensing data processing using convolutional neural networks for mapping alteration zones [UNSEEN]
 #### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
  - https://eprints.utas.edu.au/32368/ - thesis paper update 
