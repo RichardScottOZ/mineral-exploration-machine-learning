@@ -540,6 +540,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Web Services
 If listed it is assumed they are generally data, if just pictures like WMS it will say so.
+
+## World
+* [Critical Minerals and Deposits](https://portal.ga.gov.au/metadata/geochemistry/inorganic-geochemistry/critical-minerals-deposits-and-geochemistry/345cfeb7-9832-4c95-9f2e-59ec20cb1d91)
 ## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
