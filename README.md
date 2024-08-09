@@ -2428,6 +2428,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/339066136_Hyperspectral_Unmixing_Using_Deep_Convolutional_Autoencoders_in_a_Supervised_Scenario
 - https://www.researchgate.net/publication/335878933_LITHOLOGICAL_CLASSIFICATION_USING_MULTI-SENSOR_DATA_AND_CONVOLUTIONAL_NEURAL_NETWORKS
 - https://www.researchgate.net/publication/331794887_Nonlinear_Unmixing_of_Hyperspectral_Data_via_Deep_Autoencoder_Networks
+- https://ieeexplore.ieee.org/abstract/document/10534107 -> ReSC-net: Hyperspectral Image Classification Based on Attention-Enhanced Residual Module and Spatial-Channel Attention
 - https://www.researchgate.net/publication/340961027_Recent_Advances_in_Hyperspectral_Unmixing_Using_Sparse_Techniques_and_Deep_Learning
 - https://www.researchgate.net/publication/330272600_Semisupervised_Stacked_Autoencoder_With_Cotraining_for_Hyperspectral_Image_Classification
 - https://www.researchgate.net/publication/336097421_Spatial-Spectral_Hyperspectral_Unmixing_Using_Multitask_Learning
