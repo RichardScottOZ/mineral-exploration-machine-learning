@@ -1803,6 +1803,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/347344551_A_positive_and_unlabeled_learning_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/335036019_An_Autoencoder-Based_Dimensionality_Reduction_Algorithm_for_Intelligent_Clustering_of_Mineral_Deposit_Data
 - https://www.researchgate.net/publication/363696083_An_Integrated_Framework_for_Data-Driven_Mineral_Prospectivity_Mapping_Using_Bagging-Based_Positive_Unlabeled_Learning_and_Bayesian_Cost-Sensitive_Logistic_Regression
+- https://link.springer.com/article/10.1007/s11053-024-10349-x -> An Uncertainty-Quantification Machine Learning Framework for Data-Driven Three-Dimensional Mineral Prospectivity Mapping
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/332751556_Application_of_hierarchical_clustering_singularity_mapping_and_Kohonen_neural_network_to_identify_Ag-Au-Pb-Zn_polymetallic_mineralization_associated_geochemical_anomaly_in_Pangxidong_district
 - https://www.researchgate.net/publication/339096362_Application_of_nonconventional_mineral_exploration_techniques_case_studies
@@ -2166,6 +2167,7 @@ High-precision downward continuation of the potential field based on the D-Unet 
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
+- https://ieeexplore.ieee.org/abstract/document/10530937 -> A Magnetotelluric Data Denoising Method Based on Lightweight Ensemble Learning [UNSEEN]
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
