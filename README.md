@@ -2073,6 +2073,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 #### Depth
 - https://www.researchgate.net/publication/332263305_A_speedy_update_on_machine_learning_applied_to_bedrock_mapping_using_geochemistry_or_geophysics_examples_from_the_Pacific_Rim_and_nearby
  - https://eprints.utas.edu.au/32368/ - thesis paper update 
+- https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1407173/full -> Deep learning for geological mapping in the overburden area
 - https://www.researchgate.net/publication/280038632_Estimating_the_fill_thickness_and_bedrock_topography_in_intermontane_valleys_using_artificial_neural_networks_-_Supporting_Information 
 - https://www.researchgate.net/publication/311783770_Mapping_the_global_depth_to_bedrock_for_land_surface_modeling
 - https://www.researchgate.net/publication/379813337_Contribution_to_advancing_aquifer_geometric_mapping_using_machine_learning_and_deep_learning_techniques_a_case_study_of_the_AL_Haouz-Mejjate_aquifer_Marrakech_Morocco
