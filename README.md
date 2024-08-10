@@ -2271,6 +2271,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
 - https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
 - https://www.researchgate.net/publication/356722687_Machine_learning-based_prediction_of_trace_element_concentrations_using_data_from_the_Karoo_large_igneous_province_and_its_application_in_prospectivity_mapping#fullTextFileContent
+- https://www.degruyter.com/document/doi/10.2138/am-2023-9115/html -> Machine learning applied to apatite compositions for determining mineralization potential
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
