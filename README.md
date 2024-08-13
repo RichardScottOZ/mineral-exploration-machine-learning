@@ -58,6 +58,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 # Prospectivity
 ## Australia
+* [Iron oxide copper-gold mineral potential maps](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149222)
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
 * [Prospectivity Mapping of Ni-Co Laterites](https://github.com/EarthByte/Lachlan_Laterite_Ni_Co)
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
