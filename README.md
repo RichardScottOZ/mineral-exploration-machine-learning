@@ -1439,6 +1439,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963
 * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/32368) -> Hydrogeology Map of Australia
  * [Hydrogeology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/15629) -> 5M
+* [Layered Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149179) -> 1M 
 * [Surface Geology](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/74855) -> 1M Scale
 * [The Australian Mafic-Ultramafic Magmatic Events GIS Dataset](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82166)
 ### Geophysics
@@ -2271,14 +2272,13 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
 - https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
 - https://www.researchgate.net/publication/356722687_Machine_learning-based_prediction_of_trace_element_concentrations_using_data_from_the_Karoo_large_igneous_province_and_its_application_in_prospectivity_mapping#fullTextFileContent
-- https://www.degruyter.com/document/doi/10.2138/am-2023-9115/html -> Machine learning applied to apatite compositions for determining mineralization potential
+- https://www.degruyter.com/document/doi/10.2138/am-2023-9115/html -> Machine learning applied to apatite compositions for determining mineralization potential [UNSEEN]
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
 - https://www.researchgate.net/publication/349606557_Robust_Feature_Extraction_for_Geochemical_Anomaly_Recognition_Using_a_Stacked_Convolutional_Denoising_Autoencoder [UNSEEN]
 - https://www.researchgate.net/publication/375911531_Spatial_Interpolation_Using_Machine_Learning_From_Patterns_and_Regularities_to_Block_Models#fullTextFileContent
-- https://www.researchgate.net/publication/
-259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
+- https://www.researchgate.net/publication/259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
 - https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
 - https://www.researchgate.net/publication/249544991_Usefulness_of_stream_order_to_detect_stream_sediment_geochemical_anomalies
 - https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
