@@ -1725,6 +1725,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
 
 - https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems
+- https://link.springer.com/article/10.1007/s11053-024-10322-8 -> Workflow-Induced Uncertainty in Data-Driven Mineral Prospectivity Mapping
 
 
 ### Mineral Prospectivity
