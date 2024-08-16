@@ -42,7 +42,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
   * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
-	* [paper](https://arxiv.org/abs/2406.15658)
+	* [paper](https://arxiv.org/abs/2406.15658)la
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [AIDE: Artificial Intelligence for Disentangling Extremes](https://github.com/RichardScottOZ/AIDE?tab=readme-ov-file)
@@ -2000,6 +2000,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/354000754_Mineral_Prospectivity_Mapping_for_Forecasting_Gold_Deposits_in_the_Central_Kolyma_Region_North-East_Russia
 #### South Africa
 - https://www.researchgate.net/publication/359294267_Data-driven_multi-index_overlay_gold_prospectivity_mapping_using_geophysical_and_remote_sensing_datasets
+- https://link.springer.com/article/10.1007/s11053-024-10390-w -> Mineral Reconnaissance Through Scientific Consensus: First National Prospectivity Maps for PGE–Ni–Cu–Cr and Witwatersrand-type Au Deposits in South Africa
 - https://www.researchgate.net/publication/361526053_Mineral_prospectivity_mapping_of_gold-base_metal_mineralisation_in_the_Sabie-Pilgrim%27s_Rest_area_Mpumalanga_Province_South_Africa
 - https://www.researchgate.net/publication/264296137_PREDICTIVE_BEDROCK_AND_MINERAL_PROSPECTIVITY_MAPPING_IN_THE_GIYANI_GREENSTONE_BELT_SOUTH_AFRICA
 - https://www.researchgate.net/publication/268196204_Predictive_mapping_of_prospectivity_for_orogenic_gold_Giyani_greenstone_belt_South_Africa
