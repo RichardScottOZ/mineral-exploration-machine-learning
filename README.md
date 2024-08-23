@@ -1846,6 +1846,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/329299202_Integrating_sequential_indicator_simulation_and_singularity_analysis_to_analyze_uncertainty_of_geochemical_anomaly_for_exploration_targeting_of_tungsten_polymetallic_mineralization_Nanling_belt_South_
 - https://www.sciencedirect.com/science/article/abs/pii/S0883292724001987 -> Integrating soil geochemistry and machine learning for enhanced mineral exploration at the dayu gold deposit, south China block
 - https://www.mdpi.com/2071-1050/15/13/10269 -> Intelligent Identification and Prediction Mineral Resources Deposit Based on Deep Learning
+- https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging
 - https://www.researchgate.net/publication/358555996_Learning_3D_mineral_prospectivity_from_3D_geological_models_using_convolutional_neural_networks_Application_to_a_structure-controlled_hydrothermal_gold_deposit
 - https://www.researchgate.net/publication/352476625_Machine_Learning-Based_3D_Modeling_of_Mineral_Prospectivity_Mapping_in_the_Anqing_Orefield_Eastern_China
 - https://www.researchgate.net/publication/331575655_Mapping_Geochemical_Anomalies_Through_Integrating_Random_Forest_and_Metric_Learning_Methods
