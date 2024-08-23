@@ -1712,6 +1712,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
 - https://www.researchgate.net/publication/335819474_Importance_of_spatial_predictor_variable_selection_in_machine_learning_applications_-Moving_from_data_reproduction_to_spatial_prediction
 - https://www.researchgate.net/publication/337003268_Improved_supervised_classification_of_bedrock_in_areas_of_transported_overburden_Applying_domain_expertise_at_Kerkasha_Eritrea - Gazley/Hood
+- https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems
 - https://api.research-repository.uwa.edu.au/portalfiles/portal/5263287/Lysytsyn_Volodymyr_2015.pdf (PhD thesis) GIS-based epithermal copper prospectivity mapping of the Mt Isa Inlier, Australia: Implications for exploration targeting
 - https://www.researchgate.net/publication/374972769_Knowledge_and_technology_transfer_in_and_beyond_mineral_exploration -> Knowledge and technology transfer in and beyond mineral exploration
 - https://www.researchgate.net/publication/331946100_Machine_learning_for_data-driven_discovery_in_solid_Earth_geoscience
@@ -1724,7 +1725,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
 
-- https://www.researchgate.net/publication/360660467_Lithospheric_conductors_reveal_source_regions_of_convergent_margin_mineral_systems
 - https://link.springer.com/article/10.1007/s11053-024-10322-8 -> Workflow-Induced Uncertainty in Data-Driven Mineral Prospectivity Mapping
 
 
@@ -2065,6 +2065,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
 - https://www.researchgate.net/publication/381369176_Effectiveness_of_LOF_iForest_and_OCSVM_in_detecting_anomalies_in_stream_sediment_geochemical_data#:~:text=LOF%20outperformed%20iForest%20and%20OCSVM,patterns%20in%20the%20iForest%20map 
 - https://dzkjqb.cug.edu.cn/en/article/doi/10.19509/j.cnki.dzkq.tb20220423 -> Gaussian mixture model in geochemical anomaly delineation of stream sediments: A case study of Xupu, Hunan Province [UNSEEN]
+- https://www.sciencedirect.com/science/article/pii/S0883292724002427 -> Geologically constrained unsupervised dual-branch deep learning algorithm for geochemical anomalies identification
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300424001626 -> Local phase-constrained convolutional autoencoder network for identifying multivariate geochemical anomalies
