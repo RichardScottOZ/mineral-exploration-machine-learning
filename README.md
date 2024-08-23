@@ -2128,6 +2128,7 @@ Morocco
 - https://www.researchgate.net/publication/346641320_Classifying_basin-scale_stratigraphic_geometries_from_subsurface_formation_tops_with_machine_learning
 #### Structure
 - https://www.sciencedirect.com/science/article/pii/S0098300421000285 -> A machine learning model for structural trend fields
+- https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13589 -> Inferring fault structures and overburden depth in 3D from geophysical data using machine learning algorithms – A case study on the Fenelon gold deposit, Quebec, Canada
 - https://www.sciencedirect.com/science/article/pii/S019181412400138X -> Mapping paleostress trajectories by means of the clustering of reduced stress tensors determined from homogeneous and heterogeneous data sets
 - https://www.researchgate.net/publication/332267249_Seismic_fault_detection_using_an_encoder-decoder_convolutional_neural_network_with_a_small_training_set 
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
