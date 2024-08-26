@@ -173,7 +173,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Geophysics
 ### Foundation Models
+* [Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation) -> some of code to come
+	* [paper](https://arxiv.org/pdf/2408.12396)
 * [Seismic Foundation Model](https://github.com/shenghanlin/SeismicFoundationModel) -> "a new generation deep learning model in geophysics"
+
 ### Australia
 #### Regolith Depth
 * [Regolith Depth](https://data.csiro.au/collection/csiro:11393v6) -> Model
