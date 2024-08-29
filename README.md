@@ -1877,6 +1877,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/379674196_Mineral_prospectivity_mapping_using_knowledge_embedding_and_explainable_ensemble_learning_A_case_study_of_the_Keeryin_ore_concentration_in_Sichuan_China
 - https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data
 - https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
+- https://www.sciencedirect.com/science/article/pii/S0169136824003172 -> New insights into the metallogenic genesis of the Xiadian Au deposit, Jiaodong Peninsula, Eastern China: Constraints from integrated rutile in-situ geochemical analysis and machine learning discrimination
 - https://www.researchgate.net/publication/332547136_Prospectivity_Mapping_for_Porphyry_Cu-Mo_Mineralization_in_the_Eastern_Tianshan_Xinjiang_Northwestern_China
 - https://www.sciencedirect.com/science/article/pii/S0169136824001823 -> Quantitative prediction methods and applications of digital ore deposit models
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
@@ -2119,11 +2120,11 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 #### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 #### Lithology
+- https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging [UNSEN]
 - https://www.nature.com/articles/s41598-024-66199-3 -> Machine learning and remote sensing-based lithological mapping of the Duwi Shear-Belt area, Central Eastern Desert, Egypt
 - https://link.springer.com/article/10.1007/s11053-024-10375-9 - SsL-VGMM: A Semisupervised Machine Learning Model of Multisource Data Fusion for Lithology Prediction [UNSEEN]
 - https://www.researchgate.net/publication/380719080_An_integrated_machine_learning_framework_with_uncertainty_quantification_for_three-dimensional_lithological_modeling_from_multi-source_geophysical_data_and_drilling_data
 - https://www.bio-conferences.org/articles/bioconf/pdf/2024/34/bioconf_rena23_01005.pdf -> Lithological Mapping using Artificial Intelligence and Remote Sensing data: A Case Study of Bab Boudir region Morocco
-- https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 #### Stratigraphy
