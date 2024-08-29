@@ -255,6 +255,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
+* [Multivariate statistical analysis and bespoke deviation network modeling for geochemical anomaly detection of rare earth elements](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE/tree/main)
+	* [paper](https://www.sciencedirect.com/science/article/pii/S0883292724002518?dgcid=coauthor)
 * [Prospectivity mapping of rare earth elements through geochemical data analysis](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) -> Prospectivity mapping of rare earth elements through geochemical data analysis
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Secular Changes in the Occurrence of Subduction During the Archean](https://zenodo.org/records/10418615) -> Zenodo code archive
@@ -2564,14 +2566,17 @@ The below are a collection of works from when I was doing a review
 - https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
 
 # General-Interest
-- https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
-- https://pure.mpg.de/rest/items/item_3029184_8/component/file_3282959/content -> Deep learning and process understanding for data-driven Earth system science
-- https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2391952 -> Deep learning for spatiotemporal forecasting in Earth system science: a review
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
+## Deep Learning
+- https://arxiv.org/abs/2408.11804 -> Approaching Deep Learning through the Spectral Dynamics of Weights
+- https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
+- https://pure.mpg.de/rest/items/item_3029184_8/component/file_3282959/content -> Deep learning and process understanding for data-driven Earth system science
+- https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2391952 -> Deep learning for spatiotemporal forecasting in Earth system science: a review
+- https://www.nature.com/articles/s41467-021-24025-8 -> Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
 - https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300424000839#sec6 -> Leveraging automated deep learning (AutoDL) in geosciences
