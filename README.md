@@ -2170,6 +2170,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://library.seg.org/doi/10.4133/JEEG4.2.93 -> Neural Network Interpretation of High Frequency Electromagnetic Ellipticity Data Part I: Understanding the Half-Space and Layered Earth Response
 - https://arxiv.org/abs/2207.12607 -> Physics Embedded Machine Learning for Electromagnetic Data Imaging
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae244/7713480 -> Physics-guided deep learning-based inversion for airborne electromagnetic data
+- https://library.seg.org/doi/abs/10.1190/geo2024-0282.1 -> Comparative Analysis of Deep Learning and Traditional Airborne Electromagnetic Data Processing: A Case Study [UNSEEN]
 - https://www.researchgate.net/publication/359441000_Surface_parameters_and_bedrock_properties_covary_across_a_mountainous_watershed_Insights_from_machine_learning_and_geophysics
 - https://www.researchgate.net/publication/337166479_Using_machine_learning_to_interpret_3D_airborne_electromagnetic_inversions
 - https://www.researchgate.net/publication/344397798_TEMDnet_A_Novel_Deep_Denoising_Network_for_Transient_Electromagnetic_Signal_With_Signal-to-Image_Transformation
