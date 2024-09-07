@@ -2224,6 +2224,8 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://ojs.uni-miskolc.hu/index.php/geosciences/article/view/3313 -> EDGE DETECTION OF TOMOGRAPHIC IMAGES USING TRADITIONAL AND DEEP LEARNING TOOLS
 #### Surface Resistivity
 - https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
+#### Uncertainty
+- https://library.seg.org/doi/abs/10.1190/GEM2024-084.1 -> Quantifying uncertainty in 3D geophysical inverse problems: Advancing from deterministic to Bayesian and deep generative models [UNSEEN]
 
 #### Geothermal
 - https://www.osti.gov/biblio/2335471 - Applications of Machine Learning Techniques to Geothermal Play Fairway Analysis in the Great Basin Region, Nevada [adjacent but interesting]
