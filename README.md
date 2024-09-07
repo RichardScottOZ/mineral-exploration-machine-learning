@@ -2191,13 +2191,15 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 #### Hyperspectral
 - https://www.researchgate.net/publication/380391736_A_review_on_hyperspectral_imagery_application_for_lithological_mapping_and_mineral_prospecting_Machine_learning_techniques_and_future_prospects 
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
+#### Joint Inversion
+- https://library.seg.org/doi/abs/10.1190/GEM2024-090.1 -> Deep joint inversion of electromagnetic, seismic, and gravity data
 ### Magnetics
 - https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
 - https://www.researchgate.net/publication/295902270_Artificial_neural_network_inversion_of_magnetic_anomalies_caused_by_2D_fault_structures
 - https://www.researchgate.net/publication/354002966_Convolutional_neural_networks_for_the_characterization_of_magnetic_anomalies
 - https://www.researchgate.net/publication/354772176_Convolution_Neural_Networks_Applied_to_the_Interpretation_of_Lineaments_in_Aeromagnetic_Data
-High-precision downward continuation of the potential field based on the D-Unet network
+- https://www.researchgate.net/publication/363550362_High-precision_downward_continuation_of_the_potential_field_based_on_the_D-Unet_network
 - https://www.sciencedirect.com/science/article/pii/S0169136822004279?via%3Dihub -> Magnetic grid resolution enhancement using machine learning: A case study from the Eastern Goldfields Superterrane
 - https://www.researchgate.net/publication/347173621_Predicting_Magnetization_Directions_Using_Convolutional_Neural_Networks -> Paywalled
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
