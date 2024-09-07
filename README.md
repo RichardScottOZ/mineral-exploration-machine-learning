@@ -2037,6 +2037,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/242339962_Predictive_mapping_for_orogenic_gold_prospectivity_in_Uganda
 - https://www.researchgate.net/publication/262566098_Predictive_Mapping_of_Prospectivity_for_Orogenic_Gold_in_Uganda
 - https://www.researchgate.net/publication/381219015_Machine_Learning_Application_in_Predictive_Mineral_Mapping_of_Southwestern_Uganda_Leveraging_Airborne_Magnetic_Radiometric_and_Electromagnetic_Data 
+
+
+#### United Kingdom
+- https://www.researchgate.net/publication/383580839_Improved_mineral_prospectivity_mapping_using_graph_neural_networks 
+
 #### USA
 - https://www.researchgate.net/publication/338663292_A_Predictive_Geospatial_Exploration_Model_for_Mississippi_Valley_Type_Pb-Zn_Mineralization_in_the_Southeast_Missouri_Lead_District
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674218300396?via%3Dihub -> Machine learning strategies for classification and prediction of alteration facies: Examples from the Rosemont Cu-Mo-Ag skarn deposit, SE Tucson Arizona
