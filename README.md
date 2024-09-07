@@ -2030,6 +2030,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/336086368_GIS-based_mineral_system_approach_for_prospectivity_mapping_of_iron-oxide_apatite-bearing_mineralisation_in_Bergslagen_Sweden
 - https://www.researchgate.net/publication/229347041_Predictive_mapping_of_prospectivity_and_quantitative_estimation_of_undiscovered_VMS_deposits_in_Skellefte_district_Sweden
 - https://www.researchgate.net/publication/260086947_PRELIMINARY_GIS-BASED_ANALYSIS_OF_REGIONAL-SCALE_VMS_PROSPECTIVITY_IN_THE_SKELLEFTE_REGION_SWEDEN
+#### Tanzania
+- https://www.sciencedirect.com/science/article/pii/S2666261224000270 -> Machine learning based prospect targeting: A case of gold occurrence in central parts of Tanzania, East Africa
 #### Uganda
 - https://www.researchgate.net/publication/242339962_Predictive_mapping_for_orogenic_gold_prospectivity_in_Uganda
 - https://www.researchgate.net/publication/262566098_Predictive_Mapping_of_Prospectivity_for_Orogenic_Gold_in_Uganda
