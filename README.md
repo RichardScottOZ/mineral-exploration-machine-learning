@@ -2200,7 +2200,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/380391736_A_review_on_hyperspectral_imagery_application_for_lithological_mapping_and_mineral_prospecting_Machine_learning_techniques_and_future_prospects 
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
 #### Joint Inversion
-- https://library.seg.org/doi/abs/10.1190/GEM2024-090.1 -> Deep joint inversion of electromagnetic, seismic, and gravity data
+- https://www.researchgate.net/publication/383454185_Deep_joint_inversion_of_electromagnetic_seismic_and_gravity_data
 ### Magnetics
 - https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
