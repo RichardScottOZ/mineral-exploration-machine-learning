@@ -493,7 +493,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
-  * [Chat Singup](https://softwareunderground.org/mattermost - SWUNG community chat signup
+  * [Chat Signup](https://softwareunderground.org/mattermost) - SWUNG community chat signup
   * [Mattermost](https://mattermost.softwareunderground.org/)- Community chat service
 	* [Old Slack Channel](https://softwareunderground.org/slack)(deprecated, see mattermost above)
   * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
