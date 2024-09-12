@@ -314,7 +314,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
 	* [paper](https://www.researchgate.net/publication/363408251_Understanding_geological_reports_based_on_knowledge_graphs_using_a_deep_learning_approach)
 * [GeoFault Ontology](https://github.com/Yuanwei-Q/GeoFault-Ontology) 
- * [geosim[(https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
+ * [geosim](https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
  * [Dissertation](Knowledge Modelling for Digital Geology] -> PhD thesis with two papers
  * [SIRIUS GeoAnnotator](http://158.37.63.37:8081/gic) -> Website example from above
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
