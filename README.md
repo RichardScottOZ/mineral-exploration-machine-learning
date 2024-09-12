@@ -1370,7 +1370,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 # Books
 ## Python
 * [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
-* [Geoprocessing with Python(https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
+* [Geoprocessing with Python](https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
 ## Other
 * [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
