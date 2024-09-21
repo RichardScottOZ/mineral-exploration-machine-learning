@@ -314,8 +314,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
 	* [paper](https://www.researchgate.net/publication/363408251_Understanding_geological_reports_based_on_knowledge_graphs_using_a_deep_learning_approach)
 * [GeoFault Ontology](https://github.com/Yuanwei-Q/GeoFault-Ontology) 
- * [geosim[(https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
- * [Dissertation](Knowledge Modelling for Digital Geology] -> PhD thesis with two papers
+ * [geosim](https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
+ * [https://www.duo.uio.no/handle/10852/111467](Knowledge Modelling for Digital Geology) -> PhD thesis with two papers
  * [SIRIUS GeoAnnotator](http://158.37.63.37:8081/gic) -> Website example from above
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
@@ -493,7 +493,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Community
 * [Software Underground](https://softwareunderground.org/) - Community of people interested in exploring the intersection of the subsurface and code
-  * [Chat Singup](https://softwareunderground.org/mattermost - SWUNG community chat signup
+  * [Chat Signup](https://softwareunderground.org/mattermost) - SWUNG community chat signup
   * [Mattermost](https://mattermost.softwareunderground.org/)- Community chat service
 	* [Old Slack Channel](https://softwareunderground.org/slack)(deprecated, see mattermost above)
   * [Geoscience Open Source Tie-In](https://github.com/RichardScottOZ/gostin)
@@ -1370,7 +1370,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 # Books
 ## Python
 * [Python geospatial analysis cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook)
-* [Geoprocessing with Python(https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
+* [Geoprocessing with Python](https://livebook.manning.com/book/geoprocessing-with-python/about-this-book/31) -> Manning livebook
 ## Other
 * [Textbook](https://github.com/rougier/scientific-visualization-book)
 * [Machine Learning in the Oil and Gas industry](https://github.com/Apress/machine-learning-oil-gas-industry)
