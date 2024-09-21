@@ -1394,6 +1394,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [World Stress Map](https://www.world-stress-map.org/) -> Global compilation of information on the crustal present-day stress field
+* [GMBA](https://www.gmba.unibe.ch/services/tools/mountain_inventory_v1/index_eng.html) -> Global mountain inventory
 ### Geophysics
 #### Gravity
 * [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
