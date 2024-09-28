@@ -2203,6 +2203,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach
 - https://www.researchgate.net/publication/370230217_Inversion_of_the_Gravity_Gradiometry_Data_by_ResUet_Network_An_Application_in_Nordkapp_Basin_Barents_Sea
 - https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.897055/full -> High-precision downward continuation of the potential field based on the D-Unet network
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10672527 -> RTM Gravity Forward Modeling Using Improved Fully Connected Deep Neural Networks
 #### Hyperspectral
 - https://www.researchgate.net/publication/380391736_A_review_on_hyperspectral_imagery_application_for_lithological_mapping_and_mineral_prospecting_Machine_learning_techniques_and_future_prospects 
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
