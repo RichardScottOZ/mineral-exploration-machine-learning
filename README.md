@@ -2209,6 +2209,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
 #### Joint Inversion
 - https://www.researchgate.net/publication/383454185_Deep_joint_inversion_of_electromagnetic_seismic_and_gravity_data
+- https://ieeexplore.ieee.org/abstract/document/10677418 -> Joint Inversion of Seismic and Resistivity Data Powered by Deep-learning
 ### Magnetics
 - https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
