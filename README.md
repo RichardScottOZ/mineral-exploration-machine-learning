@@ -2073,6 +2073,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### ESG
 - https://www.escubed.org/journals/earth-science-systems-and-society/articles/10.3389/esss.2024.10109/full -> Geospatial Data and Deep Learning Expose ESG Risks to Critical Raw Materials Supply: The Case of Lithium
 ### Geochemistry
+
 Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region
 - https://www.researchgate.net/publication/378150628_A_SMOTified_extreme_learning_machine_for_identifying_mineralization_anomalies_from_geochemical_exploration_data_a_case_study_from_the_Yeniugou_area_Xinjiang_China A SMOTified extreme learning machine for identifying mineralization anomalies from geochemical exploration data
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
@@ -2096,6 +2097,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://link.springer.com/article/10.1007/s42461-024-01013-2 -> NIR-Spectroscopy and Machine Learning Models to Pre-concentrate Copper Hosted Within Sedimentary Rocks[UNSEEN]
 - https://www.researchsquare.com/article/rs-4106957/v1 -> Multi-element geochemical anomaly recognition applying geologically-constrained convolutional deep learning algorithm with Butterworth filtering
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
+- https://link.springer.com/article/10.1007/s11004-024-10158-1 -> Spatial-Spectrum Two-Branch Model Based on a Superpixel Graph Convolutional Network and 1DCNN for Geochemical Anomaly Identification
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 #### Apatite
 - https://www.researchgate.net/publication/377892369_Apatite_trace_element_composition_as_an_indicator_of_ore_deposit_types_A_machine_learning_approachApatite trace element composition as an indicator of ore deposit types: A machine learning approach
