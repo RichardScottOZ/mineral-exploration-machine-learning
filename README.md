@@ -240,6 +240,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [DAN-GRF](https://github.com/Saeid1986/DAN-GRF) -> Deep autoencoder network connected to geographical random forest for spatially aware geochemical anomaly detection
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001407)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [Enhancing machine learning thermobarometry for clinopyroxene-bearing magmas](https://github.com/magredal/Enhancing-ML-Thermobarometry-for-Clinopyroxene-Bearing-Magmas)
+	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001900) -> Enhancing-ML-Thermobarometry-for-Clinopyroxene-Bearing-Magmas
 * [Zircon fertility models](https://github.com/cicarrascog/Zircon_fertility_models) -> Decision trees to predict fertile zircon from porphyry copper deposits
 	* [paper](https://www.researchgate.net/publication/382089226_Quantifying_the_Criteria_Used_to_Identify_Zircons_from_Ore-Bearing_and_Barren_Systems_in_Porphyry_Copper_Exploration)
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
