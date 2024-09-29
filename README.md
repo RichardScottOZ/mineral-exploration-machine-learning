@@ -1883,6 +1883,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/357584076_Mapping_prospectivity_for_regolith-hosted_REE_deposits_via_convolutional_neural_network_with_generative_adversarial_network_augmented_data
 - https://www.researchgate.net/publication/328623280_Maximum_Entropy_and_Random_Forest_Modeling_of_Mineral_Potential_Analysis_of_Gold_Prospectivity_in_the_Hezuo-Meiwu_District_West_Qinling_Orogen_China
 - https://www.sciencedirect.com/science/article/pii/S016913682400163X -> Metallogenic prediction based on fractal theory and machine learning in Duobaoshan Area, Heilongjiang Province
+- https://www.sciencedirect.com/science/article/pii/S0169136824003810 -> Mineral prospectivity mapping susceptibility evaluation based on interpretable ensemble learning
 - https://link.springer.com/article/10.1007/s11053-024-10386-6 -> Mineral Prospectivity Mapping Based on Spatial Feature Classification with Geological Map Knowledge Graph Embedding: Case Study of Gold Ore Prediction at Wulonggou, Qinghai Provinc
 - https://www.researchgate.net/publication/235443301_Mineral_potential_mapping_in_a_frontier_region
 - https://www.researchgate.net/publication/235443302_Mineral_potential_mapping_in_frontier_regions_A_Mongolian_case_study
