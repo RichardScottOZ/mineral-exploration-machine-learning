@@ -1831,6 +1831,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://link.springer.com/article/10.1007/s11053-024-10349-x -> An Uncertainty-Quantification Machine Learning Framework for Data-Driven Three-Dimensional Mineral Prospectivity Mapping
 - https://link.springer.com/article/10.1007/s11004-023-10076-8 - An Interpretable Graph Attention Network for Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/332751556_Application_of_hierarchical_clustering_singularity_mapping_and_Kohonen_neural_network_to_identify_Ag-Au-Pb-Zn_polymetallic_mineralization_associated_geochemical_anomaly_in_Pangxidong_district
+- https://www.mdpi.com/2075-163X/14/9/945 -> Application of Machine Learning to Characterize Metallogenic Potential Based on Trace Elements of Zircon: A Case Study of the Tethyan Domain
 - https://www.researchgate.net/publication/339096362_Application_of_nonconventional_mineral_exploration_techniques_case_studies
 - https://www.researchgate.net/publication/325702993_Assessment_of_Geochemical_Anomaly_Uncertainty_Through_Geostatistical_Simulation_and_Singularity_Analysis
 - https://www.researchgate.net/publication/368586826_Bagging-based_Positive-Unlabeled_Data_Learning_Algorithm_with_Base_Learners_Random_Forest_and_XGBoost_for_3D_Exploration_Targeting_in_the_Kalatongke_District_Xinjiang_China
