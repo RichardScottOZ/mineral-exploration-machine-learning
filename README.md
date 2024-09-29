@@ -80,6 +80,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [IncertoData](https://github.com/RichardScottOZ/ExploreSA/tree/master/Data_submission_competition)
 * [Butterworth and Barnett](https://github.com/RichardScottOZ/gawler-exploration) -> Butterworth and Barnett entry
 * [Data Driven Mineralisation Mapping](https://github.com/Abdallah-M-Ali/mman4020_Data_Driven_Mineralisation_Mapping/blob/main/docs/tensor.ipynb)
+
+## North America
+### Canada
+* [Transfer Prospectivity Learnnig](https://github.com/Anagabrielamantilla/TransferProspectivityLearning)
+	* [paper](https://www.sciencedirect.com/science/article/pii/S1342937X24002727)  -> Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning
+
 ## South America
 * [Machine learning to classify ore deposits from tectonomagmatic properties](https://github.com/intelligent-exploration/mineralexplorationcourse/tree/master/Week10)
 ## Brazil
@@ -1795,7 +1801,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
 - https://link.springer.com/article/10.1007/s11053-024-10369-7 -> Predictive Modeling of Canadian Carbonatite-Hosted REE +/− Nb Deposits
-- https://www.sciencedirect.com/science/article/pii/S1342937X24002727 -> Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
 - https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
 - https://www.researchgate.net/publication/220164155_Support_vector_machine_A_tool_for_mapping_mineral_prospectivity
