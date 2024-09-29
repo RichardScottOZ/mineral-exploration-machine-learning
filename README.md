@@ -453,6 +453,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://joss.theoj.org/papers/10.21105/joss.06889.pdf)
 * [geospatial-rf](https://github.com/BritishGeologicalSurvey/geospatial-rf) -> Functions and wrappers to assist with random forest applications in a spatial context
 * [Geospatial-ml](https://github.com/giswqs/geospatial-ml) -> Install multiple common packages at once
+# Latent Space
+* [Nested Fusion](https://github.com/pixlise/NestedFusion)
+	* [paper](https://github.com/pixlise/NestedFusion/blob/main/24_KDD_Nested_Fusion_paper.pdf) -> Nested Fusion: Dimensionality Reduction and Latent Structure Analysis of Multi-Scale Nested Data for M2020 PIXL RGBU and XRF Data
 ## Metrics
 * [scores](https://github.com/nci/scores) -> Verifying and evaluating models and predictions with xarray
 ## Probabilistic
