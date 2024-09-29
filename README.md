@@ -1739,9 +1739,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/220163838_Objective_selection_of_suitable_unit_cell_size_in_data-driven_modeling_of_mineral_prospectivity
 - https://www.researchgate.net/publication/273500012_Prediction-area_P-A_plot_and_C-A_fractal_analysis_to_classify_and_evaluate_evidential_maps_for_mineral_prospectivity_modeling
 - https://www.researchgate.net/publication/354925136_Soil-sample_geochemistry_normalised_by_class_membership_from_machine-learnt_clusters_of_satellite_and_geophysics_data [Gazley/Hood]
+- https://link.springer.com/article/10.1007/s12665-024-11870-1 -> Quantification of the uncertainty of geoscientific maps relying on human sensory engagement
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
-
 - https://link.springer.com/article/10.1007/s11053-024-10322-8 -> Workflow-Induced Uncertainty in Data-Driven Mineral Prospectivity Mapping
 
 
