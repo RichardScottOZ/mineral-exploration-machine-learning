@@ -2609,6 +2609,7 @@ The below are a collection of works from when I was doing a review
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://pure.mpg.de/rest/items/item_3029184_8/component/file_3282959/content -> Deep learning and process understanding for data-driven Earth system science
 - https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2391952 -> Deep learning for spatiotemporal forecasting in Earth system science: a review
+- https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/widm.1554 -> From 3D point-cloud data to explainable geometric deep learning: State-of-the-art and future challenges
 - https://www.nature.com/articles/s41467-021-24025-8 -> Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
 - https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
