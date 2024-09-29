@@ -1961,6 +1961,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/270586282_Data-Driven_Index_Overlay_and_Boolean_Logic_Mineral_Prospectivity_Modeling_in_Greenfields_Exploration
 - https://www.researchgate.net/publication/356660905_Deep_GMDH_Neural_Networks_for_Predictive_Mapping_of_Mineral_Prospectivity_in_Terrains_Hosting_Few_but_Large_Mineral_Deposits
 - https://www.researchgate.net/publication/317240761_Enhancement_and_Mapping_of_Weak_Multivariate_Stream_Sediment_Geochemical_Anomalies_in_Ahar_Area_NW_Iran
+- https://www.sciencedirect.com/science/article/pii/S0009281924001223 -> Enhancing training performance of convolutional neural network algorithm through an autoencoder-based unsupervised labeling framework for mineral exploration targeting
 - https://www.researchgate.net/publication/356580903_Evidential_data_integration_to_produce_porphyry_Cu_prospectivity_map_using_a_combination_of_knowledge_and_data_driven_methods
 - https://research-repository.uwa.edu.au/en/publications/exploration-feature-selection-applied-to-hybrid-data-integration-Exploration feature selection applied to hybrid data integrationmodeling: Targeting copper-gold potential in central 
 - https://www.researchgate.net/publication/333199619_Incorporation_of_principal_component_analysis_geostatistical_interpolation_approaches_and_frequency-space-based_models_for_portraying_the_Cu-Au_geochemical_prospects_in_the_Feizabad_district_NW_Iran
