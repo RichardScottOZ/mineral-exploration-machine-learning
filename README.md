@@ -233,6 +233,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
   * [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
   [related](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
+* [Physics-Infomred Neural Networks for fault slip simulation with rate and state friction law](https://github.com/RichardScottOZ/PINN_3DSSE/tree/main)
+	* [simulation and frictional paramter estimation on slow slip events](https://zenodo.org/records/13731480)
+	* [paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/223843/preprint_pdf/29c1d7b3b99de49d81f41725303268db.pdf) -> Physics-Informed Deep Learning for Estimating the Spatial Distribution of Frictional Parameters in Slow Slip Regions
+	
   
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
@@ -2209,7 +2213,7 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/372876863_Ore-Grade_Estimation_from_Hyperspectral_Data_Using_Convolutional_Neural_Networks_A_Case_Study_at_the_Olympic_Dam_Iron_Oxide_Copper-Gold_Deposit_Australia [UNSEEN]
 #### Joint Inversion
 - https://www.researchgate.net/publication/383454185_Deep_joint_inversion_of_electromagnetic_seismic_and_gravity_data
-- https://ieeexplore.ieee.org/abstract/document/10677418 -> Joint Inversion of Seismic and Resistivity Data Powered by Deep-learning
+- https://ieeexplore.ieee.org/abstract/document/10677418 -> Joint Inversion of Seismic and Resistivity Data Powered by Deep-learning [UNSEEN]
 ### Magnetics
 - https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
