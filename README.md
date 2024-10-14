@@ -75,6 +75,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Gawler_MPM](https://github.com/e-farahbakhsh/Gawler_MPM) -> Cobalt, Chromium, Nickel
 	* [Paper](https://www.researchgate.net/publication/373954003_Critical_mineral_prospectivity_mapping_on_the_Gawler_craton_using_a_new_machine_learning_framework)
 * [Geophysical Data Clustering in the Gawler Craton](https://github.com/EarthByte/geophysical_image_clustering_exploration)
+	* [Zenodo Data](Automated detection of mineralization-related craton structures using geophysical data and unsupervised machine learning)
 #### Explore SA - South Australian Department of Energy and Mining Competition
 * [Winners](https://catalog.sarig.sa.gov.au/geonetwork/srv/eng/catalog.search#/metadata/abba4f54-b6ef-4fe4-b951-57f11299d490) -> SARIG data information
 * [Caldera](https://github.com/mrodda117/CalderaPublic) -> Caldera Analytics analysis
