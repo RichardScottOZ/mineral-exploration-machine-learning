@@ -1891,6 +1891,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/235443301_Mineral_potential_mapping_in_a_frontier_region
 - https://www.researchgate.net/publication/235443302_Mineral_potential_mapping_in_frontier_regions_A_Mongolian_case_study
 - https://www.researchgate.net/publication/369104190_Mineral_Prospectivity_Mapping_Using_Attention-based_Convolutional_Neural_Network 
+- https://www.nature.com/articles/s41598-024-73357-0 -> Mineral prospectivity prediction based on convolutional neural network and ensemble learning
 - https://www.researchgate.net/publication/329037175_Mineral_prospectivity_analysis_for_BIF_iron_deposits_A_case_study_in_the_Anshan-Benxi_area_Liaoning_province_North-East_China
 - https://link.springer.com/article/10.1007/s11053-024-10335-3 -> Mineral Prospectivity Prediction Based on Self-Supervised Contrastive Learning and Geochemical Data: A Case Study of the Gold Deposit in the Malanyu District, Hebei Province, China [USEEN]
 - https://www.researchgate.net/publication/377694139_Manganese_mineral_prospectivity_based_on_deep_convolutional_neural_networks_in_Songtao_of_northeastern_Guizhou
