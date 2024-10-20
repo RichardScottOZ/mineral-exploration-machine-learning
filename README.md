@@ -181,6 +181,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Geodynamics
 * [Badlands](https://github.com/badlands-model/badlands) -> Basin and Landscape Dynamics
+* [CitcomS](https://github.com/geodynamics/citcoms) -> finite element code designed to solve compressible thermochemical convection problems relevant to Earth's mantle.
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
@@ -2610,11 +2611,11 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/379960654_From_sensor_fusion_to_knowledge_distillation_in_collaborative_LIBS_and_hyperspectral_imaging_for_mineral_identification
 
 ### NLP
-- https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
-- https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
 - https://ieeexplore.ieee.org/abstract/document/10544642 -> Assessing named entity recognition efficacy using diverse geoscience datasets [UNSEEN]
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
+- https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
+- https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
 
 ### LLM
 - https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
