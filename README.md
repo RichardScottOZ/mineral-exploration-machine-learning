@@ -2188,6 +2188,8 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 ### Geophysics
 #### Foundation
 - https://www.researchgate.net/publication/373714604_Seismic_Foundation_Model_SFM_a_new_generation_deep_learning_model_in_geophysics
+#### General
+- https://essopenarchive.org/users/841077/articles/1231187-bayesian-inference-in-geophysics-with-ai-enhanced-markov-chain-monte-carlo -> Bayesian Inference in Geophysics with AI-enhanced 2 Markov chain Monte Carlo
 - https://www.researchgate.net/publication/353789276_Geology_differentiation_by_applying_unsupervised_machine_learning_to_multiple_independent_geophysical_inversions
 - https://www.sciencedirect.com/science/article/pii/S001379522100137X - Joint interpretation of geophysical data: Applying machine learning to the modeling of an evaporitic sequence in Villar de Cañas (Spain)
 - https://www.sciencedirect.com/science/article/pii/S2666544121000253 - Microleveling aerogeophysical data using deep convolutional network and MoG-RPCA
