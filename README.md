@@ -495,6 +495,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Extract and Classify Images from Geoscience Documents](https://github.com/bolgebrygg/extract-and-classify-images-from-geoscience-documents)
 ### Data
 * [Xbatcher](https://github.com/RichardScottOZ/xbatcher) -> Xarray based data reading for deep learning
+	* [Cloud native data loaders for machine learning using Zarr and Xarray](https://earthmover.io/blog/cloud-native-dataloader)
 * [zen3geo](https://github.com/weiji14/zen3geo) -> Xbatcher style data science with pytorch
 ### Explainability
 * [Shap Values](https://github.com/slundberg/shap)
