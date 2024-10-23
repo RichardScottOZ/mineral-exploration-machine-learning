@@ -232,7 +232,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [StorSeismic](https://github.com/swag-kaust/storseismic) -> An approach to pre-train a neural network to store seismic data features
 * [PINNtomo](https://github.com/tianyining/PINNtomo) -> Seismic tomography using physics-informed neural networks
 	* [paper](https://arxiv.org/abs/2104.01588)
-
+### Seismology
+* [obspy](https://github.com/obspy/obspy) -> framework for processing seismological
 
 ### Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
