@@ -1000,6 +1000,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### India
 * [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public) -> India Geological Survey
  * Note Rajasthan geology doesn't work except piecemeal which is painful - if you want it, let me know
+### Saudi Arabia
+* [National Geological Database Portal](https://ngdp.sgs.gov.sa/ngp/) 
 ## Other
 ### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
