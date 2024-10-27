@@ -262,6 +262,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001900) -> Enhancing-ML-Thermobarometry-for-Clinopyroxene-Bearing-Magmas
 * [Zircon fertility models](https://github.com/cicarrascog/Zircon_fertility_models) -> Decision trees to predict fertile zircon from porphyry copper deposits
 	* [paper](https://www.researchgate.net/publication/382089226_Quantifying_the_Criteria_Used_to_Identify_Zircons_from_Ore-Bearing_and_Barren_Systems_in_Porphyry_Copper_Exploration)
+* [Machine Learning Zircon Trace Element Tool to Predict Porphyry Deposit Type and Resource Size](https://github.com/ZihaoWen123/PDT_PCR_PMR/tree/v0.01	)
+	* [zenodo archive](https://zenodo.org/records/10292176)
+	* [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000180)
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
 	* [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
  * [Demo application](http://60.205.170.161:8001/)
