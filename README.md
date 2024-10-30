@@ -1300,14 +1300,15 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
  * [icehunk](https://github.com/earth-mover/icechunk) -> Transactional storage engine for tensor / ND-array data designed for use on cloud object storage. 
 ### Stac catalogues
-* [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
-* [Intake-stac](https://github.com/intake/intake-stac)
-* [Sat-search](https://github.com/sat-utils/sat-search)
-* [Pystac](https://github.com/stac-utils/pystac)
-* [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
 * [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
+* [Intake-stac](https://github.com/intake/intake-stac)
+* [ML AOI Extension](https://github.com/stac-extensions/ml-aoi)
 * [ML Model Extension Specification](https://github.com/stac-extensions/ml-model) -> Machine Learning Model Specification for CatalogingSpatio-Temporal Models
 	* [paper](https://dl.acm.org/doi/10.1145/3681769.3698586)
+* [ODC-Stac](https://github.com/opendatacube/odc-stac) -> Database free Open Data Cube
+* [Pystac](https://github.com/stac-utils/pystac)
+* [Sat-search](https://github.com/sat-utils/sat-search)
+* [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
 
 ### Statistics
 * [Orange](https://orangedatamining.com/) -> Data Mining Gui
