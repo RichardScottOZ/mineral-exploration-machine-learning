@@ -1306,6 +1306,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Pystac](https://github.com/stac-utils/pystac)
 * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
 * [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
+* [ML Model Extension Specification](https://github.com/stac-extensions/ml-model) -> Machine Learning Model Specification for CatalogingSpatio-Temporal Models
+	* [paper](https://dl.acm.org/doi/10.1145/3681769.3698586)
+
 ### Statistics
 * [Orange](https://orangedatamining.com/) -> Data Mining Gui
 * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
@@ -2637,7 +2640,6 @@ The below are a collection of works from when I was doing a review
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 
-- https://dl.acm.org/doi/10.1145/3681769.3698586 -> Machine Learning Model Specification for CatalogingSpatio-Temporal Models
 
 ## Deep Learning
 - https://arxiv.org/abs/2408.11804 -> Approaching Deep Learning through the Spectral Dynamics of Weights
