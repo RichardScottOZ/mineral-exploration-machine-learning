@@ -2636,6 +2636,9 @@ The below are a collection of works from when I was doing a review
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
+
+- https://dl.acm.org/doi/10.1145/3681769.3698586 -> Machine Learning Model Specification for CatalogingSpatio-Temporal Models
+
 ## Deep Learning
 - https://arxiv.org/abs/2408.11804 -> Approaching Deep Learning through the Spectral Dynamics of Weights
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
