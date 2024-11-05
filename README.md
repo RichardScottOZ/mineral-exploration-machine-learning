@@ -42,7 +42,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
   * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
-	* [paper](https://arxiv.org/abs/2406.15658)la
+	* [paper](https://arxiv.org/abs/2406.15658)
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [AIDE: Artificial Intelligence for Disentangling Extremes](https://github.com/RichardScottOZ/AIDE?tab=readme-ov-file)
@@ -65,12 +65,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
 * [Prospectivity Mapping of Ni-Co Laterites](https://github.com/EarthByte/Lachlan_Laterite_Ni_Co)
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
-  * [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
+	* [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
-  * [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
+	* [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
 * [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
 	* [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
- * [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
+* [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
 * [MPM-WofE](https://github.com/GeoscienceAustralia/MPM-WofE) -> Mineral Potential Mapping - Weights of Evidence
 ## Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
@@ -198,7 +198,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Complete Radiometrics Grid of Australia with modelled infill](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144413)
 #### AEM Interpolation
 * [High resolution conductivity mapping using regional AEM survey](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146163)
-  * [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380)
+	* [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380)
   
 ### Electromagnetics
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
@@ -215,7 +215,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Gravity
 * [Recovering 3D Basement Relief Using Gravity Data Through Convolutional Neural Networks]
- * [Data](10.5281/zenodo.5543969)
+	* [Data](10.5281/zenodo.5543969)
 	* [paper](https://www.researchgate.net/publication/355118950_Recovering_3D_Basement_Relief_Using_Gravity_Data_Through_Convolutional_Neural_Networks)
 * [Stable downward continuation of the gravity potential field implemented using deep learning](https://github.com/LiYongbo-geo/DC-Net-code)
 	* [paper](https://www.researchgate.net/publication/366965954_Stable_downward_continuation_of_the_gravity_potential_field_implemented_using_deep_learning)
@@ -240,12 +240,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Tectonics
 * [Discern detachment of the subducting slab in an ancient subduction zone using machine learning](https://github.com/dzheng2333/basalt_geochemistry) -> Notebook
- * [figshare](https://figshare.com/articles/dataset/Supporting_information_for_A_machine_learning_approach_to_identify_the_abrupt_transition_of_tectonic_settings_using_trace_elemental_dataset_of_basalts_/24015024)
+	* [figshare](https://figshare.com/articles/dataset/Supporting_information_for_A_machine_learning_approach_to_identify_the_abrupt_transition_of_tectonic_settings_using_trace_elemental_dataset_of_basalts_/24015024)
 * [Colab notebook](https://data.csiro.au/collection/csiro:61119) -> Google Colab input file for benchmark results of ML-SEISMIC publication
 	* [paper](https://www.researchgate.net/publication/376892064_Physics-informed_neural_network_reconciles_Australian_displacements_and_tectonic_stresses)
 * [Unleashing the power of Machine
 Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project])
-  * [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
+	* [Honours Thesis](https://www.researchgate.net/profile/Xuzeng-He/publication/380316113_Unleashing_the_power_of_Machine_Learning_in_Geodynamics/links/6634eac535243041535c878b/Unleashing-the-power-of-Machine-Learning-in-Geodynamics.pdf)
   [related](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_project/blob/main/misc_pdfs/Atkins_Thesis_Finding_the_patterns_in_mantle_convection.pdf)
 * [Physics-Infomred Neural Networks for fault slip simulation with rate and state friction law](https://github.com/RichardScottOZ/PINN_3DSSE/tree/main)
 	* [simulation and frictional paramter estimation on slow slip events](https://zenodo.org/records/13731480)
@@ -254,7 +254,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   
 # Geochemistry
 * [CODAinPractice](https://github.com/michaelgreenacre/CODAinPractice) -> Compositional Data Analysis in Practice
- * [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
+* [GeoCoDa](https://www.researchgate.net/publication/372487589_GeoCoDA_Recognizing_and_Validating_Structural_Processes_in_Geochemical_Data_A_Workflow_on_Compositional_Data_Analysis_in_Lithogeochemistry)
 * [DAN-GRF](https://github.com/Saeid1986/DAN-GRF) -> Deep autoencoder network connected to geographical random forest for spatially aware geochemical anomaly detection
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001407)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
@@ -267,8 +267,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000180)
 * [geology_class0](https://github.com/ZihaoWen123/geology_class) -> A machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
 	* [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
- * [Demo application](http://60.205.170.161:8001/)
- * https://colab.research.google.com/drive/1-bOZgG6Nxt2Rp1ueO1SYmzIqCRiyyYcT
+	* [Demo application](http://60.205.170.161:8001/)
+	* https://colab.research.google.com/drive/1-bOZgG6Nxt2Rp1ueO1SYmzIqCRiyyYcT
 * [GeochemPrint](https://colab.research.google.com/drive/1nX0vip0VS3f-GjL9l5femBiRcMwMGe_Y) 
 	* [paper](https://www.researchgate.net/publication/363754140_Geochemical_fingerprinting_of_continental_and_oceanic_basalts_A_machine_learning_approach)
 * [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
@@ -291,39 +291,39 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Natural Language Processing
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
-  * [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
+	* [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction 
- * [API](https://github.com/nasa/concept-tagging-api) -> API web service
- * [Presentation](https://datascience.jpl.nasa.gov/aiworkshop/presentation-27)
+	* [API](https://github.com/nasa/concept-tagging-api) -> API web service
+	* [Presentation](https://datascience.jpl.nasa.gov/aiworkshop/presentation-27)
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
 * [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
 * [Geocorpus](https://github.com/jneto04/geocorpus)
 * [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
- * [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
+* [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
 	* [paper](https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain)
 * [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
- * [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
+	* [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
 ## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
- * [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Data to support models
+	* [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Data to support models
 	* [paper](https://doi.org/10.1016/j.acags.2022.100084) -> Geoscience language models and their intrinsic evaluation
 	* [paper](https://link.springer.com/article/10.1007/s11053-023-10216-1) -> Applications of Natural Language Processing to Geoscience Text Data and Prospectivity Modeling
 * [GeoVec](https://github.com/spadarian/GeoVec) -> Word embedding model trained on 300K geoscience papers
-  * [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
+	* [GeoVec Model](https://osf.io/4uyeq/) -> OSF Storage for GeoVec model
    	* [paper](https://soil.copernicus.org/articles/5/177/2019/)
     * [GeoVecto Litho](https://github.com/IFuentesSR/GeoVectoLitho) -> 3D Models interpolation from word embeddings
-  * [GeoVEC Playground](https://github.com/RichardScottOZ/geoVec-playground) -> Working with the Padarian GeoVec glove word embeddings model
+	* [GeoVEC Playground](https://github.com/RichardScottOZ/geoVec-playground) -> Working with the Padarian GeoVec glove word embeddings model
 * [GloVe](https://github.com/stanfordnlp/GloVe) -> Standford library for producing word embeddings
-  * [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
+	* [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
- * [Portuguese models](http://nilc.icmc.usp.br/embeddings)
+	* [Portuguese models](http://nilc.icmc.usp.br/embeddings)
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 * [Multilingual alignment](https://github.com/babylonhealth/fastText_multilingual/blob/master/align_your_own.ipynb)
- * [Overview of approaches](https://www.jair.org/index.php/jair/article/view/11640/26511)
+	* [Overview of approaches](https://www.jair.org/index.php/jair/article/view/11640/26511)
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in  
@@ -337,17 +337,17 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
 	* [paper](https://www.researchgate.net/publication/363408251_Understanding_geological_reports_based_on_knowledge_graphs_using_a_deep_learning_approach)
 * [GeoFault Ontology](https://github.com/Yuanwei-Q/GeoFault-Ontology) 
- * [geosim](https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
- * [https://www.duo.uio.no/handle/10852/111467](Knowledge Modelling for Digital Geology) -> PhD thesis with two papers
- * [SIRIUS GeoAnnotator](http://158.37.63.37:8081/gic) -> Website example from above
+* [geosim](https://github.com/smolang/SemanticObjects/tree/geosim) -> Semantically Triggered Qualitative Simulation of a Geological Process
+	* [https://www.duo.uio.no/handle/10852/111467](Knowledge Modelling for Digital Geology) -> PhD thesis with two papers
+	* [SIRIUS GeoAnnotator](http://158.37.63.37:8081/gic) -> Website example from above
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
 ## Large Language Models
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
- * [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
+	* [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
- * [technical report](https://arxiv.org/abs/2401.00434)
+	* [technical report](https://arxiv.org/abs/2401.00434)
 * [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 ### Chatbots
@@ -777,6 +777,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  # Data Portals
 ## World
 * [Earth Model Collaboration](https://ds.iris.edu/ds/products/emc/) -> access to various Earth models, visualization tools for model preview, facilities to extract model data/metadata and access to the contributed processing software and scripts.
+* [Magnetics Information Consortium[(https://www2.earthref.org/MagIC/search) -> paleomagnetic, geomagnetic, rock magnetic
 ## Australia
 ### Geoscience Australia
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
@@ -1295,10 +1296,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Geo Notebooks](https://github.com/Element84/geo-notebooks) -> Code examples from Element 84
  * [Raster4ML](https://github.com/remotesensinglab/raster4ml) -> A large number of vegetation indices
  * [Lefa](http://lefa.geologov.net) -> Fracture analysis, lineaments
- ## Serverless
- * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
-  * [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
- * [icehunk](https://github.com/earth-mover/icechunk) -> Transactional storage engine for tensor / ND-array data designed for use on cloud object storage. 
+## Serverless
+* [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
+	* [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
+	* [icehunk](https://github.com/earth-mover/icechunk) -> Transactional storage engine for tensor / ND-array data designed for use on cloud object storage. 
 ### Stac catalogues
 * [DEA Stackstac](https://github.com/RichardScottOZ/DEA-stackstac) -> Examples of working with Digital Earth Australia data
 * [Intake-stac](https://github.com/intake/intake-stac)
