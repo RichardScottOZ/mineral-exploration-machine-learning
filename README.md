@@ -1947,6 +1947,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/349158008_Mapping_gold_mineral_prospectivity_based_on_weights_of_evidence_method_in_southeast_Asmara_Eritrea
 #### Finland
 - https://www.researchgate.net/publication/360661926_Target-scale_prospectivity_modeling_for_gold_mineralization_within_the_Rajapalot_Au-Co_project_area_in_northern_Fennoscandian_Shield_Finland_Part_2_Application_of_self-organizing_maps_and_artificial_n
+- https://www.sciencedirect.com/science/article/pii/S0169136824004037 -> Addressing imbalanced data for machine learning based mineral prospectivity mapping
 #### Finland
 - https://publications.csiro.au/publications/#publication/PIcsiro:EP146125/SQmineral%20prospectivity/RP1/RS50/RORECENT/STsearch-by-keyword/LISEA/RI12/RT26 -> A novel spatial analysis approach for assessing regional-scale mineral prospectivity In Northern Finland
 - https://www.researchgate.net/publication/332352805_Boosting_for_Mineral_Prospectivity_Modeling_A_New_GIS_Toolbox
