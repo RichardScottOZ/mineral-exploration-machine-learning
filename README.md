@@ -1738,6 +1738,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://link.springer.com/article/10.1007/s11053-023-10237-w - A New Generation of Artificial Intelligence Algorithms for Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/235443297_Addressing_challenges_with_exploration_datasets_to_generate_usable_mineral_potential_maps
 - https://www.researchgate.net/publication/330077321_An_Improved_Data-Driven_Multiple_Criteria_Decision-Making_Procedure_for_Spatial_Modeling_of_Mineral_Prospectivity_Adaption_of_Prediction-Area_Plot_and_Logistic_Functions
+- Artificial intelligence and machine learning to enhance critical mineral deposit discovery -> https://www.sciencedirect.com/science/article/pii/S2772883825000111?via%3Dihub
 - Artificial intelligence for mineral exploration: A review and perspectives on future directions from data science -> https://www.sciencedirect.com/science/article/pii/S0012825224002691
 - https://www.researchgate.net/project/Bayesian-Machine-Learning-for-Geological-Modeling-and-Geophysical-Segmentation
 - https://www.researchgate.net/publication/229714681_Classifiers_for_Modeling_of_Mineral_Potential
