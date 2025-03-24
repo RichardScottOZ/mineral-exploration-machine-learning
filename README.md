@@ -89,6 +89,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Papua New Guinea
 * [SpatioTemporAl Mineral Prospectivity (STAMP) Modelling](https://github.com/EarthByte/STAMP_PNG)
+	* [Zenodo Data](https://zenodo.org/records/14189755)
 
 ## North America
 ### Canada
