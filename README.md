@@ -364,6 +364,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
+* [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
+  * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
