@@ -364,8 +364,6 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
-* [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
-  * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
@@ -389,7 +387,10 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
 * [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [awesome mining band ratio collection](https://github.com/rodreras/awesome-mining-band-ratio) -> collection of simple band ratio uses for highlight various minerals
+## Foundation Models
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
+  * [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
+    * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
   * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
