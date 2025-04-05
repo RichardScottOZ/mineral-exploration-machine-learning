@@ -1435,6 +1435,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 # Datasets
 ## World
+### Geochemistry
+* [Critical Minerals in Ores](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145496)
 ### Geology
 * [Bedrock](https://osdp-psdo.canada.ca/dp/en/search/metadata/NRCAN-GEOSCAN-1-2237677) -> Generalised geology of the world
 * [GLIM](https://doi.pangaea.de/10.1594/PANGAEA.788537) -> Global lithology map
