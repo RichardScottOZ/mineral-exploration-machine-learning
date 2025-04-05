@@ -1309,6 +1309,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ## Serverless
 * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
 	* [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
+* [Tifffile variant](https://github.com/cgohlke/tifffile/issues/125)
 * [Virtuallizar](https://github.com/zarr-developers/VirtualiZarr) -> Similar idea to kerchunk
 	* [icehunk](https://github.com/earth-mover/icechunk) -> Transactional storage engine for tensor / ND-array data designed for use on cloud object storage. 
 ### Stac catalogues
