@@ -123,6 +123,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
 	* [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
 * [DL-RMD](https://github.com/rizwanasif/DL-RMD) -> A geophysically constrained electromagnetic resistivity model database for deep learning applications
+* [Earthscape](https://github.com/masseygeo/earthscape) -> EarthScape: A Multimodal Dataset for Surficial Geologic Mapping and Earth Surface Analysis
+  * [paper](https://arxiv.org/abs/2503.15625)
 * [Geological Image Classifier](https://github.com/PCleverleyGeol/Geological-Image-Classifier)
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
