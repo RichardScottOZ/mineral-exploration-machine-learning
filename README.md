@@ -390,6 +390,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ## Foundation Models
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
   * [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
+  * [Zenodo](https://zenodo.org/records/11004358)
     * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
