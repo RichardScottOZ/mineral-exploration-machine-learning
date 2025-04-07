@@ -2050,8 +2050,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchsquare.com/article/rs-4760956/v1 -> Uncertainty reduction with Hyperparameter Optimization in mineral prospectivity mapping: A Regularized Artificial Neural Network approach	[UNSEEN]
 #### Ireland
 - https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
-#### Korea
-- https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
 #### Norway
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
 #### Pakistan
@@ -2059,6 +2057,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### South Korea
 - https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
 - https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
+- https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
 #### Phillipines
 - https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/263174923_Application_of_Mineral_Exploration_Models_and_GIS_to_Generate_Mineral_Potential_Maps_as_Input_for_Optimum_Land-Use_Planning_in_the_Philippines
