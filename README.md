@@ -2247,6 +2247,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://datarock.com.au/blog/transfer-learning-with-seismic-attributes -> Transfer Learning with Seismic Attributes
 #### Potential Fields
 - https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/390212334/THESIS_-_DOCTOR_OF_PHILOSOPHY_-_SMITH_Luke_Thomas_-_2023_.pdf -> Potential Field Geophysics Enhancement Using Conteporary Deep Learning
+- A Stable Method for Estimating the Derivatives of Potential Field Data Based on Deep Learning -> https://ieeexplore.ieee.org/abstract/document/10767251 [UNSEEN]
 #### EM
 - https://d197for5662m48.cloudfront.net/documents/publicationstatus/206704/preprint_pdf/59681a0a2c571bc2a9006f37517bc6ef.pdf -> A Fast Three-dimensional Imaging Scheme of Airborne Time Domain Electromagnetic Data using Deep Learning
 - https://www.researchgate.net/publication/351507441_A_Neural_Network-Based_Hybrid_Framework_for_Least-Squares_Inversion_of_Transient_Electromagnetic_Data
