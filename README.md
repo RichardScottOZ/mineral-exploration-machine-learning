@@ -1940,7 +1940,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/355749736_Mineral_prospectivity_mapping_using_a_joint_singularity-based_weighting_method_and_long_short-term_memory_network
 - https://www.researchgate.net/publication/369104190_Mineral_Prospectivity_Mapping_Using_Attention-based_Convolutional_Neural_Network 
 - https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model
-- https://www.researchgate.net/publication/379674196_Mineral_prospectivity_mapping_using_knowledge_embedding_and_explainable_ensemble_learning_A_case_study_of_the_Keeryin_ore_concentration_in_Sichuan_China
+- https://www.researchgate.net/publication/
+379674196_Mineral_prospectivity_mapping_using_knowledge_embedding_and_explainable_ensemble_learning_A_case_study_of_the_Keeryin_ore_concentration_in_Sichuan_China
+- Mineral Prospectivity Mapping Using Semi-supervised Machine Learning -> https://link.springer.com/article/10.1007/s11004-024-10161-6
 - https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data
 - https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
 - https://www.sciencedirect.com/science/article/pii/S0169136824003172 -> New insights into the metallogenic genesis of the Xiadian Au deposit, Jiaodong Peninsula, Eastern China: Constraints from integrated rutile in-situ geochemical analysis and machine learning discrimination
