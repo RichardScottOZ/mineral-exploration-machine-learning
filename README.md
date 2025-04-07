@@ -1832,6 +1832,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
 - https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340 -> Application of machine learning algorithms to mineral prospectivity mapping
 - https://www.researchgate.net/publication/369599705_A_study_of_faults_in_the_Superior_province_of_Ontario_and_Quebec_using_the_random_forest_machine_learning_algorithm_spatial_relationship_to_gold_mines
+- A balanced mineral prospectivity model of Canadian magmatic Ni (± Cu ± Co ± PGE) sulphide mineral systems using conditional variational autoencoders -> https://www.sciencedirect.com/science/article/pii/S0169136824004621
 - https://www.researchgate.net/publication/273176257_Data-_and_Knowledge_driven_mineral_prospectivity_maps_for_Canada's_North
 - https://www.researchgate.net/publication/300153215_Data_mining_for_real_mining_A_robust_algorithm_for_prospectivity_mapping_with_uncertainties
 - https://www.sciencedirect.com/science/article/pii/S1674987123002268 -> Development and application of feature engineered geological layers for ranking magmatic, volcanogenic, and orogenic system components in Archean greenstone belts
