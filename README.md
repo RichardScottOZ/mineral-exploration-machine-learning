@@ -1972,7 +1972,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Finland
 - https://www.researchgate.net/publication/360661926_Target-scale_prospectivity_modeling_for_gold_mineralization_within_the_Rajapalot_Au-Co_project_area_in_northern_Fennoscandian_Shield_Finland_Part_2_Application_of_self-organizing_maps_and_artificial_n
 - https://www.sciencedirect.com/science/article/pii/S0169136824004037 -> Addressing imbalanced data for machine learning based mineral prospectivity mapping
-#### Finland
 - https://publications.csiro.au/publications/#publication/PIcsiro:EP146125/SQmineral%20prospectivity/RP1/RS50/RORECENT/STsearch-by-keyword/LISEA/RI12/RT26 -> A novel spatial analysis approach for assessing regional-scale mineral prospectivity In Northern Finland
 - https://www.researchgate.net/publication/332352805_Boosting_for_Mineral_Prospectivity_Modeling_A_New_GIS_Toolbox
 - https://www.researchgate.net/publication/324517415_Can_boosting_boost_minimal_invasive_exploration_targeting
@@ -2056,6 +2055,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
 #### Norway
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
+#### Pakistan
+- https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.13031 _> Advanced Mineral Deposit Mapping via Deep Learning and SVM Integration With Remote Sensing Imaging Data
 #### South Korea
 - https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
 - https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
