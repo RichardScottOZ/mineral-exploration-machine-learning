@@ -2154,6 +2154,8 @@ Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns
 - https://www.researchgate.net/publication/378549920_Denoising_of_geochemical_data_using_deep_learning-Implications_for_regional_surveys -> Denoising of Geochemical Data using Deep Learning–Implications for Regional Surveys]
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
 - https://www.researchgate.net/publication/381369176_Effectiveness_of_LOF_iForest_and_OCSVM_in_detecting_anomalies_in_stream_sediment_geochemical_data#:~:text=LOF%20outperformed%20iForest%20and%20OCSVM,patterns%20in%20the%20iForest%20map 
+- Fusion of Geochemical Data and Remote Sensing
+Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10758357
 - https://dzkjqb.cug.edu.cn/en/article/doi/10.19509/j.cnki.dzkq.tb20220423 -> Gaussian mixture model in geochemical anomaly delineation of stream sediments: A case study of Xupu, Hunan Province [UNSEEN]
 - https://www.sciencedirect.com/science/article/pii/S0883292724002427 -> Geologically constrained unsupervised dual-branch deep learning algorithm for geochemical anomalies identification
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
