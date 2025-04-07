@@ -64,16 +64,17 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Australia
 * [Iron oxide copper-gold mineral potential maps](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149222)
 * [Lateritic Ni-Co prospectivity modeling in eastern Australia using an enhanced generative adversarial network and positive-unlabeled bagging] -> (https://zenodo.org/records/14037494)
+  * [paper](https://link.springer.com/article/10.1007/s11053-024-10423-4)
 * [Machine learning for geological mapping : algorithms and applications](https://eprints.utas.edu.au/18571/) -> PhD thesis with code and data
+* [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
+* [MPM-WofE](https://github.com/GeoscienceAustralia/MPM-WofE) -> Mineral Potential Mapping - Weights of Evidence
+* [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
+	* [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
 * [Prospectivity Mapping of Ni-Co Laterites](https://github.com/EarthByte/Lachlan_Laterite_Ni_Co)
 * [Transform 2022 Tutorial](https://github.com/Solve-Geosolutions/transform_2022) -> Random forest example
 	* [Video](https://www.youtube.com/watch?v=C4YvnLMzYDc)
 * [Tin-Tungsten](https://medium.com/@thomas.ostersen/tin-tungsten-prospecting-with-machine-learning-in-northeast-tasmania-australia-3c23519f81cf)
 	* [Collab](https://colab.research.google.com/drive/168PSo21-Jkwdz8xOmr5-rX9_DL3SInCN?usp=sharing)
-* [Porphyry Copper Spatio-Temporal Exploration](https://github.com/EarthByte/porphyry_copper_spatiotemporal_exploration)  
-	* [paper](https://www.earthbyte.org/predicting-the-emplacement-of-cordilleran-porphyry-copper-systems-using-a-spatio-temporal-machine-learning-model/)
-* [minpot-toolkit](https://github.com/GeoscienceAustralia/minpot-toolkit/tree/main) -> Example of Hoggard et al Lab Boundary analysis with Sedimentary copper
-* [MPM-WofE](https://github.com/GeoscienceAustralia/MPM-WofE) -> Mineral Potential Mapping - Weights of Evidence
 #### Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 #### South Australia
