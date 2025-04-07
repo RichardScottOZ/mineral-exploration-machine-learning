@@ -196,6 +196,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
+* [Discern detachment of the subducting slab in an ancient subduction zone using machine learning](https://zenodo.org/records/14059244)
+  * [paper](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JH000400)
 
 ## Geophysics
 ### Foundation Models
