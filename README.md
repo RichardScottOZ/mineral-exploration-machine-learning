@@ -361,6 +361,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
+### Agents
+* [GeoAgent](https://github.com/Yusin2Chen/GeoAgent) -> An LLM Agent for Automatic Geospatial Data Analysis
+  * [paper](https://arxiv.org/abs/2410.18792)
 
 # Remote Sensing
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
