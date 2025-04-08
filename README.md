@@ -1948,8 +1948,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/355749736_Mineral_prospectivity_mapping_using_a_joint_singularity-based_weighting_method_and_long_short-term_memory_network
 - https://www.researchgate.net/publication/369104190_Mineral_Prospectivity_Mapping_Using_Attention-based_Convolutional_Neural_Network 
 - https://www.researchgate.net/publication/365434839_Mineral_Prospectivity_Mapping_Using_Deep_Self-Attention_Model
-- https://www.researchgate.net/publication/
-379674196_Mineral_prospectivity_mapping_using_knowledge_embedding_and_explainable_ensemble_learning_A_case_study_of_the_Keeryin_ore_concentration_in_Sichuan_China
+- https://www.researchgate.net/publication/379674196_Mineral_prospectivity_mapping_using_knowledge_embedding_and_explainable_ensemble_learning_A_case_study_of_the_Keeryin_ore_concentration_in_Sichuan_China
 - Mineral Prospectivity Mapping Using Semi-supervised Machine Learning -> https://link.springer.com/article/10.1007/s11004-024-10161-6
 - https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data
 - https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
@@ -1960,6 +1959,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_DatasetsSupervised Mineral Prospectivity Mapping via Class-Balanced Focal Loss Function on Imbalanced Geoscience Datasets
 - https://www.researchgate.net/publication/361520562_Recognizing_Multivariate_Geochemical_Anomalies_Related_to_Mineralization_by_Using_Deep_Unsupervised_Graph_Learning
 - https://www.sciencedirect.com/science/article/pii/S0169136824003937 -> Semi-supervised graph convolutional networks for integrating continuous and binary evidential layers for mineral exploration targeting
+- https://www.sciencedirect.com/science/article/pii/S0009281924001375 -> Spatial weighting — An effective incorporation of geological expertise into deep learning models
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_Datasets
 - https://www.researchgate.net/publication/360028637_Three-Dimensional_Mineral_Prospectivity_Mapping_by_XGBoost_Modeling_A_Case_Study_of_the_Lannigou_Gold_Deposit_China
 - https://link.springer.com/article/10.1007/s11053-024-10387-5 - Toward Data-Driven Mineral Prospectivity Mapping from Remote Sensing Data Using Deep Forest Predictive Model
