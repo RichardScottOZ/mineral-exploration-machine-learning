@@ -299,6 +299,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Secular Changes in the Occurrence of Subduction During the Archean](https://zenodo.org/records/10418615) -> Zenodo code archive
 	* [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_ArcheanA machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
+* [geochemical anomaly detection](https://github.com/MinersAI/geochemical_anomaly_detection) -> Multivariate Outlier Detection in Geochemical Datasets
  
 # Kriging
 * [DKNN: deep kriging neural network for interpretable geospatial interpolation](https://github.com/in1311/DKNN)
