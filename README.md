@@ -2684,7 +2684,8 @@ The below are a collection of works from when I was doing a review
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
-- https://www.sciencedirect.com/science/article/pii/S088329272400115X - > Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
+- https://www.sciencedirect.com/science/article/pii/S088329272400115X -> Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
+- https://earthmover.io/blog/tensors-vs-tables -> Tensors vs tables - why array native data structures are needed for performance
 
 
 ## Deep Learning
