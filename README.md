@@ -1016,7 +1016,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Mineral Occurrences](https://www.gmis-tanzania.com/download/minocc.zip)
  * [Mines](https://www.gmis-tanzania.com/download/mines.zip)
 * [SIGM](http://41.224.38.194:8080/SIGM/pages/geocatalogue/geocatalogue.xhtml) -> Tunisia Geology and Mining
-* [Zambia](https://portals.landfolio.com/zambia/) -> Zambia tenements heres
+* [Zambia](https://portals.landfolio.com/zambia/) -> Zambia tenements here
+  * [Kobold geophysics grids](https://www.kaggle.com/code/tylerhowe/regridded-kobold-zambia-data)
 ## Asia
 ### China
 * [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
