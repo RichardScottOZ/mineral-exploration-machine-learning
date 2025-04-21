@@ -50,6 +50,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [Website](https://www.samarkhanna.com/ExPLoRA/)
 	* [paper](https://arxiv.org/abs/2406.10973)
  * (https://www.researchgate.net/profile/Miguel-Angel-Fernandez-Torres/publication/381917888_The_AIDE_Toolbox_Artificial_intelligence_for_disentangling_extreme_events/links/66846648714e0b03153f38ae/The-AIDE-Toolbox-Artificial-intelligence-for-disentangling-extreme-events.pdf)
+* [pyClusterwise](https://pypi.org/project/pyClusterWise/)
+  * [paper] -> https://www.sciencedirect.com/science/article/pii/S0169136825001519?via%3Dihub -> Clustering in geo-data science: Navigating uncertainty to select the most reliable method
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
