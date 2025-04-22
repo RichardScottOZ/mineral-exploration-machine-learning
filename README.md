@@ -340,6 +340,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Spanish Word Embeddings](https://github.com/dccuchile/spanish-word-embeddings)
 * [Multilingual alignment](https://github.com/babylonhealth/fastText_multilingual/blob/master/align_your_own.ipynb)
 	* [Overview of approaches](https://www.jair.org/index.php/jair/article/view/11640/26511)
+* [Application-of-natural-language-processing-for-finding-semantic-relation-of-elusive-natural-resource](https://github.com/NanmanasLin/Application-of-natural-language-processing-for-finding-semantic-relation-of-elusive-natural-resource)
+  * [paper](https://arxiv.org/abs/2504.07490) -> Geological Inference from Textual Data using Word Embeddings
 ## Named Entity Recognition
 * [Geo NER Model](https://github.com/BritishGeologicalSurvey/geo-ner-model) -> Named entity recognition
 * [GeoBERT](https://huggingface.co/botryan96/GeoBERT) - hugging face repo for model in  
