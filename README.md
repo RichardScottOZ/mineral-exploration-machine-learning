@@ -507,6 +507,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ## Clustering  
 ### Self Organising Maps
 * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
+  * [paper](https://www.lyellcollection.org/doi/pdf/10.1144/geochem2024-055) -> example of GisSOM example
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 ### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
