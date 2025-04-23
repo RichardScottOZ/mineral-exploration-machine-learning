@@ -414,6 +414,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [zenodo](https://zenodo.org/records/8412455))  -> remote sensing foundation model customized for spectral data
  	* [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
 * [Terramind]  (https://github.com/IBM/terramind) -> any-to-any generative foundation model for Earth Observation
+  * [paper](https://arxiv.org/abs/2504.11171) -> Terramind paper
 
   
  ## Processing
