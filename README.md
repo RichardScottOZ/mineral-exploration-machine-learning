@@ -363,6 +363,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
 ## Large Language Models
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
+  * [paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2449708)
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
 	* [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
