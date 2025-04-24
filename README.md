@@ -2691,6 +2691,7 @@ The below are a collection of works from when I was doing a review
 
 # General-Interest
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
+- https://ieeexplore.ieee.org/abstract/document/10825956 -> Enabling Scalable Mineral Exploration:Self-Supervision and Explainability
 - https://www.researchgate.net/publication/384137154_Guidelines_for_Sensitivity_Analyses_in_Process_Simulations_for_Solid_Earth_Geosciences
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
