@@ -2331,6 +2331,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
 - https://ojs.uni-miskolc.hu/index.php/geosciences/article/view/3313 -> EDGE DETECTION OF TOMOGRAPHIC IMAGES USING TRADITIONAL AND DEEP LEARNING TOOLS
+- https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JH000432 -> One‐Fit‐All Transformer for Multimodal Geophysical Inversion: Method and Application
 #### Surface Resistivity
 - https://www.researchgate.net/publication/367606119_Deriving_Surface_Resistivity_from_Polarimetric_SAR_Data_Using_Dual-Input_UNet
 #### Uncertainty
