@@ -39,6 +39,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [EIS Toolkit](https://github.com/GispoCoding/eis_toolkit/tree/master) -> Python library for mineral prospectivity mapping from EIS Horizon EU Project
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
 * [DARPA Criticalmaas](https://github.com/DARPA-CRITICALMAAS)
+  * [competition info](file:///C:/Users/rscott/Downloads/DARPA-PA-22-02-01.pdf)
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
