@@ -139,6 +139,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
+* [PEACE](https://github.com/microsoft/PEACE) -> Empowering Geologic Map Holistic Understanding with MLLMs)
 * [SimCLR Core Disturbance](simclr_core_disturbance)
   * [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000636?via%3Dihub)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
@@ -409,6 +410,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [Zenodo](https://zenodo.org/records/11004358)
     * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
+ * [GeoDINO]A Vision Foundation Model for Earth Observation Leveraging DINO Architecture and Sentinel-2 Multi-Spectral Data
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
   * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
  * [AM-RADIO: Agglomerative Vision Foundation Model](https://github.com/NVlabs/RADIO)
@@ -1859,7 +1861,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
  - https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
- - (https://link.springer.com/article/10.1007/s11053-024-10451-0) -> Mineral Prospectivity Modeling of Graphite Deposits and Occurrences in Canada
+ - https://link.springer.com/article/10.1007/s11053-024-10451-0 -> Mineral Prospectivity Modeling of Graphite Deposits and Occurrences in Canada
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
 - https://link.springer.com/article/10.1007/s11053-024-10438-x#Sec9 -> Pan-Canadian Predictive Modeling of Lithium–Cesium–Tantalum Pegmatites with Deep Learning and Natural Language Processing
