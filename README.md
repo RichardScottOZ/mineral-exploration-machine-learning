@@ -140,6 +140,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [PEACE](https://github.com/microsoft/PEACE) -> Empowering Geologic Map Holistic Understanding with MLLMs)
+  *[paper](https://github.com/microsoft/PEACE) -> GeoMap-Bench
 * [SimCLR Core Disturbance](simclr_core_disturbance)
   * [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000636?via%3Dihub)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
@@ -154,6 +155,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
   * [website](https://tectonique.net/noddy)
+  * [Geo-Bench](https://huggingface.co/datasets/microsoft/PEACE)
 
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
