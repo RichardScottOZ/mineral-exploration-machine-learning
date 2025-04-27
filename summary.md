@@ -6,11 +6,16 @@ Podcast version https://notebooklm.google.com/notebook/4fd0847e-5de1-434a-8141-f
 What are the key domains within geoscience where machine learning and data science are being applied, based on the provided sources?
 The sources highlight the application of machine learning and data science across several core geoscience domains. These include: 
 
-Prospectivity: This is a prominent area, focusing on identifying areas with potential for mineral deposits using various data-driven techniques and machine learning algorithms. 
-Geology: Applications here encompass geological mapping, bedrock depth estimation, structural geological modeling, lithological classification, and the analysis of geological images. 
-Geophysics: Machine learning is being used for gravity and magnetic data inversion, seismic interpretation, electromagnetic data processing and interpretation (like Airborne Electromagnetic - AEM and Magnetotellurics - MT), and foundation models for geophysical data analysis. 
-Geochemistry: This involves analyzing geochemical data for anomaly detection, predicting mineral fertility, classifying rocks and ore deposits based on trace elements, and interpreting geochemical signatures. 
-Remote Sensing: Applications include land-use classification, alteration zone mapping, mineral identification using hyperspectral data, and developing foundation models for Earth observation imagery. 
+# Prospectivity: 
+This is a prominent area, focusing on identifying areas with potential for mineral deposits using various data-driven techniques and machine learning algorithms. 
+# Geology: 
+Applications here encompass geological mapping, bedrock depth estimation, structural geological modeling, lithological classification, and the analysis of geological images. 
+# Geophysics: 
+Machine learning is being used for gravity and magnetic data inversion, seismic interpretation, electromagnetic data processing and interpretation (like Airborne Electromagnetic - AEM and Magnetotellurics - MT), and foundation models for geophysical data analysis. 
+# Geochemistry: 
+This involves analyzing geochemical data for anomaly detection, predicting mineral fertility, classifying rocks and ore deposits based on trace elements, and interpreting geochemical signatures. 
+# Remote Sensing: 
+Applications include land-use classification, alteration zone mapping, mineral identification using hyperspectral data, and developing foundation models for Earth observation imagery. 
 What are some of the prominent machine learning frameworks and tools being utilized in geoscience according to the sources? 
 The sources list a variety of machine learning frameworks and tools, indicating a diverse technological landscape. Some notable examples include: 
 
