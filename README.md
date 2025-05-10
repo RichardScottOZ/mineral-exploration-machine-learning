@@ -2710,6 +2710,7 @@ The below are a collection of works from when I was doing a review
 
 ## Deep Learning
 - https://arxiv.org/abs/2408.11804 -> Approaching Deep Learning through the Spectral Dynamics of Weights
+- https://www.researchgate.net/publication/384833877_A_Review_of_Mineral_Prospectivity_Mapping_Using_Deep_Learning 
 - https://arxiv.org/pdf/2310.19909.pdf -> Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks
 - https://pure.mpg.de/rest/items/item_3029184_8/component/file_3282959/content -> Deep learning and process understanding for data-driven Earth system science
 - https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2391952 -> Deep learning for spatiotemporal forecasting in Earth system science: a review
