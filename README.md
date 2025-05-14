@@ -1,4 +1,3 @@
-
 # mineral-exploration-machine-learning
 This page lists resources for mineral exploration and machine learning, generally with useful code and examples. 
 ML and Data Science is a huge field, these are resources I have found useful and/or interesting to me in practice.
@@ -190,6 +189,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 * [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
+* [Machine Learning Based Mohometry](webexteams://im?space=d1eb3fc0-759f-11ef-8ea0-abe2a7f6227e&message=9c7aef00-3112-11f0-a82d-a57f66ee1388) -> Paleo Crustal Thickness Estimation and Evolution Visualization
 * [others](https://www.bgh.org.au/software/)
 
 ## Simulation
@@ -1250,6 +1250,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [pyGPlates](https://www.gplates.org/docs/pygplates/index.html)
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
 	* [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.185)
+  * [GplatesReconstructionModel](https://github.com/siwill22/GPlatesReconstructionModel)
  
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
