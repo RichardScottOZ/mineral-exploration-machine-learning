@@ -1241,6 +1241,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geologic Time Scale](https://github.com/RichardScottOZ/GeologicTimeScale) -> Code to produce, but also has a nice regular csv of the Ages
 ## Geology
 * [Gempy](https://github.com/RichardScottOZ/gempy) -> Implicit Modelling
+  [geo-lm](https://github.com/williamjsdavis/geo-lm) -> GemPy models via Llama-4
 * [Gemgis](https://github.com/cgre-aachen/gemgis) -> Geospatial Data Analysis assistance 
 * [LoopStructural](https://github.com/Loop3D/LoopStructural) -> Implicity Modelling
 * [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
