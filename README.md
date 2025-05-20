@@ -212,6 +212,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
   * [paper](https://www.nature.com/articles/s41598-025-01333-3)
 
+### Structural
+* [Structural Geophysics Tools](https://github.com/swaxi/SGTool) -> QGIS aimed
 ### Foundation Models
 * [Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation) -> some of code to come
 	* [paper](https://arxiv.org/pdf/2408.12396)
@@ -2697,6 +2699,7 @@ The below are a collection of works from when I was doing a review
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
+- Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example
 - https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
 
 ### LLM
