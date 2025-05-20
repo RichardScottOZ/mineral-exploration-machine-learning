@@ -1869,6 +1869,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340 -> Application of machine learning algorithms to mineral prospectivity mapping
 - https://www.researchgate.net/publication/369599705_A_study_of_faults_in_the_Superior_province_of_Ontario_and_Quebec_using_the_random_forest_machine_learning_algorithm_spatial_relationship_to_gold_mines
 - A balanced mineral prospectivity model of Canadian magmatic Ni (± Cu ± Co ± PGE) sulphide mineral systems using conditional variational autoencoders -> https://www.sciencedirect.com/science/article/pii/S0169136824004621
+- https://link.springer.com/article/10.1007/s11053-025-10468-z -> Class Label Representativeness in Machine Learning-Based Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/273176257_Data-_and_Knowledge_driven_mineral_prospectivity_maps_for_Canada's_North
 - https://www.researchgate.net/publication/300153215_Data_mining_for_real_mining_A_robust_algorithm_for_prospectivity_mapping_with_uncertainties
 - https://www.sciencedirect.com/science/article/pii/S1674987123002268 -> Development and application of feature engineered geological layers for ranking magmatic, volcanogenic, and orogenic system components in Archean greenstone belts
