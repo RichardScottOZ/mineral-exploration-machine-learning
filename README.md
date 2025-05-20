@@ -29,6 +29,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 # Map
 * [Map of Github](https://anvaka.github.io/map-of-github/#10.26/28.263/19.7499)
+* [DeepWiki](https://github.com/AsyncFuncAI/deepwiki-open) -> automagic wiki style analysis of a repo via llm
 
 # Frameworks
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
