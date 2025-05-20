@@ -208,6 +208,10 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JH000400)
 
 ## Geophysics
+### General
+* [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
+  * [paper](https://www.nature.com/articles/s41598-025-01333-3)
+
 ### Foundation Models
 * [Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation) -> some of code to come
 	* [paper](https://arxiv.org/pdf/2408.12396)
