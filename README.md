@@ -1194,6 +1194,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely handy tools like colorisation, grid workflows
   * [Rasterix](https://github.com/dcherian/rasterix) -> Raster tricks for xarray
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
+  * [Griffine](https://github.com/jkeifer/griffine) -> utilities for working with affine grids
   * [serverless-datacube-demo](https://github.com/earth-mover/serverless-datacube-demo) -> xarray via lithops / Coiled / Modal
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xarray-einstats](https://github.com/arviz-devs/xarray-einstats) -> Stats, linear algebra and einops for xarray
