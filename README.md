@@ -458,6 +458,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
 
+A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework for Hyperspectral Unmixing
+
 ## Hyperspectral
 * [CasFormer: Cascaded Transformers for Fusion-aware Computational Hyperspectral Imaging](https://github.com/danfenghong/Information_Fusion_CasFormer)
 * [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras) 
@@ -2586,6 +2588,7 @@ The below are a collection of works from when I was doing a review
 ## Spectral Unmixing
 - Overviews and examples, with some focus on neural network approaches.
 ### Neural Networks
+- https://www.researchgate.net/publication/388546200_A_Joint_Multi-Scale_Graph_Attention_and_Classify-Driven_Autoencoder_Framework_for_Hyperspectral_Unmixing
 - https://www.researchgate.net/publication/224180646_A_neural_network_approach_for_pixel_unmixing_in_hyperspectral_data
 - https://www.researchgate.net/publication/340690859_A_Supervised_Nonlinear_Spectral_Unmixing_Method_by_Means_of_Neural_Networks
 - https://www.researchgate.net/publication/326205017_Classification_of_Hyperspectral_Data_Using_a_Multi-Channel_Convolutional_Neural_Network
