@@ -457,6 +457,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Spectral Python](https://github.com/spectralpython/spectral)
 * [Spectral Dataset RockSL](https://github.com/RichardScottOZ/spectral-dataset-RockSL) -> Open spectral dataset
 * [Unmixing](https://github.com/RichardScottOZ/unmixing)
+* [Unmamba](https://github.com/Preston-Dong/UNMamba) -> Cascaded Spatial–Spectral Mamba for Blind Hyperspectral Unmixing
+  * [paper](https://ieeexplore.ieee.org/document/10902420)
 
 A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework for Hyperspectral Unmixing
 
