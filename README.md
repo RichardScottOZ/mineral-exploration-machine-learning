@@ -2706,7 +2706,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/379960654_From_sensor_fusion_to_knowledge_distillation_in_collaborative_LIBS_and_hyperspectral_imaging_for_mineral_identification
 
 ### NLP
-- https://ieeexplore.ieee.org/abstract/document/10544642 -> Assessing named entity recognition efficacy using diverse geoscience datasets [UNSEEN]
+- https://www.researchgate.net/publication/390874026_Assessing_named_entity_recognition_by_using_geoscience_domain_schemas_the_case_of_mineral_systems
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
