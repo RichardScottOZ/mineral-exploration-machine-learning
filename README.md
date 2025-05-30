@@ -1729,6 +1729,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Groundwater wells](https://www.hydroshare.org/resource/8b02895f02c14dd1a749bcc5584a5c55/) -> Database
 * [Maximum horizontal stress orientation and relative stress magnitude (faulting regime) data throughout North America](https://www.sciencebase.gov/catalog/item/6469516bd34e3a6027e2f527) 
 ## Canada
+### Geochemistry
+* [Database of Canadian surveys](https://geochem.nrcan.gc.ca/cdogs/content/main/home_en.htm) -> some standardisation done here
 ### Geology
 * [Map](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=208175)
 * [Geology](https://ostrnrcan-dostrncan.canada.ca/entities/publication/8ac30d9e-5be6-44b6-8119-848ab893f1e7) -> Updated Bedrock geology map
