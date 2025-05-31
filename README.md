@@ -395,6 +395,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
+## Spelling
+* [pyenchant](https://github.com/pyenchant/pyenchant) -> spelling checker
 
 ## Large Language Models
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
