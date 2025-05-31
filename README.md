@@ -340,6 +340,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ### PDF handling
 * [pdfminer](https://github.com/pdfminer/pdfminer.six)
 * [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
+* [pikepdf](https://github.com/RichardScottOZ/pikepdf) -> pdf image extraction
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF) -> pdf parser
 #### Tables
 * [camelot](https://github.com/camelot-dev/camelot) -> pdf text table extraction
