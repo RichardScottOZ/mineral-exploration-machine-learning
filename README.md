@@ -342,7 +342,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF) -> pdf parser
 #### Tables
-* [camelot](https://github.com/camelot-dev/camelot) -> pdf text extraction
+* [camelot](https://github.com/camelot-dev/camelot) -> pdf text table extraction
 * [layoutparser](https://github.com/Layout-Parser/layout-parser) -> deep learning layhout detection
 * [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
 
@@ -2771,6 +2771,7 @@ The below are a collection of works from when I was doing a review
 - https://arxiv.org/pdf/2410.16602 -> Foundation Models for Remote Sensing and Earth Observation: A Survey
 - https://www.researchgate.net/publication/383460665_Poly2Vec_Polymorphic_Encoding_of_Geospatial_Objects_for_Spatial_Reasoning_with_Deep_Neural_Networks
 - https://www.nature.com/articles/s41467-021-24025-8 -> Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data
+-https://arxiv.org/html/2401.10825v3 -> Recent Advances in Named Entity Recognition: A Comprehensive Survey and Comparative Study
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
 - https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300424000839#sec6 -> Leveraging automated deep learning (AutoDL) in geosciences
