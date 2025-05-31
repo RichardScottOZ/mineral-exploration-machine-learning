@@ -352,6 +352,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ### Python
 * [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
 ### R
+* [crssuggest](https://github.com/walkerke/crsuggest) -> coordinate reference system suggerstions
 * [tidyxl](https://github.com/cran/tidyxl)
 ### OCR
 * [Apache Tika](https://tika.apache.org/) -> OCR, content analysis
