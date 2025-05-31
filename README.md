@@ -382,6 +382,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
 ### R
 * [tidyxl](https://github.com/cran/tidyxl)
+### OCR
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) -> OCR
 
 ## Large Language Models
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
