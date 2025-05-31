@@ -375,6 +375,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
 ## Heuristic Aids
+### Java
+* [GeoTopicParser](https://cwiki.apache.org/confluence/display/TIKA/GeoTopicParser)
 ### Python
 * [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
 * [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
