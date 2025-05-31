@@ -383,6 +383,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ### R
 * [tidyxl](https://github.com/cran/tidyxl)
 ### OCR
+* [Parsee PDF Reader](https://github.com/parsee-ai/parsee-pdf-reader) - PDF Reading/OCR
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) -> OCR
 
 ## Large Language Models
