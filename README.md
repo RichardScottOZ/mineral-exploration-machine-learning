@@ -319,6 +319,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2347316 )
 
 # Natural Language Processing
+## Frameworks
+* [spacy](https://github.com/explosion/spaCy) -> NLP Library
+## Text Extraction
 * [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
 	* [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction 
@@ -333,6 +336,23 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain)
 * [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
 	* [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
+
+## Heuristic Aids
+### Java
+* [GeoTopicParser](https://cwiki.apache.org/confluence/display/TIKA/GeoTopicParser)
+### Python
+* [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
+* [layoutparser](https://github.com/Layout-Parser/layout-parser) -> deep learning layhout detection
+* [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
+* [pdfminer](https://github.com/pdfminer/pdfminer.six)
+* [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) -> pdf parser
+### R
+* [tidyxl](https://github.com/cran/tidyxl)
+### OCR
+* [Apache Tika](https://tika.apache.org/) -> OCR, content analysis
+* [Parsee PDF Reader](https://github.com/parsee-ai/parsee-pdf-reader) - PDF Reading/OCR
+* [Tesseract](https://github.com/tesseract-ocr/tesseract) -> OCR
 ## Word Embeddings
 * [Geoscience Language Models](https://github.com/NRCan/geoscience_language_models) -> processing code pipeline and models [Glove, BERT) retrained on geoscience documents from Canada
 	* [Datasets](https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=329265) -> Data to support models
@@ -374,22 +394,6 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
-## Heuristic Aids
-### Java
-* [GeoTopicParser](https://cwiki.apache.org/confluence/display/TIKA/GeoTopicParser)
-### Python
-* [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
-* [layoutparser](https://github.com/Layout-Parser/layout-parser) -> deep learning layhout detection
-* [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
-* [pdfminer](https://github.com/pdfminer/pdfminer.six)
-* [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
-* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) -> pdf parser
-### R
-* [tidyxl](https://github.com/cran/tidyxl)
-### OCR
-* [Apache Tika](https://tika.apache.org/) -> OCR, content analysis
-* [Parsee PDF Reader](https://github.com/parsee-ai/parsee-pdf-reader) - PDF Reading/OCR
-* [Tesseract](https://github.com/tesseract-ocr/tesseract) -> OCR
 
 ## Large Language Models
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
