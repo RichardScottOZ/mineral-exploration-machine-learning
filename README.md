@@ -374,6 +374,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Ontology CWS](https://github.com/cugdeeplearn/OntologyCWS)
 * [Stratigraphic Knowledge Graph (StraKG)](https://github.com/IGCCP/StraKG)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000119)
+## Heuristic Aids
+* [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
 ## Large Language Models
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
   * [paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2449708)
