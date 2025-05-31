@@ -380,7 +380,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ### Python
 * [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
 * [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
-* [pdfplumber](https://github.com/jsvine/pdfplumber)]
+* [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) -> pdf parser
 ### R
 * [tidyxl](https://github.com/cran/tidyxl)
 ### OCR
