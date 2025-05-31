@@ -379,6 +379,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoTopicParser](https://cwiki.apache.org/confluence/display/TIKA/GeoTopicParser)
 ### Python
 * [GIS Metadata parsing](https://github.com/RichardScottOZ/gis-metadata-parser) -> extract data from xml etc.
+* [layoutparser](https://github.com/Layout-Parser/layout-parser) -> deep learning layhout detection
 * [messytables](https://github.com/okfn/messytables?tab=readme-ov-file) -> find headers and datatypes
 * [pdfminer](https://github.com/pdfminer/pdfminer.six)
 * [pdfplumber](https://github.com/jsvine/pdfplumber) -> pdf table extraction
