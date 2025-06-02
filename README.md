@@ -1162,7 +1162,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [MEIGA](https://www.bgs.ac.uk/news/over-600-mineral-exploration-project-reports-now-available-through-the-uk-critical-minerals-intelligence-centre/) -> MEIGA 600 BGS mineral exploration project reports
 * [GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
-* [Mineral Databse](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
+* [Mineral Database](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
 * [NASA](https://www.sti.nasa.gov/research-access/)  
 * [ResearchGate](https://www.researchgate.net/) -> Researcher and professional network
 
