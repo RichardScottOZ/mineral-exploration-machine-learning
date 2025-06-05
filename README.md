@@ -2417,6 +2417,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://www.researchgate.net/publication/370835450_Predicting_new_mineral_occurrences_and_planetary_analog_environments_via_mineral_association_analysis
 - https://www.researchgate.net/publication/361230503_What_is_Mineral_Informatics
 ### NLP
+- https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2025.1530004/full#B23 -> Assessing named entity recognition by using geoscience domain schemas: the case of mineral systems
 - https://www.researchgate.net/publication/358616133_Chinese_Named_Entity_Recognition_in_the_Geoscience_Domain_Based_on_BERT
 - https://www.researchgate.net/publication/339394395_Dictionary-Based_Automated_Information_Extraction_From_Geological_Documents_Using_a_Deep_Learning_Algorithm
 - https://www.aclweb.org/anthology/2020.lrec-1.568/ -> Embeddings for Named Entity Recognition in Geoscience Portuguese Literature
