@@ -547,6 +547,8 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 * [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector data
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
 # Machine Learning
+* [CuML](https://github.com/rapidsai/cuml) -> CUDA accelerated
+  * [scikit-learn acceleration notebook](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cuml_sklearn_colab_demo.ipynb#scrollTo=fqJC2jtmqpva)
 * [Dask-ml](https://github.com/dask/dask-ml) -> Distributed versions of some common ML algorithms
 	* [paper](https://joss.theoj.org/papers/10.21105/joss.06889.pdf)
 * [geospatial-rf](https://github.com/BritishGeologicalSurvey/geospatial-rf) -> Functions and wrappers to assist with random forest applications in a spatial context
