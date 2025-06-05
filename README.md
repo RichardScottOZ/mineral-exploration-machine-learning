@@ -190,7 +190,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 * [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
-* [Machine Learning Based Mohometry](webexteams://im?space=d1eb3fc0-759f-11ef-8ea0-abe2a7f6227e&message=9c7aef00-3112-11f0-a82d-a57f66ee1388) -> Paleo Crustal Thickness Estimation and Evolution Visualization
+* [Machine Learning Based Mohometry](https://github.com/EarthByte/Machine-Learning-Based-Mohometry/tree/main) -> Paleo Crustal Thickness Estimation and Evolution Visualization
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030404)
 * [others](https://www.bgh.org.au/software/)
 
