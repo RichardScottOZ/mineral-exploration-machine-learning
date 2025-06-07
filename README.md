@@ -863,6 +863,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Earth Model Collaboration](https://ds.iris.edu/ds/products/emc/) -> access to various Earth models, visualization tools for model preview, facilities to extract model data/metadata and access to the contributed processing software and scripts.
 * [ISC Bulletin](https://www.isc.ac.uk/iscbulletin/search/fmechanisms/) -> Earthquake focal mechanism search
 * [Magnetics Information Consortium](https://www2.earthref.org/MagIC/search) -> paleomagnetic, geomagnetic, rock magnetic
+* [Earthchem](https://www.earthchem.org/) -> Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data
 ## Australia
 ### Geoscience Australia
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
