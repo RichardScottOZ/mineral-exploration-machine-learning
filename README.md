@@ -444,6 +444,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [earthnets](https://earthnets.nicepage.io/ )
 * [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
 * [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
+* [pytorch cloud geotiff optimization](https://github.com/microsoft/pytorch-cloud-geotiff-optimization)
+  * [paper](https://arxiv.org/pdf/2506.06235) -> Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth
+Observation Data
 * [AiTLAS](https://github.com/biasvariancelabs/aitlas-arena) -> an open-source benchmark suite for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
 * [Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
 * [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
