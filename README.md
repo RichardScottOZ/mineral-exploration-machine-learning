@@ -1542,6 +1542,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GOGI](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database) -> GOGI Oil and Gas wells
   * [report](https://edx.netl.doe.gov/dataset/development-of-an-open-global-oil-and-gas-infrastructure-inventory-and-geodatabase)
 * [OGIM](https://zenodo.org/records/15103476) -> Oil and Gas Infrastructure Mapping [including wells]
+  * [paper](https://essd.copernicus.org/articles/15/3761/2023/) -> OGIM paper
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
