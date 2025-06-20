@@ -1537,6 +1537,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [WDMAM](https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
 #### Magnetotellurics
 * [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
+#### Oil and Gas Wells
+* [GOGI](https://edx.netl.doe.gov/dataset/global-oil-gas-features-database) -> GOGI Oil and Gas wells
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
