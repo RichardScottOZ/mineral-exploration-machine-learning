@@ -153,9 +153,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
 ## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
-  * [Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
+  * [Original Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
   * [website](https://tectonique.net/noddy)
-  * [Geo-Bench](https://huggingface.co/datasets/microsoft/PEACE)
+  * [New Geonetwork Location](https://geonetwork.nci.org.au/geonetwork/srv/eng/catalog.search#/metadata/f3570_5134_6366_9231)
+* [Geo-Bench](https://huggingface.co/datasets/microsoft/PEACE)
 
 ## Lithology
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
