@@ -1047,6 +1047,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
  * [SIGEOM Database](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_aLaCarte?l=F)
+  * [Drilling](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/GPKG/SIGEOM_QC_Drilling_GPKG.zip)
 * [British Columbia](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/publications/digital-geoscience-data)
  * [Mineral occcurrence database](https://catalogue.data.gov.bc.ca/dataset/minfile-mineral-occurrence-database)
 * [Yukon](https://data.geology.gov.yk.ca/)
