@@ -946,24 +946,24 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geology](https://data.gns.cri.nz/geology/) -> Web Map
   * https://maps.gns.cri.nz/gns/wfs 
 ## South America
+### Argentina
+* [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
+ * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
  * [Downloads](https://geosgb.cprm.gov.br/geosgb/downloads_en.html) -> Brazil Geological Survey Downloads
 * [Rigeo](https://rigeo.cprm.gov.br/) -> Institutional Repository of Geosciences
+### Chile
+* [Portalgeomin](https://portalgeomin.sernageomin.cl/)
+### Colombia
+* [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
+### Mexico
+* [GeoInfo](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
 ### Peru
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
-### Mexico
-* [GeoInfo](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
-### Argentina
-* [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
- * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
-### Colombia
-* [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
 ### Uruguay
 * [Dimage](http://visualizadorgeominero.dinamige.gub.uy/DINAMIGE_mvc2/)
-### Chile
-* [Portalgeomin](https://portalgeomin.sernageomin.cl/)
 
 ## Europe
 * [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
@@ -1045,6 +1045,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [DEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Canada DEM in COG format
  * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
+  * [Geology Ontario](https://www.hub.geologyontario.mines.gov.on.ca/)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
  * [SIGEOM Database](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_aLaCarte?l=F)
   * [Drilling](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/GPKG/SIGEOM_QC_Drilling_GPKG.zip)
