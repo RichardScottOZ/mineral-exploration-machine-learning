@@ -1104,6 +1104,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geoscientific Data](http://dcc.ngac.org.cn/en?ssoguid=d7b8fe124bdf4f02b0f0b63bde4db79b)
 * [Mineral Occurrences](http://dcc.cgs.gov.cn/cn/geologicalData/details/doi/10.23650/data.A.2019.NGA120157.K1.1.1.V1)
  * [National Mineral Deposit Database](http://dcc.ngac.org.cn/en//geologicalData/details/doi/10.23650/data.C.2018.NGA120770.K1.1.1.V1)
+### Indonesia
+* [Sedimentary Basins](https://geology.esdm.go.id/geomigas/)
 ### India
 * [Bhukosh](https://bhukosh.gsi.gov.in/Bhukosh/Public) -> India Geological Survey
  * Note Rajasthan geology doesn't work except piecemeal which is painful - if you want it, let me 
