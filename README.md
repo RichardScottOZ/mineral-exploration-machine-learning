@@ -2795,3 +2795,6 @@ The below are a collection of works from when I was doing a review
 - https://arxiv.org/abs/2404.07738 ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models
 - https://ieeexplore.ieee.org/abstract/document/10605826 -> Swin-CDSA: The Semantic Segmentation of Remote Sensing Images Based on Cascaded Depthwise Convolution and Spatial Attention Mechanism
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300424000839#sec6 -> Leveraging automated deep learning (AutoDL) in geosciences
+
+## Data Types
+- Paul Bourke GOCAD formats https://paulbourke.net/dataformats/gocad/gocad.pdf
