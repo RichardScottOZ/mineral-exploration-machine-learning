@@ -1115,6 +1115,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [geoporta](http://data.kigam.re.kr/search)
 ### Saudi Arabia
 * [National Geological Database Portal](https://ngdp.sgs.gov.sa/ngp/) 
+### Thailand
+* [GIS Portal](https://gis.dmr.go.th/DMR-GIS/gis)
 ## Other
 ### Geology
 * [StratDB](https://sil.usask.ca/stratdb-data-compilation.php)
