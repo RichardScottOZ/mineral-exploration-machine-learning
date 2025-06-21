@@ -1084,6 +1084,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Hydrogeology](https://ggis.un-igrac.org/maps/1900) -> Hydrogeology and geology from groundwater atlas
 * [West Africa](https://ars.els-cdn.com/content/image/1-s2.0-S0301926815001771-mmc1.csv) -> Mineral deposits
 * [Namibia](https://namibia.africageoportal.com/)
+  * (https://portal.mme.gov.na/page/MapPublic)
  * [Mineral Occurrences](https://namibia.africageoportal.com/datasets/2eee87a9bec944b1b628aad36c262407_0/explore?location=55.319481%2C5.326328%2C7.67&showTable=true)
  * [Miners](https://services8.arcgis.com/oTalEaSXAuyNT7xf/ArcGIS/rest/services/Namibia_Mines/FeatureServer/layers)
 * [South Africa](https://maps.geoscience.org.za/portal/apps/sites/#/council-for-geoscience-interactive-web-map-1) -> South Africa geological survey
