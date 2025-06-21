@@ -762,14 +762,19 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [SIG Andes](http://mapsref.brgm.fr/wxs/1GG/SIGAndes_BRGM) -> Andes geology
 ## Europe
 [EGDI](https://data.geus.dk/egdi/wfs/?whoami=modern_major_mineral@gmail.com&typenames=egdi_mineraloccurr_base_metals) -> EGDI Minerals
+### Britain
+* [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
+ * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
+ * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
+ & [Inspire 625](http://ogc.bgs.ac.uk/digmap625k_gsml_insp_gs/wfs?service=WFS&request=GetCapabilities&AcceptVersions=2.0.0)
+### Czech Republic
+* [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
 ### Denmark
-* [Deus](https://data.geus.dk/geusmap/ows/help/?mapname=oil_and_gas&epsg=25832)
-### Sweden
-* [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
-* [SGU Uranium](https://resource.sgu.se/service/wms/130/flyggeofysik-gammastralning-uran)
-* [SGU Borehole](https://api.sgu.se/oppnadata/borrhal/ogc/features/v1)
- * [Geophysics metadata](https://resource.sgu.se/dokument/produkter/geofysiska-flygmatningar-metadata-wms-beskrivning.pdf)
-
+* [deus](http://data.geus.dk/geusmap/ows/25832.jsp?whoami=[email]) -> Greenland WMS/WFS
+* [Deus](https://data.geus.dk/geusmap/ows/help/?mapname=oil_and_gas&epsg=25832)  - Update?
+### Ireland
+* [Rest](https://gsi.geodata.gov.ie/server/rest/services)
+ * [Mineral Locations](https://gsi.geodata.gov.ie/server/rest/services/Minerals/IE_GSI_Mineral_Locations_IE26_ITM/MapServer/0)
 ### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
@@ -777,12 +782,22 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 	* [Geophysics](http://gtkdata.gtk.fi/ArcGIS/services/Rajapinnat/GTK_Geofysiikka_WMS/MapServer/WMSServer)
 	* [Ground Surveys](http://gtkdata.gtk.fi/arcgis/services/Rajapinnat/GTK_Pohjatutkimukset_WMS/MapServer/WMSServer)
 * [Arctic Minerals](http://13.95.69.121:80/geoserver/erl/ows) -> Arctic 1M Mineral Occurrences
-### Denmark
-* [deus](http://data.geus.dk/geusmap/ows/25832.jsp?whoami=[email]) -> Greenland WMS/WFS
+### Germany
+* [BRG](https://services.bgr.de/uebersicht/kurzlinks)
+### Hungary
+* [MBFZ OGC](https://map.mbfsz.gov.hu/)
+* [MBFZ Rest](https://map.mbfsz.gov.hu/arcgis/rest/services)
+### Poland
+* [Rest example](https://cbdgmapa.pgi.gov.pl/arcgis/rest/services/midas/MapServer/1?f=json) -> Many more mapservers
 ### Portugal
 * [Portugal Geology](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
  * [Mineral Occurrences](https://sig.lneg.pt/server/services/OcorrenciasMinerais/MapServer/WMSServer?request=GetCapabilities&service=WMS) -> WMS
  * [Cities and Town](https://inspire.lneg.pt/arcgis/rest/services/CartografiaGeologica/CGP1M/MapServer)
+### Romania
+* [IGR](https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
+ * [IGR minres](https://inspire.igr.ro/geoserver/minerals4eu/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
+### Slovakia
+* [Rest](https://gis.geology.sk/arcgis/rest/services)
 ### Spain
 * [Spain](https://mapas.igme.es/gis/rest/services)
  * [Geology](https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Geologico_200/MapServer) -> 200K
@@ -793,30 +808,13 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
  * [Copper](https://mapas.igme.es/gis/rest/services/AtlasGeoquimico/IGME_MapaIsovalores2012_Cu/MapServer) - Copper
  * [GeoFPI](https://mapas.igme.es/gis/rest/services/GeoFPI) - > Geology and Minerals South Portuguese Zone
  * [Water](https://mapas.igme.es/gis/rest/services/InfoIGME/AmbEsp_03/MapServer)
+### Sweden
+* [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
+* [SGU Uranium](https://resource.sgu.se/service/wms/130/flyggeofysik-gammastralning-uran)
+* [SGU Borehole](https://api.sgu.se/oppnadata/borrhal/ogc/features/v1)
+ * [Geophysics metadata](https://resource.sgu.se/dokument/produkter/geofysiska-flygmatningar-metadata-wms-beskrivning.pdf)
 ### Ukraine
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
-### Ireland
-* [Rest](https://gsi.geodata.gov.ie/server/rest/services)
- * [Mineral Locations](https://gsi.geodata.gov.ie/server/rest/services/Minerals/IE_GSI_Mineral_Locations_IE26_ITM/MapServer/0)
-### Britain
-* [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
- * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
- * [Rest](https://map.bgs.ac.uk/arcgis/rest/services) -> BGS Rest services
- & [Inspire 625](http://ogc.bgs.ac.uk/digmap625k_gsml_insp_gs/wfs?service=WFS&request=GetCapabilities&AcceptVersions=2.0.0)
-### Germany
-* [BRG](https://services.bgr.de/uebersicht/kurzlinks)
-### Czech Republic
-* [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
-### Slovakia
-* [Rest](https://gis.geology.sk/arcgis/rest/services)
-### Hungary
-* [MBFZ OGC](https://map.mbfsz.gov.hu/)
-* [MBFZ Rest](https://map.mbfsz.gov.hu/arcgis/rest/services)
-### Romania
-* [IGR](https://inspire.igr.ro/geoserver/Test/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
- * [IGR minres](https://inspire.igr.ro/geoserver/minerals4eu/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities) -> WMS only
-### Poland
-* [Rest example](https://cbdgmapa.pgi.gov.pl/arcgis/rest/services/midas/MapServer/1?f=json) -> Many more mapservers
 
 ## North America
 ### Canada
