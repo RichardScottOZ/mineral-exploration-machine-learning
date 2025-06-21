@@ -1046,6 +1046,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [CDEM](https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333) -> Digital Elevation Model (2011)
 * [Ontario](https://www.geologyontario.mndm.gov.on.ca/ogsearth.html)
   * [Geology Ontario](https://www.hub.geologyontario.mines.gov.on.ca/)
+  * [Drilling](https://www.geologyontario.mndm.gov.on.ca/mines/ogs/databases/OMI.zip)
 * [Quebec](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/)
  * [SIGEOM Database](https://sigeom.mines.gouv.qc.ca/signet/classes/I1102_aLaCarte?l=F)
   * [Drilling](https://gq.mines.gouv.qc.ca/documents/SIGEOM/TOUTQC/ANG/GPKG/SIGEOM_QC_Drilling_GPKG.zip)
