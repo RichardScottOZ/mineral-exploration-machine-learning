@@ -765,7 +765,9 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Sweden
 * [SGU Magnetics WMS](https://resource.sgu.se/service/wms/130/flyggeofysik-magnet)
 * [SGU Uranium](https://resource.sgu.se/service/wms/130/flyggeofysik-gammastralning-uran)
+* [SGU Borehole](https://api.sgu.se/oppnadata/borrhal/ogc/features/v1)
  * [Geophysics metadata](https://resource.sgu.se/dokument/produkter/geofysiska-flygmatningar-metadata-wms-beskrivning.pdf)
+
 ### Finland
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/map-services/) -> Geological Survey of Finland
   * [Finland](https://gtkdata.gtk.fi/arcgis/rest/services)
