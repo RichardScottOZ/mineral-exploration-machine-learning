@@ -1236,7 +1236,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
     * [Tutorial](https://github.com/martinfleis/dask-geopandas-tutorial)
   * [geofileops](https://github.com/geofileops/geofileops) -> Increased speed spatial joins via database functions and geopackage
 * [Kart](https://github.com/koordinates/kart) -> Distributed version control for daata
-* [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest Servers
+* [PyESRIDump](https://github.com/RichardScottOZ/pyesridump) -> Library to grab data at scale from ESRI Rest 
+* [DuckDB Spatial Extension](https://duckdb.org/docs/stable/core_extensions/spatial/overview.html) -> Can also use standalone no install necessary executable
 ### R
 * [SF](https://r-spatial.github.io/sf/)
 * [terra](https://github.com/rspatial/terra) -> terra provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.  
