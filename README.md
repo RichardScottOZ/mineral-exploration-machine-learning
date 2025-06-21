@@ -772,6 +772,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 ### Denmark
 * [deus](http://data.geus.dk/geusmap/ows/25832.jsp?whoami=[email]) -> Greenland WMS/WFS
 * [Deus](https://data.geus.dk/geusmap/ows/help/?mapname=oil_and_gas&epsg=25832)  - Update?
+### Iceland
+[web map](https://www.map.is/os/@656678,471081,z0,0)
 ### Ireland
 * [Rest](https://gsi.geodata.gov.ie/server/rest/services)
  * [Mineral Locations](https://gsi.geodata.gov.ie/server/rest/services/Minerals/IE_GSI_Mineral_Locations_IE26_ITM/MapServer/0)
