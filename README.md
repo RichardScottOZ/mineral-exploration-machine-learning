@@ -821,11 +821,12 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 ## North America
 ### Canada
-* [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
+* [Newfoundland & Labrador](https://dnrmaps.gov.nl.ca/arcgis/rest/services/GeoAtlas/Map_Layers/MapServer)
 * [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
- * [Rest](https://www.maps.geomatics.gov.nt.ca/Geocortex/Essentials/REST/sites/Spatial_Data_Warehouse/map)
- * [References](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer)
- * [Yukon](https://mapservices.gov.yk.ca/arcgis/rest/services/GeoYukon/GY_Geological/MapServer)
+  * [Rest](https://www.maps.geomatics.gov.nt.ca/Geocortex/Essentials/REST/sites/Spatial_Data_Warehouse/map)
+  * [References](https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/groundwater/Bore_Hydrochemistry/FeatureServer)
+* [Quebec](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
+* [Yukon](https://mapservices.gov.yk.ca/arcgis/rest/services/GeoYukon/GY_Geological/MapServer)
 ### USA
 * [USGS World Mineral](https://mrdata.usgs.gov/services/wfs/ofr20051294?version=1.1.0)
 * [USGS MRDS](https://mrdata.usgs.gov/services/mrds?request=getcapabilities&service=WFS&version=1.0.0&)
@@ -952,6 +953,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [GERM](https://data.gns.cri.nz/germ/submitQuery.html) -> Geological Resource Map of New Zealand
 * [Geology](https://data.gns.cri.nz/geology/) -> Web Map
   * https://maps.gns.cri.nz/gns/wfs 
+
 ## South America
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
@@ -996,7 +998,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Goldmine](https://secure.decc.gov.ie/goldmine/index.html) -> Map and document search
 * [data.gov.ie](https://data.gov.ie/organization/geological-survey-of-ireland) -> National portal view
 * [isde](https://isde.ie/geonetwork/srv/eng/catalog.search#/) -> Irish Spatial Data Exchange
-
 ### Norway
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
