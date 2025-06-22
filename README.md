@@ -821,6 +821,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 ## North America
 ### Canada
+* [Manitoba](https://rdmaps.gov.mb.ca/arcgis/rest/services/MapGallery/MG_GEOLOGY_CLIENT/MapServer/)
 * [Newfoundland & Labrador](https://dnrmaps.gov.nl.ca/arcgis/rest/services/GeoAtlas/Map_Layers/MapServer)
 * [NWT](https://services3.arcgis.com/GSr8HAQhtEt4sNnv/arcgis/rest/services/)
   * [Rest](https://www.maps.geomatics.gov.nt.ca/Geocortex/Essentials/REST/sites/Spatial_Data_Warehouse/map)
