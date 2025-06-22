@@ -1072,6 +1072,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Interactive Mapping Application](https://experience.arcgis.com/experience/d813bc54fcde4e099de7b399f7145434/)
 * [Northwest Territories](https://app.nwtgeoscience.ca/)
  * [Mineral Tenure](https://www.maps.geomatics.gov.nt.ca/)
+* [Nunavut Geoscience](https://nunavutgeoscience.ca/apps/showing/showQuery.php)
 ### USA
 * [USGS](https://www.sciencebase.gov/catalog/item/5888bf4fe4b05ccb964bab9d) -> Map database
  * [MRDS](https://mrdata.usgs.gov/mrds/) -> Mineral Resources Data Systems
