@@ -820,6 +820,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geoinform](https://geoinf.kiev.ua/wp/index.html) -> [currently suspended]
 
 ## North America
+* [USGS Boreholes](https://services.arcgis.com/v01gqwM5QqNysAAi/ArcGIS/rest/services/NIBI_Borehole_Prod/FeatureServer/0)
 ### Canada
 * [Manitoba](https://rdmaps.gov.mb.ca/arcgis/rest/services/MapGallery/MG_GEOLOGY_CLIENT/MapServer/)
 * [Newfoundland & Labrador](https://dnrmaps.gov.nl.ca/arcgis/rest/services/GeoAtlas/Map_Layers/MapServer)
