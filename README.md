@@ -1549,6 +1549,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 # Datasets
 ## World
+### Drilling
+* [Deep Ocean Drilling](https://www.ncei.noaa.gov/products/international-ocean-drilling-archive)
 ### Geochemistry
 * [Critical Minerals in Ores](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145496)
 ### Geology
