@@ -839,6 +839,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [India Mineral](https://bhukosh.gsi.gov.in/arcgis/services/Mineral/Mineral/MapServer/WmsServer) -> WMS
 * [India Geophysics](https://bhukosh.gsi.gov.in/wms/en)
 * [Korea](https://data.kigam.re.kr/mgeo/geoserver/ows?service=wfs&version=1.0.0&request=GetCapabilities)
+* [ASEAN wms](https://geohazards-info.gsj.jp/amdis/index.php) -> no data, just picture
 ### Africa
 * [Africa Geoportal](https://services8.arcgis.com/oTalEaSXAuyNT7xf/ArcGIS/rest/services) -> Rest services
 * [Africa 10M](http://mapsref.brgm.fr/wxs/1GG/SIGAfrique_BRGM_Africa_MineralResources) -> Africa 10M Mineral Occurrences
@@ -1548,6 +1549,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 
 # Datasets
+
 ## World
 ### Drilling
 #### Ocean
