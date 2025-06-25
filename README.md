@@ -170,6 +170,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2394228)
 * [SedNet](https://github.com/MudRocw1/SedNet_explainable-deep-learning-network)
 	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
+* [SCB-Net](https://github.com/victsnet/SCB-Net) -> Lithological mapping using Spatially Constrained Bayesian Network
+  * [paper](https://www.sciencedirect.com/science/article/pii/S0098300425001141?via%3Dihub)
 
 ## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
