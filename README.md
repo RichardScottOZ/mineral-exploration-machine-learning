@@ -379,6 +379,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [PetroNLP](https://github.com/Petroles/PetroNLP) -> Organisation
   * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
   * [Petro KGraph](https://github.com/Petroles/Petro_KGraph) -> Ontological work with petrovec
+  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973) -> [UNSEEN]
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
 	* [Portuguese models](http://nilc.icmc.usp.br/embeddings)
