@@ -377,6 +377,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [gloVE python](https://pypi.org/project/glove-python-binary/) glove, glove-python highly problematic on windows: here Binary version for Windows installs:
 * [Mittens](https://github.com/roamanalytics/mittens) -> In memory vectorized glove implementation 
 * [PetroVec](https://github.com/Petroles/Petrovec) -> Portuguese Word Embeddings for the Oil and Gas Industry: development and evaluation
+  * [Petro KGraph](https://github.com/Petroles/Petro_KGraph) -> Ontological work with petrovec
 * [wordembeddingsOG](https://github.com/diogosmg/wordEmbeddingsOG) -> Portuguese Oil and Gas word embeddings
 * [Portuguese Word Embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings) 
 	* [Portuguese models](http://nilc.icmc.usp.br/embeddings)
@@ -1836,6 +1837,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/334507958_Word_embeddings_for_application_in_geosciences_development_evaluation_and_examples_of_soil-related_concepts -> GeoVec [includes model]
 - https://www.researchgate.net/publication/347902344_Portuguese_word_embeddings_for_the_oil_and_gas_industry_Development_and_evaluation -> PetroVec [includes model]
 - A resource for automated search and collation of geochemical datasets from journal supplements
+
 ### Geochemistry
 - https://www.researchgate.net/publication/365758387_A_resource_for_automated_search_and_collation_of_geochemical_datasets_from_journal_supplements
 	- https://github.com/erinlmartin/figshare_geoscrape?s=09
