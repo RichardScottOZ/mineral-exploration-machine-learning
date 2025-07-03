@@ -881,6 +881,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Macrostrat](https://macrostrat.org/api)
 	* [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.189) 
 * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
+* [Iceland Geological Society](https://api.orkustofnun.is/)
  
  # Data Portals
 ## World
