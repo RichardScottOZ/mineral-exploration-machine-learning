@@ -981,6 +981,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
 ### Mexico
 * [GeoInfo](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
+### Paraguay
+* [Geology of Paraguay](https://www.geologiadelparaguay.com.py/Mapas.htm)
 ### Peru
 * [Ingemmet GeoPROMINE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=95abc980a2ad441191fde60d66266d2b) -> Geological Survey of Peru
  * [GeoMAPE](https://ingemmet-peru.maps.arcgis.com/apps/webappviewer/index.html?id=6581aa545eca4547acdc1fc7136f1fcd)
