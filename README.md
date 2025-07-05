@@ -2162,6 +2162,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/258505300_Application_of_staged_factor_analysis_and_logistic_function_to_create_a_fuzzy_stream_sediment_geochemical_evidence_layer_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/358567148_Applications_of_data_augmentation_in_mineral_prospectivity_prediction_based_on_convolutional_neural_networks
 - https://www.researchgate.net/publication/353761696_Assessing_the_effects_of_mineral_systems-derived_exploration_targeting_criteria_for_Random_Forests-based_predictive_mapping_of_mineral_prospectivity_in_Ahar-Arasbaran_area_Iran
+- https://www.sciencedirect.com/science/article/abs/pii/S0375674225000871 -> A semi-supervised learning framework for intelligent mineral prospectivity mapping: Incorporation of the CatBoost and Gaussian mixture model algorithms [UNSEEN]
 - https://www.researchgate.net/publication/270586282_Data-Driven_Index_Overlay_and_Boolean_Logic_Mineral_Prospectivity_Modeling_in_Greenfields_Exploration
 - https://www.researchgate.net/publication/356660905_Deep_GMDH_Neural_Networks_for_Predictive_Mapping_of_Mineral_Prospectivity_in_Terrains_Hosting_Few_but_Large_Mineral_Deposits
 - https://link.springer.com/article/10.1007/s12145-025-01708-0 Density based spatial clustering of applications with noise and fuzzy C-means algorithms for unsupervised mineral prospectivity mapping [UNSEEN]
