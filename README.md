@@ -2428,6 +2428,7 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://www.researchgate.net/publication/383454185_Deep_joint_inversion_of_electromagnetic_seismic_and_gravity_data
 - https://ieeexplore.ieee.org/abstract/document/10677418 -> Joint Inversion of Seismic and Resistivity Data Powered by Deep-learning [UNSEEN]
 - Deep learning-based geophysical joint inversion using partial channel drop method -> https://www.sciencedirect.com/science/article/abs/pii/S0926985124002702
+- https://www.mdpi.com/2076-3417/15/6/3125 -> A Hybrid Deep Learning Approach for Integrating Transient Electromagnetic and Magnetic Data to Enhance Subsurface Anomaly Detection
 ### Magnetics
 - https://www.researchgate.net/publication/348697645_3D_geological_structure_inversion_from_Noddy-generated_magnetic_data_using_deep_learning_methods
 - https://www.researchgate.net/publication/360288249_3D_Inversion_of_Magnetic_Gradient_Tensor_Data_Based_on_Convolutional_Neural_Networks
