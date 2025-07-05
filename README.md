@@ -2815,7 +2815,8 @@ The below are a collection of works from when I was doing a review
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242692 -> GeoProspect: a domain specific geological large language model
 
 # General-Interest
-- https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -- A Review on Time-series and Spatiotemporal Causality Methods
+- https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -> A Review on Time-series and Spatiotemporal Causality Methods
+- https://link.springer.com/article/10.1007/s11831-025-10244-5 -> Deep Learning for Time Series Forecasting: Review and Applications in Geotechnics and Geosciences
 - https://ieeexplore.ieee.org/abstract/document/10825956 -> Enabling Scalable Mineral Exploration:Self-Supervision and Explainability
 - https://www.researchgate.net/publication/384137154_Guidelines_for_Sensitivity_Analyses_in_Process_Simulations_for_Solid_Earth_Geosciences
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
