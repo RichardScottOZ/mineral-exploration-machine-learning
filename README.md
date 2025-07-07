@@ -1220,6 +1220,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
     * [2D Geology in QGIS](https://github.com/frizatch/2DGeology_in_QGIS) -> Workshop for QGIS NA 2020 introducing geologic maps and cross-sections for students and hobbyists
     * [OpenLog](https://gitlab.com/geolandia/openlog/openlog-qgis-plugin) -> Drillhole plugin beta
     * [Geo-SAM](https://github.com/coolzhao/Geo-SAM) -> QGIS plugin for Segment Anything with rasters
+    * [QGIS Project Packager](https://github.com/gbrlpzz/qgis_project_packager)
 	* [Weights-of-Evidence](https://github.com/chudasama-bijal/QGIS-Plugin-Weights-of-Evidence-Model)
 	 * [plugin](https://plugins.qgis.org/plugins/wofe_module/)
   * [GRASS](https://github.com/OSGeo/grass) 
