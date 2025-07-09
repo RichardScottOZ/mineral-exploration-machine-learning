@@ -2329,6 +2329,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://www.sciencedirect.com/science/article/pii/S2949891024002112 -> Sensitivity analysis of similarity learning models for well-intervals based on logging data
 - https://www.sciencedirect.com/science/article/pii/S2949891024003828 -> CoreViT: a new vision transformer model for lithology identification in cores
 #### General
+- https://www.researchgate.net/publication/390084932_A_Deep_Learning_Method_for_3D_Geological_Modeling_Using_ET4DD_with_Offset-Attention_Mechanism -> A deep learning method for 3D geological modeling using ET4DD with offset-attention mechanism [UNSEEN - repo listed in paper but not available]
 - https://www.sciencedirect.com/science/article/pii/S0034425724002323 -> Deep learning-based geological map generation using geological routes
 - https://www.researchgate.net/publication/354781583_Deep_learning_framework_for_geological_symbol_detection_on_geological_maps
 - https://www.researchgate.net/publication/335104674_Does_shallow_geological_knowledge_help_neural-networks_to_predict_deep_units
