@@ -149,9 +149,12 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 * [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
-	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniqueshttps://github.com/alexandra-jarna/Bedrock-vs-sediment)
+	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniques
 * [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
 	* [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
+* [Geological Section Generated based on per-pixel linked lists](https://github.com/Dy111111/Geological-Sections_Generation_based_on_PPLL )
+  * [paper](https://www.researchgate.net/publication/391580813_A_real-time_geological_sections_generation_method_for_geological_3D_models_based_on_per-pixel_linked_lists)
+
 ## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
   * [Original Zenondo repository](https://zenodo.org/record/4589883#.YvYk23ZByUk)  
