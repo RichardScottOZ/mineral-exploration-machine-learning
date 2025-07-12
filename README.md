@@ -2364,7 +2364,8 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 - https://www.researchgate.net/publication/385074584_Deep_Learning-Based_Mineral_Classification_Using_Pre-Trained_VGG16_Model_with_Data_Augmentation_Challenges_and_Future_Directions
-
+#### Resource
+- https://link.springer.com/article/10.1007/s11053-025-10485-y -> Uncertainty Quantification of Microblock-Based Resource Models and Sequencing of Sampling
 #### Stratigraphy
 - https://www.researchgate.net/publication/335486001_A_Stratigraphic_Prediction_Method_Based_on_Machine_Learning
 - https://www.researchgate.net/publication/346641320_Classifying_basin-scale_stratigraphic_geometries_from_subsurface_formation_tops_with_machine_learning
