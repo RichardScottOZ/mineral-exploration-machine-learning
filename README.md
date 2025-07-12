@@ -2197,6 +2197,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchsquare.com/article/rs-4760956/v1 -> Uncertainty reduction with Hyperparameter Optimization in mineral prospectivity mapping: A Regularized Artificial Neural Network approach	[UNSEEN]
 #### Ireland
 - https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
+#### Nigeria
+- https://www.researchgate.net/publication/390597293_Assessment_of_Mineral_Deposits_in_Part_of_North_Senatorial_Zone_Adamawa_State_Nigeria_Using_Remote_Sensing_Geographic_Information_Systems_and_Machine_Learning
 #### Norway
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
 #### Pakistan
