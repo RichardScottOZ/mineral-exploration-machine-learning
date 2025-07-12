@@ -2346,8 +2346,8 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.sciencedirect.com/science/article/pii/S0169136824000921 -> Machine learning-based field geological mapping: A new exploration of geological survey data acquisition strategy https://www.researchgate.net/publication/324411647_Predicting_rock_type_and_detecting_hydrothermal_alteration_using_machine_learning_and_petrophysical_properties_of_the_Canadian_Malartic_ore_and_host_rocks_Pontiac_Subprovince_Quebec_Canada 
 - https://www.sciencedirect.com/science/article/abs/pii/S0895981124001743 -> Utilizing Random Forest algorithm for identifying mafic and ultramafic rocks in the Gameleira Suite, Archean-Paleoproterozoic basement of the Brasília Belt, Brazil
-- https://arxiv.org/pdf/2407.18100 -> DINOv2 Rocks Geological Image Analysis: Classification,
-
+- https://arxiv.org/pdf/2407.18100 -> DINOv2 Rocks Geological Image Analysis: Classification
+- https://jgsb.sgb.gov.br/index.php/journal/article/view/252 -> Unveiling geological complexity in the Serra Dourada Granite using self-organizing maps and hierarchical clustering: Insights for REE prospecting in the Goiás Tin Province, Brasília Belt, Central Brazil
 #### Geochronology
 - https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
 #### Geomorphology
