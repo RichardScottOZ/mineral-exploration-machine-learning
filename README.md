@@ -422,8 +422,11 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
 	* [technical report](https://arxiv.org/abs/2401.00434)
 * [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
+* [GeoMinLM](https://github.com/wangcug/GeoMinLM) -> GeoMinLM: A Large Language Model in Geology and Mineral Survey in Yunnan Province
+  * [paper](https://www.sciencedirect.com/science/article/pii/S0169136825001982)
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
+
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT](https://geogpt.zero2x.org/) -> Deep Time Digital Earth Research Group from China project
