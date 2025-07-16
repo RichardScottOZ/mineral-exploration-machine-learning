@@ -48,10 +48,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [AIDE: Artificial Intelligence for Disentangling Extremes](https://github.com/RichardScottOZ/AIDE?tab=readme-ov-file)
+	* [paper](https://www.researchgate.net/profile/Miguel-Angel-Fernandez-Torres/publication/381917888_The_AIDE_Toolbox_Artificial_intelligence_for_disentangling_extreme_events/links/66846648714e0b03153f38ae/The-AIDE-Toolbox-Artificial-intelligence-for-disentangling-extreme-events.pdf)
 * [ExPloRA](https://github.com/samar-khanna/ExPLoRA) -> ExPLoRA: Parameter-Efficient Extended Pre-training to Adapt Vision Transformers under Domain Shifts
 	* [Website](https://www.samarkhanna.com/ExPLoRA/)
 	* [paper](https://arxiv.org/abs/2406.10973)
- * (https://www.researchgate.net/profile/Miguel-Angel-Fernandez-Torres/publication/381917888_The_AIDE_Toolbox_Artificial_intelligence_for_disentangling_extreme_events/links/66846648714e0b03153f38ae/The-AIDE-Toolbox-Artificial-intelligence-for-disentangling-extreme-events.pdf)
+ 
 * [pyClusterwise](https://pypi.org/project/pyClusterWise/)
   * [paper] -> https://www.sciencedirect.com/science/article/pii/S0169136825001519?via%3Dihub -> Clustering in geo-data science: Navigating uncertainty to select the most reliable method
 * [GeoStat Framework](https://github.com/GeoStat-Framework) -> Group of repositories with kriging and other
