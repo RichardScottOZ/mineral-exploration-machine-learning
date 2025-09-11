@@ -125,6 +125,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
 	* [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
+## World
+* [Porphyry prospectivity global](https://github.com/EarthByte/porphyry-prospectivity-global) -> Spatio-temporal global mapping
+  * [zenodo](https://zenodo.org/record/8157691)
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
