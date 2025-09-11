@@ -227,6 +227,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Cross-Domain Foundation Model Adaptation: Pioneering Computer Vision Models for Geophysical Data Analysis](https://github.com/programmerzxg/cross-domain-foundation-model-adaptation) -> some of code to come
 	* [paper](https://arxiv.org/pdf/2408.12396)
 * [Seismic Foundation Model](https://github.com/shenghanlin/SeismicFoundationModel) -> "a new generation deep learning model in geophysics"
+* [Geological Everything Model] (https://arxiv.org/abs/2507.00419) -> Geological Everything Model 3D: A Physics-informed Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding
 
 ### Australia
 #### Regolith Depth
