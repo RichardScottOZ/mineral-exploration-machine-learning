@@ -1298,6 +1298,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [xgcm](https://github.com/xgcm/xhistogram) -> Histograms with labels
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
+  * [tifviewer](https://github.com/nkeikon/tifviewer) -> Lightweight cli geotiff viewre
 ### R  
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
 * [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
