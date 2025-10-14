@@ -1291,14 +1291,15 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Rasterix](https://github.com/dcherian/rasterix) -> Raster tricks for xarray
   * [COG Validator](https://github.com/rouault/cog_validator) -> checking format of cloud optimised geotiffs
   * [Griffine](https://github.com/jkeifer/griffine) -> utilities for working with affine grids
+  * [ouroboros](https://github.com/corbel-spatial/ouroboros) -> Extract terrible GDB rasters to something else!
   * [serverless-datacube-demo](https://github.com/earth-mover/serverless-datacube-demo) -> xarray via lithops / Coiled / Modal
+  * [tifviewer](https://github.com/nkeikon/tifviewer) -> Lightweight cli geotiff viewer
   * [Xarray Spatial](https://github.com/RichardScottOZ/xarray-spatial) -> Statistical analysis of raster data such as classification like natural breaks
   * [xarray-einstats](https://github.com/arviz-devs/xarray-einstats) -> Stats, linear algebra and einops for xarray
   * [xdggs](https://github.com/RichardScottOZ/xdggs) -> Other types of grids
   * [xgcm](https://github.com/xgcm/xhistogram) -> Histograms with labels
   * [xrft](https://github.com/RichardScottOZ/xrft) -> Xarray based Fourier Transforms
   * [xvec](https://xvec.readthedocs.io/en/stable/index.html) -> Vector data cubes for Xarray
-  * [tifviewer](https://github.com/nkeikon/tifviewer) -> Lightweight cli geotiff viewre
 ### R  
 * [Raster](https://rspatial.org/raster/spatial/8-rastermanip.html) -> R library
 * [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
