@@ -593,6 +593,8 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
   * [paper](https://www.lyellcollection.org/doi/pdf/10.1144/geochem2024-055) -> example of GisSOM example
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
+* [TorchSOM](https://github.com/RichardScottOZ/TorchSOM) -> Self Organising Maps in Torch
+
 ### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
 * [kmedoids](https://github.com/letiantian/kmedoids)
