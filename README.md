@@ -594,6 +594,7 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
   * [paper](https://www.lyellcollection.org/doi/pdf/10.1144/geochem2024-055) -> example of GisSOM example
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 * [TorchSOM](https://github.com/RichardScottOZ/TorchSOM) -> Self Organising Maps in Torch
+* [aweSOM](https://github.com/tvh0021/aweSOM/tree/public-release) -> Accelerated Self-organizing Map (SOM) and Statistically Combined Ensemble (SCE)
 
 ### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
