@@ -45,6 +45,7 @@ Suggestions welcome: open a discussion, issue or pull request.
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
   * [TorchSpatial](https://github.com/seai-lab/TorchSpatial)
 	* [paper](https://arxiv.org/abs/2406.15658)
+* [torch-harmonics](https://github.com/NVIDIA/torch-harmonics) -> Differentiable signal processing on the sphere for PyTorch
 * [geodl](https://eartharxiv.org/repository/view/7417/)  
 * [Geo Deep Learning](https://github.com/RichardScottOZ/geo-deep-learning) -> Simple deep learning framework based on RGB
 * [AIDE: Artificial Intelligence for Disentangling Extremes](https://github.com/RichardScottOZ/AIDE?tab=readme-ov-file)
