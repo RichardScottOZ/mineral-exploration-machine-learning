@@ -595,6 +595,8 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 * [SimpSOM](https://github.com/fcomitani/SimpSOM) -> Self Organising Maps 
 * [TorchSOM](https://github.com/RichardScottOZ/TorchSOM) -> Self Organising Maps in Torch
 * [aweSOM](https://github.com/tvh0021/aweSOM/tree/public-release) -> Accelerated Self-organizing Map (SOM) and Statistically Combined Ensemble (SCE)
+### GPU Accelerated
+* [GPU_PROCLUS](https://github.com/jakobrj/GPU_PROCLUS) -> gpu accelerated kmediods variant on subspaces
 
 ### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
