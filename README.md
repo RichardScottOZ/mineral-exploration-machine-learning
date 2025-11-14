@@ -599,6 +599,7 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 ### Self Organising Maps
 * [TorchSOM](https://github.com/RichardScottOZ/TorchSOM) -> Self Organising Maps in Torch
 * [aweSOM](https://github.com/tvh0021/aweSOM/tree/public-release) -> Accelerated Self-organizing Map (SOM) and Statistically Combined Ensemble (SCE)
+  * [paper](https://joss.theoj.org/papers/10.21105/joss.07613)
 
 ### Other
 * [hdbscan](https://github.com/scikit-learn-contrib/hdbscan)
