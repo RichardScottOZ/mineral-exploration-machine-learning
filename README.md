@@ -2110,6 +2110,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/338871759_Modeling-based_mineral_system_approach_to_prospectivity_mapping_of_stratabound_hydrothermal_deposits_A_case_study_of_MVT_Pb-Zn_deposits_in_the_Huayuan_area_northwestern_Hunan_Province_China
 - https://www.sciencedirect.com/science/article/pii/S0169136824003172 -> New insights into the metallogenic genesis of the Xiadian Au deposit, Jiaodong Peninsula, Eastern China: Constraints from integrated rutile in-situ geochemical analysis and machine learning discrimination
 - https://www.researchgate.net/publication/332547136_Prospectivity_Mapping_for_Porphyry_Cu-Mo_Mineralization_in_the_Eastern_Tianshan_Xinjiang_Northwestern_China
+- https://www.sciencedirect.com/science/article/pii/S2666544125000607 -> Quantifying uncertainty of mineral prediction using a novel Bayesian deep learning framework
 - https://www.sciencedirect.com/science/article/pii/S0169136824001823 -> Quantitative prediction methods and applications of digital ore deposit models
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_DatasetsSupervised Mineral Prospectivity Mapping via Class-Balanced Focal Loss Function on Imbalanced Geoscience Datasets
