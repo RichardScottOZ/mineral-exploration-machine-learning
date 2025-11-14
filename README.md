@@ -1247,6 +1247,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Pyvista-Xarray](https://github.com/RichardScottOZ/pyvista-xarray) -> Transforming xarray data to VTK 3D painlessly: a great library!
   * [OMFVista](https://github.com/OpenGeoVis/omfvista) -> Pyvista for Open Mining Format
   * [Scipy 2022 Tutorial](https://github.com/pyvista/pyvista-tutorial)
+* [TorchMesh](https://github.com/peterdsharpe/torchmesh) -> GPU accelerated Mesh programming with PyVista integration
 * [PyMeshLab](https://github.com/cnr-isti-vclab/PyMeshLab) -> Mesh transformation
 * [Open Mining Format](https://github.com/gmggroup/omf)
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools)
