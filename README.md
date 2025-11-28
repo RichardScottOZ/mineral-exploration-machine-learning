@@ -1319,6 +1319,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [raster-benchmark](https://github.com/kadyb/raster-benchmark) -> Benchmarking some raster libaries in python and R
 #### Gui
 * [Whitebox Tools](https://github.com/jblindsay/whitebox-tools) -> python api, gui, etc. have used for topographical wetness index calculation
+#### Other
+* [Smoothify](https://github.com/DPIRD-DMA/Smoothify) -> Smoothing out polygonised raster data
 
 
 ## Data Collection
