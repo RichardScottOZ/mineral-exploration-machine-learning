@@ -145,6 +145,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
+* [geological map explanatory power](https://github.com/charliekirkwood/geological-map-explanatory-power)
+  [paper](https://www.lyellcollection.org/doi/full/10.1144/esss2024-005) -> Quantifying the limited explanatory power of geological maps
 * [PEACE](https://github.com/microsoft/PEACE) -> Empowering Geologic Map Holistic Understanding with MLLMs)
   *[paper](https://github.com/microsoft/PEACE) -> GeoMap-Bench
 * [SimCLR Core Disturbance](simclr_core_disturbance)
