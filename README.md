@@ -2380,6 +2380,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://jgsb.sgb.gov.br/index.php/journal/article/view/252 -> Unveiling geological complexity in the Serra Dourada Granite using self-organizing maps and hierarchical clustering: Insights for REE prospecting in the Goiás Tin Province, Brasília Belt, Central Brazil
 #### Geochronology
 - https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
+- https://www.sciencedirect.com/science/article/pii/S0098300425002468?via%3Dihub#appsec1 -> Raising the bar: Deep learning on comprehensive database sets new benchmark for automated fission-track detection
 #### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 - https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2414409 -> GeomorPM: a geomorphic pretrained model integrating convolution and Transformer architectures based on DEM data
