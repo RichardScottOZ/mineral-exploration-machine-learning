@@ -176,6 +176,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300422002333) - > Impact of dataset size and convolutional neural network architecture on transfer learning for carbonate rock classification
 * [Litho-Classification](https://github.com/luthfigeo/Litho-Classification) -> Volcanic facies Classification using Random Forest
 * [Multi-view ensemble machine learning approach for 3D modeling using geological and geophysical data](https://doi.org/10.6084/m9.figshare.23647590.v1)
+* [Petromind](https://github.com/connamulder/PetroMind) -> PetroMind: A multimodal petrographic model for rock image classification and lithological description generation
+  * [paper](https://www.sciencedirect.com/science/article/pii/S2590197425000965)
 	* [paper](https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2394228)
 * [SedNet](https://github.com/MudRocw1/SedNet_explainable-deep-learning-network)
 	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423002157?via%3Dihub)
