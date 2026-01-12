@@ -209,6 +209,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Machine Learning Based Mohometry](https://github.com/EarthByte/Machine-Learning-Based-Mohometry/tree/main) -> Paleo Crustal Thickness Estimation and Evolution Visualization
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030404)
 * [others](https://www.bgh.org.au/software/)
+* [StructuralGeo](https://github.com/eldadHaber/StructuralGeo)
+  * [zenodo](https://zenodo.org/records/15244035)
+  * [paper](https://arxiv.org/abs/2506.11164) -> Synthetic Geology: Structural Geology Meets Deep Learning
+
 
 ## Simulation
 * [GebPy](https://github.com/MABeeskow/GebPy) -> generation of geological data for rocks and minerals
