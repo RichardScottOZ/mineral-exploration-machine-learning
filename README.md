@@ -1377,6 +1377,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Tutorial data](https://www.earthbyte.org/webdav/ftp/earthbyte/GPlates/TutorialData_GPlates2.2.zip)
 	* [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.185)
   * [GplatesReconstructionModel](https://github.com/siwill22/GPlatesReconstructionModel)
+* [Truth Tables for Consistency Checking Geological Models](https://zenodo.org/records/13948382)
+  * [paper](https://gmd.copernicus.org/articles/18/71/2025/)
  
 ## Geophysics
 * [Geoscience Australia Utilities](https://github.com/RichardScottOZ/geophys_utils)
