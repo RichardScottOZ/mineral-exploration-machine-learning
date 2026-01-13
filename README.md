@@ -57,6 +57,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [pyClusterwise](https://pypi.org/project/pyClusterWise/)
   * [paper] -> https://www.sciencedirect.com/science/article/pii/S0169136825001519?via%3Dihub -> Clustering in geo-data science: Navigating uncertainty to select the most reliable method
 * [GeoStat Framework](https://github.com/GeoStat-Framework) -> Group of repositories with kriging and other
+* [CoreJepa](https://github.com/galilai-group/lejepa) - LeJea for Remote Sensing
+  * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
+
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
@@ -479,6 +482,7 @@ Observation Data
 * [Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
 * [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [awesome mining band ratio collection](https://github.com/rodreras/awesome-mining-band-ratio) -> collection of simple band ratio uses for highlight various minerals
+* [Core-JEPA: LeJEPA for Earth Observation]()
 ## Foundation Models
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
   * [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
