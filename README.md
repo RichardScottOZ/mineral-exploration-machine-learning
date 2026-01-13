@@ -2867,6 +2867,7 @@ The below are a collection of works from when I was doing a review
   - Geology Oracle web prototype - https://geologyoracle.com/ask-the-geologyoracle/
   - Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [UNSEEN PAST THIS]
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242692 -> GeoProspect: a domain specific geological large language model
+- [Formation Eval](https://www.formationeval.no/) -> Evaluating oil and gas geoscience questions on a fleet of foundation models
 
 # General-Interest
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -> A Review on Time-series and Spatiotemporal Causality Methods
