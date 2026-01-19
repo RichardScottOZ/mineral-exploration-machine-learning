@@ -500,6 +500,7 @@ Observation Data
  	* [paper](https://ieeexplore.ieee.org/document/10490262) -> Unseen
 * [Terramind]  (https://github.com/IBM/terramind) -> any-to-any generative foundation model for Earth Observation
   * [paper](https://arxiv.org/abs/2504.11171) -> Terramind paper
+* [Scaling Remote Sensing Foundation Models](https://arxiv.org/abs/2512.23903) -> paper
 
   
  ## Processing
