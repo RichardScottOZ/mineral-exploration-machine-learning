@@ -144,6 +144,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
 	* [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
+  * [paper](https://www.sciencedirect.com/science/article/pii/S0098300426000208) -> Uncertainty quantification using Hamiltonian Monte Carlo for structural geological modelling with implicit neural representations
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
