@@ -231,6 +231,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
 * [Discern detachment of the subducting slab in an ancient subduction zone using machine learning](https://zenodo.org/records/14059244)
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JH000400)
+* [ThermoPlates](https://github.com/samuelcboone/ThermoPlates) -> integrate thermochronology data with plate tectonic, mantle dynamics, and paleoclimate model outputs for interpreting long-term exhumation histories
+  * [paper](https://www.nature.com/articles/s43247-025-03005-6)
 
 ## Geophysics
 ### General
