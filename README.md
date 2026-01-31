@@ -1626,6 +1626,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Bedrock](https://osdp-psdo.canada.ca/dp/en/search/metadata/NRCAN-GEOSCAN-1-2237677) -> Generalised geology of the world
 * [GLIM](https://doi.pangaea.de/10.1594/PANGAEA.788537) -> Global lithology map
 * [Paleogeology](https://www.annualreviews.org/doi/suppl/10.1146/annurev-earth-081320-064052) An Atlas of Phanerozoic Paleogeographic Maps
+* [Phanerozoic Paleoclimate](https://www.researchgate.net/publication/263450893_Phanerozoic_Paleoclimate_An_Atlas_of_Lithologic_Indicators_of_Climate)
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [World Stress Map](https://www.world-stress-map.org/) -> Global compilation of information on the crustal present-day stress field
 * [GMBA](https://www.gmba.unibe.ch/services/tools/mountain_inventory_v1/index_eng.html) -> Global mountain inventory
