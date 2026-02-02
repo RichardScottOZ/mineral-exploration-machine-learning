@@ -820,7 +820,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Rest](https://ags.cuzk.cz/arcgis/rest/services/zm/MapServer?f=json)
 ### Denmark
 * [deus](http://data.geus.dk/geusmap/ows/25832.jsp?whoami=[email]) -> Greenland WMS/WFS
-* [Deus](https://data.geus.dk/geusmap/ows/help/?mapname=oil_and_gas&epsg=25832)  - Update?
+* [Deus](https://data.geus.dk/geusmap/ows/help/?mapname=oil_and_gas&epsg=25832)  - Update? (needs checking)
+* [Greemin](http://www.greenmin.gl/) -> Greenland mineral resources portal
 ### Iceland
 [web map](https://www.map.is/os/@656678,471081,z0,0)
 ### Ireland
