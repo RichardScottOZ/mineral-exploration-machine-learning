@@ -2034,6 +2034,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
 - https://link.springer.com/article/10.1007/s11053-024-10438-x#Sec9 -> Pan-Canadian Predictive Modeling of Lithium–Cesium–Tantalum Pegmatites with Deep Learning and Natural Language Processing
+- https://cmscontent.nrs.gov.bc.ca/geoscience/PublicationCatalogue/GeoFile/BCGS_GF2025-24.pdf -> Pan-Canadian mineral prospectivity workshop abstracts 2025
 - https://link.springer.com/article/10.1007/s11053-024-10369-7 -> Predictive Modeling of Canadian Carbonatite-Hosted REE +/− Nb Deposits
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
 - https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
