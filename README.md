@@ -810,7 +810,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [SIG Andes](http://mapsref.brgm.fr/wxs/1GG/SIGAndes_BRGM) -> Andes geology
 
 ## Europe
-[EGDI](https://data.geus.dk/egdi/wfs/?whoami=modern_major_mineral@gmail.com&typenames=egdi_mineraloccurr_base_metals) -> EGDI Minerals
+[EGDI](maps.europe-geology.eu/wfs/) -> EGDI Minerals
 ### Britain
 * [BGS](https://ogcapi.bgs.ac.uk/collections?f=html) -> British Geological Survey
  * [Geoindex](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals&_ga=2.203824336.1992427000.1668901218-659606051.1668901218) -> mineral occurrence example
@@ -1029,7 +1029,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Dimage](http://visualizadorgeominero.dinamige.gub.uy/DINAMIGE_mvc2/)
 
 ## Europe
-* [EGDI](https://www.europe-geology.eu/metadata/) -> Europe geoscience
+* [EGDI](maps.europe-geology.eu/wfs/) -> EGDI geoscience
  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
  * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
