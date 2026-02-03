@@ -836,6 +836,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Arctic Minerals](http://13.95.69.121:80/geoserver/erl/ows) -> Arctic 1M Mineral Occurrences
 ### Germany
 * [BRG](https://services.bgr.de/uebersicht/kurzlinks)
+### Greenland
+* [Greenmin](https://maps.greenmin.gl) -> Web map portal
 ### Hungary
 * [MBFZ OGC](https://map.mbfsz.gov.hu/)
 * [MBFZ Rest](https://map.mbfsz.gov.hu/arcgis/rest/services)
@@ -1334,6 +1336,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [terra](https://github.com/rspatial/terra) -> provides methods to manipulate geographic (spatial) data in "raster" and "vector" form.
 * [stars](https://github.com/r-spatial/stars) -> spatiotemporal Arrays: Raster and Vector Datacubes
 * [exactextracr](https://github.com/isciences/exactextractr) -> raster zonal statistics for R
+### Rust
+* [async-geotiff](https://developmentseed.org/async-geotiff/latest/) -> Cloud optimised tiff reading
 ### Benchmarks
 * [raster-benchmark](https://github.com/kadyb/raster-benchmark) -> Benchmarking some raster libaries in python and R
 #### Gui
