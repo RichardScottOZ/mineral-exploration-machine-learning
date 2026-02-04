@@ -260,6 +260,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
+* [Deep Learning for Magnetotelluric Data Inversion](https://github.com/aeh1707/1DMD_inversion)
 
 #### Euler deconvolution
 - https://legacy.fatiando.org/gallery/gravmag/euler_moving_window.html
