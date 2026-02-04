@@ -2414,6 +2414,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 #### Geochronology
 - https://www.researchgate.net/publication/379077847_Tracing_Andean_Origins_A_Machine_Learning_Framework_for_Lead_Isotopes
 - https://www.sciencedirect.com/science/article/pii/S0098300425002468?via%3Dihub#appsec1 -> Raising the bar: Deep learning on comprehensive database sets new benchmark for automated fission-track detection
+- https://www.researchgate.net/profile/Xiao-Huang-37/publication/391808161_Classifying_Detrital_Zircon_U-Pb_Age_Distributions_using_Automated_Machine_Learning/links/6839c6c06a754f72b58f66d5/Classifying-Detrital-Zircon-U-Pb-Age-Distributions-using-Automated-Machine-Learning.pdf
 #### Geomorphology
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 - https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2414409 -> GeomorPM: a geomorphic pretrained model integrating convolution and Transformer architectures based on DEM data
