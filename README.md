@@ -2909,6 +2909,7 @@ The below are a collection of works from when I was doing a review
 - https://earthmover.io/blog/tensors-vs-tables -> Tensors vs tables - why array native data structures are needed for performance
 
 - https://www.researchgate.net/profile/Boroh-Andre-William/publication/392119870_Variogram_modelling_optimisation_using_Genetic_Algorithm_and_Machine_Learning_Linear_Regression_application_for_Sequential_Gaussian_Simulations_mapping/links/683c0f336a754f72b58fb231/Variogram-modelling-optimisation-using-Genetic-Algorithm-and-Machine-Learning-Linear-Regression-application-for-Sequential-Gaussian-Simulations-mapping.pdf
+- https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000182 -> MO-SAM: Testing the reliability and limits of mine feature delineation using Segment Anything Model to democratize mine observation and research
 
 
 ## Deep Learning
