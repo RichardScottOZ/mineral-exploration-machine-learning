@@ -1763,7 +1763,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Remote Sensing
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/) - Bare earth median from Landsat
  * [Enhanced barest earth Landsat imagery for soil and lithological modelling: Dataset](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144231) -> Details of an enhancement
-* [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8)
+* [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8) -> Mine mapping
 ** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
 * [DEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/72759) -> Australia 1 sec SRTM DEM of various varieties
 ### Structure
@@ -2909,7 +2909,7 @@ The below are a collection of works from when I was doing a review
 - https://earthmover.io/blog/tensors-vs-tables -> Tensors vs tables - why array native data structures are needed for performance
 
 - https://www.researchgate.net/profile/Boroh-Andre-William/publication/392119870_Variogram_modelling_optimisation_using_Genetic_Algorithm_and_Machine_Learning_Linear_Regression_application_for_Sequential_Gaussian_Simulations_mapping/links/683c0f336a754f72b58fb231/Variogram-modelling-optimisation-using-Genetic-Algorithm-and-Machine-Learning-Linear-Regression-application-for-Sequential-Gaussian-Simulations-mapping.pdf
-- https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000182 -> MO-SAM: Testing the reliability and limits of mine feature delineation using Segment Anything Model to democratize mine observation and research
+- https://journals.plos.org/sustainabilitytransformation/article?id=10.1371/journal.pstr.0000182 -> MO-SAM: Testing the reliability and limits of mine feature delineation using Segment Anything Model to democratize mine observation and research -> Mine mapping
 
 
 ## Deep Learning
