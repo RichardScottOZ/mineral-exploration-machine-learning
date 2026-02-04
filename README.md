@@ -1674,6 +1674,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Shiny App](https://geoscienceaustralia.shinyapps.io/mna4hm/)
 ### Geochemistry
 * [Predictive grids of major oxide concentrations in surface rock and regolith over the Australian continent](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/148587) -> Various oxides
+& [IGC](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/150804) -> Industry Geochemistry pilot
 ### Geology
 * [Alkaline Rocks Atlas](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147963)
  * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/4ef3b60d-d7ee-4810-af66-b0948dae4acb)
