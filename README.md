@@ -2902,6 +2902,8 @@ The below are a collection of works from when I was doing a review
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X -> Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://earthmover.io/blog/tensors-vs-tables -> Tensors vs tables - why array native data structures are needed for performance
 
+- https://www.researchgate.net/profile/Boroh-Andre-William/publication/392119870_Variogram_modelling_optimisation_using_Genetic_Algorithm_and_Machine_Learning_Linear_Regression_application_for_Sequential_Gaussian_Simulations_mapping/links/683c0f336a754f72b58fb231/Variogram-modelling-optimisation-using-Genetic-Algorithm-and-Machine-Learning-Linear-Regression-application-for-Sequential-Gaussian-Simulations-mapping.pdf
+
 
 ## Deep Learning
 - https://www.researchgate.net/publication/390346411_A_Biological-Inspired_Deep_Learning_Framework_for_Big_Data_Mining_and_Automatic_Classification_in_Geosciences
