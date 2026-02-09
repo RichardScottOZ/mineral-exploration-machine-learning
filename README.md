@@ -2449,6 +2449,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 #### Stratigraphy
 - https://www.researchgate.net/publication/335486001_A_Stratigraphic_Prediction_Method_Based_on_Machine_Learning
 - https://www.researchgate.net/publication/346641320_Classifying_basin-scale_stratigraphic_geometries_from_subsurface_formation_tops_with_machine_learning
+- https://www.researchgate.net/publication/394147774_Deep_Learning-Based_Automated_Workflow_for_Stratigraphic_Boundary_Detection_and_Well_Correlation _> Deep Learning-Based Automated Workflow for Stratigraphic Boundary Detection and Well Correlation
 #### Structure
 - https://www.sciencedirect.com/science/article/pii/S0098300421000285 -> A machine learning model for structural trend fields
 - https://onlinelibrary.wiley.com/doi/full/10.1111/1365-2478.13589 -> Inferring fault structures and overburden depth in 3D from geophysical data using machine learning algorithms – A case study on the Fenelon gold deposit, Quebec, Canada
