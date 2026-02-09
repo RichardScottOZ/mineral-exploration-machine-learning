@@ -473,6 +473,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
 * [GeoAI](https://github.com/opengeos/geoai) -> Artificial intelligence and geospatial intelligence - remote sensing
 * [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
+* [GHFMP](https://github.com/RSFubolin/GFHMP) -> Gradual Fusion Framework of Hyperspectral, Multispectral, and Panchromatic Images Using a Novel Spatial–Spectral Cross-Fusion Network
+  * [paper](https://ieeexplore.ieee.org/document/11126176)
 * [Multi Pretext Masked Autoencoder (MP-MAE)](https://github.com/vishalned/MMEarth-train)
  * [data](https://github.com/vishalned/MMEarth-data)
  * [SamGIS](https://github.com/trincadev/samgis-be) -> Segment Anything applied to GIS
