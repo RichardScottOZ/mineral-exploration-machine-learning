@@ -461,36 +461,37 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [paper](https://arxiv.org/abs/2410.18792)
 
 # Remote Sensing
+* [AiTLAS](https://github.com/biasvariancelabs/aitlas-arena) -> an open-source benchmark suite for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
+* [CIMAE](https://github.com/Modexus/torchgeo) -> CIMAE - Channel Independent Masked Autoencoder
+ * [fork](https://github.com/RichardScottOZ/torchgeo-cimae) -> to give it the name for reference
+ * [Self-Supervised Representation Learning for Remote Sensing] -> Master's thesis includes the above and comparisons of several models
 * [CNN Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -> Overview about land-use classification from satellite data with CNNs based on an open dataset
+* [Core-JEPA: LeJEPA for Earth Observation]()
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
-* [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
+* [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
+* [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
 * [GeoAI](https://github.com/opengeos/geoai) -> Artificial intelligence and geospatial intelligence - remote sensing
+* [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
 * [Multi Pretext Masked Autoencoder (MP-MAE)](https://github.com/vishalned/MMEarth-train)
  * [data](https://github.com/vishalned/MMEarth-data)
-* [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
  * [SamGIS](https://github.com/trincadev/samgis-be) -> Segment Anything applied to GIS
+* [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
+* [pytorch cloud geotiff optimization](https://github.com/microsoft/pytorch-cloud-geotiff-optimization)
+  * [paper](https://arxiv.org/pdf/2506.06235) -> Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
 * [grid-mae](https://github.com/RichardScottOZ/grid-mae) -> Investigate using multiscale grids in a Vision Transformer Masked Autoencoder
 * [ScaleMae](https://github.com/bair-climate-initiative/scale-mae)
 	* [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Reed_Scale-MAE_A_Scale-Aware_Masked_Autoencoder_for_Multiscale_Geospatial_Representation_Learning_ICCV_2023_paper.pdf)
-* [CIMAE](https://github.com/Modexus/torchgeo) -> CIMAE - Channel Independent Masked Autoencoder
- * [fork](https://github.com/RichardScottOZ/torchgeo-cimae) -> to give it the name for reference
- * [Self-Supervised Representation Learning for Remote Sensing] -> Master's thesis includes the above and comparisons of several models
+* [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
 * [U Barn](https://src.koda.cnrs.fr/iris.dumeur/ssl_ubarn)
 	* [paper](https://www.researchgate.net/publication/377712228_Self-Supervised_Spatio-Temporal_Representation_Learning_Of_Satellite_Image_Time_Series) 
 * [earthnets](https://earthnets.nicepage.io/ )
-* [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
-* [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
-* [pytorch cloud geotiff optimization](https://github.com/microsoft/pytorch-cloud-geotiff-optimization)
-  * [paper](https://arxiv.org/pdf/2506.06235) -> Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data
-* [AiTLAS](https://github.com/biasvariancelabs/aitlas-arena) -> an open-source benchmark suite for evaluating state-of-the-art deep learning approaches for image classification in Earth Observation
+* [Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident 
 * [SynFSNet](https://github.com/Xinmu-Tantai/SynFSNet/tree/main) -> SynFSNet AFSIFormer: Adaptive Frequency–Spatial Interaction Attention Mechanism for Aerial Image Semantic Segmentation
   * [paper](https://ieeexplore.ieee.org/abstract/document/11126528)
-[Segmentation Gym](https://github.com/Doodleverse/segmentation_gym) ->  Gym is designed to be a "one stop shop" for image segmentation on "N-D" - any number of coincident bands in a multispectral image
-* [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
+bands in a multispectral image
 * [awesome mining band ratio collection](https://github.com/rodreras/awesome-mining-band-ratio) -> collection of simple band ratio uses for highlight various minerals
-* [Core-JEPA: LeJEPA for Earth Observation]()
 ## Foundation Models
 * [awesome remote sensing foundation models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)
   * [ChatEarthNet](https://github.com/zhu-xlab/ChatEarthNet)
