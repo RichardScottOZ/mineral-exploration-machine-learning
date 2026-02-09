@@ -1664,6 +1664,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [EarthChem](https://www.earthchem.org/) -> Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data
 * [GEOROC](https://data.goettingen-research-online.de/dataverse/digis) -> Geochemical composition of rocks
   * [georoc-data](https://github.com/pofatu/georoc-data?tab=readme-ov-file)
+* [Global Copper Deposits](https://github.com/dawn-a/Global-copper-deposit-dataset)
 * [global geology](https://github.com/siwill22/global-geology) -> A short recipe to make a global geology map in GIS format (e.g. shapefile), with age ranges mapped to the GTS2020 timescale
 * [Large Igenous Provinces Commission](http://www.largeigneousprovinces.org/links)
 * [Mantle Plumes](http://www.mantleplumes.org/SLIPs.html)
