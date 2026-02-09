@@ -256,6 +256,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [Abstract](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/146380)
   
 ### Electromagnetics
+* [AEM-Assist](https://github.com/GeoscienceAustralia/AEM-assist)
+  * [extended abstract](https://ecat.ga.gov.au/geonetwork/srv/api/records/9090de3e-1edc-47f3-a8c0-cd13c73972bc)
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 
 ### Inversion
