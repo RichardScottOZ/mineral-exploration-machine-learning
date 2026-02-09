@@ -484,7 +484,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [pytorch cloud geotiff optimization](https://github.com/microsoft/pytorch-cloud-geotiff-optimization)
   * [paper](https://arxiv.org/pdf/2506.06235) -> Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data
 * [SatMAE++](https://github.com/techmn/satmae_pp) -> Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
-* [grid-mae](https://github.com/RichardScottOZ/grid-mae) -> Investigate using multiscale grids in a Vision Transformer Masked Autoencoder
+  * [grid-mae](https://github.com/RichardScottOZ/grid-mae) -> Investigate using multiscale grids in a Vision Transformer Masked Autoencoder
+* [SpecPool-Former](https://github.com/SineyHang/SpecPool-Former) ->  Research on hyperspectral remote sensing alteration mineral mapping using an improved ViT model
+  * [paper]((https://www.sciencedirect.com/science/article/pii/S0098300425001876))
 * [ScaleMae](https://github.com/bair-climate-initiative/scale-mae)
 	* [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Reed_Scale-MAE_A_Scale-Aware_Masked_Autoencoder_for_Multiscale_Geospatial_Representation_Learning_ICCV_2023_paper.pdf)
 * [segment-geospatial](https://github.com/opengeos/segment-geospatial) -> Segment anything for geospatial uses
