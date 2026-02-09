@@ -471,6 +471,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
+* [FSDFirner](https://github.com/Sichen-Lu/FSDFormer) -> FSDFormer: A Frequency-Selected Differential Fusion Transformer for Remote Sensing Image Spatiotemporal Fusion
+  * [paper](https://ieeexplore.ieee.org/abstract/document/11124232)
 * [GeoAI](https://github.com/opengeos/geoai) -> Artificial intelligence and geospatial intelligence - remote sensing
 * [GeoTorchAI](https://github.com/wherobots/GeoTorchAI) -> GeoTorchAI: A Spatiotemporal Deep Learning Framework
 * [GHFMP](https://github.com/RSFubolin/GFHMP) -> Gradual Fusion Framework of Hyperspectral, Multispectral, and Panchromatic Images Using a Novel Spatial–Spectral Cross-Fusion Network
