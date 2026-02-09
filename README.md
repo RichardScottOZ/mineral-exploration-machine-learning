@@ -482,6 +482,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Multi Pretext Masked Autoencoder (MP-MAE)](https://github.com/vishalned/MMEarth-train)
  * [data](https://github.com/vishalned/MMEarth-data)
  * [SamGIS](https://github.com/trincadev/samgis-be) -> Segment Anything applied to GIS
+* [PCP](https://github.com/wchh-2000/PCP) -> Prompt-Based Cartographic-Level Polygonal Vector Extraction Framework for Remote Sensing Images
+  * [paper](https://ieeexplore.ieee.org/abstract/document/11181141)
 * [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
 * [pytorch cloud geotiff optimization](https://github.com/microsoft/pytorch-cloud-geotiff-optimization)
   * [paper](https://arxiv.org/pdf/2506.06235) -> Optimizing Cloud-to-GPU Throughput for Deep Learning With Earth Observation Data
