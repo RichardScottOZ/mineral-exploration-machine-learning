@@ -2467,6 +2467,8 @@ Sedimentary Rocks in the Western United States -> Using Machine Learning to Char
 #### Mineralogy
 - https://pubs.geoscienceworld.org/msa/ammin/article-abstract/doi/10.2138/am-2023-9092/636861/The-application-of-transfer-learning-in-optical -> The application of “transfer learning” in optical microscopy: the petrographic classification of metallic minerals
 - https://www.researchgate.net/publication/385074584_Deep_Learning-Based_Mineral_Classification_Using_Pre-Trained_VGG16_Model_with_Data_Augmentation_Challenges_and_Future_Directions
+#### Mineral System
+- https://www.sciencedirect.com/science/article/pii/S0169136825005219?via%3Dihub#b0055 -> Exploration information system: mineral systems anatomy linked to computational techniques for mineral exploration targeting
 #### Resource
 - https://link.springer.com/article/10.1007/s11053-025-10485-y -> Uncertainty Quantification of Microblock-Based Resource Models and Sequencing of Sampling
 #### Stratigraphy
