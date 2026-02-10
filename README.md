@@ -467,6 +467,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT](https://geogpt.zero2x.org/) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT-Research-Project](https://github.com/GeoGPT-Research-Project/GeoGPT)
+  * [RAG Report](https://arxiv.org/pdf/2509.09686)
 
 ### Agents
 * [GeoAgent](https://github.com/Yusin2Chen/GeoAgent) -> An LLM Agent for Automatic Geospatial Data Analysis
