@@ -465,7 +465,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [paper](https://www.sciencedirect.com/science/article/pii/S0169136825001982)
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
-* [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  Autonomous-research-agent-for-geoscience-data-and-literature
+* [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  
 
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
@@ -2925,7 +2925,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/324938267_Regional_geology_mapping_using_satellite-based_remote_sensing_approach_in_Northern_Victoria_Land_Antarctica
 - https://www.mdpi.com/2072-4292/17/11/1878 -> Scalable Hyperspectral Enhancement via Patch-Wise Sparse Residual Learning: Insights from Super-Resolved EnMAP Data
 
-### NLP
+### Natural Language Processing
 - https://www.researchgate.net/publication/390874026_Assessing_named_entity_recognition_by_using_geoscience_domain_schemas_the_case_of_mineral_systems
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
@@ -2933,14 +2933,16 @@ The below are a collection of works from when I was doing a review
 - Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [Dissertation]
 - Knowledge graph construction and knowledge discovery for porphyry copper deposits -> https://www.sciencedirect.com/science/article/pii/S0169136825004354
 - https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
-
-### LLM
+#### LLM
 - https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
   - Geology Oracle web prototype - https://geologyoracle.com/ask-the-geologyoracle/
   - Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [UNSEEN PAST THIS]
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242692 -> GeoProspect: a domain specific geological large language model
 - [Formation Eval](https://www.formationeval.no/) -> Evaluating oil and gas geoscience questions on a fleet of foundation models
+##### Multimodal
+- https://openreview.net/pdf?id=brbIoPN91l -> OmniEarth-Bench: Probing Cognitive Abilities of MLLMs for Earth’s Multi-Sphere Observation Data
+
 
 # General-Interest
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -> A Review on Time-series and Spatiotemporal Causality Methods
