@@ -2476,6 +2476,7 @@ Sedimentary Rocks in the Western United States -> Using Machine Learning to Char
 - https://www.researchgate.net/publication/377168034_Unsupervised_machine_learning_and_depth_clusters_of_Euler_deconvolution_of_magnetic_data_a_new_approach_to_imaging_geological_structures
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae226/7701418 -> Use of Decision Tree Ensembles for Crustal Structure Imaging from Receiver Functions
 - https://www.sciencedirect.com/science/article/abs/pii/S1367912024000889?via%3Dihub -> Imaging of moho topography with conditional generative adversarial network from observed gravity anomalies
+- https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB030918 -> CNN-Trained Centroid Method for Estimating Depth to the Bottom of the Magnetic Sources (DBMS) and Its Application to the Southern Indian Shield
 #### Tectonics
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
