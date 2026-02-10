@@ -353,22 +353,22 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 ## Frameworks
 * [spacy](https://github.com/explosion/spaCy) -> NLP Library
 ## Text Extraction
-* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
-	* [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
+* [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
+	* [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
+* [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
+	* [paper](https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain)
+* [Geocorpus](https://github.com/jneto04/geocorpus)
+* [Geological-table-analysis](https://github.com/CUGdjhz/Geological-table-analysis) -> Understanding table content for mineral exploration reports using deep learning and natural language processing
+  * [paper](https://www.sciencedirect.com/science/article/pii/S0169136823000987)
 * [NASA Concept Tagging](https://github.com/RichardScottOZ/concept-tagging-training) -> Keyword prediction 
 	* [API](https://github.com/nasa/concept-tagging-api) -> API web service
 	* [Presentation](https://datascience.jpl.nasa.gov/aiworkshop/presentation-27)
 * [Petrography Report Data Extractor](https://github.com/RichardScottOZ/Petrography-report-data-extractor)
+* [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
 * [SA Exploration Topic Modelling](https://github.com/RADutchie/SA-exploration-topic-modelling) -> Topic modelling from exploration reports
 * [Stratigraph](https://github.com/BritishGeologicalSurvey/stratigraph)
-* [Geocorpus](https://github.com/jneto04/geocorpus)
-* [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
-* [BERT CWS](https://github.com/cugdeeplearn/BERTCWS)
-	* [paper](https://www.researchgate.net/publication/352009328_Chinese_Word_Segmentation_Based_on_Self-Learning_Model_and_Geological_Knowledge_for_the_Geoscience_Domain)
-* [Automated Extraction of Mining Company Drillhole Results](https://github.com/RichardScottOZ/Automatic-Extraction-of-Mining-Company-Drillhole-Results)
-	* [Conference Paper](https://aclanthology.org/2022.wnut-1.16/)
-* [Geological-table-analysis](https://github.com/CUGdjhz/Geological-table-analysis) -> Understanding table content for mineral exploration reports using deep learning and natural language processing
-  * [paper](https://www.sciencedirect.com/science/article/pii/S0169136823000987)
+* [Text Extraction](https://github.com/RichardScottOZ/amazon-textract-textractor) -> Text extraction from documents : paid ML as a service, but works very well, can extract tables efficiently
+	* [Large Scale](https://github.com/RichardScottOZ/amazon-textract-serverless-large-scale-document-processing) -> Large scale version
 
 ### PDF handling
 * [pdfminer](https://github.com/pdfminer/pdfminer.six)
