@@ -2376,6 +2376,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### ESG
 - https://www.escubed.org/journals/earth-science-systems-and-society/articles/10.3389/esss.2024.10109/full -> Geospatial Data and Deep Learning Expose ESG Risks to Critical Raw Materials Supply: The Case of Lithium
 ### Geochemistry
+- http://www.dzkx.org/en/article/doi/10.12017/dzkx.2025.100 -> Machine learning applications in distinguishing granite genesis types
 Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region
 - https://link.springer.com/article/10.1007/s11053-024-10408-3 -> A New Sphalerite Thermometer Based on Machine Learning with Trace Element Geochemistry
 - https://www.researchgate.net/publication/378150628_A_SMOTified_extreme_learning_machine_for_identifying_mineralization_anomalies_from_geochemical_exploration_data_a_case_study_from_the_Yeniugou_area_Xinjiang_China A SMOTified extreme learning machine for identifying mineralization anomalies from geochemical exploration data
