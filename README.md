@@ -2919,7 +2919,8 @@ The below are a collection of works from when I was doing a review
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
 - https://www.researchgate.net/publication/376671309_Enhancing_knowledge_discovery_from_unstructured_data_using_a_deep_learning_approach_to_support_subsurface_modeling_predictions
 - https://www.mdpi.com/2220-9964/13/7/260 -> Extracting Geoscientific Dataset Names from the Literature Based on the Hierarchical Temporal Memory Model
-- Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example
+- Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [Dissertation]
+- Knowledge graph construction and knowledge discovery for porphyry copper deposits -> https://www.sciencedirect.com/science/article/pii/S0169136825004354
 - https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
 
 ### LLM
