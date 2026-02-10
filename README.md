@@ -2376,14 +2376,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### ESG
 - https://www.escubed.org/journals/earth-science-systems-and-society/articles/10.3389/esss.2024.10109/full -> Geospatial Data and Deep Learning Expose ESG Risks to Critical Raw Materials Supply: The Case of Lithium
 ### Geochemistry
-- http://www.dzkx.org/en/article/doi/10.12017/dzkx.2025.100 -> Machine learning applications in distinguishing granite genesis types
-Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region
 - https://link.springer.com/article/10.1007/s11053-024-10408-3 -> A New Sphalerite Thermometer Based on Machine Learning with Trace Element Geochemistry
 - https://www.researchgate.net/publication/378150628_A_SMOTified_extreme_learning_machine_for_identifying_mineralization_anomalies_from_geochemical_exploration_data_a_case_study_from_the_Yeniugou_area_Xinjiang_China A SMOTified extreme learning machine for identifying mineralization anomalies from geochemical exploration data
 - https://ui.adsabs.harvard.edu/abs/2018EGUGA..20.4169R/abstract -> Accelerating minerals exploration with in-field characterisation, sample tracking and active machine learning
 - https://www.researchgate.net/publication/375509344_Alteration_assemblage_characterization_using_machine_learning_applied_to_high_resolution_drill-core_images_hyperspectral_data_and_geochemistry
 - https://qspace.library.queensu.ca/items/38f52d19-609d-4916-bcd0-3ce20675dee3/full - > Application of Computational Methods to Data Integration and Geoscientific Problems in Mineral Exploration and Mining
 - https://www.sciencedirect.com/science/article/pii/S0169136822005509?dgcid=rss_sd_all -> Applying neural networks-based modelling to the prediction of mineralization: A case-study using the Western Australian Geochemistry (WACHEM) database
+- https://link.springer.com/article/10.1007/s11004-024-10153-6 -> Causal Discovery and Deep Learning Algorithms for Detecting Geochemical Patterns Associated with Gold-Polymetallic Mineralization: A Case Study of the Edongnan Region
 - https://www.sciencedirect.com/science/article/pii/S0169136824002099 -> Development of a machine learning model to classify mineral deposits using sphalerite chemistry and mineral assemblages
 - https://www.sciencedirect.com/science/article/pii/S0169136824002403 -> Discrimination of deposit types using magnetite geochemistry based on machine learning
 - https://www.researchgate.net/publication/302595237_A_machine_learning_approach_to_geochemical_mapping
@@ -2398,6 +2397,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://www.researchgate.net/publication/365953549_Incorporating_the_genetic_and_firefly_optimization_algorithms_into_K-means_clustering_method_for_detection_of_porphyry_and_skarn_Cu-related_geochemical_footprints_in_Baft_district_Kerman_Iran
 - https://www.researchgate.net/publication/369768936_Infomax-based_deep_autoencoder_network_for_recognition_of_multi-element_geochemical_anomalies_linked_to_mineralization -> Paywalled
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300424001626 -> Local phase-constrained convolutional autoencoder network for identifying multivariate geochemical anomalies
+- http://www.dzkx.org/en/article/doi/10.12017/dzkx.2025.100 -> Machine learning applications in distinguishing granite genesis types
 - https://www.researchgate.net/publication/354564681_Machine_Learning_for_Identification_of_Primary_Water_Concentrations_in_Mantle_Pyroxene
 - https://www.researchgate.net/publication/366210211_Machine_Learning_Prediction_of_Ore_Deposit_Genetic_Type_Using_Magnetite_Geochemistry 
 - https://link.springer.com/article/10.1007/s42461-024-01013-2 -> NIR-Spectroscopy and Machine Learning Models to Pre-concentrate Copper Hosted Within Sedimentary Rocks[UNSEEN]
