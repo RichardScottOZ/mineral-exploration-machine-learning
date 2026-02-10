@@ -70,6 +70,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 
 # Prospectivity
+## World
+* [Porphyry prospectivity global](https://github.com/EarthByte/porphyry-prospectivity-global) -> Spatio-temporal global mapping
+  * [zenodo](https://zenodo.org/record/8157691)
+
 ## Oceania
 ### Australia
 * [Iron oxide copper-gold mineral potential maps](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149222)
@@ -103,6 +107,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [SpatioTemporAl Mineral Prospectivity (STAMP) Modelling](https://github.com/EarthByte/STAMP_PNG)
 	* [Zenodo Data](https://zenodo.org/records/14189755)
 
+
 ## North America
 ### Canada
 * [Transfer Prospectivity Learnnig](https://github.com/Anagabrielamantilla/TransferProspectivityLearning)
@@ -118,20 +123,23 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Geological Complexity SMOTE](https://github.com/Eliasmgprado/GeologicalComplexity_SMOTE) -> includes fractal analysis
 	* [paper](https://doi.org/10.1016/j.oregeorev.2020.103611)
 * [MPM Jurena](https://github.com/victsnet/MPM---Juruena-Mineral-Province ) -> Jurena Mineral Province
+## Colombia
+* [mapo_prospectivo](https://github.com/francobr991/Mapeo_prospectivo) -> Machine Learning-Based Prospective Modeling for Alluvial Gold Mining: A Study Area in Colombia
+  * [paper](https://link.springer.com/article/10.1007/s00024-025-03830-y)
+
 ## China
 * [MPM by ensemble learning](https://github.com/ZhiqiangZhangCUGB/MPM-by-ensemble-learning) -> Qingchengzi Pb-Zn-Ag-Au polymetallic district China
 * [Mineral Prospectivity Prediction Convolutional Neural Networks](https://github.com/yangna815/Mineral-Prospectivity-Prediction-Convolutional-Neural-Networks) -> CNN Example with a few architectures [a paper by this author uses GoogleNet]
 * [Mineral Prospectivity Prediction by CSAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CSAE)
 * [Mineral Prospectivity Prediction by CAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CAE)
  	* [paper](https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data)
-## Sudan
-* [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
+
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
 	* [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
-## World
-* [Porphyry prospectivity global](https://github.com/EarthByte/porphyry-prospectivity-global) -> Spatio-temporal global mapping
-  * [zenodo](https://zenodo.org/record/8157691)
+
+## Sudan
+* [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
