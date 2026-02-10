@@ -134,6 +134,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mineral Prospectivity Prediction by CAE](https://github.com/yangna815/Mineral-Prospectivity-Prediction-by-CAE)
  	* [paper](https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data)
 
+# India
+* [MPM-Gold](https://github.com/Venkatasaimudili/MPM_Gold) -> gold mineral prospectivity mapping using multiple machine learning models (FKELM and WGAN others are baselines)
+  * [paper](https://www.mdpi.com/2075-163X/15/11/1125) -> A Hybrid Framework for Detecting Gold Mineralization Zones in G.R. Halli, Western Dharwar Craton, Karnataka, India 
+
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
 	* [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
