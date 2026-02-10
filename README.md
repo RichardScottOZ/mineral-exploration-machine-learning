@@ -2951,6 +2951,7 @@ The below are a collection of works from when I was doing a review
 - https://ieeexplore.ieee.org/abstract/document/10825956 -> Enabling Scalable Mineral Exploration:Self-Supervision and Explainability
 - https://pure.au.dk/ws/portalfiles/portal/429062897/Fast_Correct_Clustering_in_Time_and_Space_using_the_GPU-Katrine_Scheel_Killmann.pdf -> Fast Correct Clustering in Time and Space using the GPU
 - https://www.researchgate.net/publication/384137154_Guidelines_for_Sensitivity_Analyses_in_Process_Simulations_for_Solid_Earth_Geosciences
+- https://link.springer.com/article/10.1007/s11053-025-10563-1 -> Intelligent Lithological Mapping: Challenges and Future Prospective [UNSEEN]
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
