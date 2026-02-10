@@ -2945,6 +2945,7 @@ The below are a collection of works from when I was doing a review
 
 
 # General-Interest
+- https://link.springer.com/article/10.1007/s11053-025-10560-4 -> Bibliometric Analysis of Mineral Prospectivity Mapping Research from 2006 to 2024
 - https://arxiv.org/abs/2404.05746v1 -> Causality for Earth Science -> A Review on Time-series and Spatiotemporal Causality Methods
 - https://link.springer.com/article/10.1007/s11831-025-10244-5 -> Deep Learning for Time Series Forecasting: Review and Applications in Geotechnics and Geosciences
 - https://ieeexplore.ieee.org/abstract/document/10825956 -> Enabling Scalable Mineral Exploration:Self-Supervision and Explainability
