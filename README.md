@@ -1890,6 +1890,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids](https://www.sciencebase.gov/catalog/item/6193e9f3d34eb622f68f13a5) -> Also has some Australia data
 * [Groundwater wells](https://www.hydroshare.org/resource/8b02895f02c14dd1a749bcc5584a5c55/) -> Database
 * [Maximum horizontal stress orientation and relative stress magnitude (faulting regime) data throughout North America](https://www.sciencebase.gov/catalog/item/6469516bd34e3a6027e2f527) 
+[NWUS-MT-2025](https://zenodo.org/records/15393621) -> 3-D electrical resistivity model of northwestern U.S. by FEMTIC with non-conforming deformed hexahedral mesh
 ## Canada
 ### Geochemistry
 * [Database of Canadian surveys](https://geochem.nrcan.gc.ca/cdogs/content/main/home_en.htm) -> some standardisation done here
