@@ -645,6 +645,9 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 * [NG Boost](https://github.com/stanfordmlgroup/ngboost) -> probabilistic regression
 * [Probabilistic ML](https://github.com/ZhiqiangZhangCUGB/Probabilistic-machine-learning)
 * [Bagging PU with BO](https://github.com/ZhiqiangZhangCUGB/Bagging-PU-with-BO) -> Positive Unlabeled Bagging with Bayesian Optimisation
+## Spatial
+* [Spatial-Random-Forest](https://github.com/AhmedMerz/Spatial-Random-Forest)
+  * [paper](https://link.springer.com/article/10.1007/s10596-025-10388-0) -> Beyond random forest: how spatial bagging and spatial random forest dominate for subsurface applications?
 ## Clustering  
 ### Self Organising Maps
 * [GisSOM](https://github.com/RichardScottOZ/GisSOM) -> Geospatial centred Self Organising Maps from Finland Geological Survey
