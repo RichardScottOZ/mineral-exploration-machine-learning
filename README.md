@@ -2380,6 +2380,9 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 #### Zimbabwe
 - https://www.researchgate.net/publication/260792212_Nickel_Sulphide_Deposits_in_Archaean_Greenstone_Belts_in_Zimbabwe_Review_and_Prospectivity_Analysis
 
+#### Africa
+- https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099073125102510938 -> Mineral Resources of Africa World Bank Report
+
 ## GENERAL PAPERS
  
 ### Overviews
