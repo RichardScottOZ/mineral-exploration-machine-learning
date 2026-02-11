@@ -2495,10 +2495,11 @@ Sedimentary Rocks in the Western United States -> Using Machine Learning to Char
 - https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB030918 -> CNN-Trained Centroid Method for Estimating Depth to the Bottom of the Magnetic Sources (DBMS) and Its Application to the Southern Indian Shield
 #### Tectonics
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
+- https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
 - https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
 - https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G52466.1/648458/Prediction-of-CO2-content-in-mid-ocean-ridge -> Prediction of CO2 content in mid-ocean ridge basalts via a machine learning approach
-- https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
+- https://sbia.org.br/wp-content/uploads/2025/12/pdf/CBIC_2025_paper1191679.pdf -> Automated Mapping of the Boundary Between Continental and Oceanic Crusts (COB/COT) Using Convolutional Neural Networks
 
 ### Geophysics
 #### Foundation
@@ -2633,9 +2634,13 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
 
+
+
+
+## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
 The below are a collection of works from when I was doing a review
-## Public Mineral Prospectivity Mapping
+
 
 ## Overview
 - https://www.researchgate.net/publication/331852267_Applying_Spatial_Prospectivity_Mapping_to_Exploration_Targeting_Fundamental_Practical_issues_and_Suggested_Solutions_for_the_Future
