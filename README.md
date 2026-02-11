@@ -1802,7 +1802,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Landsat Bare Earth](http://dea-public-data.s3-website-ap-southeast-2.amazonaws.com/?prefix=geomedian-australia/) - Bare earth median from Landsat
  * [Enhanced barest earth Landsat imagery for soil and lithological modelling: Dataset](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/144231) -> Details of an enhancement
 * [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8) -> Mine mapping
-** [Paper](https://www.nature.com/articles/s43247-023-00805-6)
+  * [paper](https://www.nature.com/articles/s43247-023-00805-6)
 * [DEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/72759) -> Australia 1 sec SRTM DEM of various varieties
 ### Structure
 * [Major Crustal Boundaries of Australia - 2024 Edition](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149663)
@@ -2964,6 +2964,8 @@ The below are a collection of works from when I was doing a review
 ##### Multimodal
 - https://openreview.net/pdf?id=brbIoPN91l -> OmniEarth-Bench: Probing Cognitive Abilities of MLLMs for Earth’s Multi-Sphere Observation Data
 
+### Remote Sensing
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11226869 -> Continental-Scale Open-Pit Mine Detection From Remote Sensing Imagery: A Lightweight Attention-Enhanced Approach With High-Resolution Benchmark Dataset
 
 # General-Interest
 - https://link.springer.com/article/10.1007/s11053-025-10560-4 -> Bibliometric Analysis of Mineral Prospectivity Mapping Research from 2006 to 2024
