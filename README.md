@@ -2960,6 +2960,7 @@ The below are a collection of works from when I was doing a review
 - Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [UNSEEN PAST THIS]
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242692 -> GeoProspect: a domain specific geological large language model
 - [Formation Eval](https://www.formationeval.no/) -> Evaluating oil and gas geoscience questions on a fleet of foundation models
+- https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025CN000283 -> Small Language Models With Sentence‐Level Corpus Offer Significant Potential for the Geoscience Community
 ##### Multimodal
 - https://openreview.net/pdf?id=brbIoPN91l -> OmniEarth-Bench: Probing Cognitive Abilities of MLLMs for Earth’s Multi-Sphere Observation Data
 
