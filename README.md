@@ -221,6 +221,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
+* [Lineament DEM Extractor](https://github.com/PedroRossi99/Lineament_DEM_extractor) -> Topographic lineaments extraction in digital elevation model
+  * [paper](https://www.researchgate.net/publication/397085283_Topographic_lineaments_extraction_in_digital_elevation_modelLineamentos_topograficos_em_modelos_digitais_de_elevacao_a_comparison_between_human_interpretation_and_a_convolutional_neural_network_output)
 * [LitMod3D](https://github.com/javfurchu/LitMod3D_V3.1) -> 3D integrated geophysical-petrological interactive modelling of the lithosphere and underlying upper mantle
 * [Machine Learning Based Mohometry](https://github.com/EarthByte/Machine-Learning-Based-Mohometry/tree/main) -> Paleo Crustal Thickness Estimation and Evolution Visualization
   * [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030404)
