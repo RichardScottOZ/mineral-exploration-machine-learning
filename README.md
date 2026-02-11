@@ -2936,8 +2936,9 @@ The below are a collection of works from when I was doing a review
 #### LLM
 - https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
-  - Geology Oracle web prototype - https://geologyoracle.com/ask-the-geologyoracle/
-  - Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [UNSEEN PAST THIS]
+- https://www.mdpi.com/2076-3263/15/10/382 -> Fusing Geoscience Large Language Models and Lightweight RAG for Enhanced Geological Question Answering 
+- Geology Oracle web prototype - https://geologyoracle.com/ask-the-geologyoracle/
+- Knowledge-Infused LLM Application in Data Analytics: Using Mindat as an Example -> https://www.proquest.com/openview/38854958cb460de71484a93584fe0ff4/1?cbl=18750&diss=y&pq-origsite=gscholar [UNSEEN PAST THIS]
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242692 -> GeoProspect: a domain specific geological large language model
 - [Formation Eval](https://www.formationeval.no/) -> Evaluating oil and gas geoscience questions on a fleet of foundation models
 ##### Multimodal
