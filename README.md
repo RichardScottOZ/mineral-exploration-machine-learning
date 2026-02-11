@@ -1677,6 +1677,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [WDMAM](https://geomag.org/models/wdmam.html) -> World Digital Magnetic Anomaly Map
 #### Magnetotellurics
 * [EMC](https://ds.iris.edu/ds/products/emc-globalem-2015-02x02/) -> global 3D inverse model of electrical conductivity 
+#### Remote Sensing
+* [GEBCO_2024 Grid](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f/) -> global continuous terrain model for ocean and land with a spatial resolution of 15 arc seconds.
 #### Seismic
 * [LAB SLNAAFSA](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
 * [LAB CAM2016](https://static-content.springer.com/esm/art%3A10.1038%2Fs41561-020-0593-2/MediaObjects/41561_2020_593_MOESM2_ESM.gz)
