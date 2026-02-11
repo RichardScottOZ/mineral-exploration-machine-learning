@@ -237,7 +237,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Geodynamics
 * [Badlands](https://github.com/badlands-model/badlands) -> Basin and Landscape Dynamics
-* [CitcomS](https://github.com/geodynamics/citcoms) -> finite element code designed to solve compressible thermochemical convection problems relevant to Earth's mantle.
+* [CitcomS](https://github.com/geodynamics/citcoms) -> Finite element code designed to solve compressible thermochemical convection problems relevant to Earth's mantle.
 * [LaMEM](https://github.com/UniMainzGeo/LaMEM) -> simulate various thermo-mechanical geodynamical processes such as mantle-lithosphere interaction
 * [PTatin3D](https://bitbucket.org/ptatin/ptatin3d/src/master/) -> studying long time-scale processes relevant to geodynamics [original motivation :toolkit capable of studying high-resolution, three-dimensional models of lithospheric deformation]
 * [underworld](https://github.com/underworldcode/underworld2) -> Finite element modelling of geodynamics
@@ -248,6 +248,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [HalTracks](https://github.com/samuelcboone/HALtracks) -> AI-based approach for constraining the thermal evolution of Earth's upper crust through automated digital fission-track analysis
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300425002468?via%3Dihub)
 
+  
 ## Geophysics
 ### General
 * [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
@@ -2659,6 +2660,8 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
 - https://www.researchgate.net/publication/356722687_Machine_learning-based_prediction_of_trace_element_concentrations_using_data_from_the_Karoo_large_igneous_province_and_its_application_in_prospectivity_mapping#fullTextFileContent
 - https://www.degruyter.com/document/doi/10.2138/am-2023-9115/html -> Machine learning applied to apatite compositions for determining mineralization potential [UNSEEN]
+- https://www.researchgate.net/profile/Monir-Modjarrad/publication/397781914_Machine_learning_approaches_in_testing_and_enhancing_tectonic_setting_discrimination_of_peridotites/links/691ea89119b35058639b6669/Machine-learning-approaches-in-testing-and-enhancing-tectonic-setting-discrimination-of-peridotites.pdf)
+
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
