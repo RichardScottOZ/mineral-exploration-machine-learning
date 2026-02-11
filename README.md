@@ -220,6 +220,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [gplately](https://github.com/GPlates/gplately)
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
+* [GemPy Model Mexico Basin(https://github.com/Nauj29/GemPy_Model_Mexico_Basin)
+  * [zenodo](https://zenodo.org/records/16423800)
+  * [paper](https://link.springer.com/article/10.1007/s12145-025-02064-9#data-availability) -> Implicit 3D structural geological modeling of the Mexico Basin: a scalable and reproducible open-source workflow
 * [Lineament Learning](https://github.com/aminrd/LineamentLearning) -> Fault prediction and mapping via potential field deep learning and clustering
 * [Lineament DEM Extractor](https://github.com/PedroRossi99/Lineament_DEM_extractor) -> Topographic lineaments extraction in digital elevation model
   * [paper](https://www.researchgate.net/publication/397085283_Topographic_lineaments_extraction_in_digital_elevation_modelLineamentos_topograficos_em_modelos_digitais_de_elevacao_a_comparison_between_human_interpretation_and_a_convolutional_neural_network_output)
