@@ -2305,10 +2305,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
 #### Pakistan
 - https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.13031 _> Advanced Mineral Deposit Mapping via Deep Learning and SVM Integration With Remote Sensing Imaging Data
-#### South Korea
-- https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
-- https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
-- https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
 #### Phillipines
 - https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/263174923_Application_of_Mineral_Exploration_Models_and_GIS_to_Generate_Mineral_Potential_Maps_as_Input_for_Optimum_Land-Use_Planning_in_the_Philippines
@@ -2335,6 +2331,11 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/361526053_Mineral_prospectivity_mapping_of_gold-base_metal_mineralisation_in_the_Sabie-Pilgrim%27s_Rest_area_Mpumalanga_Province_South_Africa
 - https://www.researchgate.net/publication/264296137_PREDICTIVE_BEDROCK_AND_MINERAL_PROSPECTIVITY_MAPPING_IN_THE_GIYANI_GREENSTONE_BELT_SOUTH_AFRICA
 - https://www.researchgate.net/publication/268196204_Predictive_mapping_of_prospectivity_for_orogenic_gold_Giyani_greenstone_belt_South_Africa
+- https://link.springer.com/article/10.1007/s11053-025-10615-6 -> Robust Uncertainty Analysis in Mineral Prospectivity Mapping: A Prototype for Fe–Mn Exploration in South Africa
+#### South Korea
+- https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
+- https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
+- https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
 #### Spain
 - https://www.researchgate.net/publication/225656353_Deriving_Optimal_Exploration_Target_Zones_on_Mineral_Prospectivity_Maps
 - https://www.researchgate.net/publication/222198648_Knowledge-guided_data-driven_evidential_belief_modeling_of_mineral_prospectivity_in_Cabo_de_Gata_SE_Spain
