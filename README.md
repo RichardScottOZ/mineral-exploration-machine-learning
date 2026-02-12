@@ -2561,6 +2561,8 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://library.seg.org/doi/abs/10.1190/geo2024-0150.1 -> Integration of PSPU-Net gravity inversion neural network with gravity data for enhanced 3D basement relief estimation
 - https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.897055/full -> High-precision downward continuation of the potential field based on the D-Unet network
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10672527 -> RTM Gravity Forward Modeling Using Improved Fully Connected Deep Neural Networks
+
+- https://arxiv.org/abs/2510.17876 -> Three-dimensional inversion of gravity data using implicit neural representations
 #### Grids
 - https://zenodo.org/records/7979970 -> Best practices for ultra-high resolution magnetic and radiometric statewide merges [gridmerger]
 #### Hyperspectral
