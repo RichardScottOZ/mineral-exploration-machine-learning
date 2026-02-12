@@ -2303,6 +2303,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S0009281924000801 -> Targeting porphyry Cu deposits in the Chahargonbad region of Iran: A joint application of deep belief networks and random forest techniques
 - https://www.researchgate.net/publication/307874730_The_use_of_decision_tree_induction_and_artificial_neural_networks_for_recognizing_the_geochemical_distribution_patterns_of_LREE_in_the_Choghart_deposit_Central_Iran
 - https://www.researchsquare.com/article/rs-4760956/v1 -> Uncertainty reduction with Hyperparameter Optimization in mineral prospectivity mapping: A Regularized Artificial Neural Network approach	[UNSEEN]
+- https://www.researchgate.net/publication/390742385_Unsupervised_Anomaly_Detection_for_Mineral_Prospectivity_Mapping_Using_Isolation_Forest_and_Extended_Isolation_Forest_Algorithms
 #### Ireland
 - https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
 #### Kazakhstan
