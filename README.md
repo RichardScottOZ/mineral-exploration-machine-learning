@@ -775,6 +775,7 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 * [Geological Provinces](https://services.ga.gov.au/gis/services/australian_geological_provinces/mapserver/wfsserver?version=2.0.0)
 * [WMS](https://services.ga.gov.au/gis/rest/services/Australian_Geological_Provinces/MapServer) -> WMS picture
 * [EGGS](http://services.ga.gov.au/gis/eggs/wms) -> Estimates of Geological and Geophysical Surfaces
+* [Chronostratigraphic Surfaces](https://services.ga.gov.au/gis/eggs/aus_chronostrat_v1/wms) -> 3D Chronostratigraphic Model of Australia 
 * [Proterozoic Alkaline Rocks](https://services.ga.gov.au/gis/services/ProterozoicAlkalineAndRelatedIgneousRocksOfAustralia/MapServer/WFSServer) - Proterozoic Alkaline Rocks Dataset WFS {also has WMS}
  * [Cenozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/92b76dbc-95a7-4bf9-84f7-34d7602e66eb)
  * [Mesozoic](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/e63b4771-cd18-4241-94b0-4e87708b4694)
