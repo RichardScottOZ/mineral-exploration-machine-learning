@@ -2216,6 +2216,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S0009281924001375 -> Spatial weighting — An effective incorporation of geological expertise into deep learning models
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_Datasets
 - https://www.researchgate.net/publication/360028637_Three-Dimensional_Mineral_Prospectivity_Mapping_by_XGBoost_Modeling_A_Case_Study_of_the_Lannigou_Gold_Deposit_China
+- https://www.sciencedirect.com/science/article/pii/S0169136825003579 -> Three-dimensional mineral prospectivity mapping using a residual convolutional neural network with lightweight attention mechanisms
 - https://link.springer.com/article/10.1007/s11053-024-10387-5 - Toward Data-Driven Mineral Prospectivity Mapping from Remote Sensing Data Using Deep Forest Predictive Model
 - https://www.researchgate.net/publication/361589587_Unlabeled_Sample_Selection_for_Mineral_Prospectivity_Mapping_by_Semi-supervised_Support_Vector_Machine
 - https://www.researchgate.net/publication/343515866_Using_deep_variational_autoencoder_networks_for_recognizing_geochemical_anomalies
