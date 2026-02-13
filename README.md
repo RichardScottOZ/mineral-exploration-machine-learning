@@ -2596,7 +2596,7 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://www.researchgate.net/publication/361114986_Reseaux_de_Neurones_Convolutifs_pour_la_Caracterisation_d'Anomalies_Magnetiques -> French original of the above
 #### Magnetotellurics
 - https://advancesincontinuousanddiscretemodels.springeropen.com/articles/10.1186/s13662-024-03842-3 -> 2D magnetotelluric imaging method based on visionary self-attention mechanism and data science
-- https://ieeexplore.ieee.org/abstract/document/10955415- -> 3DInception-U: Lightweight Network for 3-D Magnetotelluric Inversion Based on Inception Module [UNSEE]
+- https://ieeexplore.ieee.org/abstract/document/10955415- -> 3DInception-U: Lightweight Network for 3-D Magnetotelluric Inversion Based on Inception Module [UNSEEN]
 - https://ieeexplore.ieee.org/abstract/document/10530937 -> A Magnetotelluric Data Denoising Method Based on Lightweight Ensemble Learning [UNSEEN]
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
