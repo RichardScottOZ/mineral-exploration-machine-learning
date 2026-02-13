@@ -2518,6 +2518,7 @@ Sedimentary Rocks in the Western United States -> Using Machine Learning to Char
 - https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB030918 -> CNN-Trained Centroid Method for Estimating Depth to the Bottom of the Magnetic Sources (DBMS) and Its Application to the Southern Indian Shield
 #### Tectonics
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
+- https://www.tandfonline.com/doi/pdf/10.1080/08120099.2025.2543463 -> Characterising Magdala-style metavolcanictectonic ‘megaclasts’ in the Stawell Corridor, western Victoria: potential field modelling and neural network predictive targeting
 - https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
 - https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
