@@ -2478,6 +2478,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://agu.confex.com/agu/fm18/mediafile/Handout/Paper427843/Landforms%20Poster.pdf -> Using machine learning to classify landforms for minerals exploration
 - https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2414409 -> GeomorPM: a geomorphic pretrained model integrating convolution and Transformer architectures based on DEM data
 #### Lithology
+- https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149631 -> Find a rock or a rock nearby using Convolution Neural Networks 
 - https://www.researchgate.net/publication/389767586_Machine_Learning_for_Characterizing_Magma_Fertility_in_Porphyry_Copper_Deposits_A_Case_Study_of_Southeastern_Tibet
 - https://www.sciencedirect.com/science/article/abs/pii/S0926985125000692 -> Identifying ultramafic rocks using artificial neural network method based on aeromagnetic data [UNSEEN]
 - https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging [UNSEEN]
