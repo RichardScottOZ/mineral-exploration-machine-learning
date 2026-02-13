@@ -264,6 +264,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
   * [paper](https://www.nature.com/articles/s41598-025-01333-3)
 
+
 ### Structural
 * [Structural Geophysics Tools](https://github.com/swaxi/SGTool) -> QGIS aimed
 ### Foundation Models
@@ -305,6 +306,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://www.researchgate.net/publication/366965954_Stable_downward_continuation_of_the_gravity_potential_field_implemented_using_deep_learning)
 * [Fast imaging for the 3D density structures by machine learning approach](https://github.com/LiYongbo-geo/GV-Net-code)
 	* [paper](https://www.researchgate.net/publication/366922016_Fast_imaging_for_the_3D_density_structures_by_machine_learning_approach)
+- [Gravity Geophysics](https://github.com/JuliaGeophysics/GravityGeophysics.jl) -> Julia package for 3D gravity forward modeling and analysis with UBC-GIF format support
  
 ### Magnetics
 * [High-resolution aeromagnetic map through Adapted-SRGAN](https://github.com/MBS1984/Adapted-SRGAN)
