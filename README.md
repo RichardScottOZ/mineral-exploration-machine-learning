@@ -35,6 +35,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [UNCOVER-ML Framework](https://github.com/RichardScottOZ/uncover-ml)
   * [Geo-Wavelets](https://github.com/RichardScottOZ/geo-wavelets)
   * [ML-Preprocessing](https://github.com/GeoscienceAustralia/ML-preprocessing)
+  * [Landshark](https://github.com/data61/landshark) -> Large-scale spatial inference with tensorflow
   * [GIS ML Workflow](https://github.com/sheecegardezi/GIS-ML-Workflow)
 * [EIS Toolkit](https://github.com/GispoCoding/eis_toolkit/tree/master) -> Python library for mineral prospectivity mapping from EIS Horizon EU Project
 * [PySpatialML](https://github.com/RichardScottOZ/Pyspatialml) -> Library that facilitates prediction and handling for raster machine learning automatically to geotiff, etc.
