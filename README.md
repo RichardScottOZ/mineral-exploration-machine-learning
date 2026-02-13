@@ -2495,6 +2495,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149631 -> Find a rock or a rock nearby using Convolution Neural Networks 
 - https://www.researchgate.net/publication/389767586_Machine_Learning_for_Characterizing_Magma_Fertility_in_Porphyry_Copper_Deposits_A_Case_Study_of_Southeastern_Tibet
 - https://www.sciencedirect.com/science/article/abs/pii/S0926985125000692 -> Identifying ultramafic rocks using artificial neural network method based on aeromagnetic data [UNSEEN]
+- https://www.sciencedirect.com/science/article/abs/pii/S0013795225006040 -> Interpretable regional-scale geological mapping using a contrastive graph attention network for multimodal data fusion and recognition of controlling factors [UNSEEN]
 - https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging [UNSEEN]
 - https://www.nature.com/articles/s41598-024-66199-3 -> Machine learning and remote sensing-based lithological mapping of the Duwi Shear-Belt area, Central Eastern Desert, Egypt
 - https://link.springer.com/article/10.1007/s11053-024-10375-9 - SsL-VGMM: A Semisupervised Machine Learning Model of Multisource Data Fusion for Lithology Prediction [UNSEEN]
@@ -2682,6 +2683,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/339074334_Introduction_to_the_special_issue_on_spatial_modelling_and_analysis_of_ore-forming_processes_in_mineral_exploration_targeting
 - https://www.researchgate.net/publication/317319129_Natural_Resources_Research_Publications_on_Geochemical_Anomaly_and_Mineral_Potential_Mapping_and_Introduction_to_the_Special_Issue_of_Papers_in_These_Fields
 - https://www.researchgate.net/publication/46696293_Selection_of_coherent_deposit-type_locations_and_their_application_in_data-driven_mineral_prospectivity_mapping
+
 ## Geochemistry
 - https://www.researchgate.net/publication/395660029_A_comprehensive_analysis_of_autoencoder_variants_for_identification_of_multivariate_geochemical_anomalies_linked_to_hydrothermal_copper_mineralization_in_Feizabad_District_NE_Iran
 - https://www.researchgate.net/publication/375926319_A_paradigm_shift_in_Precambrian_research_driven_by_big_data
@@ -2701,7 +2703,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/356722687_Machine_learning-based_prediction_of_trace_element_concentrations_using_data_from_the_Karoo_large_igneous_province_and_its_application_in_prospectivity_mapping#fullTextFileContent
 - https://www.degruyter.com/document/doi/10.2138/am-2023-9115/html -> Machine learning applied to apatite compositions for determining mineralization potential [UNSEEN]
 - https://www.researchgate.net/profile/Monir-Modjarrad/publication/397781914_Machine_learning_approaches_in_testing_and_enhancing_tectonic_setting_discrimination_of_peridotites/links/691ea89119b35058639b6669/Machine-learning-approaches-in-testing-and-enhancing-tectonic-setting-discrimination-of-peridotites.pdf)
-
 - https://www.researchgate.net/publication/257026525_Primary_geochemical_characteristics_of_mineral_deposits_-_Implications_for_exploration
 - https://www.researchgate.net/publication/283554338_Recognition_of_geochemical_anomalies_using_a_deep_autoencoder_network
   - https://zarmesh.com/wp-content/uploads/2017/04/Recognition-of-geochemical-anomalies-using-a-deep-autoencoder-network.pdf
@@ -2711,10 +2712,12 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
 - https://www.researchgate.net/publication/249544991_Usefulness_of_stream_order_to_detect_stream_sediment_geochemical_anomalies
 - https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
+
 ## Fuzzy
 - https://www.researchgate.net/publication/272170968_A_Comparative_Analysis_of_Weights_of_Evidence_Evidential_Belief_Functions_and_Fuzzy_Logic_for_Mineral_Potential_Mapping_Using_Incomplete_Data_at_the_Scale_of_Investigation
 - https://www.researchgate.net/publication/267816279_Fuzzification_of_continuous-value_spatial_evidence_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/301635716_Union_score_and_fuzzy_logic_mineral_prospectivity_mapping_using_discretized_and_continuous_spatial_evidence_values
+
 ## Uncertainty
 - https://deliverypdf.ssrn.com/delivery.php?ID=555064031119110002088087068121000096050036019060022069010050000053011056029076002067121000064004002088113115000107115017083105004026015092089005123065040099024112018026013043065104094012124120126039100033055018066074125089104115090100009064122122019003015085069021024027072126106082092110&EXT=pdf&INDEX=TRUE -> Estimating uncertainties in 3-D models of complex fold-and-thrust 2 belts: a case study of the Eastern Alps triangle zone
 - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
