@@ -495,6 +495,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Core-JEPA: LeJEPA for Earth Observation]()
 * [DEA notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/tree/develop/Real_world_examples/Scalable_machine_learning) -> Scalable machine learning example but lots of useful things here
 * [deep_learning_alteration_zones](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)
+  * [zenodo](https://zenodo.org/records/7792676)
+  * [paper](https://www.researchgate.net/publication/391945910_Convolutional_Neural_Networks_for_Mineral_Prospecting_Through_Alteration_Mapping_with_Remote_Sensing_Data) -> Convolutional Neural Networks for Mineral Prospecting Through Alteration Mapping with Remote Sensing Data
 * [DS_UNet](https://github.com/SebastianHafner/DS_UNet) -> Unet fusing Sentinel-1 Synthetic Aperture Radar (SAR) and Sentinel-2 Multispectral Imager 
 * [EASI cookbook notebooks](https://github.com/csiro-easi/easi-notebooks/) -> CSIRO Earth Analytics platform introductions for ODC style analysis
 * [FSDFirner](https://github.com/Sichen-Lu/FSDFormer) -> FSDFormer: A Frequency-Selected Differential Fusion Transformer for Remote Sensing Image Spatiotemporal Fusion
@@ -1932,7 +1934,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Geophysics
 * [Dap Search](http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php) -> Geoportal search - note annoyingly these are in Geosoft grids - see elsewere for conversion possibilties
  * [Gravity, Magnetics, Radiometrics] -> Mostly country scale
- 
+ #### Newfoundland
+* [A database for igneous rocks of the Newfoundland Appalachians](https://zenodo.org/records/15043586)
+  * [paper](https://www.nature.com/articles/s41597-025-05090-w)
+
 ## Europe 
 ### European 
 * [Dataset for Critical Minerals Hard Rock Deposits](https://zenodo.org/records/15234833)
