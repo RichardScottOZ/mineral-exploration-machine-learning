@@ -42,6 +42,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [DARPA Criticalmaas](https://github.com/DARPA-CRITICALMAAS)
   * [competition info](file:///C:/Users/rscott/Downloads/DARPA-PA-22-02-01.pdf)
   * [uncharted T1](https://github.com/DARPA-CRITICALMAAS/uncharted-ta1) ->  Automated feature extraction and georeferencing of geologic maps
+  * [paper](www.sciencedirect.com/science/article/pii/S2590197425000564) -> Extracting data from maps: Lessons learned from the artificial intelligence for critical mineral assessment competition
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
