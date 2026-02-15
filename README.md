@@ -290,6 +290,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
 * [Deep Learning for Magnetotelluric Data Inversion](https://github.com/aeh1707/1DMD_inversion)
   * [paper](https://www.researchgate.net/profile/Hakim-Saibi-2/publication/392579623_Comparison_of_Deep_Learning_Models_for_1D_Magnetotelluric_Inversion/links/6849494ac33afe388acb5380/Comparison-of-Deep-Learning-Models-for-1D-Magnetotelluric-Inversion.pdf)
+* [GP-Cubed](https://github.com/williamjsdavis/GP-cubed/tree/main/neural-operator-geophysics  ) -> Gaussian Processes for GeoPhysics and Geology Playground
 
 #### Euler deconvolution
 - https://legacy.fatiando.org/gallery/gravmag/euler_moving_window.html
