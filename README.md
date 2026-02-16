@@ -2997,6 +2997,7 @@ The below are a collection of works from when I was doing a review
 - Knowledge graph construction and knowledge discovery for porphyry copper deposits -> https://www.sciencedirect.com/science/article/pii/S0169136825004354
 - https://www.sciencedirect.com/science/article/pii/S0169136824002154 -> Three-dimensional mineral prospectivity mapping based on natural language processing and random forests: A case study of the Xiyu diamond deposit, China
 #### LLM
+- https://www.sciencedirect.com/science/article/abs/pii/S0952197625036838 -> A domain-specific language model for engineering-scale geological reasoning and mineral exploration in the Qin-Hang belt [UNSEEN]
 - https://arxiv.org/pdf/2401.16822 - EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
 - https://link.springer.com/article/10.1007/s12371-024-01011-2 -> Can AI Get a Degree in Geoscience? Performance Analysis of a GPT-Based Artificial Intelligence System Trained for Earth Science (GeologyOracle)
 - https://www.mdpi.com/2076-3263/15/10/382 -> Fusing Geoscience Large Language Models and Lightweight RAG for Enhanced Geological Question Answering 
