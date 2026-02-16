@@ -2139,6 +2139,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.sciencedirect.com/science/article/pii/S0009281924001144 -> 3D mineral prospectivity modeling using deep adaptation network transfer learning: A case study of the Xiadian gold deposit, Eastern China
 - https://www.sciencedirect.com/science/article/pii/S0009281924000497 -> 3D mineral prospectivity modeling using multi-scale 3D convolution neural network and spatial attention approaches
 - https://www.researchgate.net/publication/366201930_3D_Quantitative_Metallogenic_Prediction_of_Indium-Rich_Ore_Bodies_in_the_Dulong_Sn-Zn_Polymetallic_Deposit_Yunnan_Province_SW_China
+- https://www.sciencedirect.com/science/article/pii/S1674987126000022 -> A causal-aware artificial intelligence framework for mineral prospectivity mapping
 - https://www.researchgate.net/publication/329600793_A_combined_approach_using_spatially-weighted_principal_components_analysis_and_wavelet_transformation_for_geochemical_anomaly_mapping_in_the_Dashui_ore-concentration_district_Central_China
 - https://www.researchgate.net/publication/349034539_A_Comparative_Study_of_Machine_Learning_Models_with_Hyperparameter_Optimization_Algorithm_for_Mapping_Mineral_Prospectivity
 - https://www.researchgate.net/publication/354132594_A_Convolutional_Neural_Network_of_GoogLeNet_Applied_in_Mineral_Prospectivity_Prediction_Based_on_Multi-source_Geoinformation
