@@ -293,6 +293,7 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [extended abstract](https://ecat.ga.gov.au/geonetwork/srv/api/records/9090de3e-1edc-47f3-a8c0-cd13c73972bc)
 * [TEM-NLnet: A Deep Denoising Network for Transient Electromagnetic Signal with Noise Learning](https://github.com/wmyCDUT/TEM-NLnet_demo)
 * [OpenEM](https://github.com/WAL-l/OpenEM) -> Large-scale multi-structural 3D datasets for electromagnetic methods
+  * [Geoelectrical3D](https://github.com/WAL-l/Geoelectrical3D) -> Model generation tool for OpenEM
 
 ### Inversion
 * [Machine Learning and Geophysical Inversion](https://github.com/ezygeo-ai/machine-learning-and-geophysical-inversion) -> reconstruct paper from Y. Kim and N. Nakata (The Leading Edge, Volume 37, Issue 12, Dec 2018)
