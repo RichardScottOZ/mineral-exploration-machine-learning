@@ -621,6 +621,8 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 ## Other
 * [Network Analysis of Mineralogical Systems](https://github.com/lic10/DTDI-DataAnalysis)
   * [Data](http://www.minsocam.org/MSA/AmMin/TOC/2017/Aug2017_data/AM-17-86104.zip) -> Data from paper here
+* [GeospanNN](https://github.com/WentaoZhan1998/geospaNN) 
+  * [paper](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2356293) -> Neural Networks for Geospatial Data
 * [Geoanalytics and machine learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
 * [Machine Learning Subsurface](https://github.com/PyBrown/Machine-Learning)
 * [ML Geoscience](https://github.com/DIG-Kaust/MLgeoscience)
