@@ -2336,6 +2336,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.mdpi.com/2075-163X/15/8/805 -> Integrated Prospectivity Mapping for Copper Mineralization in the Koldar Massif, Kazakhstan
 #### Nigeria
 - https://www.researchgate.net/publication/390597293_Assessment_of_Mineral_Deposits_in_Part_of_North_Senatorial_Zone_Adamawa_State_Nigeria_Using_Remote_Sensing_Geographic_Information_Systems_and_Machine_Learning
+- https://www.researchgate.net/publication/399585495_Hybrid_Machine_Learning_and_Geophysical_Inversion_Framework_for_High-Resolution_Mapping_of_Critical_Minerals_in_Precambrian_Terrains_of_Nigeria
 #### Norway
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
 #### Pakistan
