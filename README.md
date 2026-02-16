@@ -2531,6 +2531,7 @@ Sedimentary Rocks in the Western United States -> Using Machine Learning to Char
 - https://www.sciencedirect.com/science/article/abs/pii/S1367912024000889?via%3Dihub -> Imaging of moho topography with conditional generative adversarial network from observed gravity anomalies
 - https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JB030918 -> CNN-Trained Centroid Method for Estimating Depth to the Bottom of the Magnetic Sources (DBMS) and Its Application to the Southern Indian Shield
 #### Tectonics
+- https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2603810#d1e1286 -> A dual-track machine learning framework for andesite tectonic environment identification: ensemble learning and few-shot learning
 - https://www.researchgate.net/publication/371594975_Assessing_plate_reconstruction_models_using_plate_driving_force_consistency_tests
 - https://www.tandfonline.com/doi/pdf/10.1080/08120099.2025.2543463 -> Characterising Magdala-style metavolcanictectonic ‘megaclasts’ in the Stawell Corridor, western Victoria: potential field modelling and neural network predictive targeting
 - https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
