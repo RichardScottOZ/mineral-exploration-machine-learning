@@ -195,6 +195,7 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0013795225006040) -> Interpretable regional-scale geological mapping using a contrastive graph attention network for multimodal data fusion and recognition of controlling factors [UNSEEN]
   * [deepwiki](https://deepwiki.com/Y0901/A-contrastive-multimodal-graph-attention-network)
 * [litho2strat](https://gmd.copernicus.org/articles/19/1007/2026/) -> Estimate stratigraphy from drillhole logs using Loop techniques
+  * [paper]([Automated stratigraphic interpretation from drillhole lithological descriptions with uncertainty quantification: litho2strat 1.0](https://gmd.copernicus.org/articles/19/1007/2026/) -> Automated stratigraphic interpretation from drillhole lithological descriptions with uncertainty quantification: litho2strat 1.0
 
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
