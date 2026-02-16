@@ -2708,7 +2708,6 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/331505001_Deep_learning_and_its_application_in_geochemical_mapping
 - https://www.researchgate.net/publication/380262759_Factor_analysis_in_residual_soils_of_the_Iberian_Pyrite_Belt_Spain_Comparison_between_raw_data_log_transformation_data_and_compositional_data [UNSEEN]
 - https://www.researchgate.net/publication/272091723_Geochemical_characteristics_of_mineral_deposits_Implications_for_ore_genesis
-
 - https://www.researchgate.net/publication/257189047_Geochemical_mineralization_probability_index_GMPI_A_new_approach_to_generate_enhanced_stream_sediment_geochemical_evidential_map_for_increasing_probability_of_success_in_mineral_potential_mapping
 - https://www.researchgate.net/publication/333497470_Integration_of_auto-encoder_network_with_density-based_spatial_clustering_for_geochemical_anomaly_detection_for_mineral_exploration
 - https://www.researchgate.net/publication/319303831_Introduction_to_the_thematic_issue_Analysis_of_exploration_geochemical_data_for_mapping_of_anomalies
@@ -2722,6 +2721,7 @@ The below are a collection of works from when I was doing a review
 - https://www.researchgate.net/publication/375911531_Spatial_Interpolation_Using_Machine_Learning_From_Patterns_and_Regularities_to_Block_Models#fullTextFileContent
 - https://www.researchgate.net/publication/259716832_Supervised_and_unsupervised_classification_of_near-mine_soil_Geochemistry_and_Geophysics_data
 - https://www.researchgate.net/publication/277813662_Supervised_Geochemical_Anomaly_Detection_by_Pattern_Recognition
+- https://www.sciencedirect.com/science/article/pii/S0169136826000466 -> Tracing copper mineralisation anomalies using multi-element geochemistry and machine learning in the Okiep Copper District, South Africa
 - https://www.researchgate.net/publication/249544991_Usefulness_of_stream_order_to_detect_stream_sediment_geochemical_anomalies
 - https://www.researchgate.net/publication/321275541_Weighting_stream_sediment_geochemical_samples_as_exploration_indicator_of_deposit_-_type
 
