@@ -192,7 +192,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Lithology
 * [CMGAT](https://github.com/Y0901/A-contrastive-multimodal-graph-attention-network)
-  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0013795225006040) -> Interpretable regional-scale geological mapping using a contrastive graph attention network for multimodal data fusion and recognition of controlling factors
+  * [paper](https://www.sciencedirect.com/science/article/abs/pii/S0013795225006040) -> Interpretable regional-scale geological mapping using a contrastive graph attention network for multimodal data fusion and recognition of controlling factors [UNSEEN]
 
 * [Deep Learning Lithology](https://github.com/RichardScottOZ/deeplearning_lithology)
 * [Rock Protolith Predictor](https://github.com/RichardScottOZ/Rock_protolith_predictor)
