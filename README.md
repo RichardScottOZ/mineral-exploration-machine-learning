@@ -1701,6 +1701,10 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Sedimentary Layers](https://daac.ornl.gov/SOILS/guides/Global_Soil_Regolith_Sediment.html) -> Global 1-km Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers
 * [World Stress Map](https://www.world-stress-map.org/) -> Global compilation of information on the crustal present-day stress field
 * [GMBA](https://www.gmba.unibe.ch/services/tools/mountain_inventory_v1/index_eng.html) -> Global mountain inventory
+### Minerals
+[MineralTD](https://github.com/GeoSci-FFM/MineralTD) -> dataset containing 400 unique minerals for ML
+  * [zenodo](https://zenodo.org/records/15311085)
+  * [paper](https://rmets.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gdj3.70036) -> MRMinerals and MineralTD: Machine-Readable Mineral Formula and Compositions Data Set for Data-Driven Research
 ### Geophysics
 #### Gravity
 * [Curvature](https://www.3dearth.uni-kiel.de/en/public-data-products) -> Global curvature analysis from gravity gradient data
