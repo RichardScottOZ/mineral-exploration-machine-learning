@@ -356,6 +356,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [DAN-GRF](https://github.com/Saeid1986/DAN-GRF) -> Deep autoencoder network connected to geographical random forest for spatially aware geochemical anomaly detection
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001407)
 * [Dash Geochemical Prospection](https://github.com/pvabreu7/DashGeochemicalProspection) -> Web-app classifying stream sediments with K-means
+* [DZ-ML](https://github.com/jackfekete01/DZ_ML) -> Classifying Detrital Zircon U-Pb Age Distributions using Automated Machine Learning
+  * [paper](https://www.sciencedirect.com/science/article/pii/S2590197425000333?via%3Dihub) -> Classifying detrital zircon U-Pb age distributions using automated machine learning
+  * [zenodo](https://zenodo.org/records/14532918) -> Synthetic Fixed Age Mode Data
 * [Enhancing machine learning thermobarometry for clinopyroxene-bearing magmas](https://github.com/magredal/Enhancing-ML-Thermobarometry-for-Clinopyroxene-Bearing-Magmas)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0098300424001900) -> Enhancing-ML-Thermobarometry-for-Clinopyroxene-Bearing-Magmas
 * [Zircon fertility models](https://github.com/cicarrascog/Zircon_fertility_models) -> Decision trees to predict fertile zircon from porphyry copper deposits
