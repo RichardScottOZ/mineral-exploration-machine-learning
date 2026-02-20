@@ -529,6 +529,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Multi Pretext Masked Autoencoder (MP-MAE)](https://github.com/vishalned/MMEarth-train)
  * [data](https://github.com/vishalned/MMEarth-data)
  * [SamGIS](https://github.com/trincadev/samgis-be) -> Segment Anything applied to GIS
+* [EarthFoundationModels](https://github.com/zhu-xlab/EarthFoundationModels)  -> On the foundations of Earth foundation models
+  * [paper](https://www.nature.com/articles/s43247-025-03127-x) -> On the foundations of Earth foundation models
 * [PCP](https://github.com/wchh-2000/PCP) -> Prompt-Based Cartographic-Level Polygonal Vector Extraction Framework for Remote Sensing Images
   * [paper](https://ieeexplore.ieee.org/abstract/document/11181141)
 * [pytorcheo](https://github.com/earthpulse/pytorchEO -> Deep Learning for Earth Observation applications and research
@@ -3036,7 +3038,6 @@ The below are a collection of works from when I was doing a review
 - https://www.mdpi.com/1660-4601/18/18/9752 -> Learning and Expertise in Mineral Exploration Decision-Making: An Ecological Dynamics Perspective
 - https://www.sciencedirect.com/science/article/pii/S2214629624001476 -> Mapping critical minerals projects and their intersection with Indigenous peoples' land rights in Australia
 - https://www.sciencedirect.com/science/article/pii/S0098300425001153 => Mineral prospectivity analysis is unstable to changes in pixel size
-- https://www.nature.com/articles/s43247-025-03127-x -> On the foundations of Earth foundation models
 - https://www.sciencedirect.com/science/article/pii/S0169136824003470 -> Overcoming survival bias in targeting mineral deposits of the future: Towards null and negative tests of the exploration search space, accounting for lack of visibility
 - https://www.sciencedirect.com/science/article/pii/S088329272400115X -> Ranking Mineral Exploration Targets in Support of Commercial Decision Making: A Key Component for Inclusion in an Exploration Information System
 - https://earthmover.io/blog/tensors-vs-tables -> Tensors vs tables - why array native data structures are needed for performance
