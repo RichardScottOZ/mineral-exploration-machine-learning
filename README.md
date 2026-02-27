@@ -150,6 +150,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## Sudan
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 
+## Uncertainty
+* [MPM-uncertainty](https://github.com/ziyewangcug/MPM-uncertainty-quantification) -> Mineral Potential Mapping uncertainty quantification
+
 # Geology
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
 * [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
