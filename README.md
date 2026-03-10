@@ -1133,8 +1133,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get) -> Quebec-Atlas-hosted WMS for ProMine European mineral occurrence data
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
 
-
-
 ### Denmark
 * [Danish Subsurface Data](https://data.geus.dk/geusmap/?mapname=oil_and_gas&lang=en#baslay=&optlay=&extent=-1384000,5329054.6875,2426000,7120945.3125&layers=samba_wellbores,dkskaermkort&filter_0=txt_search.part%3D%26status.part%3D)
 ### Finland
@@ -1161,10 +1159,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [API](https://www.kartverket.no/en/api-and-data)
  * [Geoporta](https://geo.ngu.no/geoscienceportalopen/search) -> Geophysics
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
-### Britain
-* [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
- * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
- * [github](https://github.com/orgs/BritishGeologicalSurvey/)
 ### Ukraine
 * [Mineral Resources](https://eng.minerals-ua.info/)
 ### Russia
@@ -1194,10 +1188,14 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
 ### Poland
  * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
+
 ### United Kingdom
 * [UK Onshore Geophysical Library](https://ukogl.org.uk/)
 * [OS Data Hub British Geology](https://osdatahub.os.uk/downloads/open)
  * [Geology 625](https://osdatahub.os.uk/downloads/open/BGS_Geology_625k)
+* [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
+ * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
+ * [github](https://github.com/orgs/BritishGeologicalSurvey/)
 
  
 ## North America
