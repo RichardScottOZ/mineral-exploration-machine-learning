@@ -1191,12 +1191,14 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 
 ### United Kingdom
+ * [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
+  * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
+  * [github](https://github.com/orgs/BritishGeologicalSurvey/)
 * [UK Onshore Geophysical Library](https://ukogl.org.uk/)
 * [OS Data Hub British Geology](https://osdatahub.os.uk/downloads/open)
- * [Geology 625](https://osdatahub.os.uk/downloads/open/BGS_Geology_625k)
-* [Britain](https://www2.bgs.ac.uk/mineralsuk/maps/maps.html)
- * [mapserver](https://mapapps2.bgs.ac.uk/geoindex/home.html?topic=Minerals)
- * [github](https://github.com/orgs/BritishGeologicalSurvey/)
+  * [Geology 625](https://osdatahub.os.uk/downloads/open/BGS_Geology_625k)
+* [Mineral Potential](https://www2.bgs.ac.uk/mineralsuk/exploration/potential/mrp.html) -> BGS mineral potential mapper
+
 
  
 ## North America
@@ -1341,18 +1343,23 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [json](https://data.michigan.gov/api/views/8zkk-z5n4/rows.json?accessType=DOWNLOAD)
 * [Alaska](https://dggs.alaska.gov/pubs)
 * [Washington](https://www.dnr.wa.gov/publications/ger_publications_list.pdf)
-### Other
+### UK
 * [British Geological Survey NERC](https://nora.nerc.ac.uk)
   * [Mineral Potential](https://www2.bgs.ac.uk/mineralsuk/exploration/potential/mrp.html)
   * [Search](https://nora.nerc.ac.uk/cgi/facet/archive/simple2?screen=XapianSearch&dataset=archive&order=&q=Mineral+AND+exploration&_action_search=Search )
   * [API example](https://nora.nerc.ac.uk/cgi/facet/archive/simple2/export_nerc_JSON.js?screen=XapianSearch&dataset=archive&_action_export=1&output=JSON&exp=0%7C1%7C%7Carchive%7C-%7Cq%3A%3AALL%3AIN%3AMineral+AND+exploration%7C-%7C&n=&cache=)
   * [Publications](https://www.bgs.ac.uk/information-hub/publications/)
   * [MEIGA](https://www.bgs.ac.uk/news/over-600-mineral-exploration-project-reports-now-available-through-the-uk-critical-minerals-intelligence-centre/) -> MEIGA 600 BGS mineral exploration project reports
+### Sweden
 * [GeoLagret](https://www.sgu.se/en/products/search-tools/geolagret/exploration-reports/) -> Sweden
+### Other
 * [MinData](https://www.mindat.org/mineralindex.php) -> Compilation of rock locations from around the world
 * [Mineral Database](https://rruff.info/ima/) -> Exportable list of minerals with scientific properties and ages
 * [NASA](https://www.sti.nasa.gov/research-access/)  
 * [ResearchGate](https://www.researchgate.net/) -> Researcher and professional network
+
+
+
 
 # Tools
 ## GIS
