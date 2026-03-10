@@ -1154,6 +1154,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Geomap](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/geoviewer) -> M
  * [Atom](https://services.bgr.de/atomfeeds/service.xml) -> Atom data feed
  * [GDI](https://gst.bgr.de) -> 3D Models Germany
+### Greece
+* [IGME Geoportal](https://www.igme.gr/en/) -> Greek Institute of Geology and Mineral Exploration — geological maps, mineral deposits, geochemistry and geophysics data portal; WMS/WFS at gis.igme.gr
 ### Hungary
 * [MBFSZ Maps](https://map.mbfsz.gov.hu/)
 ### Ireland
