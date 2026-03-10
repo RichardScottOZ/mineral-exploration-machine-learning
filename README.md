@@ -161,6 +161,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [MPM-uncertainty](https://github.com/ziyewangcug/MPM-uncertainty-quantification) -> Mineral Potential Mapping uncertainty quantification
 
 # Geology
+* [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
+	* [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
+* [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
+	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniques
 * [Brazil Predictive Geology Maps](https://github.com/marcosbr/predictive-geology-maps) -> Work by the Brazil geological survey
 * [depth to bedrock](https://github.com/Alberta-Geological-Survey/depth-to-bedrock)(Evaluating spatially enabled machine learning approaches for depth to bedrock mapping) 
 	* [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296881)
@@ -172,9 +176,14 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
 	* [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300426000208) -> Uncertainty quantification using Hamiltonian Monte Carlo for structural geological modelling with implicit neural representations
+* [Geological Section Generated based on per-pixel linked lists](https://github.com/Dy111111/Geological-Sections_Generation_based_on_PPLL )
+  * [paper](https://www.researchgate.net/publication/391580813_A_real-time_geological_sections_generation_method_for_geological_3D_models_based_on_per-pixel_linked_lists)
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
+* [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
+  * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
+	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
 * [geological map explanatory power](https://github.com/charliekirkwood/geological-map-explanatory-power)
   * [paper](https://www.lyellcollection.org/doi/full/10.1144/esss2024-005) -> Quantifying the limited explanatory power of geological maps
@@ -182,16 +191,8 @@ Suggestions welcome: open a discussion, issue or pull request.
   *[paper](https://github.com/microsoft/PEACE) -> GeoMap-Bench
 * [SimCLR Core Disturbance](simclr_core_disturbance)
   * [paper](https://www.sciencedirect.com/science/article/pii/S2590197424000636?via%3Dihub)
+* [Uncertainty Driven Geoogical Mapping](https://github.com/ziyewangcug/uncertainty-driven-lithological-mapping)
 * [West Musgraves Geology Uncertainty](https://medium.com/@thomas.ostersen/uncertainty-mapping-in-the-west-musgraves-australia-988fc49ce1e4) -> Uncertainty map prediction with entropy analysis: highly useful
-* [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
-  * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
-	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
-* [Bedrock-vs-sediment](https://github.com/alexandra-jarna/Bedrock-vs-sediment)
-	* [paper](https://www.researchgate.net/publication/370929945_Where_are_the_outcrops_Automatic_delineation_of_bedrock_from_sediments_using_Deep-Learning_techniques
-* [autoencoders_remotesensing](https://github.com/sydney-machine-learning/autoencoders_remotesensing)
-	* [paper](https://arxiv.org/abs/2404.02180v1) -> Remote sensing framework for geological mapping via stacked autoencoders and clustering
-* [Geological Section Generated based on per-pixel linked lists](https://github.com/Dy111111/Geological-Sections_Generation_based_on_PPLL )
-  * [paper](https://www.researchgate.net/publication/391580813_A_real-time_geological_sections_generation_method_for_geological_3D_models_based_on_per-pixel_linked_lists)
 
 ## Training Data
 * [Into the Noddyverse](https://github.com/Loop3D/noddyverse/tree/1.0) -> a massive data store of 3D geological models for machine learning and inversion applications
