@@ -1193,10 +1193,12 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
 ### Slovenia
 * [Data Catalogue](https://egeologija.si/geonetwork/srv/eng/catalog.search#/)
-### Sweden
-* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
 ### Spain
 * [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
+### Sweden
+* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
+### Switzerland
+* [Swisstopo Geology Data](https://www.swisstopo.admin.ch/en/geodata/geology.html) -> Federal Office of Topography geology datasets — national geological maps, boreholes, tectonics and mineral resources open data; STAC API at https://data.geo.admin.ch/api/stac/v1/
 ### Ukraine
 * [Mineral Resources](https://eng.minerals-ua.info/)
 
