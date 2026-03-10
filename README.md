@@ -118,6 +118,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Transfer Prospectivity Learnnig](https://github.com/Anagabrielamantilla/TransferProspectivityLearning)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S1342937X24002727)  -> Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning
 
+* [Probabilistic mineral prospectivity modelling with TAGI, BNN, and MC dropout](https://github.com/Laish93/probabilistic_mpm)
+  * [paper](https://www.sciencedirect.com/science/article/pii/S2590197426000169) -> Tractable approximate Gaussian inference for interpretable mineral prospectivity modelling
+
 ## South America
 * [Machine learning to classify ore deposits from tectonomagmatic properties](https://github.com/intelligent-exploration/mineralexplorationcourse/tree/master/Week10)
 ## Brazil
