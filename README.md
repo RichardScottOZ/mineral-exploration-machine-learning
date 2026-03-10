@@ -1135,6 +1135,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 
 ### Austria
 * [GeoSphere](https://data.hub.geosphere.at/) -> Austrian geological and geophysical open data hub with FAIR datasets; REST API available
+### Bulgaria
+* [Bulgarian Geological Institute](https://www.geology.bas.bg/) -> Bulgarian Academy of Sciences Geological Institute — geological databases, maps and mineral resources data
 ### Croatia
 * [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
 * [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
