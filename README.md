@@ -1128,10 +1128,13 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Dimage](http://visualizadorgeominero.dinamige.gub.uy/DINAMIGE_mvc2/)
 
 ## Europe
-* [EGDI](maps.europe-geology.eu/wfs/) -> EGDI geoscience
- * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
- * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get)
+* [EGDI](https://www.europe-geology.eu/) -> European Geological Data Infrastructure Pan-European geological data portal with 800+ map layers including mineral occurrences and critical raw materials; OGC WFS/WMS services at https://www.europe-geology.eu/data-tools/
+  * [WFS](https://data.geus.dk/egdi/wfs/help/?layers=egdi_mineraloccurr_base_metals)
+  * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get) -> Quebec-Atlas-hosted WMS for ProMine European mineral occurrence data
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
+
+
+
 ### Denmark
 * [Danish Subsurface Data](https://data.geus.dk/geusmap/?mapname=oil_and_gas&lang=en#baslay=&optlay=&extent=-1384000,5329054.6875,2426000,7120945.3125&layers=samba_wellbores,dkskaermkort&filter_0=txt_search.part%3D%26status.part%3D)
 ### Finland
