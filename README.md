@@ -1116,7 +1116,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Colombia
 * [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
 ### Ecuador
-* [IIGE Geoenergia](https://www.geoenergia.gob.ec/) -> Ecudaor geological energy institute geological, mineral and energy resources
+* [IIGE Geoenergia](https://www.geoenergia.gob.ec/) -> Ecudaor energy institute geological, mineral and energy resources
 ### Mexico
 * [GeoInfo](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
 ### Paraguay
