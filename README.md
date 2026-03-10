@@ -1186,6 +1186,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Russia
 * [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
 * [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+### Serbia
+* [Geological Survey of Serbia](https://www.gs.gov.rs/) -> Serbia Geological Survey — geological maps, mineral deposits database and geohazard data
 ### Slovakia
 * [Data Catalogue](https://apl.geology.sk/mapportal/#/aplikacie/3/)
 * [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
