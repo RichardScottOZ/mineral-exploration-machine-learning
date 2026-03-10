@@ -1160,6 +1160,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Goldmine](https://secure.decc.gov.ie/goldmine/index.html) -> Map and document search
 * [data.gov.ie](https://data.gov.ie/organization/geological-survey-of-ireland) -> National portal view
 * [isde](https://isde.ie/geonetwork/srv/eng/catalog.search#/) -> Irish Spatial Data Exchange
+* [ISPRA Geological Survey](https://portalesgi.isprambiente.it/en/) -> Italian geological survey portal with geological maps, mineral resources, and OGC web services (WMS/WFS/WCS)
 ### Norway
 * [NGU](https://www.ngu.no/prospecting/) -> Norway Geological Survey
  * [database](https://aps.ngu.no) -> Mineral resources and stratigraphy lookups
