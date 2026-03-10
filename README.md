@@ -78,6 +78,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 ## World
 * [Porphyry prospectivity global](https://github.com/EarthByte/porphyry-prospectivity-global) -> Spatio-temporal global mapping
   * [zenodo](https://zenodo.org/record/8157691)
+* [Spatiotemporal-Data-Mining-of-Sediment-Hosted-Deposits-Subduction-Craton-Distance Public](https://github.com/Hojat-Shirmard/Spatiotemporal-Data-Mining-of-Sediment-Hosted-Deposits-Subduction-Craton-Distance)
+  * [paper](https://www.researchgate.net/publication/390283561_Spatio-temporal_data_mining_of_craton_edge-related_mineralisation_Unveiling_the_dynamics_of_sediment-hosted_and_IOCG_deposits)
+
+
 
 ## Oceania
 ### Australia
