@@ -1138,6 +1138,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
 ### Czech Republic
 * [GS](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
+* [GS (English)](https://www.geology.cz/extranet-eng/maps/online-maps/map-applications) -> Czech Geological Survey English version
 ### Denmark
 * [Danish Subsurface Data](https://data.geus.dk/geusmap/?mapname=oil_and_gas&lang=en#baslay=&optlay=&extent=-1384000,5329054.6875,2426000,7120945.3125&layers=samba_wellbores,dkskaermkort&filter_0=txt_search.part%3D%26status.part%3D)
 ### Finland
