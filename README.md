@@ -804,6 +804,8 @@ If listed it is assumed they are generally data, if just pictures like WMS it wi
 
 ## World
 * [Critical Minerals and Deposits](https://portal.ga.gov.au/metadata/geochemistry/inorganic-geochemistry/critical-minerals-deposits-and-geochemistry/345cfeb7-9832-4c95-9f2e-59ec20cb1d91)
+* [PANGAEA](https://www.pangaea.de/api/v1/) -> Data Publisher for Earth & Environmental Science
+
 ## Australia
 * [AusGIN](https://www.geoscience.gov.au/web-services)
 * [Geoscience Australia](http://services.ga.gov.au/)
@@ -1019,6 +1021,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [ISC Bulletin](https://www.isc.ac.uk/iscbulletin/search/fmechanisms/) -> Earthquake focal mechanism search
 * [Magnetics Information Consortium](https://www2.earthref.org/MagIC/search) -> paleomagnetic, geomagnetic, rock magnetic
 * [Earthchem](https://www.earthchem.org/) -> Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data
+* [PANGAEA](https://www.pangaea.de/) -> Earth and environmental science data 
+
 ## Australia
 ### Geoscience Australia
 * [Geoscience Australia Data Catalogue](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/)
@@ -1101,6 +1105,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Argentina
 * [SIGAM](https://sigam.segemar.gov.ar/wordpress) -> Argentina Geological Survey
  * [SIGAM](https://sigam.segemar.gov.ar/wordpress/geoservicios/)
+### Bolivia
+* [SERGEOMIN IDE](http://ide.sergeomin.gob.bo/) -> Bolivia Geological Mining Service geospatial data
 ### Brazil
 * [CPRM](https://www.cprm.gov.br/en/Geology-53) -> Brazil Geological Survey
  * [Downloads](https://geosgb.cprm.gov.br/geosgb/downloads_en.html) -> Brazil Geological Survey Downloads
@@ -1109,6 +1115,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [Portalgeomin](https://portalgeomin.sernageomin.cl/)
 ### Colombia
 * [Geportal](https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles/)
+### Ecuador
+* [IIGE Geoenergia](https://www.geoenergia.gob.ec/) -> Ecudaor geological energy institute geological, mineral and energy resources
 ### Mexico
 * [GeoInfo](https://www.sgm.gob.mx/GeoInfoMexGobMx/)
 ### Paraguay
