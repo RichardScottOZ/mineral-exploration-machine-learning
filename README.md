@@ -346,6 +346,10 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Petrophysics
 * [ML4Rocks](https://github.com/clberube/ml4rocks) -> Some intro work
 
+### Seismic
+* [torchseis](https://github.com/JintaoLee-Roger/torchseis) -> 3D Deep Learning Framework for Seismic and Subsurface Modeling
+  * [paper](https://www.nature.com/articles/s44172-025-00576-2) -> Memory-efficient full-volume inference for large-scale 3D dense prediction without performance degradation
+
 ### Tectonics
 * [Discern detachment of the subducting slab in an ancient subduction zone using machine learning](https://github.com/dzheng2333/basalt_geochemistry) -> Notebook
 	* [figshare](https://figshare.com/articles/dataset/Supporting_information_for_A_machine_learning_approach_to_identify_the_abrupt_transition_of_tectonic_settings_using_trace_elemental_dataset_of_basalts_/24015024)
