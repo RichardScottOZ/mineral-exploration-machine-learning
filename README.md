@@ -1133,19 +1133,26 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get) -> Quebec-Atlas-hosted WMS for ProMine European mineral occurrence data
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
 
+### Croatia
+* [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
+* [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
+### Czech Republic
+* [GS](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
 ### Denmark
 * [Danish Subsurface Data](https://data.geus.dk/geusmap/?mapname=oil_and_gas&lang=en#baslay=&optlay=&extent=-1384000,5329054.6875,2426000,7120945.3125&layers=samba_wellbores,dkskaermkort&filter_0=txt_search.part%3D%26status.part%3D)
 ### Finland
 * [Minerals4EU](http://minerals4eu.brgm-rec.fr)
 * [GTK](https://www.gtk.fi/en/services/data-sets-and-online-services-geo-fi/) -> Geological Survey of Finland
  * [Geochemical Maps](http://weppi.gtk.fi/publ/foregsatlas/maps_table.php) -> pdf only!
-### Sweden
-* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
-### Spain
-* [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
-### Portugal
-* [Geoportal](https://geoportal.lneg.pt/)
- * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
+### France
+* [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
+### Germany
+* [Geoportal](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/)
+ * [Geomap](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/geoviewer) -> M
+ * [Atom](https://services.bgr.de/atomfeeds/service.xml) -> Atom data feed
+ * [GDI](https://gst.bgr.de) -> 3D Models Germany
+### Hungary
+* [MBFSZ Maps](https://map.mbfsz.gov.hu/)
 ### Ireland
 * [GSI](https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx) -> Geological Survey of Ireland
  * [GSI](https://dcenr.maps.arcgis.com/apps/MapSeries/index.html?appid=a30af518e87a4c0ab2fbde2aaac3c228) - Map viewer
@@ -1159,35 +1166,29 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [API](https://www.kartverket.no/en/api-and-data)
  * [Geoporta](https://geo.ngu.no/geoscienceportalopen/search) -> Geophysics
 * [GEONORGE](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=40) -> Data catalogue with download
-### Ukraine
-* [Mineral Resources](https://eng.minerals-ua.info/)
-### Russia
-* [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
-* [RGU](https://rfgf.ru/map/) -> GIS project of deposits
-### Germany
-* [Geoportal](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/)
- * [Geomap](https://geoportal.bgr.de/mapapps/resources/apps/geoportal/index.html?lang=en#/geoviewer) -> M
- * [Atom](https://services.bgr.de/atomfeeds/service.xml) -> Atom data feed
- * [GDI](https://gst.bgr.de) -> 3D Models Germany
-### France
-* [Infoterre](https://infoterre.brgm.fr/viewer/MainTileForward.do) -> French Geological Survey
-### Croatia
-* [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
-* [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
-### Czech Republic
-* [GS](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) -> Czech Geological Survey
-### Slovenia
-* [Data Catalogue](https://egeologija.si/geonetwork/srv/eng/catalog.search#/)
-### Slovakia
-* [Data Catalogue](https://apl.geology.sk/mapportal/#/aplikacie/3/)
-* [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
-### Hungary
-* [MBFSZ Maps](https://map.mbfsz.gov.hu/)
+### Poland
+ * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
+### Portugal
+* [Geoportal](https://geoportal.lneg.pt/)
+ * [Mineral Occurences](https://geoportal.lneg.pt/umbraco/SiorminpPlugin/SiorminpApi/GetDetails?id=2200)
 ### Romania
 * [IGR](https://geoportal.igr.ro/viewminres) -> Romania Geological Survey
  * [Mineral Resources](https://geoportal.igr.ro/viewminres)
-### Poland
- * [Geoportal](https://geoportal.pgi.gov.pl/portal/page/portal/PIGMainExtranet)
+### Russia
+* [Russian Geological Research Institute](https://www.vsegei.ru/en/) -> Inaccessible currently
+* [RGU](https://rfgf.ru/map/) -> GIS project of deposits
+### Slovakia
+* [Data Catalogue](https://apl.geology.sk/mapportal/#/aplikacie/3/)
+* [Geoportapi api](https://apl.geology.sk/geoportal/#searchPanel)
+### Slovenia
+* [Data Catalogue](https://egeologija.si/geonetwork/srv/eng/catalog.search#/)
+### Sweden
+* [SGU](https://www.sgu.se/en/products/geological-data/use-data-from-sgu/) -> Swedish Geological Survey
+### Spain
+* [IGME](http://info.igme.es/catalogo/catalog.aspx?catalog=2&shfo=false&shdt=false&master=infoigme&lang=spa&types=4) -> Spanish Geological Survey
+### Ukraine
+* [Mineral Resources](https://eng.minerals-ua.info/)
+
 
 ### United Kingdom
 * [UK Onshore Geophysical Library](https://ukogl.org.uk/)
