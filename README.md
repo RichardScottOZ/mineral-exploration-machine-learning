@@ -1133,6 +1133,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
   * [Promine](https://servicesvectoriels.atlas.gouv.qc.ca/IDS_SGM_WMS/service.svc/get) -> Quebec-Atlas-hosted WMS for ProMine European mineral occurrence data
 * [Inspire](https://inspire-geoportal.ec.europa.eu/) -> Inspire Geoportal
 
+### Austria
+* [GeoSphere](https://data.hub.geosphere.at/) -> Austrian geological and geophysical open data hub with FAIR datasets; REST API available
 ### Croatia
 * [Geoportal](https://www.hgi-cgs.hr/geoloske-karte/#) -> Croatia Geological Survey
 * [Geology](http://webgis.hgi-cgs.hr/gk300/default.aspx)
