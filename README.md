@@ -61,13 +61,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [truly spatial random forest](https://github.com/RichardScottOZ/truly-spatial-random-forest)
   * [paper](https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling)
 
- 
-* [pyClusterwise](https://pypi.org/project/pyClusterWise/)
+ * [pyClusterwise](https://pypi.org/project/pyClusterWise/)
   * [paper] -> https://www.sciencedirect.com/science/article/pii/S0169136825001519?via%3Dihub -> Clustering in geo-data science: Navigating uncertainty to select the most reliable method
 * [GeoStat Framework](https://github.com/GeoStat-Framework) -> Group of repositories with kriging and other
 * [CoreJepa](https://github.com/galilai-group/lejepa) - LeJea for Remote Sensing
   * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
-
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
@@ -76,14 +74,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### Pipelines
 * [geotargets](https://github.com/RichardScottOZ/geotargets) -> Extension of targets to terra and stars
 
-
 # Prospectivity
 ## World
 * [Porphyry prospectivity global](https://github.com/EarthByte/porphyry-prospectivity-global) -> Spatio-temporal global mapping
   * [zenodo](https://zenodo.org/record/8157691)
 * [Spatiotemporal-Data-Mining-of-Sediment-Hosted-Deposits-Subduction-Craton-Distance Public](https://github.com/Hojat-Shirmard/Spatiotemporal-Data-Mining-of-Sediment-Hosted-Deposits-Subduction-Craton-Distance)
   * [paper](https://www.researchgate.net/publication/390283561_Spatio-temporal_data_mining_of_craton_edge-related_mineralisation_Unveiling_the_dynamics_of_sediment-hosted_and_IOCG_deposits)
-
 
 
 ## Oceania
@@ -283,7 +279,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### General
 * [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
   * [paper](https://www.nature.com/articles/s41598-025-01333-3)
-
+* [Gridmerger](https://github.com/RichardScottOZ/Gridmerger) -> Merge many overlapping grids with polynomial fitting and blending
 
 ### Structural
 * [Structural Geophysics Tools](https://github.com/swaxi/SGTool) -> QGIS aimed
