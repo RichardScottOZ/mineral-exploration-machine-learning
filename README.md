@@ -115,7 +115,6 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [SpatioTemporAl Mineral Prospectivity (STAMP) Modelling](https://github.com/EarthByte/STAMP_PNG)
 	* [Zenodo Data](https://zenodo.org/records/14189755)
 
-
 ## North America
 ### Canada
 * [Transfer Prospectivity Learnnig](https://github.com/Anagabrielamantilla/TransferProspectivityLearning)
@@ -179,6 +178,8 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300426000208) -> Uncertainty quantification using Hamiltonian Monte Carlo for structural geological modelling with implicit neural representations
 * [Geological Section Generated based on per-pixel linked lists](https://github.com/Dy111111/Geological-Sections_Generation_based_on_PPLL )
   * [paper](https://www.researchgate.net/publication/391580813_A_real-time_geological_sections_generation_method_for_geological_3D_models_based_on_per-pixel_linked_lists)
+* [Geoscience Transformers for Predictive Mapping of Critical Minerals](https://github.com/RichardScottOZ/geoscience-transformers-for-predictive-mapping-of-critical-minerals) 
+  * [paper](https://link.springer.com/article/10.1007/s11053-025-10564-0) -> Large Language Models and Geoscience Transformers for Predictive Mapping of Canadian Critical Minerals
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
@@ -2175,7 +2176,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.researchgate.net/publication/365782501_Improving_Mineral_Prospectivity_Model_Generalization_An_Example_from_Orogenic_Gold_Mineralization_of_the_Sturgeon_Lake_Transect_Ontario_Canada
 - https://qspace.library.queensu.ca/bitstream/handle/1974/28138/Cevik_Ilkay_S_202009_MASc.pdf?sequence=3&isAllowed=y -> MACHINE LEARNING ENHANCEMENTS FOR KNOWLEDGE DISCOVERY IN MINERAL EXPLORATION AND IMPROVED MINERAL RESOURCE CLASSIFICATION
-- https://link.springer.com/article/10.1007/s11053-025-10564-0 -> Large Language Models and Geoscience Transformers for Predictive Mapping of Canadian Critical Minerals
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
  - https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
