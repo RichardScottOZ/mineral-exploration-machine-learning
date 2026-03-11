@@ -117,9 +117,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## North America
 ### Canada
+* [Generative Neural Network for Mineral Prospectivity with Uncertainty Quantification](https://github.com/RichardScottOZ/generative-neural-network-mineral-prospectivity-uncertainty)
+  * [paper](https://www.sciencedirect.com/science/article/pii/S0169136825004044) -> A generative neural network approach to uncertainty and risk-return analysis in mineral prospectivity modelling
+
 * [Transfer Prospectivity Learnnig](https://github.com/Anagabrielamantilla/TransferProspectivityLearning)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S1342937X24002727)  -> Porphyry-type mineral prospectivity mapping with imbalanced data via prior geological transfer learning
-
 * [Probabilistic mineral prospectivity modelling with TAGI, BNN, and MC dropout](https://github.com/Laish93/probabilistic_mpm)
   * [paper](https://www.sciencedirect.com/science/article/pii/S2590197426000169) -> Tractable approximate Gaussian inference for interpretable mineral prospectivity modelling
 
@@ -275,7 +277,6 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://www.nature.com/articles/s43247-025-03005-6)
 * [HalTracks](https://github.com/samuelcboone/HALtracks) -> AI-based approach for constraining the thermal evolution of Earth's upper crust through automated digital fission-track analysis
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300425002468?via%3Dihub)
-
   
 ## Geophysics
 ### General
@@ -2173,7 +2174,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 - https://www.researchgate.net/publication/273176257_Data-_and_Knowledge_driven_mineral_prospectivity_maps_for_Canada's_North
 - https://www.researchgate.net/publication/300153215_Data_mining_for_real_mining_A_robust_algorithm_for_prospectivity_mapping_with_uncertainties
 - https://www.sciencedirect.com/science/article/pii/S1674987123002268 -> Development and application of feature engineered geological layers for ranking magmatic, volcanogenic, and orogenic system components in Archean greenstone belts
-- https://www.sciencedirect.com/science/article/pii/S0169136825004044 -> A generative neural network approach to uncertainty and risk-return analysis in mineral prospectivity modelling
 - https://eartharxiv.org/repository/view/8898/ -> Geoscientific Input Feature Selection for CNN-driven Mineral Prospectivity Mapping
 - https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
 - https://www.researchgate.net/publication/365782501_Improving_Mineral_Prospectivity_Model_Generalization_An_Example_from_Orogenic_Gold_Mineralization_of_the_Sturgeon_Lake_Transect_Ontario_Canada
