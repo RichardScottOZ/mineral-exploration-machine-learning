@@ -281,6 +281,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 ### General
 * [Feature fusion-enhanced t-SNE image atlas for geophysical features discovery](https://github.com/ll-portes/t-sne_atlas)
   * [paper](https://www.nature.com/articles/s41598-025-01333-3)
+* [Geophysics Blakey](https://github.com/RichardScottOZ/geophysics-blakely)
+  * [Fortran version](https://github.com/VictorCarreira/Geophysics) -> ports of Blakely geophysics algorithms
 * [Gridmerger](https://github.com/RichardScottOZ/Gridmerger) -> Merge many overlapping grids with polynomial fitting and blending
 
 ### Structural
