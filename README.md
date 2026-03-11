@@ -669,7 +669,7 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
 * [Open Source GIS](https://link.springer.com/chapter/10.1007/978-3-030-53125-6_30) -> Comprehensive overview of the ecosystem
 
 # Data Quality
-* [Geoscience Data Quality for Machine Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) -> Geoscience Data Quality for Machine Learning
+* [Geoscience Data Quality for Machine Learning](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning) -> Geoscience Data Quality for Machine Learning Package
 * [Australian Gravity Data](https://github.com/RichardScottOZ/australia-gravity-data) -> Overview and analysis of gravity station data
 * [Geodiff](https://github.com/MerginMaps/geodiff) -> Comparison of vector data
 * [Redflag](https://github.com/agilescientific/redflag) -> Analysis of data and an overview to detect problems
