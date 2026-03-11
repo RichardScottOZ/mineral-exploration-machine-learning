@@ -1479,6 +1479,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [AuScope](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> Data from binary GOCAD models
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
 	* [geomodel-2-3dweb](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> In here they have a method to extract data from binary GOCAD SG Grids
+* [GOCAD TS Surface Reader](https://github.com/RichardScottOZ/GOCAD_TS-Surface-Reader) -> GOCAD TS Surface Reader
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
