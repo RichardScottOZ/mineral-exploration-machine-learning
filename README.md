@@ -1485,6 +1485,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
 * [CGG Outfile reader](https://github.com/RichardScottOZ/CGG-Out-Reader)
 * [geoh5 bridge](https://github.com/RichardScottOZ/geoh5-bridge)
+* [Geophysics Data Reverse Engineering](https://github.com/RichardScottOZ/geophysics-data-reverse-engineering) -> framework for analysing and reverse engineering legacy binary geophysics data formats
+
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
