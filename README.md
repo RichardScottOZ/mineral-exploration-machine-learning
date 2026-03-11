@@ -1519,6 +1519,7 @@ geometries
 * [Manual python geologia](https://github.com/kevinalexandr19/manual-python-geologia) -> Analysis of geology data
 * [Map2Loop](https://github.com/Loop3D/map2loop-2) -> 3D Modelling Automation
   * [Loop3D](https://github.com/Loop3D/Loop3D) -> GUI for Map2Loop
+  * [Loop Autobedding](https://github.com/RichardScottOZ/Loop-Autobedding) -> Can you do approximates for use with above when none
 * [Pybedforms](https://github.com/AndrewAnnex/pybedforms)
 * [SA Stratigraphy](https://github.com/RADutchie/SA-Strarigraphy-db) -> Stratigraphy database editor webapp
 * [Striplog](https://github.com/agile-geoscience/striplog)
