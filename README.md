@@ -171,6 +171,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Earthscape](https://github.com/masseygeo/earthscape) -> EarthScape: A Multimodal Dataset for Surficial Geologic Mapping and Earth Surface Analysis
   * [paper](https://arxiv.org/abs/2503.15625)
 * [Geological Image Classifier](https://github.com/PCleverleyGeol/Geological-Image-Classifier)
+* [geological map explanatory power](https://github.com/charliekirkwood/geological-map-explanatory-power)
+  * [paper](https://www.lyellcollection.org/doi/full/10.1144/esss2024-005) -> Quantifying the limited explanatory power of geological maps
 * [Geological mapping in the age of artificial intelligence](https://geoscientist.online/sections/features/geological-mapping-in-the-age-of-artificial-intelligence/) -> Geological mapping in the age of artificial intelligence
 * [GeolNR](https://github.com/MichaelHillier/GeoINR) -> Geological Implicit Neural Representation for three-dimensional structural geological modelling applications
 	* [paper](https://gmd.copernicus.org/articles/16/6987/2023/)
@@ -184,8 +186,6 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
 * [Neural Rock Typing](https://github.com/LukasMosser/neural_rock_typing)
-* [geological map explanatory power](https://github.com/charliekirkwood/geological-map-explanatory-power)
-  * [paper](https://www.lyellcollection.org/doi/full/10.1144/esss2024-005) -> Quantifying the limited explanatory power of geological maps
 * [PEACE](https://github.com/microsoft/PEACE) -> Empowering Geologic Map Holistic Understanding with MLLMs)
   *[paper](https://github.com/microsoft/PEACE) -> GeoMap-Bench
 * [SimCLR Core Disturbance](simclr_core_disturbance)
