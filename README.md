@@ -58,6 +58,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [ExPloRA](https://github.com/samar-khanna/ExPLoRA) -> ExPLoRA: Parameter-Efficient Extended Pre-training to Adapt Vision Transformers under Domain Shifts
 	* [Website](https://www.samarkhanna.com/ExPLoRA/)
 	* [paper](https://arxiv.org/abs/2406.10973)
+* [truly spatial random forest](https://github.com/RichardScottOZ/truly-spatial-random-forest)
+  * [paper](https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling)
+
  
 * [pyClusterwise](https://pypi.org/project/pyClusterWise/)
   * [paper] -> https://www.sciencedirect.com/science/article/pii/S0169136825001519?via%3Dihub -> Clustering in geo-data science: Navigating uncertainty to select the most reliable method
@@ -2127,7 +2130,6 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 ### Mineral Prospectivity
 #### Australia
 - https://www.mdpi.com/2072-4292/15/16/4074 -> A Spatial Data-Driven Approach for Mineral Prospectivity Mapping
-- https://www.researchgate.net/publication/353253570_A_Truly_Spatial_Random_Forests_Algorithm_for_Geoscience_Data_Analysis_and_Modelling
 - https://www.researchgate.net/publication/253217016_Advanced_methodologies_for_the_analysis_of_databases_of_mineral_deposits_and_major_faults
 - https://www.researchgate.net/publication/362260616_Assessing_the_impact_of_conceptual_mineral_systems_uncertainty_on_prospectivity_predictions
 - https://www.researchgate.net/publication/352310314_Central_Lachlan_Mineral_Potential_Study
