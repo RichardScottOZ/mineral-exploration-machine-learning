@@ -1016,6 +1016,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  	* [paper](https://arxiv.org/abs/2205.01833)
 * [Macrostrat](https://macrostrat.org/api)
 	* [paper](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.189) 
+  * [Macrostrat-xvec](https://github.com/RichardScottOZ/macrostrat-xvec) -> Macrostrat style data adaptation to xarray xvec
 * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
 * [Iceland Geological Society](https://api.orkustofnun.is/)
  
