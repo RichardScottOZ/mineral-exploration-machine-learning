@@ -45,6 +45,8 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](www.sciencedirect.com/science/article/pii/S2590197425000564) -> Extracting data from maps: Lessons learned from the artificial intelligence for critical mineral 
   assessment competition
   * [training data](https://data.usgs.gov/datacatalog/data/USGS:63a100d6d34e0de3a1f2794f)
+  * [QueryPlot](https://github.com/DARPA-CRITICALMAAS/sri-ta2-mappable-criteria) - Generating mineral evidence maps from geological queries
+    * [paper](https://arxiv.org/abs/2602.17784)
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
@@ -1021,7 +1023,7 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
 * [OpenMinData](https://github.com/ChuBL/OpenMindat) -> facilitate querying and retrieving data on minerals and geomaterials from the Mindat API
 * [Iceland Geological Society](https://api.orkustofnun.is/)
  
- # Data Portals
+# Data Portals
 ## World
 * [Earth Model Collaboration](https://ds.iris.edu/ds/products/emc/) -> access to various Earth models, visualization tools for model preview, facilities to extract model data/metadata and access to the contributed processing software and scripts.
 * [ISC Bulletin](https://www.isc.ac.uk/iscbulletin/search/fmechanisms/) -> Earthquake focal mechanism search
