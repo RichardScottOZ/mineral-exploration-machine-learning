@@ -46,7 +46,7 @@ Suggestions welcome: open a discussion, issue or pull request.
   assessment competition
   * [training data](https://data.usgs.gov/datacatalog/data/USGS:63a100d6d34e0de3a1f2794f)
   * [QueryPlot](https://github.com/DARPA-CRITICALMAAS/sri-ta2-mappable-criteria) - Generating mineral evidence maps from geological queries
-    * [paper](https://arxiv.org/abs/2602.17784)
+    * [paper](https://arxiv.org/abs/2602.17784) - Generating mineral evidence maps from geological queriesGenerating mineral evidence maps from geological queries
 * [scikit-map](https://github.com/scikit-map/scikit-map/tree/master)
 * [TorchGeo](https://github.com/microsoft/torchgeo) -> Pytorch library for remote sensing style models
  * [terratorch](https://github.com/IBM/terratorch) -> Flexible fine-tuning framework for Geospatial Foundation Models
