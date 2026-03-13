@@ -1685,6 +1685,7 @@ geometries
 * [Julia Earth](https://github.com/JuliaEarth) -> Fostering geospatial data science and geostatistical modeling in Earth sciences  
 * [Julia Geodynamics](https://github.com/JuliaGeodynamics) -> computational geodynamics code
 * [Introduction to Julia for Geoscience](https://github.com/mauro3/Julia-intro-for-geoscience-EGU2024)
+* [Zarrs](https://github.com/earth-mover/Zarrs.jl) -> Zarr for Julia
 ### Python - PyData
 * [Anaconda](https://www.anaconda.com/products/distribution) -> Get lots installed already with this package manager.
   * [GDAL et al](https://www.anaconda.com/products/distribution) -> Take the pain out of GDAL and Tensorflow installs here
