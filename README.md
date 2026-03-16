@@ -506,27 +506,34 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [pyenchant](https://github.com/pyenchant/pyenchant) -> spelling checker
 
 ## Large Language Models
-* [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
-  * [paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2449708)
-* [Large Language Model for Geoscience](https://github.com/davendw49/k2)
-	* [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
+* [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
 	* [technical report](https://arxiv.org/abs/2401.00434)
-* [GeoChat](https://github.com/mbzuai-oryx/geochat) -> grounded Large Vision Language Model for Remote Sensing
+* [GeoLLM](https://github.com/AshkanTaghipour/GeoLLM-Qwen3.5-FineTune) -> Qwen3.5-FineTune on WA Exploration Reports
 * [GeoMinLM](https://github.com/wangcug/GeoMinLM) -> GeoMinLM: A Large Language Model in Geology and Mineral Survey in Yunnan Province
   * [paper](https://www.sciencedirect.com/science/article/pii/S0169136825001982)
+* [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
+  * [paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2449708)
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
+* [Large Language Model for Geoscience](https://github.com/davendw49/k2)
+	* [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
+* [MetalGPT](https://huggingface.co/nn-tech/MetalGPT-1) ->  built on Qwen/Qwen3-32B and incorporates both continual pre-training and supervised fine-tuning on domain-specific data from mining and metallurgy 
+  * [4-bit Quant](https://huggingface.co/nn-tech/MetalGPT-1-AWQ)
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
 * [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  
+
 
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT](https://geogpt.zero2x.org/) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT-Research-Project](https://github.com/GeoGPT-Research-Project/GeoGPT)
   * [RAG Report](https://arxiv.org/pdf/2509.09686)
-* [GeoLLM](https://github.com/AshkanTaghipour/GeoLLM-Qwen3.5-FineTune) -> Qwen3.5-FineTune on WA Exploration Reports
-* [MetalGPT](https://huggingface.co/nn-tech/MetalGPT-1) ->  built on Qwen/Qwen3-32B and incorporates both continual pre-training and supervised fine-tuning on domain-specific data from mining and metallurgy 
-  * [4-bit Quant](https://huggingface.co/nn-tech/MetalGPT-1-AWQ)
+
+### Cross-Section
+[GeoSirr](https://github.com/CPG-KFUPM/GeoSIRR) -> Translate free-form geological narratives into structured, coordinate-based cross-section geometries
+[GeoSIRR: Geological Section Interpretation, Reconstruction & Refinement](https://zenodo.org/records/18097054) -> Zenodo Code 
+
+
 
 ### Agents
 * [GeoAgent](https://github.com/Yusin2Chen/GeoAgent) -> An LLM Agent for Automatic Geospatial Data Analysis
