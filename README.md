@@ -530,9 +530,9 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
   * [RAG Report](https://arxiv.org/pdf/2509.09686)
 
 ### Cross-Section
-[GeoSirr](https://github.com/CPG-KFUPM/GeoSIRR) -> Translate free-form geological narratives into structured, coordinate-based cross-section geometries
-[GeoSIRR: Geological Section Interpretation, Reconstruction & Refinement](https://zenodo.org/records/18097054) -> Zenodo Code 
-
+* [GeoSirr](https://github.com/CPG-KFUPM/GeoSIRR) -> Translate free-form geological narratives into structured, coordinate-based cross-section geometries
+  * [GeoSIRR: Geological Section Interpretation, Reconstruction & Refinement](https://zenodo.org/records/18097054) -> Zenodo Code 
+  * [paper](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6545/) -> GeoSIRR 1.0: Conversational Geological Cross-Section Modeling Using Large Language Models 
 
 
 ### Agents
