@@ -524,6 +524,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoGPT](https://geogpt.zero2x.org/) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT-Research-Project](https://github.com/GeoGPT-Research-Project/GeoGPT)
   * [RAG Report](https://arxiv.org/pdf/2509.09686)
+* [GeoLLM](https://github.com/AshkanTaghipour/GeoLLM-Qwen3.5-FineTune) -> Qwen3.5-FineTune on WA Exploration Reports
 * [MetalGPT](https://huggingface.co/nn-tech/MetalGPT-1) ->  built on Qwen/Qwen3-32B and incorporates both continual pre-training and supervised fine-tuning on domain-specific data from mining and metallurgy 
   * [4-bit Quant](https://huggingface.co/nn-tech/MetalGPT-1-AWQ)
 
