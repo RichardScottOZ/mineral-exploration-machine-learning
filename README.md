@@ -1650,6 +1650,9 @@ geometries
 * [Sat-search](https://github.com/sat-utils/sat-search)
 * [Stackstac](https://github.com/RichardScottOZ/stackstac) ->  Metadata speeded up dask and xarray timeseries
 
+### Reverse Engineering
+* [awesome reverse engineering list](https://github.com/extremecoders-re/re-list)
+
 ### Statistics
 * [Orange](https://orangedatamining.com/) -> Data Mining Gui
 * [Hdstats](https://github.com/RichardScottOZ/hdstats) -> Algorithmic basis of geometric medians
