@@ -3101,6 +3101,7 @@ The below are a collection of works from when I was doing a review
 
 ### Remote Sensing
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11226869 -> Continental-Scale Open-Pit Mine Detection From Remote Sensing Imagery: A Lightweight Attention-Enhanced Approach With High-Resolution Benchmark Dataset
+- https://arxiv.org/abs/2603.00988 -> Foundation Models in Remote Sensing: Evolving from Unimodality to Multimodality
 
 # General-Interest
 - https://link.springer.com/article/10.1007/s11053-025-10560-4 -> Bibliometric Analysis of Mineral Prospectivity Mapping Research from 2006 to 2024
