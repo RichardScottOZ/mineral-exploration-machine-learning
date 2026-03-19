@@ -1626,14 +1626,15 @@ geometries
 * [dhcomp](https://github.com/FractalGeoAnalytics/dhcomp/tree/master) -> composites geophysical data to a set of intervals
 
 ## Remote Sensing
+* [ASTER Analysis](https://github.com/RichardScottOZ/ASTER-analysis) -> Global time series analysis of ASTER public data 
 * [Awesome spectral indices](https://github.com/davemlz/awesome-spectral-indices) -> Guide to spectral index creation
+* [Lefa](http://lefa.geologov.net) -> Fracture analysis, lineaments
 * [Open Data Cube](https://www.opendatacube.org/)
   * [DEA Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) -> Code for use in ODC style workflows
   * [Datacube-stats](https://github.com/daleroberts/datacube-stats) -> Statistical analysis library for ODC
   * [Geo Notebooks](https://github.com/Element84/geo-notebooks) -> Code examples from Element 84
  * [Raster4ML](https://github.com/remotesensinglab/raster4ml) -> A large number of vegetation indices
- * [Lefa](http://lefa.geologov.net) -> Fracture analysis, lineaments
-## Serverless
+ # Serverless
 * [Kerchunk](https://github.com/RichardScottOZ/kerchunk) -> Serverless access to cloud based data via Zarr
 	* [Kerchunk geoh5](https://github.com/RichardScottOZ/Kerchunk-geoh5) -> Access to Geoscient Analyst/geoh5 projects serverlessly via kerchunk
 * [Tifffile variant](https://github.com/cgohlke/tifffile/issues/125)
