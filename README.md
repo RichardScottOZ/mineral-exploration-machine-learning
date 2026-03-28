@@ -102,6 +102,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 #### Explorer Challenge
 * [Explorer Challenge](https://github.com/RichardScottOZ/explore_australia) -> OZ Minerals run competition with Data Science introduction
 #### South Australia
+* [DEEP-SEAM](https://github.com/EarthByte/MPM_Curnamona_REE) -> An explainable semi-supervised deep learning framework for mineral prospectivity mapping: DEEP-SEAM v1.0
+  * [publication]https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3283/
 * [Gawler_MPM](https://github.com/e-farahbakhsh/Gawler_MPM) -> Cobalt, Chromium, Nickel
 	* [Paper](https://www.researchgate.net/publication/373954003_Critical_mineral_prospectivity_mapping_on_the_Gawler_craton_using_a_new_machine_learning_framework)
 * [Geophysical Data Clustering in the Gawler Craton](https://github.com/EarthByte/geophysical_image_clustering_exploration)
