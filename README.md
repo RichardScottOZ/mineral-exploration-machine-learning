@@ -246,6 +246,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
 * [Assessing plate reconstruction models using plate driving force consistency tests](https://zenodo.org/records/7904975) -> Jupyter notebook and data
 	* [paper](https://www.nature.com/articles/s41598-023-37117-w)
+* [Curlew](https://gmd.copernicus.org/articles/19/3455/2026/) -> Spatio-temporal implicit geological modelling with neural fields in python
 * [gplately](https://github.com/GPlates/gplately)
 * [structural geology cookbook](https://github.com/gcmatos/structural-geology-cookbook]
 * [GEOMAPLEARN 1.0](https://doi.org/10.18144/8aee-7b77) -> Detecting geological structures from geological maps with machine learning
@@ -263,7 +264,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [StructuralGeo](https://github.com/eldadHaber/StructuralGeo)
   * [zenodo](https://zenodo.org/records/15244035)
   * [paper](https://arxiv.org/abs/2506.11164) -> Synthetic Geology: Structural Geology Meets Deep Learning
-
+  
+  
 
 ## Simulation
 * [GebPy](https://github.com/MABeeskow/GebPy) -> generation of geological data for rocks and minerals
