@@ -1496,7 +1496,7 @@ geometries
 ## Data Collection
 * [PiAutoStage](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009693) -> 'An Open-Source 3D Printed Tool for the Automatic Collection of High-Resolution Microscope Imagery;' designed for mineral samples.
 
-## Data Conversion
+ok ## Data Conversion
 ### GOCAD
 * [AuScope](https://github.com/RichardScottOZ/geomodel-2-3dweb) -> Data from binary GOCAD models
 * [GOCAD SG Grid Reader](https://github.com/RichardScottOZ/GOCAD_SG_Grid_Reader)
@@ -1515,7 +1515,7 @@ geometries
 * [Geophysics Data Reverse Engineering](https://github.com/RichardScottOZ/geophysics-data-reverse-engineering) -> framework for analysing and reverse engineering legacy binary geophysics data formats
 
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
-* [mining-ds-toolkit](https://github.com/matthew-nimmo/mining-ds-toolkit) -> Datamine binary convert
+* [mining-ds-toolkit](https://github.com/matthew-nimmo/mining-ds-toolkit) -> Datamine binary convertok 
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
@@ -1931,6 +1931,7 @@ geometries
 * [Global mining footprint mapped from high-resolution satellite imagery](https://zenodo.org/record/6806817#.ZEmpinZBxD8) -> Mine mapping
   * [paper](https://www.nature.com/articles/s43247-023-00805-6)
 * [DEM](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/72759) -> Australia 1 sec SRTM DEM of various varieties
+* [Land Water Mask](https://zenodo.org/records/10076199) - 3km geotiff mask
 ### Structure
 * [Major Crustal Boundaries of Australia - 2024 Edition](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/149663)
 ### Velocity
