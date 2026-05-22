@@ -1515,7 +1515,8 @@ ok ## Data Conversion
 * [Geophysics Data Reverse Engineering](https://github.com/RichardScottOZ/geophysics-data-reverse-engineering) -> framework for analysing and reverse engineering legacy binary geophysics data formats
 
 * [Leapfrog Mesh Reader](https://github.com/ThomasMGeo/leapfrogmshreader)
-* [mining-ds-toolkit](https://github.com/matthew-nimmo/mining-ds-toolkit) -> Datamine binary convertok 
+* [mining-ds-toolkit](https://github.com/matthew-nimmo/mining-ds-toolkit) -> Datamine binary converter
+  * [python conversion fork](https://github.com/RichardScottOZ/mining-ds-toolkit)
 * [OMF](https://github.com/gmggroup/omf) -> Open Mining Format for conversion between things
 * [PDF Miner](https://github.com/euske/pdfminer)
 * [VTK to DXF](https://github.com/RichardScottOZ/VTK-to-DXF)
