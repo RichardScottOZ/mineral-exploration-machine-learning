@@ -2133,6 +2133,7 @@ ok ## Data Conversion
 - https://www.linkedin.com/pulse/deep-learning-meets-downward-continuation-caldera-analytics/?trackingId=Ybkv3ukNI7ygH3irCHZdGw%3D%3D
 - https://www.researchgate.net/publication/382560010_DINOv2_Rocks_Geological_Image_Analysis_Classification_Segmentation_and_Interpretability
 - https://www.researchgate.net/publication/368489689_Discrimination_of_Pb-Zn_deposit_types_using_sphalerite_geochemistry_New_insights_from_machine_learning_algorithm
+- Dual Random Fields and their Application to Mineral Potential Mapping -> https://arxiv.org/abs/2412.07488
 - https://link.springer.com/article/10.1007/s11430-024-1309-9 -> Explainable artificial intelligence models for mineral prospectivity mapping
 - https://www.researchgate.net/publication/229792860_From_Predictive_Mapping_of_Mineral_Prospectivity_to_Quantitative_Estimation_of_Number_of_Undiscovered_Prospects
 - https://www.researchgate.net/publication/339997675_Fully_reversible_neural_networks_for_large-scale_surface_and_sub-surface_characterization_via_remote_sensing
