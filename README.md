@@ -1464,6 +1464,7 @@ geometries
 * [Raster threading](https://github.com/RichardScottOZ/Raster-threading) -> raster threading tests
 * [Xarray](https://github.com/pydata/xarray) -> Multidimensional Labelled array handling and analysis
   * [Rioxarray](https://corteva.github.io/rioxarray/stable/) -> Fabulous high level api for xarray handling of raster data
+  * [gdalxarray](https://github.com/hypertidy/gdalxarray) -> integrate GDAL with xarray, especially for the multidimensional API 
   * [Geocube](https://github.com/corteva/geocube) -> Rasterisation of vector data api
   * [ODC-GEO](https://github.com/opendatacube/odc-geo/) -> Tools for remote sensing based raster handling with many extremely handy tools like colorisation, grid workflows
   * [Rasterix](https://github.com/dcherian/rasterix) -> Raster tricks for xarray
