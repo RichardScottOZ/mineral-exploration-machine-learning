@@ -1921,6 +1921,8 @@ ok ## Data Conversion
 * [Carbonatite Rare Earth Elements](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147865)
 	* [paper](https://www.researchgate.net/publication/373752600_A_national-scale_mineral_potential_assessment_for_carbonatite-related_rare_earth_element_mineral_systems_in_Australia)
 * [Unconformity Rare Earth Elements](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/150681)
+* [Cenozoic Heavy Mineral Sands](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/150650)
+  * [paper]()
 #### Mine Waste
 * [Australian Mine Waste](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147516)
 #### Native Title
