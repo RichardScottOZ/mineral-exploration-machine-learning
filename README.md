@@ -189,6 +189,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [mapeamento_litologico_preditivo](https://github.com/Gabriel-Goes/mapeamento_litologico_preditivo)
 * [Mapping Global Lithospheric Mantle Pressure-Temperature Conditions by Machine-Learning Thermobarometry](https://zenodo.org/records/8353966)
 	* [paper](https://www.researchgate.net/publication/379639953_Mapping_Global_Lithospheric_Mantle_Pressure-Temperature_Conditions_by_Machine-Learning_Thermobarometry)
+* [MGALNet](https://github.com/Candy-CY/MGALNet) - Multisource Remote Sensing Interpretation of Geological Lithology via Multigranularity Adaptive Learning
+  * [paper](https://ieeexplore.ieee.org/abstract/document/11408228) [UNSEEN] 
 * [Non Stationarity Mitigation Transformer](https://github.com/LeiLiu-cloud/NonstationarityMitigation_Transformer)
   * [Collab](https://colab.research.google.com/drive/1pPZCSjlNPn7_n8GLGCxY0bo7QmbVU65G?usp=sharing) -> Notebook
 	* [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300423001164)
