@@ -2734,6 +2734,7 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://www.researchgate.net/publication/392579623_Comparison_of_Deep_Learning_Models_for_1D_Magnetotelluric_Inversion -> Comparison of Deep Learning Models for 1D Magnetotelluric Inversion
 - https://ieeexplore.ieee.org/abstract/document/10530937 -> A Magnetotelluric Data Denoising Method Based on Lightweight Ensemble Learning [UNSEEN]
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
+- https://www.sciencedirect.com/science/article/abs/pii/S0098300426000580 -> Efficient multi-GPU distributed training strategies for neural operator networks: Application to magnetotelluric forward modeling [UNSEEN]
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
 - https://www.researchgate.net/publication/367504269_Flexible_and_accurate_prior_model_construction_based_on_deep_learning_for_2D_magnetotelluric_data_inversion
 - https://www.sciencedirect.com/science/article/pii/S2214579624000510 -> Intelligent Geological Interpretation of AMT Data Based on Machine Learning
