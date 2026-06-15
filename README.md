@@ -2353,6 +2353,7 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/344303914_Random-Drop_Data_Augmentation_of_Deep_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_DatasetsSupervised Mineral Prospectivity Mapping via Class-Balanced Focal Loss Function on Imbalanced Geoscience Datasets
 - https://www.researchgate.net/publication/361520562_Recognizing_Multivariate_Geochemical_Anomalies_Related_to_Mineralization_by_Using_Deep_Unsupervised_Graph_Learning
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11429067 - > RCACNet: A Deep Convolutional Neural Network With Fused Cross-Level Atrous Features and Attention Mechanisms for Rare-Earth Ore-Forming Target Prediction
 - https://www.sciencedirect.com/science/article/pii/S0169136824003937 -> Semi-supervised graph convolutional networks for integrating continuous and binary evidential layers for mineral exploration targeting
 - https://www.sciencedirect.com/science/article/pii/S0009281924001375 -> Spatial weighting — An effective incorporation of geological expertise into deep learning models
 - https://www.researchgate.net/publication/371044606_Supervised_Mineral_Prospectivity_Mapping_via_Class-Balanced_Focal_Loss_Function_on_Imbalanced_Geoscience_Datasets
