@@ -501,6 +501,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://arxiv.org/html/2405.10725v2)
 * [How to find key geoscience terms in text without mastering NLP using Amazon Comprehend](https://github.com/aws-samples/amazon-comprehend-energy-geoscience-nlp)
 * [OzRock](https://github.com/majiga/OzROCK) - OzRock: A labeled dataset for entity recognition in geological (mineral exploration) domain
+* [EntityTextMatchProject](https://github.com/zccodehub/EntityTextMatchProject)
+  * [paper](https://link.springer.com/article/10.1007/s12145-026-02081-2) -> A deep learning matching method for geological spatial entities and descriptive texts
 ## Ontology
 * [GAKG](https://github.com/geobrain-ai/gakg?tab=readme-ov-file) -> A Multimodal Geoscience Academic Knowledge Graph (Chinese)
 * [GeoERE-Net](https://github.com/GISer-WB/GeoERE-Net) -> Understanding geological reports based on knowledge graphs using a deep learning approach
