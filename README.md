@@ -2568,6 +2568,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://link.springer.com/article/10.1007/s42461-024-01013-2 -> NIR-Spectroscopy and Machine Learning Models to Pre-concentrate Copper Hosted Within Sedimentary Rocks[UNSEEN]
 - https://www.researchsquare.com/article/rs-4106957/v1 -> Multi-element geochemical anomaly recognition applying geologically-constrained convolutional deep learning algorithm with Butterworth filtering
 - https://www.researchgate.net/publication/369241349_Quantifying_continental_crust_thickness_using_the_machine_learning_method
+- https://www.sciencedirect.com/science/article/abs/pii/S0012821X26001676 -> Quality/quantity quandary: machine learning framework for assessing tradeoffs in zircon geochemistry
 - https://link.springer.com/article/10.1007/s11004-024-10158-1 -> Spatial-Spectrum Two-Branch Model Based on a Superpixel Graph Convolutional Network and 1DCNN for Geochemical Anomaly Identification
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 - https://arxiv.org/abs/2509.18152 -> WLFM: A Well-Logs Foundation Model for Multi-Task and Cross-Well Geological Interpretation
