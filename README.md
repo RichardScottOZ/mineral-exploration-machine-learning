@@ -414,6 +414,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [Multivariate statistical analysis and bespoke deviation network modeling for geochemical anomaly detection of rare earth elements](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE/tree/main)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0883292724002518?dgcid=coauthor)
 * [Prospectivity mapping of rare earth elements through geochemical data analysis](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) -> Prospectivity mapping of rare earth elements through geochemical data analysis
+* [Recognizing-geochemical-spatial-patterns-using-DCN-guided-with-geological-knowledge](https://github.com/Aleksiyu/)
+  * [paper](https://gmd.copernicus.org/articles/19/2219/2026/)
 * [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Secular Changes in the Occurrence of Subduction During the Archean](https://zenodo.org/records/10418615) -> Zenodo code archive
 	* [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_ArcheanA machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
