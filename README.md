@@ -158,8 +158,14 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
 	* [paper](https://onlinelibrary.wiley.com/doi/10.1002/nsg.12166)
 
+# Africa
+## Namibia
+* [data_and_code_of_narr](https://github.com/soeaxy/data_and_code_of_narr) -> Uranium Mineral Prospectivity Modeling – Husab Deposit, Namibia
+* [paper](https://link.springer.com/article/10.1007/s11053-026-10661-8) - > Integrating Cost-Sensitive Ensemble Learning and Geoscience Big Data for Uranium Prospectivity Mapping in the Husab Uranium Deposit, Namibia
+
 ## Sudan
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
+
 
 ## Uncertainty
 * [MPM-uncertainty](https://github.com/ziyewangcug/MPM-uncertainty-quantification) -> Mineral Potential Mapping uncertainty quantification
