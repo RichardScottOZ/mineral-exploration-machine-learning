@@ -402,24 +402,25 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 	* [paper](https://www.degruyter.com/document/doi/10.2138/am-2022-8899/html)
 	* [Demo application](http://60.205.170.161:8001/)
 	* https://colab.research.google.com/drive/1-bOZgG6Nxt2Rp1ueO1SYmzIqCRiyyYcT
+* [geochemical anomaly detection](https://github.com/MinersAI/geochemical_anomaly_detection) -> Multivariate Outlier Detection in Geochemical Datasets
 * [GeochemPrint](https://colab.research.google.com/drive/1nX0vip0VS3f-GjL9l5femBiRcMwMGe_Y) 
 	* [paper](https://www.researchgate.net/publication/363754140_Geochemical_fingerprinting_of_continental_and_oceanic_basalts_A_machine_learning_approach)
 * [Global geochemistry](https://github.com/dhasterok/global_geochemistry)
 * [ICBMS Jacobina](https://github.com/gferrsilva/icpms-jacobina) -> Analysis of pyrite chemistry from a gold deposit
-* [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
 * [indicator_minerals](https://github.com/DinaKlim/indicator_minerals) -> Can PCA can tell the story of the origin of tourmaline?
+* [Interpretation of Trace Element Chemistry of Zircons from Bor and Cukaru Peki: Conventional Approach and Random Forest Classification](https://www.mdpi.com/2076-3263/12/11/396)
 * [Journal of Geochemical Exploration - Manifold](https://github.com/geometatqueens/2020---Journal-of-Geochemical-Exploration--Manifold)
 * [LewisML](https://github.com/RichardScottOZ/LewisML) -> Analysis of the Lewis Formation
 * [MICA](https://github.com/bluetyson/MICA_shiny) -> Chemical composition, in Shiny
 * [Multivariate statistical analysis and bespoke deviation network modeling for geochemical anomaly detection of rare earth elements](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE/tree/main)
 	* [paper](https://www.sciencedirect.com/science/article/pii/S0883292724002518?dgcid=coauthor)
 * [Prospectivity mapping of rare earth elements through geochemical data analysis](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) -> Prospectivity mapping of rare earth elements through geochemical data analysis
+* [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
 * [Recognizing-geochemical-spatial-patterns-using-DCN-guided-with-geological-knowledge](https://github.com/Aleksiyu/)
   * [paper](https://gmd.copernicus.org/articles/19/2219/2026/)
-* [QMineral Modeller](https://github.com/gferrsilva/QMineral_Modeller) -> Mineral Chemistry virtual assistant from the Brazilian geological survey
+  * [Zenodo](https://zenodo.org/records/18454129)
 * [Secular Changes in the Occurrence of Subduction During the Archean](https://zenodo.org/records/10418615) -> Zenodo code archive
 	* [paper] https://www.researchgate.net/publication/380289934_Secular_Changes_in_the_Occurrence_of_Subduction_During_the_ArcheanA machine learning approach to discrimination of igneous rocks and ore deposits by zircon trace elements 
-* [geochemical anomaly detection](https://github.com/MinersAI/geochemical_anomaly_detection) -> Multivariate Outlier Detection in Geochemical Datasets
  
 # Kriging
 * [DKNN: deep kriging neural network for interpretable geospatial interpolation](https://github.com/in1311/DKNN)
@@ -524,6 +525,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [GeoGalactica](https://github.com/geobrain-ai/geogalactica) -> A Larger foundation language model in Geoscience
 	* [technical report](https://arxiv.org/abs/2401.00434)
 * [GeoLLM](https://github.com/AshkanTaghipour/GeoLLM-Qwen3.5-FineTune) -> Qwen3.5-FineTune on WA Exploration Reports
+* [Geo-MAG](https://github.com/Geo3D-AI-CSU/Geo-MAG) -> Knowledge Graph-Enhanced Multimodal Retrieval-Augmented Generation Framework for Geological Map Understanding
+  * [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.70226)
 * [GeoMinLM](https://github.com/wangcug/GeoMinLM) -> GeoMinLM: A Large Language Model in Geology and Mineral Survey in Yunnan Province
   * [paper](https://www.sciencedirect.com/science/article/pii/S0169136825001982)
 * [JiuZhou](https://github.com/THU-ESIS/JiuZhou) -> Open Foundation Language Models for Geoscience
