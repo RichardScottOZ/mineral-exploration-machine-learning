@@ -2811,8 +2811,8 @@ Improved DenseUNet
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
 
-
-
+### Stratigraphy
+- https://arxiv.org/html/2606.25000v1 -> Geo-Strat-RL: Learning Geological Event Reasoning from Verifiable Tasks
 
 ## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
