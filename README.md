@@ -167,6 +167,12 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [Mineral Prospectivity Mapping ML](https://github.com/Abdallah-M-Ali/Mineral-Prospectivity-Mapping-ML)
 
 
+## Europe
+## Russia
+* [Korznhinskii-Net](https://github.com/BorisKriuk/KORZHINSKII-Net) -> Physics-Informed Neural Network for Sub-Surface Mineral Prospectivity Modelling
+  * [paper](https://arxiv.org/abs/2606.13695)
+
+
 ## Uncertainty
 * [MPM-uncertainty](https://github.com/ziyewangcug/MPM-uncertainty-quantification) -> Mineral Potential Mapping uncertainty quantification
 
