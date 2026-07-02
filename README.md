@@ -553,9 +553,6 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
 * [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  
 
-Geological Everything Model 3D: A Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding
-
-
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
 * [GeoGPT](https://geogpt.zero2x.org/) -> Deep Time Digital Earth Research Group from China project
