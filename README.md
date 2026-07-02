@@ -553,6 +553,8 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
 * [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  
 
+Geological Everything Model 3D: A Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding
+
 
 ### Chatbots
 * [GeoGPT](https://geogpt.deep-time.org/universal-login) -> Deep Time Digital Earth Research Group from China project
@@ -2802,6 +2804,8 @@ Improved DenseUNet
 - https://www.researchgate.net/publication/359186219_Few-shot_learning_for_name_entity_recognition_in_geological_text_based_on_GeoBERT
 - https://www.researchgate.net/publication/333464862_GeoDocA_-_Fast_Analysis_of_Geological_Content_in_Mineral_Exploration_Reports_A_Text_Mining_Approach
 - https://www.researchgate.net/publication/366710921_Geological_profile-text_information_association_model_of_mineral_exploration_reports_for_fast_analysis_of_geological_content
+- https://arxiv.org/abs/2507.00419 -> Geological Everything Model 3D: A Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding
+  - https://douyimin.github.io/GEM/
 - https://www.researchgate.net/publication/330835955_Geoscience_Keyphrase_Extraction_Algorithm_Using_Enhanced_Word_Embedding [UNSEEN]
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/321850315_Information_extraction_and_knowledge_graph_construction_from_geoscience_literature
@@ -2821,6 +2825,7 @@ Improved DenseUNet
 
 ### Stratigraphy
 - https://arxiv.org/html/2606.25000v1 -> Geo-Strat-RL: Learning Geological Event Reasoning from Verifiable Tasks
+
 
 ## Public Mineral Prospectivity Mapping
 Last edited: 29/09/2020
