@@ -2503,6 +2503,8 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11429067 - > RCACNet: A Dee
 - https://www.researchgate.net/publication/221911782_Application_of_Artificial_Neural_Network_for_Mineral_Potential_Mapping 
 - https://www.researchgate.net/publication/359861043_Rock_Classification_in_a_Vanadiferous_Titanomagnetite_Deposit_Based_on_Supervised_Machine_Learning#fullTextFileContent Rock Classification in a Vanadiferous Titanomagnetite Deposit Based on Supervised Machine Learning
 - https://www.researchgate.net/publication/382131746_Domain_Adaptation_from_Drilling_to_Geophysical_Data_for_Mineral_Exploration
+#### Southeast Asia
+- https://www.sciencedirect.com/science/article/pii/S0169136826003410 -> Well-log-based quantitative evaluation of potash mineral potential using an improved stacking model
 #### Spain
 - https://www.researchgate.net/publication/225656353_Deriving_Optimal_Exploration_Target_Zones_on_Mineral_Prospectivity_Maps
 - https://www.researchgate.net/publication/222198648_Knowledge-guided_data-driven_evidential_belief_modeling_of_mineral_prospectivity_in_Cabo_de_Gata_SE_Spain
