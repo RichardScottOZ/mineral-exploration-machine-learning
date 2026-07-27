@@ -268,6 +268,9 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [APGS](https://github.com/ondrolexa/apsg) -> Structural geology package
 * [Assessing plate reconstruction models using plate driving force consistency tests](https://zenodo.org/records/7904975) -> Jupyter notebook and data
 	* [paper](https://www.nature.com/articles/s41598-023-37117-w)
+* [CIG-Bench](https://github.com/douyimin/CIG-bench) -> 
+  * [website](https://douyimin.github.io/CIG-bench/)
+  * [paper](https://arxiv.org/abs/2606.09094)
 * [Curlew](https://gmd.copernicus.org/articles/19/3455/2026/) -> Spatio-temporal implicit geological modelling with neural fields in python
   * [curlew_examples](https://github.com/k4m4th/curlew_examples)
 * [gplately](https://github.com/GPlates/gplately)
