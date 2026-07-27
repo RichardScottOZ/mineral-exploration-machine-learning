@@ -246,6 +246,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 
 ## Mineralogy
 * [hywiz][(https://github.com/samthiele/hywiz/tree/v0.15)] - Predicting Mineralogy with Hyperspectral Data: A Benchmark Dataset and Machine Learning Framework to Enable Hyperspectral Geometallurgy 
+  * [zenodo](https://rodare.hzdr.de/record/4582)
   * [hywiz-zenodo](https://zenodo.org/records/20714783)
   * [hklearn-zendo](https://zenodo.org/records/20714783)
   * [paper](https://www.mdpi.com/2075-163X/16/7/674)
