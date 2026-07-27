@@ -2264,7 +2264,11 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/348111963_Support_Vector_Machine_and_Artificial_Neural_Network_Modelling_of_Orogenic_Gold_Prospectivity_Mapping_in_the_Swayze_greenstone_belt_Ontario_Canada
  - PhD thesis -> https://zone.biblio.laurentian.ca/bitstream/10219/3736/1/PhD%20Thesis%20Maepa_20210603.%281%29.pdf -> Exploration targeting for gold deposits using spatial data analytics, machine learning and deep transfer learning in the Swayze and Matheson greenstone belts, Ontario, Canada
 - https://data.geology.gov.yk.ca/Reference/95936#InfoTab -> Updates to the Yukon Geological Survey’s mineral potential mapping methodology
+##### British Columbia
 - http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
+##### Nunavut
+- https://link.springer.com/article/10.1007/s11053-026-10699-8#Sec3 -> Bridging the Scale Gap: Regional Refinement of National Mineral Prospectivity Models for Nunavut, Canada 
+
 #### Central Africa
 - https://www.researchgate.net/publication/323452014_The_Utility_of_Machine_Learning_in_Identification_of_Key_Geophysical_and_Geochemical_Datasets_A_Case_Study_in_Lithological_Mapping_in_the_Central_African_Copper_Belt
 - https://www.researchgate.net/publication/334436808_Lithological_Mapping_in_the_Central_African_Copper_Belt_using_Random_Forests_and_Clustering_Strategies_for_Optimised_Results
