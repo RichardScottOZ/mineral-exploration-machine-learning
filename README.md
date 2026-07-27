@@ -2329,6 +2329,7 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/267927506_GIS-based_mineral_potential_modeling_by_advanced_spatial_analytical_methods_in_the_southeastern_Yunnan_mineral_district_China
 - https://www.mdpi.com/2072-4292/18/13/2068 -> Geo-U-Mamba: A Mamba-Based Framework for Mineral Prospectivity Mapping of Gold Exploration Using Multi-Source Geoscientific Data 
 - https://www.researchgate.net/publication/380190183_Geologically_Constrained_Convolutional_Neural_Network_for_Mineral_Prospectivity_Mapping
+- Geossgraph: Semi-Supervised Geologically Informed Graph Network with Contrastive Pretraining for Mineral Prospectivity Mapping -> https://saspublishers.com/article/24597/
 - https://www.researchgate.net/publication/332997161_GNER_A_Generative_Model_for_Geological_Named_Entity_Recognition_Without_Labeled_Data_Using_Deep_Learning
 - https://www.researchgate.net/publication/-393389291_Graph_attention_network-based_mineral_prospectivity_prediction_A_case_study_of_copper_exploration_in_eastern_Tien_Shan_China
 - https://www.researchgate.net/publication/307011381_Identification_and_mapping_of_geochemical_patterns_and_their_significance_for_regional_metallogeny_in_the_southern_Sanjiang_China
