@@ -244,6 +244,13 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [SCB-Net](https://github.com/victsnet/SCB-Net) -> Lithological mapping using Spatially Constrained Bayesian Network
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300425001141?via%3Dihub)
 
+## Mineralogy
+* [hywiz][(https://github.com/samthiele/hywiz/tree/v0.15)] - Predicting Mineralogy with Hyperspectral Data: A Benchmark Dataset and Machine Learning Framework to Enable Hyperspectral Geometallurgy 
+  * [hywiz-zenodo](https://zenodo.org/records/20714783)
+  * [hklearn-zendo](https://zenodo.org/records/20714783)
+  * [paper](https://www.mdpi.com/2075-163X/16/7/674)
+    * [data](https://rodare.hzdr.de/record/4582)
+
 ## Drilling
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
 * [corel](https://github.com/RichardScottOZ/corel) -> smart computer vision model that identifies facies and performs rock typing on core images
