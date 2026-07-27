@@ -2659,6 +2659,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://www.sciencedirect.com/science/article/abs/pii/S0013795225006040 -> Interpretable regional-scale geological mapping using a contrastive graph attention network for multimodal data fusion and recognition of controlling factors [UNSEEN]
 - https://link.springer.com/article/10.1007/s11053-024-10396-4 -> Interpretable SHAP Model Combining Meta-learning and Vision Transformer for Lithology Classification Using Limited and Unbalanced Drilling Data in Well Logging [UNSEEN]
 - https://www.nature.com/articles/s41598-024-66199-3 -> Machine learning and remote sensing-based lithological mapping of the Duwi Shear-Belt area, Central Eastern Desert, Egypt
+- https://www.mdpi.com/2075-163X/16/7/720 -> Machine Learning- and Remote Sensing-Based Lithological Mapping Using VNIR + SWIR PRISMA Hyperspectral and ASTER Multispectral Datasets in Northwest of Queensland 
 - https://link.springer.com/article/10.1007/s11053-024-10375-9 - SsL-VGMM: A Semisupervised Machine Learning Model of Multisource Data Fusion for Lithology Prediction [UNSEEN]
 - https://www.researchgate.net/publication/380719080_An_integrated_machine_learning_framework_with_uncertainty_quantification_for_three-dimensional_lithological_modeling_from_multi-source_geophysical_data_and_drilling_data
 - https://www.bio-conferences.org/articles/bioconf/pdf/2024/34/bioconf_rena23_01005.pdf -> Lithological Mapping using Artificial Intelligence and Remote Sensing data: A Case Study of Bab Boudir region Morocco
