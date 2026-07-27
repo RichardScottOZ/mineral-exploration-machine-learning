@@ -309,6 +309,8 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [paper](https://www.nature.com/articles/s43247-025-03005-6)
 * [HalTracks](https://github.com/samuelcboone/HALtracks) -> AI-based approach for constraining the thermal evolution of Earth's upper crust through automated digital fission-track analysis
   * [paper](https://www.sciencedirect.com/science/article/pii/S0098300425002468?via%3Dihub)
+* [Paleocoordinates Calculator](https://zenodo.org/records/19332776) -> A user-friendly online tool for paleocoordinate calculation and 3D visualization 
+  * [paper](https://www.nature.com/articles/s41598-026-46309-z#ref-CR30)
   
 ## Geophysics
 ### General
