@@ -2237,7 +2237,6 @@ ok ## Data Conversion
 #### Cameroon
 - https://www.nature.com/articles/s40494-025-02062-6 -> Unlocking Cameroon’s geomaterials heritage via 3D AI-driven intelligence and NLP-based resource analysis
 #### Canada
-- http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
 - https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340 -> Application of machine learning algorithms to mineral prospectivity mapping
 - https://www.researchgate.net/publication/369599705_A_study_of_faults_in_the_Superior_province_of_Ontario_and_Quebec_using_the_random_forest_machine_learning_algorithm_spatial_relationship_to_gold_mines
 - A balanced mineral prospectivity model of Canadian magmatic Ni (± Cu ± Co ± PGE) sulphide mineral systems using conditional variational autoencoders -> https://www.sciencedirect.com/science/article/pii/S0169136824004621
@@ -2246,12 +2245,10 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/300153215_Data_mining_for_real_mining_A_robust_algorithm_for_prospectivity_mapping_with_uncertainties
 - https://www.sciencedirect.com/science/article/pii/S1674987123002268 -> Development and application of feature engineered geological layers for ranking magmatic, volcanogenic, and orogenic system components in Archean greenstone belts
 - https://eartharxiv.org/repository/view/8898/ -> Geoscientific Input Feature Selection for CNN-driven Mineral Prospectivity Mapping
-- https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
-- https://www.researchgate.net/publication/365782501_Improving_Mineral_Prospectivity_Model_Generalization_An_Example_from_Orogenic_Gold_Mineralization_of_the_Sturgeon_Lake_Transect_Ontario_Canada
+365782501_Improving_Mineral_Prospectivity_Model_Generalization_An_Example_from_Orogenic_Gold_Mineralization_of_the_Sturgeon_Lake_Transect_Ontario_Canada
 - https://qspace.library.queensu.ca/bitstream/handle/1974/28138/Cevik_Ilkay_S_202009_MASc.pdf?sequence=3&isAllowed=y -> MACHINE LEARNING ENHANCEMENTS FOR KNOWLEDGE DISCOVERY IN MINERAL EXPLORATION AND IMPROVED MINERAL RESOURCE CLASSIFICATION
 - https://www.researchgate.net/publication/348983384_Mineral_prospectivity_mapping_using_a_VNet_convolutional_neural_network
  - [corporate link](https://assets.website-files.com/60f4b75ca5b322cf572c1fde/612d5c5d73694b869a536bfa_VNET_TLE_paper.pdf)
- - https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
  - https://link.springer.com/article/10.1007/s11053-024-10451-0 -> Mineral Prospectivity Modeling of Graphite Deposits and Occurrences in Canada
 - https://www.researchgate.net/publication/337167506_Orogenic_gold_prospectivity_mapping_using_machine_learning
 - https://www.researchgate.net/publication/290509352_Precursors_predicted_by_artificial_neural_networks_for_mass_balance_calculations_Quantifying_hydrothermal_alteration_in_volcanic_rocks 
@@ -2259,15 +2256,20 @@ ok ## Data Conversion
 - https://cmscontent.nrs.gov.bc.ca/geoscience/PublicationCatalogue/GeoFile/BCGS_GF2025-24.pdf -> Pan-Canadian mineral prospectivity workshop abstracts 2025
 - https://link.springer.com/article/10.1007/s11053-024-10369-7 -> Predictive Modeling of Canadian Carbonatite-Hosted REE +/− Nb Deposits
 - https://www.sciencedirect.com/science/article/pii/S0098300422001406 -> Preliminary geological mapping with convolution neural network using statistical data augmentation on a 3D model
-- https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
 - https://www.researchgate.net/publication/220164155_Support_vector_machine_A_tool_for_mapping_mineral_prospectivity
-- https://www.researchgate.net/publication/348111963_Support_Vector_Machine_and_Artificial_Neural_Network_Modelling_of_Orogenic_Gold_Prospectivity_Mapping_in_the_Swayze_greenstone_belt_Ontario_Canada
  - PhD thesis -> https://zone.biblio.laurentian.ca/bitstream/10219/3736/1/PhD%20Thesis%20Maepa_20210603.%281%29.pdf -> Exploration targeting for gold deposits using spatial data analytics, machine learning and deep transfer learning in the Swayze and Matheson greenstone belts, Ontario, Canada
 - https://data.geology.gov.yk.ca/Reference/95936#InfoTab -> Updates to the Yukon Geological Survey’s mineral potential mapping methodology
 ##### British Columbia
 - http://www.geosciencebc.com/i/pdf/SummaryofActivities2015/SoA2015_Granek.pdf -> Advanced Geoscience Targeting via Focused Machine Learning Applied to the QUEST Project Dataset, British Columbia
+- https://www.researchgate.net/publication/352046255_Study_of_the_Influence_of_Non-Deposit_Locations_in_Data-Driven_Mineral_Prospectivity_Mapping_A_Case_Study_on_the_Iskut_Project_in_Northwestern_British_Columbia_Canada
+- https://www.researchgate.net/publication/343511849_Identification_of_intrusive_lithologies_in_volcanic_terrains_in_British_Columbia_by_machine_learning_using_Random_Forests_the_value_of_using_a_soft_classifier
+- https://www.researchgate.net/publication/
 ##### Nunavut
 - https://link.springer.com/article/10.1007/s11053-026-10699-8#Sec3 -> Bridging the Scale Gap: Regional Refinement of National Mineral Prospectivity Models for Nunavut, Canada 
+##### Ontario
+- https://www.researchgate.net/publication/369048379_Mineral_Prospectivity_Mapping_Using_Machine_Learning_Techniques_for_Gold_Exploration_in_the_Larder_Lake_Area_Ontario_Canada
+- https://www.researchgate.net/publication/348111963_Support_Vector_Machine_and_Artificial_Neural_Network_Modelling_of_Orogenic_Gold_Prospectivity_Mapping_in_the_Swayze_greenstone_belt_Ontario_Canada
+ 
 
 #### Central Africa
 - https://www.researchgate.net/publication/323452014_The_Utility_of_Machine_Learning_in_Identification_of_Key_Geophysical_and_Geochemical_Datasets_A_Case_Study_in_Lithological_Mapping_in_the_Central_African_Copper_Belt
