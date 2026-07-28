@@ -561,7 +561,7 @@ Learning in Geodynamics](https://github.com/GiteonCaulfied/COMP4560_stokes_ml_pr
 * [LAGDAL](https://github.com/JustinGOSSES/LAGDAL) -> LLM Matching geology map information to location experiments
 * [Large Language Model for Geoscience](https://github.com/davendw49/k2)
 	* [Learning Foundation Language Models for Geoscience Knowledge Understanding and Utilization paper](https://arxiv.org/pdf/2306.05064.pdf)
-* [MetalGPT](https://huggingface.co/nn-tech/MetalGPT-1) ->  built on Qwen/Qwen3-32B and incorporates both continual pre-training and supervised fine-tuning on domain-specific data from mining and metallurgy 
+* [MetalGPT](https://huggingface.co/nn-tech/MetalGPT-1) ->  built on Qwen/Qwen3-32B and incorporates both continual pre-training and supervised fine-tuning on domain-specific data from mining and metallurgy (Norilsk)
   * [4-bit Quant](https://huggingface.co/nn-tech/MetalGPT-1-AWQ)
 * [OmniGeo](https://arxiv.org/abs/2503.16326) -> Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence
 * [GeoAssist](https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature) ->  
