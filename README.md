@@ -69,6 +69,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [CoreJepa](https://github.com/galilai-group/lejepa) - LeJea for Remote Sensing
   * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
 * [Perceiver](https://github.com/RichardScottOZ/deepmind-research/tree/master/perceiver)
+  * [perceiver pytorch](https://github.com/RichardScottOZ/perceiver-pytorch)
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
