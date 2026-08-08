@@ -68,6 +68,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [GeoStat Framework](https://github.com/GeoStat-Framework) -> Group of repositories with kriging and other
 * [CoreJepa](https://github.com/galilai-group/lejepa) - LeJea for Remote Sensing
   * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
+* [Perceiver](https://github.com/RichardScottOZ/deepmind-research/tree/master/perceiver)
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
