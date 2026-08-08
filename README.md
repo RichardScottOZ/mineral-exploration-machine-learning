@@ -70,6 +70,10 @@ Suggestions welcome: open a discussion, issue or pull request.
   * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
 * [Perceiver](https://github.com/RichardScottOZ/deepmind-research/tree/master/perceiver)
   * [perceiver pytorch](https://github.com/RichardScottOZ/perceiver-pytorch)
+  
+* [Senseiver](https://github.com/je-santos/DOI4Senseiver/tree/v1.0.0) -> Development of the Senseiver for efficient field reconstruction from sparse observations
+  * [paper](https://www.nature.com/articles/s42256-023-00746-x)
+  * [Zenodo](https://zenodo.org/records/8364148)
 
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
