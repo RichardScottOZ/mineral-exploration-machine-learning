@@ -3223,6 +3223,7 @@ The below are a collection of works from when I was doing a review
 - https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2391952 -> Deep learning for spatiotemporal forecasting in Earth system science: a review
 - https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/widm.1554 -> From 3D point-cloud data to explainable geometric deep learning: State-of-the-art and future challenges
 - https://arxiv.org/pdf/2410.16602 -> Foundation Models for Remote Sensing and Earth Observation: A Survey
+- https://arxiv.org/abs/2312.06647 -> Massively Multimodal Masked Modelling
 - https://www.researchgate.net/publication/383460665_Poly2Vec_Polymorphic_Encoding_of_Geospatial_Objects_for_Spatial_Reasoning_with_Deep_Neural_Networks
 - https://www.nature.com/articles/s41467-021-24025-8 -> Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data
 -https://arxiv.org/html/2401.10825v3 -> Recent Advances in Named Entity Recognition: A Comprehensive Survey and Comparative Study
