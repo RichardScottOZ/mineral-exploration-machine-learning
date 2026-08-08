@@ -330,6 +330,7 @@ Suggestions welcome: open a discussion, issue or pull request.
 	* [paper](https://arxiv.org/pdf/2408.12396)
 * [Seismic Foundation Model](https://github.com/shenghanlin/SeismicFoundationModel) -> "a new generation deep learning model in geophysics"
 * [Geological Everything Model](https://arxiv.org/abs/2507.00419) -> Geological Everything Model 3D: A Physics-informed Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding
+  * [Paper Implementation Repo](https://github.com/RichardScottOZ/GEM-Paper)
 * [SeismicFoundationModel-01-2025](https://github.com/julaborde/SeismicFoundationModel-01-2025) -> development of a multimodal AI model combining seismic waveforms and geophysical images, based on two foundation models: Seismic Foundation Model (SFM) and SeisLM
 * [NCS-Model](https://github.com/NorskRegnesentral/NCS_models) -> The NCS-Model: A seismic foundation model trained on the Norwegian repository of public data
   * [model](https://huggingface.co/NorskRegnesentralSTI)
