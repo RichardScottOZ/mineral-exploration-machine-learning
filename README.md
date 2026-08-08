@@ -638,6 +638,8 @@ bands in a multispectral image
   * [Zenodo](https://zenodo.org/records/11004358)
     * [paper] -> a global-scale image–text dataset empowering vision–language geo-foundation models
  * [Clay](https://github.com/Clay-foundation/model) -> An open source AI model and interface for Earth
+ * [CROMA](https://github.com/antofuller/CROMA) -> Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders
+  * [PAPER](https://arxiv.org/abs/2311.00566)
  * [GeoDINO]A Vision Foundation Model for Earth Observation Leveraging DINO Architecture and Sentinel-2 Multi-Spectral Data
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
   * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
