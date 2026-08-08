@@ -69,12 +69,11 @@ Suggestions welcome: open a discussion, issue or pull request.
 * [CoreJepa](https://github.com/galilai-group/lejepa) - LeJea for Remote Sensing
   * [HuggingFace](https://huggingface.co/gajeshladhar/core-jepa)
 * [Perceiver](https://github.com/RichardScottOZ/deepmind-research/tree/master/perceiver)
-  * [perceiver pytorch](https://github.com/RichardScottOZ/perceiver-pytorch)
-  
+  * [perceiver pytorch](https://github.com/RichardScottOZ/perceiver-pytorch) 
 * [Senseiver](https://github.com/je-santos/DOI4Senseiver/tree/v1.0.0) -> Development of the Senseiver for efficient field reconstruction from sparse observations
   * [paper](https://www.nature.com/articles/s42256-023-00746-x)
-  * [Zenodo](https://zenodo.org/records/8364148)
-
+    * [Zenodo](https://zenodo.org/records/8364148)
+    *
 ## R
 * [CAST](https://github.com/RichardScottOZ/CAST) -> Caret Applications for Spatio-Temporal models
 * [geodl](https://github.com/maxwell-geospatial/geodl) -> semantic segmentation of geospatial data using convolutional neural network-based deep learning
@@ -2847,6 +2846,9 @@ Improved DenseUNet
 - https://www.researchgate.net/publication/359089763_Visual_analytics_and_information_extraction_of_geological_content_for_text-based_mineral_exploration_reports
 - https://www.researchgate.net/publication/354754114_What_is_this_article_about_Generative_summarization_with_the_BERT_model_in_the_geosciences_domain
 - https://www.slideshare.net/phcleverley/where-text-analytics-meets-geoscience -> Where text analytics meets geoscience
+
+#### Agents
+- https://arxiv.org/abs/2412.17339 -> MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models
 
 ### Petrography
 - https://www.researchgate.net/publication/335226326_Digital_petrography_Mineralogy_and_porosity_identification_using_machine_learning_algorithms_in_petrographic_thin_section_images
