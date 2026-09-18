@@ -2223,6 +2223,7 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
 - https://www.researchgate.net/publication/353058758_Using_Machine_Learning_to_Map_Western_Australian_Landscapes_for_Mineral_Exploration 
 - https://www.researchgate.net/publication/264535019_Weights-of-evidence_and_logistic_regression_modeling_of_magmatic_nickel_sulfide_prospectivity_in_the_Yilgarn_Craton_Western_Australia
+- MineTRACE: An Evidence-Grounded Interactive Reasoning System for Mineral Prospectivity -> https://arxiv.org/abs/2609.02060v1
 #### Argentina
 - https://www.researchgate.net/publication/263542691_ANALYSIS_OF_SPATIAL_DISTRIBUTION_OF_EPITHERMAL_GOLD_DEPOSITS_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE
 - https://www.researchgate.net/publication/263542560_EVIDENTIAL_BELIEF_MAPPING_OF_EPITHERMAL_GOLD_POTENTIAL_IN_THE_DESEADO_MASSIF_SANTA_CRUZ_PROVINCE_ARGENTINA
