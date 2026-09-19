@@ -2496,6 +2496,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11429067 - > RCACNet: A Dee
 - https://www.gsi.ie/en-ie/programmes-and-projects/tellus/activities/tellus-product-development/mineral-prospectivity/Pages/default.aspx - > NW Midlands Mineral Prospectivity Mapping
 #### Kazakhstan
 - https://www.mdpi.com/2075-163X/15/8/805 -> Integrated Prospectivity Mapping for Copper Mineralization in the Koldar Massif, Kazakhstan
+- https://arxiv.org/abs/2609.09246v1 -> Bayesian deep learning integration of geophysical and drilling data for 3D prediction of copper mineralization and drill targeting: a case study from the Kogodai prospect, Rudny Altai
 #### Nigeria
 - https://www.researchgate.net/publication/390597293_Assessment_of_Mineral_Deposits_in_Part_of_North_Senatorial_Zone_Adamawa_State_Nigeria_Using_Remote_Sensing_Geographic_Information_Systems_and_Machine_Learning
 - https://www.researchgate.net/publication/399585495_Hybrid_Machine_Learning_and_Geophysical_Inversion_Framework_for_High-Resolution_Mapping_of_Critical_Minerals_in_Precambrian_Terrains_of_Nigeria
