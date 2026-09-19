@@ -644,6 +644,7 @@ bands in a multispectral image
  * [IBM-NASA-GEOSPATIAL Prithvi](https://huggingface.co/ibm-nasa-geospatial)
   * [Image segmentation by foundation model finetuning](https://github.com/NASA-IMPACT/hls-foundation-os) -> For Prithvi
  * [AM-RADIO: Agglomerative Vision Foundation Model](https://github.com/NVlabs/RADIO)
+ * [nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model](https://huggingface.co/nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model) -> nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model
  	* [paper](https://arxiv.org/abs/2312.06709) ->  - Reduce All Domains Into One
  * [RemoteCLIP](https://github.com/ChenDelong1999/RemoteCLIP) -> A Vision Language Foundation Model for Remote Sensing
  * [SpectralGPT](https://github.com/danfenghong/IEEE_TPAMI_SpectralGPT)
