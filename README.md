@@ -2329,6 +2329,7 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/352893038_Detection_of_geochemical_anomalies_related_to_mineralization_using_the_GANomaly_network
 - https://www.researchgate.net/publication/357685352_Determination_of_Predictive_Variables_in_Mineral_Prospectivity_Mapping_Using_Supervised_and_Unsupervised_Methods
 - https://www.sciencedirect.com/science/article/abs/pii/S0375674221001370 -> Distinguishing IOCG and IOA deposits via random forest algorithm based on magnetite composition
+- https://link.springer.com/article/10.1007/s11053-026-10764-2 -> DM-GAE: A Dual-Masked Graph Autoencoder for Mineral Prospectivity Mapping Under Label-Limited Conditions [UNSEE]
 - https://www.researchgate.net/publication/340401748_Effects_of_Random_Negative_Training_Samples_on_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/360333702_Ensemble_learning_models_with_a_Bayesian_optimization_algorithm_for_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/267927676_Evaluation_of_uncertainty_in_mineral_prospectivity_mapping_due_to_missing_evidence_A_case_study_with_skarn-type_Fe_deposits_in_Southwestern_Fujian_Province_China
