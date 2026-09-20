@@ -2219,6 +2219,7 @@ ok ## Data Conversion
 - https://meg.resourcesregulator.nsw.gov.au/sites/default/files/2024-05/EITH%202024%20Muller_Exploration_in_the_House_keynote.pdf -> Critical minerals – prospectivity mapping using generative AI
 - https://www.tandfonline.com/doi/pdf/10.1080/22020586.2019.12073159?needAccess=true - > Integrating a Minerals Systems Approach with Machine Learning: A Case Study of ‘Modern Minerals Exploration’ in the Mt Woods Inlier – northern Gawler Craton, South Australia
 - https://www.researchgate.net/publication/365697240_Mineral_potential_modelling_of_orogenic_gold_systems_in_the_Granites-Tanami_Orogen_Northern_Territory_Australia_A_multi-technique_approach
+- https://link.springer.com/article/10.1007/s10596-026-10487-6 -> Sandstone-hosted uranium mineral prospectivity map based on Resnet 50 self-distillation
 - https://publications.csiro.au/publications/publication/PIcsiro:EP2022-0483 -> Signatures of Key Mineral Systems in the Eastern Mount Isa Province, Queensland: New Perspectives from Data Analytics
 - https://link.springer.com/article/10.1007/s11004-021-09989-z -> Stochastic Modelling of Mineral Exploration Targets
 - https://www.researchgate.net/publication/276171631_Supervised_Neural_Network_Targeting_and_Classification_Analysis_of_Airborne_EM_Magnetic_and_Gamma-ray_Spectrometry_Data_for_Mineral_Exploration
