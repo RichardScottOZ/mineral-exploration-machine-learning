@@ -2791,6 +2791,7 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://ieeexplore.ieee.org/abstract/document/10955415- -> 3DInception-U: Lightweight Network for 3-D Magnetotelluric Inversion Based on Inception Module [UNSEEN]
 - https://www.researchgate.net/publication/392579623_Comparison_of_Deep_Learning_Models_for_1D_Magnetotelluric_Inversion -> Comparison of Deep Learning Models for 1D Magnetotelluric Inversion
 - https://ieeexplore.ieee.org/abstract/document/10530937 -> A Magnetotelluric Data Denoising Method Based on Lightweight Ensemble Learning [UNSEEN]
+- https://arxiv.org/abs/2609.19516 -> Continental-scale probabilistic resistivity imaging of Australia using deep learning: Implications for geology, groundwater, and critical minerals
 - https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggae166/7674890 -> Deep basin conductor characterization using machine learning-assisted magnetotelluric Bayesian inversion in the SW Barents Sea
 - https://www.sciencedirect.com/science/article/abs/pii/S0098300426000580 -> Efficient multi-GPU distributed training strategies for neural operator networks: Application to magnetotelluric forward modeling [UNSEEN]
 - http://en.dzkx.org/article/doi/10.6038/cjg2024R0580 -> Fast inversion method of apparent resistivity based on deep learning
@@ -2801,8 +2802,8 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://www.researchgate.net/publication/355568465_Stochastic_inversion_of_magnetotelluric_data_using_deep_reinforcement_learning
 - https://www.researchgate.net/publication/354360079_Two-dimensional_deep_learning_inversion_of_magnetotelluric_sounding_data
 - https://ieeexplore.ieee.org/abstract/document/10530923 -> Three Dimensional Magnetotelluric Forward Modeling Through Deep Learning
-- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11408805 -> 2-D Magnetotelluric Inversion Based on Improved DenseUNe
-Improved DenseUNet
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11408805 -> 2-D Magnetotelluric Inversion Based on Improved DenseUNet
+- https://arxiv.org/abs/2609.19516
 #### Passive Seismic
 - https://nature.com/articles/s41467-020-17841-x -> Clustering earthquake signals and background noises in continuous seismic data with unsupervised deep learning
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099053 -> Eikonal Tomography With Physics-Informed Neural Networks: Rayleigh Wave Phase Velocity in the Northeastern Margin of the Tibetan Plateau
