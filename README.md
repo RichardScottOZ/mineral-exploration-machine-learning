@@ -2370,6 +2370,7 @@ ok ## Data Conversion
 - https://link.springer.com/article/10.1007/s11053-024-10386-6 -> Mineral Prospectivity Mapping Based on Spatial Feature Classification with Geological Map Knowledge Graph Embedding: Case Study of Gold Ore Prediction at Wulonggou, Qinghai Provinc
 - https://www.researchgate.net/publication/235443301_Mineral_potential_mapping_in_a_frontier_region
 - https://www.researchgate.net/publication/235443302_Mineral_potential_mapping_in_frontier_regions_A_Mongolian_case_study
+- https://www.mdpi.com/2075-163X/16/9/949 -> Mineral Prospectivity Mapping of Weathering-Crust-Type Ilmenite Placer Deposits Using Nested Spatial Cross-Validation and Explainable Ensemble Learning: A Case Study of the Wuding–Luquan Area, Yunnan, China 
 - https://www.sciencedirect.com/science/article/pii/S0169136825004263 -> Mineral prospectivity mapping for multi-source geoscience data: A novel unsupervised deep learning method
 - https://www.researchgate.net/publication/369104190_Mineral_Prospectivity_Mapping_Using_Attention-based_Convolutional_Neural_Network 
 - https://www.nature.com/articles/s41598-024-73357-0 -> Mineral prospectivity prediction based on convolutional neural network and ensemble learning
