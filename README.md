@@ -2507,6 +2507,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11429067 - > RCACNet: A Dee
 - https://www.mdpi.com/2075-163X/9/2/131/htm - Prospectivity Mapping of Mineral Deposits in Northern Norway Using Radial Basis Function Neural Networks
 #### Pakistan
 - https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.13031 _> Advanced Mineral Deposit Mapping via Deep Learning and SVM Integration With Remote Sensing Imaging Data
+- https://www.sciencedirect.com/science/article/pii/S0169136826001939 - The high-efficiency data integration approach for Pakistan mineral resources using multimodal large language models
 #### Phillipines
 - https://www.researchgate.net/publication/359632307_A_Geologically_Constrained_Variational_Autoencoder_for_Mineral_Prospectivity_Mapping
 - https://www.researchgate.net/publication/263174923_Application_of_Mineral_Exploration_Models_and_GIS_to_Generate_Mineral_Potential_Maps_as_Input_for_Optimum_Land-Use_Planning_in_the_Philippines
