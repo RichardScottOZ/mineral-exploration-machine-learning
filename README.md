@@ -158,6 +158,8 @@ Suggestions welcome: open a discussion, issue or pull request.
 # India
 * [MPM-Gold](https://github.com/Venkatasaimudili/MPM_Gold) -> gold mineral prospectivity mapping using multiple machine learning models (FKELM and WGAN others are baselines)
   * [paper](https://www.mdpi.com/2075-163X/15/11/1125) -> A Hybrid Framework for Detecting Gold Mineralization Zones in G.R. Halli, Western Dharwar Craton, Karnataka, India 
+* [mineral_mapping](https://github.com/sharonchrista/mineral_mapping) -> Mineral Prospectivity Mapping — Deep Multi-Modal Fusion
+  * [paper](https://link.springer.com/article/10.1007/s11053-026-10771-3) -> Self-Supervised Multi-modal Fusion for Mineral Prospectivity Mapping Using Vision Transformers Integrating Multi-scale Geological Maps with Aeromagnetic Data [UNSEEN]
 
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
