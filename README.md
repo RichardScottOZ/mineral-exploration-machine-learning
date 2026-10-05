@@ -260,6 +260,9 @@ Suggestions welcome: open a discussion, issue or pull request.
     * [data](https://rodare.hzdr.de/record/4582)
 
 ## Drilling
+* [drillbench]() - repository stub - not yet existing - could be yet another project with no info until some pulication somewhere
+  * [paper](https://arxiv.org/abs/2610.01204) -> Autoregressive Drillhole Modelling Under Distribution Shift
+* https://arxiv.org/abs/2610.01204
 * [Heterogenous Drilling](https://geoscienceaustralia.github.io/uncover-ml/projectreport.html#uncoverml-project-report-nicta) - Nicta/Data61 project report for looking at modelling using drillholes that don't go far enough
 * [corel](https://github.com/RichardScottOZ/corel) -> smart computer vision model that identifies facies and performs rock typing on core images
 * [baselode](https://github.com/darkmine-oss/baselode) -> processing, managing, and visualizing geological and mining data
