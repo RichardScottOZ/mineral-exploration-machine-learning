@@ -2820,6 +2820,8 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099053 -> Eikonal Tomography With Physics-Informed Neural Networks: Rayleigh Wave Phase Velocity in the Northeastern Margin of the Tibetan Plateau
 - https://arxiv.org/abs/2403.15095 -> End-to-End Mineral Exploration with Artificial Intelligence and Ambient Noise Tomography
 - https://www.nature.com/articles/s41598-019-50381-z -> High-resolution seismic tomography of Long Beach, CA using machine learning
+#### Radiometrics
+- https://www.nature.com/articles/s41598-026-76122-7 -> Machine learning-based thorium normalization in airborne gamma-ray spectrometry for enhanced critical mineral exploration
 #### Seismic
 - https://www.sciencedirect.com/science/article/pii/S0040195124002166 -> Reprocessing and interpretation of legacy seismic data using machine learning from the Granada Basin, Spain
 - https://ojs.uni-miskolc.hu/index.php/geosciences/article/view/3313 -> EDGE DETECTION OF TOMOGRAPHIC IMAGES USING TRADITIONAL AND DEEP LEARNING TOOLS
