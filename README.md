@@ -2725,7 +2725,7 @@ https://www.mdpi.com/2076-3263/16/3/118 -> Neural Network Inversion Algorithm fo
 - https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
 - https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
-- https://link.springer.com/article/10.1007/s12145-026-02256-x -> Machine learning-based discrimination of granite tectonic settings: Integrating global geochemical datasets, feature engineering and SHAP interpretation
+- https://link.springer.com/article/10.1007/s12145-026-02256-x -> Machine learning-based discrimination of granite tectonic settings: Integrating global geochemical datasets, feature engineering and SHAP interpretation [UNSEEN]
 - https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G52466.1/648458/Prediction-of-CO2-content-in-mid-ocean-ridge -> Prediction of CO2 content in mid-ocean ridge basalts via a machine learning approach
 - https://sbia.org.br/wp-content/uploads/2025/12/pdf/CBIC_2025_paper1191679.pdf -> Automated Mapping of the Boundary Between Continental and Oceanic Crusts (COB/COT) Using Convolutional Neural Networks
 
@@ -2863,6 +2863,7 @@ https://www.researchgate.net/publication/389575997_Pole_Transformation_of_Magnet
 - https://www.researchgate.net/publication/365929623_Named_Entity_Annotation_Schema_for_Geological_Literature_Mining_in_the_Domain_of_Porphyry_Copper_Deposits
 - https://www.researchgate.net/publication/329621358_Ontology-Based_Enhanced_Word_Embedding_for_Automated_Information_Extraction_from_Geoscience_Reports
 - https://www.researchgate.net/publication/379808469_Ontology-driven_relational_data_mapping_for_constructing_a_knowledge_graph_of_porphyry_copper_deposits -> Ontology-driven relational data mapping for constructing a knowledge graph of porphyry copper deposits
+- Ontology-Enriched GraphRAG: A Case Study in Portuguese Geoscience Question Answering -> https://sol.sbc.org.br/index.php/kdmile/article/view/44986 [UNSEEN]
 - https://www.researchgate.net/publication/327709479_Prospecting_Information_Extraction_by_Text_Mining_Based_on_Convolutional_Neural_Networks-A_Case_Study_of_the_Lala_Copper_Deposit_China
 - https://ieeexplore.ieee.org/document/8711400 -> Research and Application on Geoscience Literature Knowledge Discovery Technology
 - https://www.researchgate.net/publication/332328315_Text_Mining_to_Facilitate_Domain_Knowledge_Discovery
