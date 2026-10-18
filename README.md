@@ -2725,8 +2725,10 @@ https://www.mdpi.com/2076-3263/16/3/118 -> Neural Network Inversion Algorithm fo
 - https://www.sciencedirect.com/science/article/abs/pii/S0009254125003766 -> Compositional evolution of the Archean subaerial crust revisited using machine learning constraints
 - https://www.researchgate.net/publication/333182666_Decoding_Earth's_plate_tectonic_history_using_sparse_geochemical_data
 - https://www.researchgate.net/publication/376519740_Machine_learning_and_tectonic_setting_determination_Bridging_the_gap_between_Earth_scientists_and_data_scientists
+- https://link.springer.com/article/10.1007/s12145-026-02256-x -> Machine learning-based discrimination of granite tectonic settings: Integrating global geochemical datasets, feature engineering and SHAP interpretation
 - https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G52466.1/648458/Prediction-of-CO2-content-in-mid-ocean-ridge -> Prediction of CO2 content in mid-ocean ridge basalts via a machine learning approach
 - https://sbia.org.br/wp-content/uploads/2025/12/pdf/CBIC_2025_paper1191679.pdf -> Automated Mapping of the Boundary Between Continental and Oceanic Crusts (COB/COT) Using Convolutional Neural Networks
+
 
 ### Geophysics
 #### Foundation
