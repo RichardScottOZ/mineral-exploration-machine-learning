@@ -156,10 +156,10 @@ Suggestions welcome: open a discussion, issue or pull request.
  	* [paper](https://www.researchgate.net/publication/350817877_Mineral_Prospectivity_Prediction_via_Convolutional_Neural_Networks_Based_on_Geological_Big_Data)
 
 # India
-* [MPM-Gold](https://github.com/Venkatasaimudili/MPM_Gold) -> gold mineral prospectivity mapping using multiple machine learning models (FKELM and WGAN others are baselines)
-  * [paper](https://www.mdpi.com/2075-163X/15/11/1125) -> A Hybrid Framework for Detecting Gold Mineralization Zones in G.R. Halli, Western Dharwar Craton, Karnataka, India 
 * [mineral_mapping](https://github.com/sharonchrista/mineral_mapping) -> Mineral Prospectivity Mapping — Deep Multi-Modal Fusion
   * [paper](https://link.springer.com/article/10.1007/s11053-026-10771-3) -> Self-Supervised Multi-modal Fusion for Mineral Prospectivity Mapping Using Vision Transformers Integrating Multi-scale Geological Maps with Aeromagnetic Data [UNSEEN]
+* [MPM-Gold](https://github.com/Venkatasaimudili/MPM_Gold) -> gold mineral prospectivity mapping using multiple machine learning models (FKELM and WGAN others are baselines)
+  * [paper](https://www.mdpi.com/2075-163X/15/11/1125) -> A Hybrid Framework for Detecting Gold Mineralization Zones in G.R. Halli, Western Dharwar Craton, Karnataka, India 
 
 ## Norway
 * [A machine learning–based approach to regional-scale mapping of sensitive glaciomarine clay combining airborne electromagnetics and geotechnical data](https://github.com/emerald-geomodelling/publication-NSG2021-Christensen-QuickClayML)
@@ -2194,6 +2194,7 @@ ok ## Data Conversion
   - [conference](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf)
   - [juliaCon](https://slim.gatech.edu/Publications/Public/Conferences/JuliaCon/2021/witte2021JULIACONmedlj/witte2021JULIACONmedlj.pdf)
 - https://www.researchgate.net/publication/220164488_Geocomputation_of_mineral_exploration_targets
+- https://arxiv.org/abs/2609.34398 -> GeoCFM: Positive-Only Conditional Flow Matching for Mineral Occurrence Sampling
 - https://www.researchgate.net/publication/272494576_Geological_knowledge_discovery_and_minerals_targeting_from_regolith_using_a_machine_learning_approach
 - https://www.researchgate.net/publication/280013864_Geometric_average_of_spatial_evidence_data_layers_A_GIS-based_multi-criteria_decision-making_approach_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
@@ -2213,6 +2214,8 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/235443294_The_effect_of_map-scale_on_geological_complexity
 - https://www.researchgate.net/publication/235443305_The_effect_of_map_scale_on_geological_complexity_for_computer-aided_exploration_targeting
 - https://link.springer.com/article/10.1007/s11053-024-10322-8 -> Workflow-Induced Uncertainty in Data-Driven Mineral Prospectivity Mapping
+
+
 
 
 ### Mineral Prospectivity
