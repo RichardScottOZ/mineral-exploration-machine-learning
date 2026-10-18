@@ -2196,6 +2196,7 @@ ok ## Data Conversion
 - https://www.researchgate.net/publication/220164488_Geocomputation_of_mineral_exploration_targets
 - https://arxiv.org/abs/2609.34398 -> GeoCFM: Positive-Only Conditional Flow Matching for Mineral Occurrence Sampling
 - https://www.researchgate.net/publication/272494576_Geological_knowledge_discovery_and_minerals_targeting_from_regolith_using_a_machine_learning_approach
+- https://www.mdpi.com/2075-163X/16/10/1066 -> Geological Reliability in Deep Learning Mineral Prospectivity Mapping: A Review 
 - https://www.researchgate.net/publication/280013864_Geometric_average_of_spatial_evidence_data_layers_A_GIS-based_multi-criteria_decision-making_approach_to_mineral_prospectivity_mapping
 - https://www.researchgate.net/publication/355467413_Harnessing_the_Power_of_Artificial_Intelligence_and_Machine_Learning_in_Mineral_Exploration-Opportunities_and_Cautionary_Notes
 - https://www.researchgate.net/publication/335819474_Importance_of_spatial_predictor_variable_selection_in_machine_learning_applications_-Moving_from_data_reproduction_to_spatial_prediction
