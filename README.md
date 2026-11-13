@@ -2641,6 +2641,7 @@ Data Based on Convolutional Neural Network -> https://ieeexplore.ieee.org/stamp/
 - https://link.springer.com/article/10.1007/s11004-024-10158-1 -> Spatial-Spectrum Two-Branch Model Based on a Superpixel Graph Convolutional Network and 1DCNN for Geochemical Anomaly Identification
 - https://www.researchgate.net/publication/334651800_Using_machine_learning_to_estimate_a_key_missing_geochemical_variable_in_mining_exploration_Application_of_the_Random_Forest_algorithm_to_multi-sensor_core_logging_data
 - https://arxiv.org/abs/2509.18152 -> WLFM: A Well-Logs Foundation Model for Multi-Task and Cross-Well Geological Interpretation
+- https://arxiv.org/abs/2607.22804 -> LithoFormer: A Robust Framework for Stratigraphic Inference via Transformers
 #### Apatite
 - https://www.researchgate.net/publication/377892369_Apatite_trace_element_composition_as_an_indicator_of_ore_deposit_types_A_machine_learning_approachApatite trace element composition as an indicator of ore deposit types: A machine learning approach
 - https://www.researchgate.net/publication/369729999_Visual_Interpretation_of_Machine_Learning_Genetical_Classification_of_Apatite_from_Various_Ore_Sources
