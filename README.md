@@ -1559,6 +1559,7 @@ ok ## Data Conversion
 * [Geosoft Grid to Raster](https://github.com/RichardScottOZ/Geosoft-Grid-to-Raster)
 * [Harmonica Geosoft Grid](https://github.com/fatiando/harmonica/pull/348) -> Pull request in progress on conversion to xarray
   * [Loop Geosoft Grid](https://github.com/Loop3D/geosoft_grid) -> old version
+* [PYGDB](https://github.com/jcapriot/pygdb) -> Geosoft gdb and grd conversion in python and rust
 
 * [AEM to seg-y](https://github.com/Neil-Symington/AEM2SEG-Y)
 * [ASEG GDF2](https://github.com/kinverarity1/aseg_gdf2)
