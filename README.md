@@ -822,6 +822,7 @@ A Joint Multi-Scale Graph Attention and Classify-Driven Autoencoder Framework fo
   * [Videos](https://www.youtube.com/c/SoftwareUnderground/videos)
     * [Transform 2022](https://www.youtube.com/playlist?list=PLgLft9vxdduDFkG9gtuNicNmb2YUzWqSQ)
   * [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience )[note Oil and Gas Biased]
+  * [Awesome Mineral Exploration](https://github.com/XploraHub/awesome-mineral-exploration) - Curated list of open-source software for mineral exploration
   * [Transform 2021 Hacking Examples](https://github.com/RichardScottOZ/Transform-2021)
   * [Segysak 2021 Tutorial](https://github.com/trhallam/segysak-t21-tutorial)
   * [T21 Seismic Notebook](https://github.com/stevejpurves/t21-seismic-notebook)
