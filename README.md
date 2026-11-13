@@ -1113,7 +1113,8 @@ https://pubs.usgs.gov/of/2005/1294/e/OF05-1294-E.pdf
  * [Geoscience Australia Geophysics thredds](https://dapds00.nci.org.au/thredds) -> OpendDAP and https access
  * [MORPH gdb](https://github.com/Neil-Symington/MORPH_gdb) -> Officer Musgrave drilling data
 ### CSIRO
-* [CSIRO Data Access Portal](https://data.csiro.au/)
+* [Data Access Portal](https://data.csiro.au/)
+* [XT Exploration Toolkit](https://data.exploration.tools/)
  * [Regolith Depth](https://data.csiro.au/collection/csiro:11393)
  * [TWI](https://data.csiro.au/collection/csiro:5588?_st=browse&_str=1&_si=1&browseType=kw&browseValue=Topographic%20Wetness%20Index) -> Topographic Wetness Index
 * [ASTER Geoscience Maps](https://confluence.csiro.au/public/SpecSens/aster-geoscience-maps) -> Website
