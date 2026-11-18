@@ -1831,6 +1831,8 @@ ok ## Data Conversion
 # Datasets
 
 ## World
+### Deposits
+[Open geodataset of uranium mines and deposits](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
 ### Drilling
 #### Ocean
 * [Deep Ocean](https://www.ncei.noaa.gov/products/international-ocean-drilling-archive)
